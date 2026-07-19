@@ -500,7 +500,11 @@
    "abstract": "ABSTRACT Firms in decentralized markets often trade using quantity contracts, agreements specifying quantity prior to the point of sale. These contracts are valuable because they provide quantity assurance, as trading frictions could prevent a buyer and seller from matching in the spot market. However, quantity contracts prevent sellers from optimally allocating production across buyers after market conditions realize. Using proprietary invoice data, we estimate a model of quantity contracts in the pulp and paper industry. The average value of a quantity contract is 10% of profits, but would be 55% larger if sellers could optimally allocate production after market conditions realize.",
    "published": "2026-07-13T05:47:35Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "纸浆摩擦：分散市场中数量合同的价值",
+   "abstract_zh": "研究纸浆纸张行业中的数量合同定价与配置问题。通过发票数据估计结构模型，发现数量合同价值占利润10%，但若卖家事后最优配置则价值可增至55%。",
+   "ai_relevance": "low",
+   "ai_reason": "属于产业组织学研究，与赌博、破产、财务困境或因果推断方法论均无直接关联。"
   },
   {
    "id": "10.1016/j.jpubeco.2026.105709",
@@ -1054,7 +1058,11 @@
    "abstract": "ABSTRACT A coarse certification provides simple but incomplete information. Its rationale is to help consumers trade off dimensions of quality that are complex and lack salience. In imperfectly competitive markets, it may induce excess bunching at the certification requirement, crowd out quality, and facilitate price discrimination. Who will ultimately benefit from a coarse certification thus depends on the degree of market power firms can exercise as well as on consumers' sophistication in responding to such information. I use a structural econometric model of the U.S. appliance market to illustrate these insights using the ENERGY STAR certification as a case study.",
    "published": "2026-06-29T15:27:13Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "粗粒度认证的发生率：能源之星计划的证据",
+   "abstract_zh": "研究能源之星认证作为消费者信息工具对电器市场的影响。用结构计量模型分析认证如何影响企业品质选择与价格歧视。",
+   "ai_relevance": "low",
+   "ai_reason": "消费者信息与市场竞争研究，与用户核心研究主题无关。"
   },
   {
    "id": "10.1016/j.jpubeco.2026.105697",
@@ -1181,7 +1189,11 @@
    "abstract": "ABSTRACT We study the optimal design of a monopoly platform that interacts with heterogeneous firms and consumers who face uncertainty about product values and prices. Consumers search randomly among firms recommended by the platform. The platform designs a menu of contracts tailored to different firm types and allocates consumer visits across these firms. We show that the optimal platform design creates a “superstar effect,” whereby high‐type firms capture a disproportionately large market share, and improves consumer welfare relative to the no‐design benchmark.",
    "published": "2026-06-26T03:46:55Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "消费者搜索、企业异质性与平台设计",
+   "abstract_zh": "研究垄断平台在消费者不确定性下的最优设计问题。模型表明平台最优设计会产生超级明星效应，高质量企业获得过量市场份额。",
+   "ai_relevance": "low",
+   "ai_reason": "平台设计的理论研究，无实证应用或因果推断方法论关联。"
   },
   {
    "id": "10.1111/1756-2171.70061",
@@ -1194,7 +1206,11 @@
    "abstract": "ABSTRACT We study oligopolistic competition by firms practicing second‐degree price discrimination. In line with the literature on demand estimation, our theory allows consumers' propensity to switch brands to vary with tastes for product quality. If low‐type consumers are sufficiently more (respectively, less) prone to switch brands than are high types, (i) quality provision is inefficiently low at the bottom (respectively, high at the top) of the product line, and (ii) informational rents are positive (respectively, negative) for high types and negative (respectively, positive) for low types. Interestingly, we show that an increase in the number of competing firms may decrease welfare (by tightening incentive constraints), so much so that monopoly may be welfare superior to oligopoly. Pure‐strategy equilibria fail to exist, resulting in price‐quality dispersion across firms, whenever the propensity to switch brands is sufficiently different across consumers types.",
    "published": "2026-06-26T03:44:08Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "寡头垄断中的非线性定价：品牌偏好如何塑造市场结果",
+   "abstract_zh": "研究实行二级价格歧视的寡头竞争。理论分析表明品牌转换意愿的异质性会导致产品线两端品质配置的扭曲。",
+   "ai_relevance": "low",
+   "ai_reason": "产业组织理论研究，无实证应用或政策相关性。"
   },
   {
    "id": "10.1111/1756-2171.70059",
@@ -1207,7 +1223,11 @@
    "abstract": "ABSTRACT This article provides a full characterization of the competitive effects of horizontal mergers in the Cournot model with heterogeneous firms and constant marginal costs. We show that price effects depend only on the smaller merging firm's market share and the number of firms but are independent of the distribution of market shares among other firms. Standard concentration measures, instead, are often misleading. We also provide simple—yet general—closed‐form solutions for merger effects based on pre‐merger parameters. Moreover, we extend the model to study the combination of output and input market power and relate our results to the Merger Guidelines.",
    "published": "2026-06-26T03:41:38Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "库诺竞争模型中合并的竞争效应",
+   "abstract_zh": "刻画库诺模型中水平合并的竞争效应。证明价格效应仅取决于较小合并企业的市场份额与企业数量，提供闭式解。",
+   "ai_relevance": "low",
+   "ai_reason": "产业组织理论研究，无实证应用。"
   },
   {
    "id": "10.1111/1756-2171.70060",
@@ -1220,7 +1240,11 @@
    "abstract": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
    "published": "2026-06-26T03:39:17Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "品牌搜索广告的市场效应",
+   "abstract_zh": "研究品牌关键词广告竞价对市场价格的影响。理论模型表明品牌广告提高获胜企业的边际成本，进而抬升市场价格。",
+   "ai_relevance": "low",
+   "ai_reason": "搜索广告的理论研究，与用户研究无关。"
   },
   {
    "id": "10.1111/1756-2171.70073",
@@ -1233,7 +1257,11 @@
    "abstract": "ABSTRACT This article examines the welfare consequences of a trade association in an exporting country on consumers in destination countries. We estimate a structural model of the Chilean Salmon exporting industry that endogenizes firms' pricing and export decisions. Our results show that the trade association has a positive effect on consumer utility and involves higher marginal costs of production, consistent with higher quality products. Reduced form analysis estimates price effects associated with trade association membership of 3 to 8 percent. Our counterfactual analysis reveals that eliminating the trade association would reduce consumer welfare by 1.7 billion USD in destination countries.",
    "published": "2026-06-26T03:30:41Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "贸易协会的福利效应：智利三文鱼出口行业案例",
+   "abstract_zh": "估计结构模型分析贸易协会对消费者福利的影响。实证发现贸易协会成员价格上升3-8%，但提高产品品质，反事实分析显示取消协会将减少目的地国消费者福利17亿美元。",
+   "ai_relevance": "low",
+   "ai_reason": "出口行业产业组织研究，与用户核心研究方向无关。"
   },
   {
    "id": "10.1086/742178",
@@ -1329,7 +1357,11 @@
    "abstract": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
    "published": "2026-06-24T05:37:57Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "是什么导致处方药支出的地理差异？医生迁移的证据",
+   "abstract_zh": "追踪医生迁移前后的处方行为变化，作为识别医生个人因素的自然实验。发现医生迁移后处方行为部分收敛至新地区平均水平，但医生特有因素解释60-70%的跨地区变异。",
+   "ai_relevance": "medium",
+   "ai_reason": "利用医生迁移作为自然实验进行因果推断，方法论上具有面板因果识别价值，尽管应用领域为医疗经济学。"
   },
   {
    "id": "10.1111/1756-2171.70070",
@@ -1342,7 +1374,11 @@
    "abstract": "ABSTRACT In the presence of adverse selection, mergers can increase welfare through a reduction in inefficient sorting. I characterize the sorting externality internalized between merging firms in a tractable discrete choice model. Mergers benefit consumers when the firms are small, willingness to pay is moderately increasing in cost, and consumer costs are skewed. Applying the model to the non‐group health insurance market, 13% of potential mergers would improve consumer surplus. In markets where the sorting distortion exceeds $5 per person, nearly one‐third of mergers improve consumer surplus, highlighting the importance of considering adverse selection in merger evaluation.",
    "published": "2026-06-24T05:36:28Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "逆向选择存在下的合并",
+   "abstract_zh": "研究逆向选择条件下合并的福利效应。应用于非团体健康保险市场，发现13%的潜在合并会改善消费者福利。",
+   "ai_relevance": "low",
+   "ai_reason": "健康保险市场合并的理论与实证研究，与用户研究主题无关。"
   },
   {
    "id": "10.1016/j.jpubeco.2026.105703",
@@ -1403,7 +1439,11 @@
    "abstract": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
    "published": "2026-06-23T06:49:55Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "可操纵观测指标下的价格歧视",
+   "abstract_zh": "研究消费者能控制或操纵的观测数据在价格歧视中的作用。分析隐性与透明定价下的市场分割与福利影响。",
+   "ai_relevance": "low",
+   "ai_reason": "价格歧视理论研究，与用户研究无关。"
   },
   {
    "id": "10.1111/1756-2171.70064",
@@ -1416,7 +1456,11 @@
    "abstract": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
    "published": "2026-06-23T06:46:48Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "更清洁但波动性更大的能源？煤炭电厂退役对批发电力市场竞争的影响",
+   "abstract_zh": "用反事实分析研究煤电退役、天然气代替的能源转变对市场竞争的影响。发现转变中天然气边际成本的可变性可能导致市场力量上升，但最终取决于投资企业的特征。",
+   "ai_relevance": "low",
+   "ai_reason": "能源经济学研究，与赌博政策或财务困境研究无关。"
   },
   {
    "id": "10.1093/restud/rdag063",
@@ -1501,7 +1545,11 @@
    "abstract": "ABSTRACT We adopt a dynamic mechanism design approach to study how a revenue‐maximizing seller should sell an indivisible object when a buyer with a private value can search for an outside option with continuous‐intensity choices. We find that lowering the buyer's search cost definitely reduces the seller's revenue when the buyer's search decision is binary, as in Armstrong and Zhou (2016). In contrast, with continuous search intensity, a counterintuitive effect may arise: lowering the buyer's search cost function can, under mild conditions, actually increase the seller's revenue.",
    "published": "2026-06-19T07:12:59Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "买方隐藏搜索与连续搜索强度：卖方最优机制与逆向效应",
+   "abstract_zh": "采用动态机制设计方法研究收入最大化的卖方应销售不可分割物品时的最优策略,当买方可进行连续搜索强度选择时。发现在连续搜索强度下,降低买方搜索成本可能反而增加卖方收益,与二元搜索决策形成对比。",
+   "ai_relevance": "low",
+   "ai_reason": "动态机制设计与搜索理论,不涉及赌博政策、财务困境或企业进入等研究相关主题"
   },
   {
    "id": "10.1111/1756-2171.70067",
@@ -1514,7 +1562,11 @@
    "abstract": "ABSTRACT We study a two‐period learning model where a sequentially rational regulator builds a reputation for strict enforcement and self‐interested firms test the regulator's enforcement propensity through their misconduct. In the transparent setting, where misconduct and enforcement are observable between the firms, the regulator's reputation concern endogenously creates positive or negative enforcement externalities between the firms. When the reputation concern is strong, the enforcement externalities are negative and dominate the information externalities, encouraging misconduct. Otherwise, both externalities are positive and deter misconduct. Although a strong reputation always benefits the regulator in the opaque setting, it often backfires in a transparent setting.",
    "published": "2026-06-19T07:11:06Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "同行学习、执法与声誉",
+   "abstract_zh": "研究监管机构与企业的两期博弈:理性监管者建立严格执法声誉,自利企业通过违规行为测试执法倾向。发现信息透明环境下,强烈的声誉关切反而可能导致负向执法外部性,鼓励更多违规行为。",
+   "ai_relevance": "low",
+   "ai_reason": "监管与声誉的理论模型,虽涉及公共政策但主要为机制设计理论而非实证因果推断"
   },
   {
    "id": "10.1016/j.jue.2026.103886",
@@ -1595,7 +1647,11 @@
    "relevance": "high",
    "topics": [
     "企业进入/空间竞争"
-   ]
+   ],
+   "title_zh": "抢先进入与技术扩散：美国汽车影院市场研究",
+   "abstract_zh": "研究动态进入博弈中的抢先进入现象。使用1945-1957年美国汽车影院市场数据，证实进入预防在中等规模市场最为重要；通过估计动态进入模型发现，抢先进入动机在中等规模市场可使早期进入概率提高40%。",
+   "ai_relevance": "high",
+   "ai_reason": "属于企业进入博弈与内生区位选择研究，符合用户在Chapter 1中追踪的企业进入/空间竞争方向。"
   },
   {
    "id": "10.1093/restud/rdag065",
@@ -1627,7 +1683,11 @@
    "abstract": "ABSTRACT Unobserved objective output quality complicates the analysis of firm productivity and demand because higher‐quality products entail higher costs but offer greater consumption benefits. Using a panel of firms with output quality data, we decompose quantity‐based productivity into fundamental productivity and the costs of quality, and separate the demand residual into fundamental demand and quality benefits. Fundamental demand accounts for most revenue variation, whereas quality's revenue‐enhancing benefits are largely offset by its costs. During the 2008 global financial crisis, shifts in quality diverged from changes in fundamental productivity and demand, highlighting the role of quality in assessing firm and industry performance.",
    "published": "2026-06-17T17:31:19Z",
    "relevance": "low",
-   "topics": []
+   "topics": [],
+   "title_zh": "产出质量、生产率与需求：来自中国钢铁行业的证据",
+   "abstract_zh": "利用包含产品质量数据的企业面板数据,分解产量基础生产率为基础生产率与质量成本,并区分需求中的基础需求与质量收益。发现基础需求解释大部分收入变动,质量收益主要被成本抵消;金融危机期间质量变化与生产率、需求变化产生偏离。",
+   "ai_relevance": "low",
+   "ai_reason": "产业经济学生产率研究,不涉及赌博政策、消费者信贷困境或企业进入竞争等直接相关主题"
   },
   {
    "id": "10.1093/qje/qjag032",
