@@ -1,0 +1,107 @@
+# 每日学术简报配置
+# 修改后无需改代码,下次运行自动生效
+
+crossref_mailto: "taoyisun28@gmail.com"   # CrossRef polite pool
+lookback_days: 45          # 期刊论文回溯天数
+news_lookback_days: 10     # 新闻/报告回溯天数
+max_items_per_feed: 30
+
+journals:
+  # Top-5
+  - name: "American Economic Review"
+    issn: "0002-8282"
+    tier: "Top-5"
+  - name: "Quarterly Journal of Economics"
+    issn: "0033-5533"
+    tier: "Top-5"
+  - name: "Journal of Political Economy"
+    issn: "0022-3808"
+    tier: "Top-5"
+  - name: "Econometrica"
+    issn: "0012-9682"
+    tier: "Top-5"
+  - name: "Review of Economic Studies"
+    issn: "0034-6527"
+    tier: "Top-5"
+  # Public economics / public finance
+  - name: "Journal of Public Economics"
+    issn: "0047-2727"
+    tier: "Public"
+  - name: "AEJ: Economic Policy"
+    issn: "1945-7731"
+    tier: "Public"
+  - name: "National Tax Journal"
+    issn: "0028-0283"
+    tier: "Public"
+  # Urban
+  - name: "Journal of Urban Economics"
+    issn: "0094-1190"
+    tier: "Urban"
+  - name: "Regional Science and Urban Economics"
+    issn: "0166-0462"
+    tier: "Urban"
+
+working_paper_feeds:
+  - name: "NBER"
+    url: "https://back.nber.org/rss/new.xml"
+
+news_feeds:
+  - name: "Yiqing Xu (Substack)"
+    url: "https://yiqingxu.substack.com/feed"
+    category: "newsletter"
+  - name: "Causal Inference (Scott Cunningham)"
+    url: "https://causalinf.substack.com/feed"
+    category: "newsletter"
+  - name: "Marginal Revolution"
+    url: "https://marginalrevolution.com/feed"
+    category: "econ"
+  - name: "The BASIS (哈佛赌博研究中心)"
+    url: "https://www.basisonline.org/feed"
+    category: "gambling"
+  - name: "Google News: 赌博监管"
+    url: "https://news.google.com/rss/search?q=gambling+regulation+OR+%22sports+betting%22+policy&hl=en-US&gl=US&ceid=US:en"
+    category: "gambling"
+  - name: "Google News: 破产政策"
+    url: "https://news.google.com/rss/search?q=%22consumer+bankruptcy%22+OR+%22bankruptcy+filings%22&hl=en-US&gl=US&ceid=US:en"
+    category: "bankruptcy"
+
+report_feeds:
+  - name: "CFPB"
+    url: "https://www.consumerfinance.gov/about-us/newsroom/feed/"
+  - name: "GAO Reports"
+    url: "https://www.gao.gov/rss/reports.xml"
+  - name: "US Courts"
+    url: "https://www.uscourts.gov/news/rss"
+  - name: "Google News: Brookings"
+    url: "https://news.google.com/rss/search?q=site:brookings.edu+bankruptcy+OR+gambling+OR+%22consumer+finance%22&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News: Urban Institute"
+    url: "https://news.google.com/rss/search?q=site:urban.org+debt+OR+bankruptcy+OR+%22financial+distress%22&hl=en-US&gl=US&ceid=US:en"
+
+# 关键词相关性打分(无 AI 时的兜底;有 AI 时作为初筛)
+relevance_topics:
+  gambling:
+    label: "赌博/博彩"
+    level: high
+    keywords: [gambling, casino, lottery, "sports betting", wager, "video poker",
+               "slot machine", "problem gambl", bettor, gaming machine]
+  bankruptcy:
+    label: "破产/家庭财务"
+    level: high
+    keywords: [bankruptcy, insolven, "consumer credit", "household debt", "credit card debt",
+               "financial distress", payday, foreclosure, delinquen, "debt relief", garnish]
+  public:
+    label: "公共经济"
+    level: medium
+    keywords: [taxation, "tax policy", "income tax", "sales tax", "public goods", "welfare program",
+               medicaid, "food stamp", SNAP, EITC, "transfer program", "social insurance", "sin tax"]
+  urban:
+    label: "城市/区域"
+    level: medium
+    keywords: [housing, urban, neighborhood, zoning, "local government", "property tax",
+               "spatial", commut, gentrif]
+  methods:
+    label: "因果推断方法"
+    level: medium
+    keywords: ["difference-in-differences", "difference in differences", "event study",
+               "synthetic control", "regression discontinuity", "staggered adoption",
+               "two-way fixed effects", "instrumental variable"]

@@ -1,0 +1,89 @@
+:root {
+  --bg: #faf9f6; --card: #ffffff; --text: #1e2430; --muted: #6b7280;
+  --border: #e5e2da; --accent: #8c4a2f; --accent-soft: #f3e6df;
+  --high: #b4442c; --medium: #8a6d1f; --chip-bg: #efece5;
+  --shadow: 0 1px 3px rgba(30,36,48,.07);
+}
+[data-theme="dark"] {
+  --bg: #16181d; --card: #1f232b; --text: #e8e6e1; --muted: #9aa0ab;
+  --border: #32363f; --accent: #d99a76; --accent-soft: #3a2d26;
+  --high: #e07856; --medium: #c9a94d; --chip-bg: #2a2e37;
+  --shadow: 0 1px 3px rgba(0,0,0,.35);
+}
+* { box-sizing: border-box; margin: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: -apple-system, "PingFang SC", "Noto Sans SC", "Helvetica Neue", sans-serif;
+  line-height: 1.55; font-size: 15px;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 18px 24px 10px; max-width: 980px; margin: 0 auto;
+}
+.header h1 { font-size: 1.5rem; letter-spacing: .02em; }
+.subtitle { color: var(--muted); font-size: .85rem; }
+.header-meta { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: .8rem; }
+#themeBtn { background: none; border: 1px solid var(--border); border-radius: 8px;
+  padding: 4px 8px; cursor: pointer; font-size: 1rem; }
+
+.tabs {
+  display: flex; gap: 6px; padding: 8px 24px; max-width: 980px; margin: 0 auto;
+  overflow-x: auto; border-bottom: 1px solid var(--border);
+}
+.tab {
+  background: none; border: none; padding: 8px 14px; cursor: pointer;
+  font-size: .95rem; color: var(--muted); border-radius: 8px 8px 0 0; white-space: nowrap;
+}
+.tab.active { color: var(--accent); font-weight: 600; border-bottom: 2px solid var(--accent); }
+
+.filters {
+  display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  max-width: 980px; margin: 14px auto 0; padding: 0 24px;
+}
+.filter-group { display: flex; gap: 6px; }
+.chip {
+  background: var(--chip-bg); border: 1px solid var(--border); color: var(--text);
+  border-radius: 999px; padding: 3px 12px; font-size: .82rem; cursor: pointer;
+}
+.chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+#searchBox {
+  flex: 1; min-width: 180px; background: var(--card); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 12px; color: var(--text); font-size: .88rem;
+}
+
+.container { max-width: 980px; margin: 14px auto 40px; padding: 0 24px; }
+.group-head { margin: 22px 0 8px; font-size: .82rem; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .08em; }
+
+.card {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 14px 18px; margin-bottom: 10px; box-shadow: var(--shadow);
+}
+.card.high { border-left: 3px solid var(--high); }
+.card-title { font-size: 1rem; font-weight: 600; }
+.card-title-zh { color: var(--muted); font-size: .9rem; margin-top: 2px; }
+.card-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  margin-top: 6px; font-size: .78rem; color: var(--muted); }
+.badge { background: var(--accent-soft); color: var(--accent); border-radius: 6px;
+  padding: 1px 8px; font-weight: 600; }
+.tag { background: var(--chip-bg); border-radius: 6px; padding: 1px 8px; }
+.tag.high { color: var(--high); font-weight: 600; }
+.ai-reason { margin-top: 6px; font-size: .84rem; color: var(--medium); }
+.abstract { margin-top: 8px; font-size: .87rem; color: var(--text); }
+.abstract-zh { margin-top: 6px; font-size: .87rem; }
+details summary { cursor: pointer; color: var(--muted); font-size: .82rem; margin-top: 6px; }
+
+.conf-deadline { font-weight: 700; }
+.conf-deadline.soon { color: var(--high); }
+.empty { text-align: center; color: var(--muted); padding: 60px 0; }
+
+.footer { max-width: 980px; margin: 0 auto 30px; padding: 0 24px;
+  color: var(--muted); font-size: .78rem; border-top: 1px solid var(--border); padding-top: 14px; }
+
+@media (max-width: 640px) {
+  .header { flex-direction: column; align-items: flex-start; gap: 6px; }
+  .container, .tabs, .filters, .footer { padding-left: 14px; padding-right: 14px; }
+}

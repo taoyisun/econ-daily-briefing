@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日学术简报 · Econ Daily Briefing</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+  <div>
+    <h1>每日学术简报</h1>
+    <span class="subtitle">公共经济 · 城市 · 赌博与破产政策</span>
+  </div>
+  <div class="header-meta">
+    <span id="updatedAt">加载中…</span>
+    <button id="themeBtn" title="切换主题">🌓</button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-tab="papers">📄 期刊论文</button>
+  <button class="tab" data-tab="working_papers">📝 工作论文</button>
+  <button class="tab" data-tab="news">📰 新闻</button>
+  <button class="tab" data-tab="reports">🏛 政策报告</button>
+  <button class="tab" data-tab="conferences">🗓 会议</button>
+</nav>
+
+<div class="filters" id="filters">
+  <div class="filter-group" id="relevanceFilter">
+    <button class="chip active" data-rel="all">全部</button>
+    <button class="chip" data-rel="high">🔥 高相关</button>
+    <button class="chip" data-rel="medium">中相关</button>
+  </div>
+  <input type="search" id="searchBox" placeholder="搜索标题 / 作者 / 期刊…">
+</div>
+
+<main id="content" class="container"></main>
+
+<footer class="footer">
+  数据来源:CrossRef · NBER · CFPB · GAO · US Courts · Google News · Substack ·
+  <a href="https://github.com/" id="repoLink">源码</a>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

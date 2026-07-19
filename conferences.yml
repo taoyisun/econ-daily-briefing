@@ -1,0 +1,52 @@
+# 会议征稿/截止日期 —— 手动维护
+# deadline / event_date 格式: YYYY-MM-DD;不确定就留空,网站上会显示"待确认"
+# 每条字段: name, url, deadline(投稿截止), event_date(会议开始), location, notes
+
+- name: "APPAM Fall Research Conference"
+  url: "https://www.appam.org/conference-events/fall-research-conference/"
+  deadline:
+  event_date:
+  location: ""
+  notes: "公共政策旗舰会议,每年 4 月左右截稿、11 月开会,请在官网确认当年日期"
+
+- name: "AAEA Annual Meeting"
+  url: "https://www.aaea.org/meetings/annual-meeting"
+  deadline:
+  event_date:
+  location: ""
+  notes: "农经年会,通常 1-2 月截稿、7-8 月开会"
+
+- name: "ASSA/AEA Annual Meeting"
+  url: "https://www.aeaweb.org/conference/"
+  deadline:
+  event_date:
+  location: ""
+  notes: "1 月年会,一般论文提交在前一年 4-5 月"
+
+- name: "Southern Economic Association (SEA)"
+  url: "https://www.southerneconomic.org/annual-meetings/"
+  deadline:
+  event_date:
+  location: ""
+  notes: "11 月开会,通常 4-6 月截稿,对研究生友好"
+
+- name: "National Tax Association Annual Conference"
+  url: "https://ntanet.org/conference/"
+  deadline:
+  event_date:
+  location: ""
+  notes: "公共财政方向,11 月开会"
+
+- name: "International Conference on Gambling & Risk Taking (UNLV)"
+  url: "https://www.unlv.edu/igi/conference"
+  deadline:
+  event_date:
+  location: "Las Vegas"
+  notes: "UNLV 国际博彩研究所主办,博彩研究最大规模会议(约三年一届)"
+
+- name: "AGRI: Current Advances in Gambling Research Conference"
+  url: "https://research.ucalgary.ca/agri"
+  deadline:
+  event_date:
+  location: ""
+  notes: "Alberta Gambling Research Institute 年会,通常 3-4 月"
