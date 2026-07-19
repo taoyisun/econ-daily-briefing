@@ -141,8 +141,9 @@ function render() {
   if (state.tab === "papers") {
     const groups = {};
     items.forEach((it) => (groups[it.tier || "其他"] ||= []).push(it));
-    const order = ["Top-5", "Public", "Urban", "其他"];
-    const label = { "Top-5": "Top-5 综合", Public: "公共经济 / 财政", Urban: "城市 / 区域" };
+    const order = ["Top-5", "Public", "Urban", "IO", "Development", "International", "其他"];
+    const label = { "Top-5": "Top-5 综合", Public: "公共经济 / 财政", Urban: "城市 / 区域",
+                    IO: "产业组织", Development: "发展经济学", International: "国际经济学" };
     el.innerHTML = order.filter((t) => groups[t]).map((t) =>
       `<div class="group-head">${label[t] || t} · ${groups[t].length} 篇</div>` +
       groups[t].map(itemCard).join("")).join("");

@@ -33,6 +33,13 @@ journals:
   - name: "National Tax Journal"
     issn: "0028-0283"
     tier: "Public"
+  # Development / International
+  - name: "Journal of Development Economics"
+    issn: "0304-3878"
+    tier: "Development"
+  - name: "Journal of International Economics"
+    issn: "0022-1996"
+    tier: "International"
   # Empirical IO(论文 chapter 1 进入模型方向)
   - name: "RAND Journal of Economics"
     issn: "0741-6261"

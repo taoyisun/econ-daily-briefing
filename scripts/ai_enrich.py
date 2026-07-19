@@ -39,15 +39,25 @@ def call_claude(prompt: str) -> str:
         capture_output=True, text=True, timeout=600,
     )
     if r.returncode != 0:
-        raise RuntimeError(f"claude CLI 失败: {r.stderr[:500]}")
+        raise RuntimeError(f"claude CLI 失败 (rc={r.returncode}): "
+                           f"stderr={r.stderr[:300]!r} stdout={r.stdout[:300]!r}")
     return r.stdout
 
 
-def parse_json_array(text: str):
-    m = re.search(r"\[.*\]", text, re.DOTALL)
-    if not m:
-        raise ValueError("输出中未找到 JSON 数组")
-    return json.loads(m.group(0))
+def parse_jsonl(text: str):
+    """逐行解析 JSON 对象,坏行跳过"""
+    rows = []
+    for line in text.splitlines():
+        line = line.strip().rstrip(",")
+        if not line.startswith("{"):
+            continue
+        try:
+            rows.append(json.loads(line))
+        except json.JSONDecodeError:
+            continue
+    if not rows:
+        raise ValueError("输出中未解析到任何 JSON 行")
+    return rows
 
 
 def enrich_batch(items):
@@ -63,13 +73,16 @@ def enrich_batch(items):
 3. ai_relevance: 按上述研究者背景分级,取 "high"/"medium"/"low"
 4. ai_reason: 一句话中文说明分级理由
 
-只输出 JSON 数组,格式: [{{"i":0,"title_zh":"...","abstract_zh":"...","ai_relevance":"...","ai_reason":"..."}}, ...]
-不要输出任何其他文字。
+输出 JSONL:每篇论文单独一行、一个完整的 JSON 对象,行内不要换行,注意转义引号:
+{{"i":0,"title_zh":"...","abstract_zh":"...","ai_relevance":"...","ai_reason":"..."}}
+不要输出任何其他文字,不要用 markdown 代码块。
 
 论文列表:
 {json.dumps(payload, ensure_ascii=False)}"""
-    out = parse_json_array(call_claude(prompt))
+    out = parse_jsonl(call_claude(prompt))
     for row in out:
+        if not isinstance(row.get("i"), int) or not (0 <= row["i"] < len(items)):
+            continue
         it = items[row["i"]]
         it["title_zh"] = row.get("title_zh", "")
         it["abstract_zh"] = row.get("abstract_zh", "")
@@ -99,7 +112,7 @@ def main():
             print(f"[ai] batch {b + 1}: 完成 {len(batch)} 条", flush=True)
         except Exception as exc:
             print(f"[ai] batch {b + 1} 失败: {exc}", flush=True)
-            break
+            continue  # 单批失败不影响后续批次
 
     print(f"[ai] 共处理 {done} 条,剩余 {len(pending) - done} 条留待下次", flush=True)
 
