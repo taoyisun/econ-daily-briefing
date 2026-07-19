@@ -44,6 +44,7 @@ a:hover { text-decoration: underline; }
   max-width: 980px; margin: 14px auto 0; padding: 0 24px;
 }
 .filter-group { display: flex; gap: 6px; }
+.source-row { flex-basis: 100%; flex-wrap: wrap; }
 .chip {
   background: var(--chip-bg); border: 1px solid var(--border); color: var(--text);
   border-radius: 999px; padding: 3px 12px; font-size: .82rem; cursor: pointer;

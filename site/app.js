@@ -1,6 +1,9 @@
 /* 每日学术简报前端:读取 data.json,按 tab 渲染 */
 let DATA = null;
-let state = { tab: "papers", rel: "all", q: "" };
+let state = { tab: "papers", rel: "all", q: "", src: "all" };
+
+// 每个 tab 的"来源"字段
+const SOURCE_FIELD = { papers: "journal", working_papers: "source", news: "source", reports: "source" };
 
 const $ = (s) => document.querySelector(s);
 const esc = (s) => (s || "").replace(/[&<>"]/g, (c) =>
@@ -30,7 +33,31 @@ async function load() {
 
 function relOf(it) { return it.ai_relevance || it.relevance || "low"; }
 
+function renderSourceChips() {
+  const box = $("#sourceFilter");
+  const field = SOURCE_FIELD[state.tab];
+  if (!field || !DATA) { box.innerHTML = ""; return; }
+  const counts = {};
+  (DATA[state.tab] || []).forEach((it) => {
+    const s = it[field] || "其他";
+    counts[s] = (counts[s] || 0) + 1;
+  });
+  const names = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  box.innerHTML =
+    `<button class="chip ${state.src === "all" ? "active" : ""}" data-src="all">全部来源</button>` +
+    names.map((n) =>
+      `<button class="chip ${state.src === n ? "active" : ""}" data-src="${esc(n)}">${esc(n)} · ${counts[n]}</button>`
+    ).join("");
+  box.querySelectorAll(".chip").forEach((b) => {
+    b.onclick = () => { state.src = b.dataset.src; render(); };
+  });
+}
+
 function matches(it) {
+  if (state.src !== "all") {
+    const field = SOURCE_FIELD[state.tab];
+    if (field && (it[field] || "其他") !== state.src) return false;
+  }
   if (state.rel !== "all") {
     const r = relOf(it);
     if (state.rel === "high" && r !== "high") return false;
@@ -93,6 +120,7 @@ function render() {
   if (!DATA) return;
   const el = $("#content");
   $("#filters").style.display = state.tab === "conferences" ? "none" : "flex";
+  renderSourceChips();
 
   if (state.tab === "conferences") {
     const confs = [...(DATA.conferences || [])].sort((a, b) =>
@@ -129,6 +157,7 @@ document.querySelectorAll(".tab").forEach((b) => {
     document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
     b.classList.add("active");
     state.tab = b.dataset.tab;
+    state.src = "all";
     render();
   };
 });

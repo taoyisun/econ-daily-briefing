@@ -93,13 +93,14 @@ def main():
         try:
             enrich_batch(batch)
             done += len(batch)
-            print(f"[ai] batch {b + 1}: 完成 {len(batch)} 条")
+            # 每批完成立即写盘,中途被杀也不丢进度
+            DATA.write_text(json.dumps(data, ensure_ascii=False, indent=1))
+            print(f"[ai] batch {b + 1}: 完成 {len(batch)} 条", flush=True)
         except Exception as exc:
-            print(f"[ai] batch {b + 1} 失败: {exc}")
+            print(f"[ai] batch {b + 1} 失败: {exc}", flush=True)
             break
 
-    DATA.write_text(json.dumps(data, ensure_ascii=False, indent=1))
-    print(f"[ai] 共处理 {done} 条,剩余 {len(pending) - done} 条留待下次")
+    print(f"[ai] 共处理 {done} 条,剩余 {len(pending) - done} 条留待下次", flush=True)
 
 
 if __name__ == "__main__":
