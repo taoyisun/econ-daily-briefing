@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T02:17:53.817620+00:00",
+ "generated_at": "2026-07-19T02:45:08.585758+00:00",
  "papers": [
   {
    "id": "10.1016/j.jpubeco.2026.105723",
@@ -14,7 +14,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "养老金改革与快速老龄化对储蓄和劳动供给的影响：中国案例",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及公共社会保险(养老金)政策改革对家庭储蓄和劳动决策的因果影响评估。"
   },
@@ -52,7 +51,6 @@
     "城市/区域"
    ],
    "title_zh": "二手士绅化:高铁延伸的理论和证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "城市经济学领域,缺乏具体摘要信息,与赌博政策和破产研究距离最远。"
   },
@@ -71,7 +69,6 @@
     "城市/区域"
    ],
    "title_zh": "租赁补贴的归宿：对租金、住房选择和供应的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "补贴政策对家庭经济选择的影响，属于公共经济学应用范畴"
   },
@@ -88,7 +85,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "分科教学与小学教学有效性",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "教育经济学主题，与用户的赌博政策、破产财务困境研究方向无关。"
   },
@@ -105,7 +101,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "遗产税的行为反应：巴西证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "税收政策对经济主体行为反应的实证评估，属公共经济学范畴。"
   },
@@ -127,23 +122,6 @@
    "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
   },
   {
-   "id": "10.3982/ecta22979",
-   "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
-   "authors": "Christian Cox",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta22979",
-   "url": "https://doi.org/10.3982/ecta22979",
-   "abstract": "The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "竞选融资管制放松的均衡效应",
-   "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
-   "ai_relevance": "low",
-   "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
-  },
-  {
    "id": "10.3982/ecta21839",
    "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
    "authors": "Anh Nguyen",
@@ -159,6 +137,23 @@
    "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
    "ai_relevance": "low",
    "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
+  },
+  {
+   "id": "10.3982/ecta22979",
+   "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
+   "authors": "Christian Cox",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta22979",
+   "url": "https://doi.org/10.3982/ecta22979",
+   "abstract": "The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "竞选融资管制放松的均衡效应",
+   "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
+   "ai_relevance": "low",
+   "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
   },
   {
    "id": "10.3982/ecta23049",
@@ -207,7 +202,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "Econometrica 第94卷第4期 附录",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -313,7 +307,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "Econometrica 第94卷第4期 前言",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -347,7 +340,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "向计量经济学会专著系列投稿",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -381,7 +373,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "税收逃避机会如何影响价格?",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要;题目为税收逃避,与消费者债务和破产无关"
   },
@@ -398,7 +389,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "理解税收逃避:已知、未知和前进之路",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要;研究税收逃避行为,与家庭财务困难无关"
   },
@@ -415,7 +405,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "编辑委员会",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -432,7 +421,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "地方政策在何处有效?来自意大利内陆地区战略的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及地方政策实证评估与区域经济学,属于城市/区域经济学范畴"
   },
@@ -449,7 +437,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "亲代家长制与耐心",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究家长式决策与时间偏好,与赌博政策和破产无直接关系"
   },
@@ -466,7 +453,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "评估的持久性",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "标题不明确具体内容,无法识别与赌博、破产政策的关联"
   },
@@ -500,7 +486,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "港口、技术与城市间贸易:演变中海运网络的经济学与地缘政治",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究港口和国际贸易网络,与赌博政策和家庭财务困境无关"
   },
@@ -517,7 +502,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "数字优惠券的消费刺激:异质性与政策设计",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "消费政策研究,与赌博、破产、消费信贷等核心研究主题无直接关系"
   },
@@ -534,7 +518,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "最低工资大幅提升的消费反应:西班牙证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "最低工资政策评估,属公共经济学范畴,与赌博和家庭债务困境无直接关联"
   },
@@ -568,7 +551,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "润滑合作的齿轮:中国大学校长转移的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "中国高等教育组织研究,与赌博政策和破产无关"
   },
@@ -619,7 +601,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "国际冲突对跨境商业纠纷解决的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "国际商业争议解决研究,与赌博政策和个人破产无关"
   },
@@ -636,7 +617,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "编辑委员会",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "期刊编辑委员会信息而非学术研究论文"
   },
@@ -653,7 +633,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "抑郁症污名",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "心理健康主题,与赌博政策和家庭财务困难无关"
   },
@@ -706,7 +685,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "快速租赁救助能否阻止驱逐?行政延迟的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及家庭财务困难(驱逐风险)和政策干预,具有准自然实验识别价值,但归属公共经济学领域而非核心的赌博/破产研究"
   },
@@ -723,7 +701,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "高等教育机构供给扩大的人力资本后果",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "关于高等教育政策,与赌博政策和家庭财务困难无关"
   },
@@ -742,7 +719,6 @@
     "城市/区域"
    ],
    "title_zh": "快速重新安置能否减少无家可归？",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要，无家可归政策研究与赌博政策和家庭财务困难无直接关系"
   },
@@ -933,7 +909,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "前言",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无实质研究内容"
   },
@@ -1001,7 +976,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "诺贝尔讲座:创意破坏的经济学",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要内容;创意破坏理论与赌博政策评估无直接关系"
   },
@@ -1035,7 +1009,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "诺贝尔讲座:创意破坏与经济增长",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要内容;诺奖讲座主题与赌博政策评估无直接关系"
   },
@@ -1052,7 +1025,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "诺贝尔讲座:创新的过去与未来:进步能否持续",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要内容;创新政策主题与赌博和破产研究无关"
   },
@@ -1069,7 +1041,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "第三方报告对税收遵从的影响:来自零工劳动者的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "税收政策属于公共经济学范畴,虽与赌博无关但符合中等相关学科标准"
   },
@@ -1086,7 +1057,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "州际高速公路对美国农村的长期影响",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "区域和农村经济学应用,符合相关学科标准,虽具体主题与赌博政策无关"
   },
@@ -1103,7 +1073,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "前言",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无实质研究内容"
   },
@@ -1120,7 +1089,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "最近的审稿人",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无实质研究内容"
   },
@@ -1137,7 +1105,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "JPE投稿周期时间",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "期刊信息而非研究论文,无摘要内容"
   },
@@ -1156,7 +1123,6 @@
     "城市/区域"
    ],
    "title_zh": "房地产市场拥堵：新供应对房价和销售风险的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "房地产市场研究，与赌博政策和家庭财务困难无直接关系"
   },
@@ -1173,7 +1139,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "公平性与效率:需求差异下的权衡",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "无摘要,标题过于宽泛,与赌博/破产研究无明显关联"
   },
@@ -1190,7 +1155,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "引言",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "非论文标题,无内容信息可评估"
   },
@@ -1224,7 +1188,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "Airbnb进入对美国驱赶诉讼的影响",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及住房不稳定和家庭经济困难,政策外生冲击与因果识别方法论相关"
   },
@@ -1241,7 +1204,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "高铁与中国电动车采纳奇迹",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "基础设施与技术采纳,与赌博/破产/家庭财务无关"
   },
@@ -1260,7 +1222,6 @@
     "城市/区域"
    ],
    "title_zh": "交通基础设施与城市空间结构",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "交通基础设施和城市经济学研究，与赌博政策和家庭财务无关"
   },
@@ -1277,7 +1238,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "出生时现金转移减少父亲和子女犯罪活动",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "公共经济学政策评估,涉及政策对家庭经济福利和行为的因果推断"
   },
@@ -1294,7 +1254,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "精英是否择优录取且追求效率?MBA学生证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "关于教育精英和职业选择的实验研究,与赌博/破产主题无关"
   },
@@ -1311,7 +1270,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "实时不平等",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "标题过于宽泛,无摘要,无法评估与核心研究方向的关联"
   },
@@ -1349,7 +1307,6 @@
     "破产/家庭财务"
    ],
    "title_zh": "福利债务减免:对就业、福利领取和心理健康的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "涉及公共福利政策,但与赌博政策、家庭金融困境和破产研究无直接关系。"
   },
@@ -1368,7 +1325,6 @@
     "公共经济"
    ],
    "title_zh": "第二套房屋税改的数量、价格和遵从效应：法国证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "房地产税收政策研究，与赌博政策和家庭财务困难无直接关系"
   },
@@ -1402,7 +1358,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "抵押贷款承销中的技术创新与信贷增长(1985-2015)",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及消费者信贷市场和家庭债务增长,与household financial outcomes和credit availability相关"
   },
@@ -1421,7 +1376,6 @@
     "城市/区域"
    ],
    "title_zh": "交通基础设施与城市和区域发展",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "区域经济发展研究，与赌博政策和家庭财务无关"
   },
@@ -1438,7 +1392,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "创造机遇:智利学校建设的代际效应",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "教育基础设施的长期经济影响,与赌博/破产研究无直接关联"
   },
@@ -1455,7 +1408,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "电动汽车能否助力可再生能源转型?来自中午充电激励的现场实验证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "与赌博政策、破产、家庭债务等核心研究主题无关,属能源政策领域"
   },
@@ -1527,7 +1479,6 @@
     "公共经济"
    ],
    "title_zh": "Medicaid扩展的消费平滑价值评估",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "关于社会保险(Medicaid)对家庭经济福利的影响,属于公共经济学,与家庭财务困境相关"
   },
@@ -1665,7 +1616,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "社会观察性与转移支付需求:来自低收入人口的实验证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及公共经济学(转移支付)对低收入人口的影响,与社会保险政策相关"
   },
@@ -1682,7 +1632,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "从沉默到团结:关于少数群体的沟通如何影响歧视",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "关于歧视和社会态度问题,与赌博政策、破产、债务等研究主题无关"
   },
@@ -1699,7 +1648,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "工会对非工会工资设定的影响:威胁与谈判",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "劳动经济学中的因果推断应用,识别策略与用户的面板因果推断方法相关"
   },
@@ -1716,7 +1664,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "美国寿险业中的监管竞争",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "保险监管竞争与用户研究的赌博政策/破产/家庭债务主题无关"
   },
@@ -1733,7 +1680,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "为什么房屋中介如此困难?来自房地产科技的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "房地产科技与用户研究领域无关"
   },
@@ -1750,7 +1696,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "碳氢化合物基础设施政策的环境后果",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "环保政策与用户研究的赌博/破产主题无关"
   },
@@ -1767,7 +1712,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "配额机制:有限样本最优性与稳健性",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "理论方法论论文,不属于用户关注的面板因果推断应用(DiD/事件研究等)"
   },
@@ -1784,7 +1728,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "课堂中的同伴效应与排名关切",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "教育经济学应用与用户研究主题无关"
   },
@@ -1801,7 +1744,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "在线商业模式、数字广告与用户福利",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "平台经济与用户研究领域无关"
   },
@@ -1837,7 +1779,6 @@
     "城市/区域"
    ],
    "title_zh": "城市内部结构与性别通勤差距:来自中国的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "城市和区域经济学,关于通勤与劳动供给,与赌博或家庭债务无关"
   },
@@ -1854,7 +1795,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "体育场馆与地产价值",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于城市/区域经济学范畴,可能采用因果推断方法(事件研究/断点回归等)"
   },
@@ -1871,7 +1811,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "兼职工作与社会福利的结合:来自芬兰的实证证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于公共经济学范畴(社会福利政策),与用户研究的社会保障/转移支付相关"
   },
@@ -1888,7 +1827,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "养老金是否提高工作努力和选择性留任?来自公立学校的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于公共经济学范畴(公共部门激励和社会保险),与用户研究领域相关"
   },
@@ -1905,7 +1843,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "婚配市场对产妇和新生儿健康的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "虽涉及经济学应用,但婚配市场研究与用户赌博/破产/消费者信贷主题无关"
   },
@@ -1922,7 +1859,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "编委会名单",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "非学术论文,无相关内容"
   },
@@ -1939,7 +1875,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "失望迫在眼前：可见性与企业本地市场力量",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "涉及市场力量与企业战略,与赌博政策、家庭财务困境无直接关系"
   },
@@ -1975,7 +1910,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "交易税的财政外部性：洛杉矶豪宅税的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于公共经济学税收政策研究"
   },
@@ -1992,7 +1926,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "政府扁平化、增长扁平化：管辖权改革中的平等-效率权衡",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于公共经济学政策研究"
   },
@@ -2028,7 +1961,6 @@
     "城市/区域"
    ],
    "title_zh": "城市工资溢价的历史视角",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "城市经济学与劳动经济学,关于地理工资差异,与研究主题无关"
   },
@@ -2045,7 +1977,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "非学分制劳动力培训、行业资格认证与劳动力市场成果",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "涉及劳动经济学人力资本,与赌博政策研究无关"
   },
@@ -2062,7 +1993,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "职业危害？医师母亲的出生结果分析",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "涉及卫生经济学和劳动市场,与研究主题无关"
   },
@@ -2098,7 +2028,6 @@
     "城市/区域"
    ],
    "title_zh": "运输评估的定量城市模型",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "城市与运输经济学,与赌博或家庭债务无关"
   },
@@ -2151,7 +2080,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "JUE观点：城市规模、单一买方与最低工资的就业效应",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "属于城市经济学和劳动市场研究,可能涉及因果推断方法论"
   }
