@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T02:49:50.518806+00:00",
+ "generated_at": "2026-07-19T03:22:39.934220+00:00",
  "papers": [
   {
    "id": "10.1016/j.jpubeco.2026.105723",
@@ -122,23 +122,6 @@
    "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
   },
   {
-   "id": "10.3982/ecta21839",
-   "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
-   "authors": "Anh Nguyen",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21839",
-   "url": "https://doi.org/10.3982/ecta21839",
-   "abstract": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "共同价值拍卖中的信息设计与道德风险：近海租赁拍卖应用",
-   "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
-   "ai_relevance": "low",
-   "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
-  },
-  {
    "id": "10.3982/ecta22979",
    "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
    "authors": "Christian Cox",
@@ -154,6 +137,23 @@
    "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
    "ai_relevance": "low",
    "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
+  },
+  {
+   "id": "10.3982/ecta21839",
+   "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
+   "authors": "Anh Nguyen",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21839",
+   "url": "https://doi.org/10.3982/ecta21839",
+   "abstract": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "共同价值拍卖中的信息设计与道德风险：近海租赁拍卖应用",
+   "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
+   "ai_relevance": "low",
+   "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
   },
   {
    "id": "10.3982/ecta23049",
@@ -328,22 +328,6 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
    "id": "10.3982/ecta23358",
    "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
    "authors": "Anna Stansbury, Kyra Rodriguez",
@@ -359,6 +343,22 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+  },
+  {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1086/741734",
@@ -488,6 +488,19 @@
    "title_zh": "港口、技术与城市间贸易:演变中海运网络的经济学与地缘政治",
    "ai_relevance": "low",
    "ai_reason": "研究港口和国际贸易网络,与赌博政策和家庭财务困境无关"
+  },
+  {
+   "id": "10.1111/1756-2171.70068",
+   "title": "Pulp Friction: The Value of Quantity Contracts in Decentralized Markets",
+   "authors": "Olivier Darmouni, Simon Essig Aberg, Juha Tolvanen",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70068",
+   "url": "https://doi.org/10.1111/1756-2171.70068",
+   "abstract": "ABSTRACT Firms in decentralized markets often trade using quantity contracts, agreements specifying quantity prior to the point of sale. These contracts are valuable because they provide quantity assurance, as trading frictions could prevent a buyer and seller from matching in the spot market. However, quantity contracts prevent sellers from optimally allocating production across buyers after market conditions realize. Using proprietary invoice data, we estimate a model of quantity contracts in the pulp and paper industry. The average value of a quantity contract is 10% of profits, but would be 55% larger if sellers could optimally allocate production after market conditions realize.",
+   "published": "2026-07-13T05:47:35Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jpubeco.2026.105709",
@@ -768,8 +781,10 @@
    "url": "https://doi.org/10.1093/qje/qjag034",
    "abstract": "Abstract If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less-attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses–and therefore who ultimately bears the cost-depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.",
    "published": "2026-07-01T14:59:53Z",
-   "relevance": "low",
-   "topics": [],
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ],
    "title_zh": "谁为工会买单?",
    "abstract_zh": "利用挪威工会会费税收减免变化作为准自然实验,评估企业对工会化增加的响应。发现工会化提高劳动成本,导致企业收缩就业和生产,成本由消费者(价格)、股东(利润)和生产率改善分摊。",
    "ai_relevance": "low",
@@ -930,23 +945,6 @@
    "ai_reason": "虽为政策研究但主题与赌博、破产政策评估无直接关系"
   },
   {
-   "id": "10.1257/aer.20250166",
-   "title": "A Welfare Analysis of Policies Impacting Climate Change",
-   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250166",
-   "url": "https://doi.org/10.1257/aer.20250166",
-   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "气候变化政策的福利分析",
-   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
-   "ai_relevance": "low",
-   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
-  },
-  {
    "id": "10.1257/aer.20241925",
    "title": "Monetary Policy without Commitment",
    "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
@@ -962,6 +960,23 @@
    "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
    "ai_relevance": "low",
    "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
+  },
+  {
+   "id": "10.1257/aer.20250166",
+   "title": "A Welfare Analysis of Policies Impacting Climate Change",
+   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250166",
+   "url": "https://doi.org/10.1257/aer.20250166",
+   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "气候变化政策的福利分析",
+   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
+   "ai_relevance": "low",
+   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
   },
   {
    "id": "10.1257/aer.116.7.2324",
@@ -1027,6 +1042,19 @@
    "title_zh": "诺贝尔讲座:创新的过去与未来:进步能否持续",
    "ai_relevance": "low",
    "ai_reason": "无摘要内容;创新政策主题与赌博和破产研究无关"
+  },
+  {
+   "id": "10.1111/1756-2171.70071",
+   "title": "The Incidence of Coarse Certification: Evidence From the ENERGY STAR Program",
+   "authors": "Sébastien Houde",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70071",
+   "url": "https://doi.org/10.1111/1756-2171.70071",
+   "abstract": "ABSTRACT A coarse certification provides simple but incomplete information. Its rationale is to help consumers trade off dimensions of quality that are complex and lack salience. In imperfectly competitive markets, it may induce excess bunching at the certification requirement, crowd out quality, and facilitate price discrimination. Who will ultimately benefit from a coarse certification thus depends on the degree of market power firms can exercise as well as on consumers' sophistication in responding to such information. I use a structural econometric model of the U.S. appliance market to illustrate these insights using the ENERGY STAR certification as a case study.",
+   "published": "2026-06-29T15:27:13Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jpubeco.2026.105697",
@@ -1143,6 +1171,71 @@
    "ai_reason": "无摘要,标题过于宽泛,与赌博/破产研究无明显关联"
   },
   {
+   "id": "10.1111/1756-2171.70057",
+   "title": "Consumer Search, Firm Heterogeneity, and Platform Design",
+   "authors": "Wenzhang Zhang",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70057",
+   "url": "https://doi.org/10.1111/1756-2171.70057",
+   "abstract": "ABSTRACT We study the optimal design of a monopoly platform that interacts with heterogeneous firms and consumers who face uncertainty about product values and prices. Consumers search randomly among firms recommended by the platform. The platform designs a menu of contracts tailored to different firm types and allocates consumer visits across these firms. We show that the optimal platform design creates a “superstar effect,” whereby high‐type firms capture a disproportionately large market share, and improves consumer welfare relative to the no‐design benchmark.",
+   "published": "2026-06-26T03:46:55Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70061",
+   "title": "Nonlinear Pricing in Oligopoly: How Brand Preferences Shape Market Outcomes",
+   "authors": "Renato Gomes, Jean‐Marie Lozachmeur, Lucas Maestri",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70061",
+   "url": "https://doi.org/10.1111/1756-2171.70061",
+   "abstract": "ABSTRACT We study oligopolistic competition by firms practicing second‐degree price discrimination. In line with the literature on demand estimation, our theory allows consumers' propensity to switch brands to vary with tastes for product quality. If low‐type consumers are sufficiently more (respectively, less) prone to switch brands than are high types, (i) quality provision is inefficiently low at the bottom (respectively, high at the top) of the product line, and (ii) informational rents are positive (respectively, negative) for high types and negative (respectively, positive) for low types. Interestingly, we show that an increase in the number of competing firms may decrease welfare (by tightening incentive constraints), so much so that monopoly may be welfare superior to oligopoly. Pure‐strategy equilibria fail to exist, resulting in price‐quality dispersion across firms, whenever the propensity to switch brands is sufficiently different across consumers types.",
+   "published": "2026-06-26T03:44:08Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70059",
+   "title": "The Competitive Effects of Mergers with Cournot Competition",
+   "authors": "Markus Reisinger, Hans Zenger",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70059",
+   "url": "https://doi.org/10.1111/1756-2171.70059",
+   "abstract": "ABSTRACT This article provides a full characterization of the competitive effects of horizontal mergers in the Cournot model with heterogeneous firms and constant marginal costs. We show that price effects depend only on the smaller merging firm's market share and the number of firms but are independent of the distribution of market shares among other firms. Standard concentration measures, instead, are often misleading. We also provide simple—yet general—closed‐form solutions for merger effects based on pre‐merger parameters. Moreover, we extend the model to study the combination of output and input market power and relate our results to the Merger Guidelines.",
+   "published": "2026-06-26T03:41:38Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70060",
+   "title": "Market Effects of Brand Search Advertising",
+   "authors": "Massimo Motta, Antonio Penta",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70060",
+   "url": "https://doi.org/10.1111/1756-2171.70060",
+   "abstract": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
+   "published": "2026-06-26T03:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70073",
+   "title": "Welfare Effects of Trade Associations: The Case of the Chilean Salmon Export Industry",
+   "authors": "Thomas Eisenberg, Manuel Estay, Debi Prasad Mohapatra",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70073",
+   "url": "https://doi.org/10.1111/1756-2171.70073",
+   "abstract": "ABSTRACT This article examines the welfare consequences of a trade association in an exporting country on consumers in destination countries. We estimate a structural model of the Chilean Salmon exporting industry that endogenizes firms' pricing and export decisions. Our results show that the trade association has a positive effect on consumer utility and involves higher marginal costs of production, consistent with higher quality products. Reduced form analysis estimates price effects associated with trade association membership of 3 to 8 percent. Our counterfactual analysis reveals that eliminating the trade association would reduce consumer welfare by 1.7 billion USD in destination countries.",
+   "published": "2026-06-26T03:30:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/742178",
    "title": "Introduction",
    "authors": "Laura Kawano",
@@ -1226,6 +1319,32 @@
    "ai_reason": "交通基础设施和城市经济学研究，与赌博政策和家庭财务无关"
   },
   {
+   "id": "10.1111/1756-2171.70069",
+   "title": "What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration",
+   "authors": "David Beheshti, Seth Neller",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70069",
+   "url": "https://doi.org/10.1111/1756-2171.70069",
+   "abstract": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
+   "published": "2026-06-24T05:37:57Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70070",
+   "title": "Mergers in the Presence of Adverse Selection",
+   "authors": "Conor Ryan",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70070",
+   "url": "https://doi.org/10.1111/1756-2171.70070",
+   "abstract": "ABSTRACT In the presence of adverse selection, mergers can increase welfare through a reduction in inefficient sorting. I characterize the sorting externality internalized between merging firms in a tractable discrete choice model. Mergers benefit consumers when the firms are small, willingness to pay is moderately increasing in cost, and consumer costs are skewed. Applying the model to the non‐group health insurance market, 13% of potential mergers would improve consumer surplus. In markets where the sorting distortion exceeds $5 per person, nearly one‐third of mergers improve consumer surplus, highlighting the importance of considering adverse selection in merger evaluation.",
+   "published": "2026-06-24T05:36:28Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1016/j.jpubeco.2026.105703",
    "title": "Cash transfer at birth reduces criminal activity of fathers and children",
    "authors": "Sakshi Bhardwaj",
@@ -1272,6 +1391,32 @@
    "title_zh": "实时不平等",
    "ai_relevance": "low",
    "ai_reason": "标题过于宽泛,无摘要,无法评估与核心研究方向的关联"
+  },
+  {
+   "id": "10.1111/1756-2171.70058",
+   "title": "Price Discrimination With Manipulable Observables",
+   "authors": "Teck Yong Tan",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70058",
+   "url": "https://doi.org/10.1111/1756-2171.70058",
+   "abstract": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
+   "published": "2026-06-23T06:49:55Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70064",
+   "title": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
+   "authors": "Harim Kim",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70064",
+   "url": "https://doi.org/10.1111/1756-2171.70064",
+   "abstract": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
+   "published": "2026-06-23T06:46:48Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1093/restud/rdag063",
@@ -1346,6 +1491,32 @@
    "ai_reason": "关于职业刻板印象和教育选择,与赌博政策或家庭财务困境无关"
   },
   {
+   "id": "10.1111/1756-2171.70062",
+   "title": "Buyer's Hidden Search With Continuous Intensity: The Seller‐Optimal Mechanism and a Perverse Effect",
+   "authors": "Dongri Liu, Jingfeng Lu",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70062",
+   "url": "https://doi.org/10.1111/1756-2171.70062",
+   "abstract": "ABSTRACT We adopt a dynamic mechanism design approach to study how a revenue‐maximizing seller should sell an indivisible object when a buyer with a private value can search for an outside option with continuous‐intensity choices. We find that lowering the buyer's search cost definitely reduces the seller's revenue when the buyer's search decision is binary, as in Armstrong and Zhou (2016). In contrast, with continuous search intensity, a counterintuitive effect may arise: lowering the buyer's search cost function can, under mild conditions, actually increase the seller's revenue.",
+   "published": "2026-06-19T07:12:59Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70067",
+   "title": "Peer Learning, Enforcement, and Reputation",
+   "authors": "Yi Chen, Kai Du, Phillip Stocken, Zhe Wang",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70067",
+   "url": "https://doi.org/10.1111/1756-2171.70067",
+   "abstract": "ABSTRACT We study a two‐period learning model where a sequentially rational regulator builds a reputation for strict enforcement and self‐interested firms test the regulator's enforcement propensity through their misconduct. In the transparent setting, where misconduct and enforcement are observable between the firms, the regulator's reputation concern endogenously creates positive or negative enforcement externalities between the firms. When the reputation concern is strong, the enforcement externalities are negative and dominate the information externalities, encouraging misconduct. Otherwise, both externalities are positive and deter misconduct. Although a strong reputation always benefits the regulator in the opaque setting, it often backfires in a transparent setting.",
+   "published": "2026-06-19T07:11:06Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1016/j.jue.2026.103886",
    "title": "JUE Insight: Technological innovation in mortgage underwriting and the growth in credit: 1985–2015",
    "authors": "Christopher L. Foote, Lara Loewenstein, Paul S. Willen",
@@ -1412,6 +1583,21 @@
    "ai_reason": "与赌博政策、破产、家庭债务等核心研究主题无关,属能源政策领域"
   },
   {
+   "id": "10.1111/1756-2171.70056",
+   "title": "Preemptive Entry and Technology Diffusion: The Market for Drive‐In Theaters",
+   "authors": "Ricard Gil, Jean‐François Houde, Shilong Sun, Yuya Takahashi",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70056",
+   "url": "https://doi.org/10.1111/1756-2171.70056",
+   "abstract": "ABSTRACT This article studies entry preemption in new industries. We first test a key prediction of dynamic entry games: Entry preemption is most relevant in intermediate‐sized markets, where firms face highest uncertainty about future entry. Using US drive‐in theater market (1945–1957) data, we find robust evidence for this non‐monotonic relationship between market size and early entry probability. We then estimate a dynamic entry game, and quantify preemption effects through counterfactual analysis. Preemptive motives increase early entry by up to 40% in mid‐size markets, raising entry costs by 5% and reducing firms' expected value by 1%.",
+   "published": "2026-06-18T18:39:43Z",
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ]
+  },
+  {
    "id": "10.1093/restud/rdag065",
    "title": "School Choice and the Housing Market",
    "authors": "Aram Grigoryan",
@@ -1429,6 +1615,19 @@
    "abstract_zh": "研究学校分配机制(邻近分配vs延迟接纳)的转变对家庭选择与福利的影响。在邻近优先的框架下,延迟接纳机制可产生更高的福利。",
    "ai_relevance": "low",
    "ai_reason": "教育选择与住房市场,与赌博政策和家庭债务无关"
+  },
+  {
+   "id": "10.1111/1756-2171.70063",
+   "title": "Output Quality, Productivity, and Demand: Evidence from the Chinese Steel Industry",
+   "authors": "Jing Li, Shengyu Li, Hongsong Zhang",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70063",
+   "url": "https://doi.org/10.1111/1756-2171.70063",
+   "abstract": "ABSTRACT Unobserved objective output quality complicates the analysis of firm productivity and demand because higher‐quality products entail higher costs but offer greater consumption benefits. Using a panel of firms with output quality data, we decompose quantity‐based productivity into fundamental productivity and the costs of quality, and separate the demand residual into fundamental demand and quality benefits. Fundamental demand accounts for most revenue variation, whereas quality's revenue‐enhancing benefits are largely offset by its costs. During the 2008 global financial crisis, shifts in quality diverged from changes in fundamental productivity and demand, highlighting the role of quality in assessing firm and industry performance.",
+   "published": "2026-06-17T17:31:19Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1093/qje/qjag032",
@@ -1509,9 +1708,10 @@
    "url": "https://doi.org/10.1093/restud/rdag064",
    "abstract": "Abstract In many markets, buyers make discrete choices between differentiated products and negotiate prices that are specific to the choice. We develop for estimation a model for this class of markets which is consistent with non-cooperative models of bargaining between a buyer and competing sellers. We show that when the buyer’s utility has GEV disturbances, the model has a tractable likelihood function which can be used with transaction-level data giving the selected product and its price. We estimate the model using data from the UK brick industry and use it to measure market power and analyse mergers. We analyse how spatial differentiation and ownership concentration affect the distribution of market power across transactions. In counterfactuals we find that switching from individually negotiated to uniform pricing causes markups, and merger price effects, to increase on average but to decrease for a minority of transactions.",
    "published": "2026-06-16T16:37:08Z",
-   "relevance": "medium",
+   "relevance": "high",
    "topics": [
-    "城市/区域"
+    "城市/区域",
+    "企业进入/空间竞争"
    ],
    "title_zh": "空间差异化产品市场中的价格谈判竞争",
    "abstract_zh": "发展在买方与卖方进行价格谈判的差异化市场中的离散选择模型,用于衡量市场力量和分析兼并效应。",
@@ -1528,8 +1728,10 @@
    "url": "https://doi.org/10.1093/restud/rdag060",
    "abstract": "Abstract Business dynamism—the process of firm entry, growth and exit—lies at the heart of modern endogenous growth models. While productivity differences have traditionally been seen as the main driving forces of business dynamism, a growing body of evidence suggests that customer acquisition is at least as important. In light of this evidence, we propose a novel endogenous growth model in which innovating firms must first acquire customers to sell their products. Estimating our model with aggregate and firm-level data, we find that expansions of firms’ customer bases (market sizes) boost their incentives to innovate and shift resources towards high-growth businesses (“gazelles”). Combined, these effects explain over 40% of aggregate growth and substantially change predictions about the efficacy of growth policies. Finally, we document support for key model predictions using firm-level micro-data.",
    "published": "2026-06-16T16:37:07Z",
-   "relevance": "low",
-   "topics": [],
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ],
    "title_zh": "客户获取、商业动力学与总体增长",
    "abstract_zh": "提出内生增长模型强调客户获取对企业创新和商业动力学的驱动作用,估计解释40%以上的总体增长,对增长政策预测有重要启示。",
    "ai_relevance": "low",
@@ -1579,8 +1781,10 @@
    "url": "https://doi.org/10.1093/restud/rdag066",
    "abstract": "Abstract We study empirically and theoretically the effects of international financial flows on resource allocation. Using the universe of firms in Hungary, we show that removing capital controls lowers firms’ cost of capital and increases household consumption, with the latter playing a dominant role. The consumption channel leads to reallocation of resources toward high expenditure elasticity activities—such as services—promoting both the expansion of incumbents and firm entry. A multi-sector heterogeneous firm model replicates these dynamics. Our model shows that nonhomotheticity in consumption can quantitatively account for the reallocation of resources towards services and successfully replicates the dynamics of aggregate productivity following episodes of financial openness.",
    "published": "2026-06-16T12:29:53Z",
-   "relevance": "low",
-   "topics": [],
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ],
    "title_zh": "资本流动的微观和宏观动力学",
    "abstract_zh": "使用匈牙利公司数据研究资本流动对资源配置的影响,发现开放资本控制主要通过家庭消费而非企业投资驱动资源向服务业等高收入弹性行业重新配置。",
    "ai_relevance": "low",
@@ -2479,8 +2683,10 @@
    "url": "https://www.nber.org/papers/w35454#fromrss",
    "abstract": "We examine a choice between bonus contracts offered to dealers of a U.S. auto manufacturer. In our data, dealers select the non-profit-maximizing option in 20 percent of observations, costing the mistaken dealers $18,453 per year on average. We examine how the propensity to make this mistake varies with competition, identified both cross-sectionally and within dealers over time. Both analyses show that greater competition substantially lowers the rate of mistakes. However, even in the most competitive markets, consequential mistakes persist. Our results suggest that competition disciplines mainly through within-dealer changes in behavior rather than entry and exit.",
    "published": "",
-   "relevance": "low",
-   "topics": [],
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ],
    "title_zh": "竞争与异常现象再审视:来自美国汽车经销商的证据",
    "abstract_zh": "研究汽车经销商在奖金合同选择中的行为,发现20%的情况下经销商选择非利润最大化选项(年均损失约$18,453);更强竞争显著降低错误率,但即使在竞争激烈市场中错误仍然持续。",
    "ai_relevance": "low",

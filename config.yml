@@ -33,6 +33,10 @@ journals:
   - name: "National Tax Journal"
     issn: "0028-0283"
     tier: "Public"
+  # Empirical IO(论文 chapter 1 进入模型方向)
+  - name: "RAND Journal of Economics"
+    issn: "0741-6261"
+    tier: "IO"
   # Urban
   - name: "Journal of Urban Economics"
     issn: "0094-1190"
@@ -99,6 +103,12 @@ relevance_topics:
     level: medium
     keywords: [housing, urban, neighborhood, zoning, "local government", "property tax",
                "spatial", commut, gentrif]
+  entry:
+    label: "企业进入/空间竞争"
+    level: high
+    keywords: ["firm entry", "market entry", "entry model", "entry and exit", "entry decision",
+               "product positioning", "spatial competition", "location choice", "spatial differentiation",
+               "discrete game", "entry game", "incomplete information game", "market structure"]
   methods:
     label: "因果推断方法"
     level: medium
