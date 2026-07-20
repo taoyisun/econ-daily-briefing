@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-07-19T16:47:08.521648+00:00",
+ "generated_at": "2026-07-20T13:07:49.607022+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jinteco.2026.104308",
+   "title": "Offshore dollar funding shocks and the dollar exchange rate",
+   "authors": "Philippe Bacchetta, J. Scott Davis, Eric van Wincoop",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104308",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104308",
+   "abstract": "",
+   "published": "2026-07-20T08:33:32Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104313",
+   "title": "Persistent global growth differences and euro area adjustment: Real activity, trade and the real exchange rate",
+   "authors": "Adrian Ifrim, Robert Kollmann, Philipp Pfeiffer, Marco Ratto, Werner Roeger",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104313",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104313",
+   "abstract": "",
+   "published": "2026-07-20T07:40:24Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104253",
+   "title": "The costs of access: Freeway disamenities across US cities",
+   "authors": "Jeffrey Brinkman, Jeffrey Lin",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104253",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104253",
+   "abstract": "",
+   "published": "2026-07-20T06:58:10Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/s0304-3878(26)00169-0",
+   "title": "Editorial Board",
+   "authors": "",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/s0304-3878(26)00169-0",
+   "url": "https://doi.org/10.1016/s0304-3878(26)00169-0",
+   "abstract": "",
+   "published": "2026-07-20T06:23:54Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105723",
    "title": "The impact of pension reforms and rapid aging on savings and labor supply: The case of China",
@@ -30,7 +82,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "不确定性与试验中的出口商存活",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "出口企业行为与赌博政策、家庭财务困难研究无关"
   },
@@ -47,7 +98,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "金钱与性别：调查中代理回答者与收入错误测量",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "调查测量方法论与赌博政策、因果推断应用主题无关"
   },
@@ -101,7 +151,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "绿色革命与个人主义：来自印度尼西亚的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "农业技术与文化变迁不属于赌博政策、破产影响研究范围"
   },
@@ -118,7 +167,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "起诉利维坦：跨地区司法改革对企业投资的影响",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及司法制度改革的区域异质性与企业投资决策，属于区域经济学和公共经济学"
   },
@@ -135,7 +183,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "监测与递送：来自巴西的辍学率证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "教育政策评估与赌博、破产、家庭财务困难研究无关"
   },
@@ -186,7 +233,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "人口红利：人口转变的政治影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "人口转变的政治经济学效应与赌博政策、破产分析无关"
   },
@@ -430,6 +476,23 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
+   "id": "10.3982/ecta23358",
+   "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
+   "authors": "Anna Stansbury, Kyra Rodriguez",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23358",
+   "url": "https://doi.org/10.3982/ecta23358",
+   "abstract": "Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "美国学术界职业晋升的阶级差距:美国高校的证据",
+   "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
+   "ai_relevance": "low",
+   "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+  },
+  {
    "id": "10.3982/ecta944sum",
    "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
    "authors": "",
@@ -446,21 +509,17 @@
    "ai_reason": "无研究内容"
   },
   {
-   "id": "10.3982/ecta23358",
-   "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
-   "authors": "Anna Stansbury, Kyra Rodriguez",
-   "journal": "Econometrica",
+   "id": "10.1093/restud/rdag078",
+   "title": "Large Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China",
+   "authors": "Stephan Heblich, Marlon Seror, Hao Xu, Yanos Zylberberg",
+   "journal": "Review of Economic Studies",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23358",
-   "url": "https://doi.org/10.3982/ecta23358",
-   "abstract": "Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.",
-   "published": "2026-07-16T13:05:52Z",
+   "doi": "10.1093/restud/rdag078",
+   "url": "https://doi.org/10.1093/restud/rdag078",
+   "abstract": "Abstract We study the impact of large, successful manufacturing plants on other local producers in China, focusing on “Million-Rouble Plants” built in the 1950s during a brief alliance with the U.S.S.R. The ephemeral geopolitical situation and the locations of allied and enemy airbases provide exogenous variation in plant siting. We find a boom-and-bust pattern: Counties hosting these plants were 80% more productive than control counties in 1982 but 20% less productive by 2010. This decline reflects the performance of local establishments, which exhibit low productivity, limited innovation, and high markup. Specialization hindered spillovers, preventing the emergence of new clusters and local entrepreneurship.",
+   "published": "2026-07-16T11:48:58Z",
    "relevance": "low",
-   "topics": [],
-   "title_zh": "美国学术界职业晋升的阶级差距:美国高校的证据",
-   "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
-   "ai_relevance": "low",
-   "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+   "topics": []
   },
   {
    "id": "10.1086/741734",
@@ -523,7 +582,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "正规员工搜索与劳动力需求",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "劳动力市场搜索机制与赌博政策对破产的因果效应无关"
   },
@@ -605,7 +663,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "教育中的性别匹配：高等教育中的表现收益",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "高等教育性别匹配研究与赌博政策、家庭财务困境无关"
   },
@@ -655,7 +712,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "维持权力，妥协气候：来自中国干旱冲击的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "气候与电力政策与赌博、破产影响无直接关系"
   },
@@ -688,7 +744,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "进入放宽的有效性：来自中国出口强制检验放宽的准实验证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "市场进入管制政策涉及企业区位与进入决策，与企业进入模型方向有交集"
   },
@@ -721,7 +776,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "成人子女人力资本积累与父母风险行为：来自中国高等教育扩张的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "父母风险行为可能包含赌博等家庭财务决策，与财务困难研究有关联"
   },
@@ -771,7 +825,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "海外南方根源：美国南方向巴西迁移的长期影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "历史移民研究与赌博政策、破产、债务问题无关"
   },
@@ -870,7 +923,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "印度尼西亚的跨代教育流动性",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "教育流动性研究与研究者聚焦的赌博、破产、家庭财务无直接关联"
   },
@@ -904,7 +956,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "跨国企业网络重组、地缘政治敞口与本国效应——欧洲跨国企业证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "跨国企业和地缘政治研究，非赌博政策和财务困境领域"
   },
@@ -972,7 +1023,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "食物和热量的支出弹性：来自肯尼亚无条件现金转移的证据",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "无条件现金转移属于公共经济学，涉及政策评估和因果推断应用"
   },
@@ -1043,7 +1093,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "农业中的社会学习：一种针对奶农的可扩展农民对农民推广方法",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "农业技术推广和社会学习与赌博政策、破产、消费者信贷无关"
   },
@@ -1079,7 +1128,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "美国流动性政府债务与新兴市场资本流动",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "国际金融研究与赌博政策影响、家庭债务无关"
   },
@@ -1238,23 +1286,6 @@
    "ai_reason": "虽为政策研究但主题与赌博、破产政策评估无直接关系"
   },
   {
-   "id": "10.1257/aer.20241925",
-   "title": "Monetary Policy without Commitment",
-   "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241925",
-   "url": "https://doi.org/10.1257/aer.20241925",
-   "abstract": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "缺乏承诺的货币政策",
-   "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
-   "ai_relevance": "low",
-   "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
-  },
-  {
    "id": "10.1257/aer.20250166",
    "title": "A Welfare Analysis of Policies Impacting Climate Change",
    "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
@@ -1270,6 +1301,23 @@
    "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
    "ai_relevance": "low",
    "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
+  },
+  {
+   "id": "10.1257/aer.20241925",
+   "title": "Monetary Policy without Commitment",
+   "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241925",
+   "url": "https://doi.org/10.1257/aer.20241925",
+   "abstract": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "缺乏承诺的货币政策",
+   "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
+   "ai_relevance": "low",
+   "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
   },
   {
    "id": "10.1257/aer.116.7.2324",
@@ -1382,7 +1430,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "移民对农业发展的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "移民与农业发展研究与赌博政策、破产、家庭财务困境无关"
   },
@@ -1399,7 +1446,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "强制流离失所者的慢性抑郁、儿童发展和人力资本：叙利亚难民证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "难民心理健康和人力资本研究与赌博政策、破产、家庭财务困境无关"
   },
@@ -1648,7 +1694,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "外国直接投资、全球价值链和劳动权利：不存在底线竞争？",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "FDI和全球价值链研究与赌博政策、破产、消费者财务无关"
   },
@@ -1665,7 +1710,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "政治赋权与婚姻实践",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "政治赋权和婚姻制度研究与赌博政策、破产和财务困境无关"
   },
@@ -1716,7 +1760,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "儿子偏好、跨代家庭动态和印度妇女心理健康",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "人口偏好和家庭动态研究与赌博政策、破产、消费者信贷无关"
   },
@@ -1849,7 +1892,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "疫情中的内生迁移性:美国的理论与证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究疫情期间的人口迁移行为,与赌博政策、财务困境等核心研究主题无关"
   },
@@ -1988,7 +2030,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "停电增加,二氧化碳排放增加:来自中国制造业企业自发电的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究电力供应冲击对企业碳排放的影响,属于环境经济学,与赌博、家庭财务等研究方向无关"
   },
@@ -2005,7 +2046,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "使信息可行动化:来自肯尼亚法院的实验证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究法院信息披露对案件处理的效果,与赌博政策、破产等核心研究主题无直接关联"
   },
@@ -2022,7 +2062,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "南非儿童补助金失效对青少年心理健康的影响",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及社会保险政策(儿童补助金)的评估,属于公共经济学转移支付政策领域"
   },
@@ -2144,7 +2183,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "时间因素对亲密伴侣暴力披露的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究暴力事件报告行为的时间模式,与赌博、破产、家庭财务等研究领域无关"
   },
@@ -2213,7 +2251,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "电力的力量:小型水电与女孩教育",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究基础设施(小型水电)对教育成果的影响,属于发展经济学,与赌博政策、财务困境无关"
   },
@@ -2303,7 +2340,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "评估遏制跨界污染的环境和经济影响:来自中国的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究污染管制政策的经济效应,属于环境经济学领域,与赌博、家庭财务等核心研究无关"
   },
@@ -2517,7 +2553,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "早期儿童干预的持久效应:布基纳法索全国疫苗突击队计划",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究疫苗接种项目的长期教育效应,属于发展经济学与人口经济学,与赌博政策、破产等研究方向无关"
   },
@@ -2534,7 +2569,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "信息与避孕措施可及性在降低青少年怀孕中的互补作用",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究避孕信息和措施对青少年生育的影响,属于人口经济学,与赌博、家庭财务等研究无关"
   },
@@ -2551,7 +2585,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "货币政策的信息渠道在新兴市场是否有效?",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究货币政策传导机制,属于宏观经济学,与赌博、家庭微观财务等研究领域无关"
   },
@@ -2585,7 +2618,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "疫情后通胀飙升期间的需求冲击:国际视角",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究全球通胀期间的宏观需求变化,属于宏观经济学,与赌博、家庭财务等微观研究主题无关"
   },
@@ -2620,7 +2652,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "股权融资与出口:来自中国IPO批准的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "研究企业融资政策对出口贸易的影响,虽涉及企业战略但主要焦点在国际贸易,与赌博、破产、空间竞争等研究方向无关"
   },
@@ -2637,7 +2668,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "负债美元化与汇率向国内价格的传导",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "宏观经济学汇率传导问题,与赌博政策、破产、企业竞争无关"
   },
@@ -2670,7 +2700,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "埃塞俄比亚大规模土地征购:对农业生产率和森林砍伐的影响",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "农业生产与环境主题,离因果推断应用和研究核心太远"
   },
@@ -2751,7 +2780,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "导言:美国国家经济研究局国际宏观经济学研讨会",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "会议导言而非研究论文"
   },
@@ -2784,7 +2812,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "全球银行与自然灾害",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "宏观金融领域,与赌博政策/破产/企业进入无关"
   },
@@ -2820,7 +2847,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "编委会",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "编委会名单而非研究论文"
   },
@@ -2886,7 +2912,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "高速互联网对早期儿童发展有害吗?来自全国项目的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "儿童发展政策评估主题,虽有因果推断设计但离研究方向太远"
   },
@@ -2903,7 +2928,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "劳动力市场竞争与不平等",
-   "abstract_zh": "",
    "ai_relevance": "medium",
    "ai_reason": "涉及竞争模型和市场分析,对企业进入/空间竞争研究有方法论参考价值"
   },
@@ -2920,7 +2944,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "勘误:《农业中的幽灵威胁:滞后干旱如何扭曲投入决策并造成环境无谓损失》",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "农业与气候影响主题,与研究核心无关"
   },
@@ -2937,7 +2960,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "政府需求与企业成长",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "企业增长决定因素,但与赌博政策/破产/家庭债务无关"
   },
@@ -2972,7 +2994,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "从租金到成效:中国反腐改革与对非援助有效性",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "宏观政策与发展援助主题,与研究方向无关"
   },
@@ -2989,7 +3010,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "减少对俄贸易:制裁与企业主动暂停活动",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "国际贸易政策主题,离研究核心太远"
   },
@@ -3006,7 +3026,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "熟悉的陌生人:侨民网络在外资与长期发展中的作用",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "侨汇与发展经济学主题,与赌博政策/破产/企业竞争无关"
   },
@@ -3023,7 +3042,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "公共交通对家庭的好处：来自印度的证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "城市/区域经济学主题，与核心研究方向（赌博政策影响破产/家庭财务困境）关系较远，属于一般发展经济学范畴。"
   },
@@ -3089,7 +3107,6 @@
    "relevance": "low",
    "topics": [],
    "title_zh": "如何培育发票货币:来自阿根廷的微观证据",
-   "abstract_zh": "",
    "ai_relevance": "low",
    "ai_reason": "关于货币制度和金融创新,与赌博政策、破产、消费者信贷等核心研究主题无关。"
   },
@@ -3218,6 +3235,446 @@
   }
  ],
  "working_papers": [
+  {
+   "id": "https://www.nber.org/papers/w35441#fromrss",
+   "title": "Cognitive Aging and Long-Term Care in Italy -- by Agar Brugiavini, Ludovico Carrino, Gloria Moroni, Rinaldo Naci, Giacomo Pasini",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35441#fromrss",
+   "abstract": "This chapter examines the incidence and economic burden of cognitive impairment among older individuals in Italy within the long-term care (LTC) system. Using SHARE Wave 9 data (2022), cognitive impairment is measured through standardized memory and numeracy tests, classifying 8.6% of individuals aged 65+ as cognitively impaired. Cognitive decline rises sharply with age and is strongly associated with higher care needs, particularly intensive formal care. While both physically and cognitively impaired individuals rely heavily on informal care, cognitively impaired individuals receive substantially more hours of care. Total LTC costs amount to $35.3 billion (1.66% of GDP), with cognitively impaired individuals accounting for the largest share of expenditures. Informal care represents a greater financial burden than formal care across all groups. The findings highlight significant unmet care needs and underscore the urgent necessity of policy reforms and healthy ageing strategies to ensure LTC sustainability.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35469#fromrss",
+   "title": "Severe Cognitive Impairments and Long-term Care in Germany -- by Elsa Perdrix, Axel H. Börsch-Supan, Johannes Geyer, Peter Haan, Sami Louahlia",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35469#fromrss",
+   "abstract": "Germany experiences an increase in LTC recipients, due to population ageing but also to reforms which made LTC benefits easier accessible for individuals with cognitive impairments. Previous studies documented the cost of long-term care, and how it evolved. However, less is known about the specific case of elderly people suffering from cognitive impairment. Thus, we measure the economic costs of cognitive impairment, which include extensive medical, nursing care and at-home long-term care. We use the SHARE, the Survey on Health, Ageing and Retirement in Europe, Wave 9. We observe 4% of elderly people living at home with severe cognitive impairment (SCI) (Langa et al. (2017) definition). These individuals are 30% more likely to receive any care, and obtain on average 6 more hours of formal care and 6 more hours of informal care per week. The main driver is not the cognitive impairment per-se but the limitation in activities of daily living (ADLs) which SCI leads to. Thus, once controlling for ADLs, SCI does not explain any additional probability to use care. However, because people with SCI are more likely to have ADLs, the annual cost of their care is estimated to 10,000 euros per year per individual on average.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35470#fromrss",
+   "title": "The U.S. Mortality Crisis as a Preston Curve Reversal -- by Ritikaa Khanna, Rourke O'Brien, Andrew C. Stokes, Atheendar Venkataramani, Elizabeth Wrigley-Field",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35470#fromrss",
+   "abstract": "U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From 2010 to 2019, however, states and counties continued to become richer while life expectancy stagnated or declined. The curves shifted right without shifting up and became steeper, indicating decoupling and divergence: increases in aggregate resources over time no longer produced broad longevity gains, and, in any given year, inequality in life expectancy by income grew. These patterns are robust to alternative temporal anchors around the Great Recession and to substituting education for income. They also appear across sex and racial groups. County-level decompositions are broadly consistent with arguments that longevity has fallen due to widely shared exposures to social deterioration, which may account for the Preston curve reversal. Collectively, we show that the recent U.S. mortality crisis reveals a weakening—and growing inequality—in the conversion of aggregate resources into longevity gains. We conclude that the recent U.S. mortality crisis could be understood not only as a story about particular causes of death, but also as a weakening of institutional and social translation.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35471#fromrss",
+   "title": "Walking with Feet Tied to the Past: Childhood Exposure to the 1918 Influenza Pandemic and Later-Life Male Mortality -- by Hamid Noghanibehambari, Jason Fletcher",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35471#fromrss",
+   "abstract": "Many previous studies have used cross-cohort comparisons and a focus on in utero exposure to document the lingering effects of the 1918 influenza pandemic on survivors’ outcomes later in life. A subset has examined impacts on old-age health and mortality, finding mixed results. This paper contributes to the literature by extending the analysis to evaluate early-life and childhood exposure to the pandemic on old-age longevity along with a set of candidate mechanisms. We employ Social Security Administration death records linked to the full-count 1940 census and employ event-study and difference-in-difference regressions to compare longevity of cohorts with different age-at-exposure who were born in cities with high versus low exposure based on 1918 influenza-related mortality. Our treatment-on-treated calculations suggest that cohorts with age-at-exposure of 3-8 and 9-11 experience 6.4 and 11.2 months reductions in old age longevity; importantly, we note that these cohorts are often used as “controls” in the broader literature. While our main analysis focuses on males due to data constraints, supplementary results suggest smaller and less precise effects for females. An analysis of census data suggests reductions in health, education and socioeconomic scores as potential mechanisms.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35472#fromrss",
+   "title": "Estimating the Economic Effects of Federally Funded R&D -- by Sheila Campbell, Jaeger Nelson, Eli A. Schrag, Heidi L. Williams, Caleb K. Wroblewski",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35472#fromrss",
+   "abstract": "In recent years, there has been Congressional interest in changing various policies related to research and development (R&D). Recent legislation has included provisions that would modify federal funding for R&D investments and tax provisions affecting the after-tax price of R&D. The Congressional Budget Office (CBO) has developed analytical frameworks for estimating how changes in R&D investments affect the economy and the federal budget. This paper describes the agency’s current analytical framework for modeling the economic effects of changes in federal funding for R&D, focusing on two distinct approaches that CBO has developed: an R&D capital stock approach and an R&D components approach.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35473#fromrss",
+   "title": "A Large-Scale Evaluation of Merger Simulations -- by Vivek Bhattacharya, Gastón Illanes, Avner A. Kreps, José D. Salas, David Stillerman",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35473#fromrss",
+   "abstract": "Prospective merger simulations are a commonly used tool in industrial organization and antitrust, but evidence about their accuracy and predictive ability is limited. We study 101 mergers in consumer packaged goods and compare the realizations of price changes with predictions from merger simulations. In our sample of consummated mergers, predicted price changes from merger simulations are typically larger than realized ones. Despite the overprediction, we find that full merger simulations are more effective than both structural presumptions and approximations of the merger effect at identifying mergers with large price changes.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35474#fromrss",
+   "title": "Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants -- by Michael Rubens, Bernardo S. Silveira",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35474#fromrss",
+   "abstract": "In monopsony models, wage markdowns induce deadweight loss and are therefore inefficient. Yet markdowns also arise in models with backloaded efficiency pay, where they are designed to induce effort among early-career workers and are thus efficient. To reconcile—and empirically distinguish—these two mechanisms, we build a dynamic model incorporating labor market power and endogenous effort. Estimating a team production model on novel data on U.S. public accounting firms, we find evidence of both: markdowns for junior workers and markups for senior ones reflect incentive-providing backloading, while monopsony power induces a ‘lifetime’ wage markdown of 15%.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35475#fromrss",
+   "title": "The Labor Market Impacts of GLP-1s -- by N. Meltem Daysal, Camille JH. Fredrickson, Ida L. Kristiansen, Mircea Trandafir, Jonathan Zhang",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35475#fromrss",
+   "abstract": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness leave by 17.3%. We estimate total fiscal benefits of GLP-1 initiation of approximately 1.3–1.5% of annual labor income per employed individual. We do not detect statistically significant or economically meaningful impacts on income, labor force participation, or employment over four years.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35476#fromrss",
+   "title": "Oligopsony and Collective Bargaining -- by Tirza J. Angerhofer, Allan Collard-Wexler, Matthew C. Weinberg",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35476#fromrss",
+   "abstract": "Employers facing limited labor market competition may suppress wages below socially optimal levels. Unions can counteract wage suppression through collective bargaining, though they may also push wages above the socially optimal level and lead to job rationing. We estimate a structural model of labor supply, labor demand, and Nash-in-Nash bargaining over wages between local teacher unions and school districts in Pennsylvania’s K-12 public school system from 2013 to 2019. We compare negotiated equilibrium wages and employment to oligopsony wage posting and social planner scenarios. On average, oligopsony reduces wages 7 percent below the social optimum, while collective bargaining raises wages 8 percent above it. Averages mask substantial district-level heterogeneity driven by bargaining power variation. Twenty-eight percent of school districts have salaries lower when public schools are unionized than when they are not due to cross-district externalities, where high salaries at one school cause hiring reductions that increase labor supply elsewhere.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35477#fromrss",
+   "title": "In Sickness and in Health: Retirement Responses to Spousal Health Shocks -- by Hyeran Chung, Haena Lee, Sita Slavov",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35477#fromrss",
+   "abstract": "Health shocks are a major driver of retirement. However, the existing literature on this topic tends not to consider the marital context in which retirements occur. Using the 1992-2022 Health and Retirement Study and staggered difference-in-differences methods, we investigate how spousal health shocks impact retirement transitions. We also investigate whether these effects differ by gender and health insurance status. We consider multiple definitions of health shocks, including self-reported health declines, additional diagnoses, hospitalizations, increases in out-of-pocket medical spending, and functional deterioration. Our results suggest that the probability of retirement increases by 1.2 to 1.3 percentage points (12 to 13 percent) after a spouse’s new health condition diagnosis or hospitalization. These retirements tend to occur earlier than anticipated. They also tend to be concentrated among women and respondents with employment-based health plans that include retiree coverage for their spouse.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35478#fromrss",
+   "title": "Better Together? The Impact of Cash Transfers and Couples' Financial Planning on Household Dynamics and Economic Outcomes -- by Sarika Gupta, Jessica Leight, Daniel W. Maggio, Simone G. Schaner",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35478#fromrss",
+   "abstract": "Households' most consequential economic decisions are usually made jointly, yet behavioral interventions are typically targeted to individuals and optimized to overcome intra-personal constraints. We use a randomized controlled trial to study whether behavioral interventions targeted to couples can overcome interpersonal constraints related to intra-household decision-making. In rural Liberia, we layer a facilitated joint financial planning exercise atop a large unconditional cash transfer, assessing effects relative to cash only and a pure control. Relative to cash only, adding planning increases the amount of the transfer spent on productive investment and consequently improves economic outcomes by 0.16 standard deviation units. However, for households with the highest ex-ante conflict risk, these gains come at the cost of additional intimate partner violence.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35479#fromrss",
+   "title": "Firm Exit and Financial Frictions -- by Gideon Bornstein, Laura Castillo-Martinez",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35479#fromrss",
+   "abstract": "Governments often intervene to prevent firm closures during crises, fearing that financially constrained but viable firms may fail. We develop a firm dynamics model with incomplete financial markets and show how financial frictions generate excessive firm exit. A key statistic governing this dynamic inefficiency is the marginal propensity to exit with debt. Using confidential U.S. Census data, we estimate the relationship between debt and exit and use it to discipline the model. The calibrated model implies that eliminating financial frictions reduces firm exit from 9.3% to 5.0% and generates welfare gains of 3.6% in consumption-equivalent terms. We show that the welfare costs of financial frictions rise sharply during financial crises but change little during standard productivity recessions. Finally, we compare government-guaranteed loans and grants, quantifying the trade-off between fiscal cost and effectiveness in preventing excessive exit.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35480#fromrss",
+   "title": "Estimating Trends In Mental Distress Using Survey Data -- by Christopher J. Ruhm",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35480#fromrss",
+   "abstract": "One way of examining how mental health has changed over time is to use information available in large national surveys. While these survey-based measures are valuable in principle, and have been widely employed in prior research, a number of challenges may limit their practical usefulness or require considerable care in their application. This study uses data on U.S. 18-64 year olds from five major household surveys over the period 1999-2019 to investigate three specific questions. First, do different measures or the same indicator from different data sets consistently show how mental distress has changed over time? Second, how does the performance of single-item measures compare to those of psychometrically validated screeners based on multiple questions? Third, what are the benefits or potential costs of using different functional forms of these measures? The answers to these questions are as follows: 1) the estimated trends vary, often dramatically, across measures and, for the same indicator, across data sets and, as a result, some proxies provide a misleading understanding of how mental health has changed over time; 2) the single-item measures do as well or better than those based on multiple questions; 3) no single functional form demonstrates clear superiority over the others. After demonstrating these points, lessons are elucidated for researchers attempting to use survey data to examine trends in mental health.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35481#fromrss",
+   "title": "Inference with AI-Generated Covariates -- by Junting Duan, Markus Pelger",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35481#fromrss",
+   "abstract": "Empirical researchers increasingly use large language models (LLMs) to extract structured features, such as sentiment scores, classifications, and expectations, from unstructured data and treat these generated features as observed covariates in downstream estimation. This practice can invalidate inference when systematic, input-dependent errors in generated features, such as hallucination and look-ahead bias, distort the downstream moment conditions. Even after correction, generated features remain noisy proxies whose error profiles differ across models and prompts. We introduce AI-Powered Inference (AI-PI), a method-of-moments framework for valid and efficient inference that combines three components: a moment-specific bias correction based on a small human-labeled calibration set; adaptive weights that optimally combine multiple model-prompt pairs; and an optimal calibration-set design that concentrates costly human labels where the generated features are least reliable. We establish consistency and asymptotic normality of the AI-PI estimator, allowing for data-adaptive labeling designs, cross-fitted LLM-pipeline tuning, and overidentified GMM. Simulations confirm substantial gains over naive LLM regressions and over debiasing without optimal weighting or labeling design. In an application to news-based sentiment and stock returns, AI-PI produces stable conclusions where naive analyses vary substantially across LLM and prompt choices, with a confidence interval roughly half as long as using the human-labeled data alone.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35482#fromrss",
+   "title": "Life After Divorce: Effects of Joint Custody on Parents and Children -- by Stella Canessa, Gordon B. Dahl, Anna Hasselqvist, Costas Meghir, Susan Niknami, Mårten Palme, Helmut Rainer, Olof Rosenqvist, Pengpeng Xiao",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35482#fromrss",
+   "abstract": "Divorce reshapes family life, yet little is known about one of its most consequential features: the allocation of child custody. We study the impact of joint versus sole custody on both parents and children using rich administrative data from Sweden linked to over 25 years of newly-collected court custody rulings. To address selection concerns, we exploit random assignment of custody disputes to judges who differ sharply in their propensity to grant joint custody. For fathers, joint custody substantially raises earnings and improves mental health, consistent with sustained paternal involvement enhancing labor market attachment and psychological well-being. In contrast, there are no measurable labor market or mental health effects for mothers. Turning to children, joint custody increases standardized test scores and school quality without affecting mental health outcomes. Joint custody increases fathers’ chances of remarriage, keeps separated parents in closer geographic proximity, and has no effect on intimate partner violence allegations against either partner. These findings inform longstanding debates over the role of child custody in shaping post-divorce family life.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35483#fromrss",
+   "title": "Sharpening Economic Interpretation with HARS -- by Dawis Kim, Tao Zha",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35483#fromrss",
+   "abstract": "We develop a unified framework that combines shock volatility with sign and narrative restrictions and provides the theoretical foundation for the computationally efficient sampler HARS. HARS preserves the heteroskedastic likelihood and can be combined with any posterior simulator for the heteroskedastic model. In monetary policy, oil market, and fiscal policy models, the same restrictions deliver substantively different economics once shock heteroskedasticity is accounted for. Homoskedastic SVARs put uncertainty in the wrong place, pushing shock-scale variation into impulse-response uncertainty. Heteroskedasticity sharpens dynamic responses, alters economic conclusions, and restores 90% credible intervals as a practical standard for economic inference.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35484#fromrss",
+   "title": "Policy Thresholds as Growth Barriers: Theory and Evidence from a Payroll Tax Notch -- by Sami Jysmä, Youssef Benzarti, Jarkko Harju",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35484#fromrss",
+   "abstract": "Discrete policy thresholds are pervasive in tax and regulatory systems and can substantially distort behavior. We show that notches acting as barriers to mobility within a distribution generate distortions extending far beyond the threshold. The same mechanism biases conventional difference-in-differences estimators, and we propose a new methodology to recover causal effects. Applying the method to the abolition of a size-based payroll tax notch, we find that the notch reduced the number of firms above the threshold by 18 percent and lowered treated firms’ employment, capital stock, and value added by 10 percent, whereas conventional difference-in-differences estimates imply negligible effects.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35485#fromrss",
+   "title": "Critical Peak Rewards: Evidence from a Nationwide Demand Response Program -- by Louise Bernard, Robert D. Metcalfe, Andrew Schein",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35485#fromrss",
+   "abstract": "Demand flexibility at scale is likely to be an important part of the future energy system. This study evaluated the world’s first nationwide domestic and commercial demand flexibility program. We analyzed the policy using a natural field experiment, with a sample of 2.7 million, assigning 119,999 customers to a control group and the rest to receive randomized encouragement to sign up to the demand flexibility program. The program paid consumers to reduce their demand below a predicted baseline at peak demand across 16 events (i.e., when the system was stressed) during the Winter of 2023–24. Customers who opted into events reduced demand during events by 23.1% among compliers, at an average cost for the system operator of £2,325 per MWh. The adoption of solar panels and batteries, heat pumps, and EVs all increased demand response.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35486#fromrss",
+   "title": "Learning and the Efficiency of Expert Referrals -- by Ian McCarthy, Seth Richards-Shubik",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35486#fromrss",
+   "abstract": "Buyers of complex goods and services often rely on the advice of expert intermediaries who are themselves imperfectly informed about the quality of the available options. How well do these intermediaries learn about that quality and act on it? We study this question in the setting of referrals from primary care physicians (PCPs) to specialists, using data on 4.5 million joint replacement surgeries for Medicare beneficiaries. We first document substantial heterogeneity in specialist quality and costs within geographic markets, and we present design-based evidence showing that PCPs adjust their referrals specifically based on the outcomes of their own patients. We then employ a structural learning model of PCP referral choices to quantify the losses from informational frictions and to simulate possible reallocations with improved information. Beyond learning, the model also accounts for limitations on possible reallocations due to habit persistence and capacity constraints. We find that about one-quarter of patients would be referred to a different specialist in the absence of informational frictions, with small but meaningful improvements in patient outcomes.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35487#fromrss",
+   "title": "Structural Estimation with Unstructured Data -- by Sara Casella, Jesús Fernández-Villaverde, Stephen Hansen, Ryohei Oishi, Minchul Shin",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35487#fromrss",
+   "abstract": "Standard macroeconomic data do not cleanly separate the systematic and nonsystematic components of monetary policy. We show that incorporating unstructured text data into the structural estimation of a DSGE model can sharpen this distinction. We augment a standard state-space model with a non-core measurement block that links structural shocks to time series derived from FOMC transcripts, using a spike-and-slab prior to let the data select which series are informative. In a medium-scale New Keynesian model for the U.S., incorporating text improves predictive performance and materially alters structural inference: the new model estimates a lower response of the policy rate to inflation, higher price stickiness and lower price indexation, implying a flatter and less backward-looking price Phillips curve.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35488#fromrss",
+   "title": "Ambiguity vs. Risk in Investment Decisions: A Continuous Decomposition -- by Geoffrey Heal, Marcella Lucchetta",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35488#fromrss",
+   "abstract": "This paper provides a novel framework for assessing the effect of ambiguity on asset values within the Klibanoff-Marinacci-Mukerji (KMM) smooth ambiguity framework. By shifting the analysis into a continuous space of prior probabilities, we establish that ambiguity leads to an adjustment of beliefs (“ambiguity-adjusted probabilities” or “distorted probabilities”) characterized by First-Order Stochastic Dominance (FSD). Leveraging this property, we introduce a systematic economic decomposition of asset valuation separating the baseline risky valuation from the structural cost of uncertainty. Our continuous framework shows that increased ambiguity aversion depresses optimal asset demand.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35489#fromrss",
+   "title": "Diagnostic Thresholds, Written Consent Requirements, and the Utilization of Scarce Organs -- by Hannah Bae, Jeffrey Clemens",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35489#fromrss",
+   "abstract": "This paper explores how diagnostic thresholds and a written consent requirement affect decision making between patients and transplant surgeons regarding the use of deceased donor kidneys. Combining administrative data on the universe of organ donors and transplant recipients in the United States, we show that age-based discontinuities within the Expanded Criteria Donor system (ECD), which was in place from late 2002 to late 2014, led to 4.0 and 5.4 percentage point differences in the rates at which otherwise indistinguishable kidneys were discarded. A discontinuity within the subsequent presentation of the Kidney Donor Profile Index (KDPI) led to a 2.6 percentage point difference. We present evidence that diagnostic thresholds have nuanced effects on decision making and information acquisition; procurement biopsy rates, for example, rose substantially at the ECD system’s age-based discontinuities. We further show that written consent requirements triggered within the ECD and KDPI labeling systems substantially reduced the number of potential recipients to whom kidneys were offered prior to being discarded. This channel can explain the majority of the increased rate at which “High-KDPI” kidneys are discarded under the current system.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35490#fromrss",
+   "title": "Training AI for When Humans Will Use It -- by Kevin A. Bryan, Joshua S. Gans",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35490#fromrss",
+   "abstract": "AI predicts; humans use its predictions to make decisions. These predictions are combined with human verification and analysis, queries to other statistical models, and so on. The economic value of an AI, therefore, depends on how it interacts with the surrounding decision environment. We describe the value of AI as part of this \"composite experiment\" where AI makes a coarse prediction of the state of the world, show what this means for optimal model training via a geometric argument, explain why optimal training can be discontinuous in economic variables, and study how heterogeneous users or monopoly model trainers affect these results. In particular, maximizing the unconditional accuracy of AI predictions is generally suboptimal.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35491#fromrss",
+   "title": "Retreating from Science: The Long-Run Effects of the 1970s U.S. Military Disinvestment from University Research -- by Daniel P. Gross, Bhaven N. Sampat, Hansen Zhang",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35491#fromrss",
+   "abstract": "Between 1945 and 1970, the U.S. Department of Defense was one of the country's largest funders of university research, and the most important in the physical sciences and engineering. Political pressures subsequently led to this funding declining nearly two-thirds by the mid-1970s and never fully recovering. We show that these cuts were felt across the U.S. research system, with ensuing declines in university scientists, PhD production, and research output. Early career scientists who were DoD-funded in 1970 were more likely than peers to leave universities, with many moving to industry. Though some became more likely to patent, in the aggregate, this appears to have reduced science-linked innovation in related technologies and compressed U.S. leadership in formerly DoD-driven fields. These effects extend to outcomes more closely related to military objectives: fewer PhDs entered the defense industrial base, and an initial increase in science-linked defense patenting in the most exposed technology areas gave way to a long-run decline.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35492#fromrss",
+   "title": "No-Poach Agreements -- by Axel Gottfries, Gregor Jarosch",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35492#fromrss",
+   "abstract": "We study no-poach cartels using a wage-posting model that puts worker poaching at the center of labor market competition. Even when just two out of ten employers in a local labor market collude, wages fall by almost 5% market-wide. The reason is that no-poach agreements suppress competition along the job ladder, with spillovers to non-colluding firms. We then compare no-poach agreements to two other forms of anti-competitive conduct in the labor market: noncompete agreements and wage fixing. No-poach agreements have by far the largest negative wage effects.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35493#fromrss",
+   "title": "Immigrants' Legal Status and Firms: Evidence from the 2007 EU Enlargement -- by Vittoria Dicandia, Silvia Vannutelli",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35493#fromrss",
+   "abstract": "We study how firms and workers adjust when previously restricted migrants gain full and portable work rights in a labor market with substantial informality. We exploit the 2007 EU accession of Bulgaria and Romania, which granted unrestricted work rights to Italy's largest migrant group. Using matched employer–employee administrative data and an IV-DID design, we find that firms suddenly and persistently shift employment composition toward EU07 workers, compressing the native employment share without reducing native hiring or increasing separations. We don't detect any significant change in wages for either natives or EU07 workers. For migrants, this null effect reflects offsetting compositional shifts as newly observed and incumbent EU07 workers enter the formal workforce with different wage trajectories. Consistent with a shift in bargaining power toward workers, EU07 migrants experienced significant gains in job mobility and job security. Overall, the evidence suggests that removing legal restrictions reshaped firms’ personnel choices and altered migrants’ employment relationships, improving their outside options, bargaining position, and access to more secure jobs.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35494#fromrss",
+   "title": "The Price of Political Ties: Reputational Risk and the Strategic Divestment of Corporate PACs -- by Eric A. Baldwin, Takuma Iwasaki, John J. Donohue, Charlie Grabois",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35494#fromrss",
+   "abstract": "Political contributions generate access and influence for firms, but their public visibility exposes firms to reputational risk. We study how firms adjust their political spending when the reputational cost of political ties rises sharply. To identify this response, we exploit fatal school shootings and mass shootings as exogenous shocks to the salience of gun violence in the United States. We implement a staggered difference-in-differences design on a panel of corporate PAC contributions to U.S. House candidates, 2000–2024. We find that corporate PACs divest selectively and temporarily following gun violence shocks. Contributions to Republican candidates fall by 70.3% after fatal school shootings in competitive districts and return to baseline within nine months, with no substitution toward Democratic candidates. A parallel penalty of 60.9% emerges for Republicans in safe Democratic districts but is absent in safe Republican districts. Mass shootings generate similar perturbations in corporate contributions. These patterns indicate that firms withdraw only where the reputational risk of continued association is high or its strategic value is low. The observed divestment appears across industries and is stronger for firms with greater consumer exposure. Our findings reveal that firms treat political ties as time-varying liabilities, temporarily withdrawing visible financial support when issue salience spikes and resuming once public attention fades, leaving firms’ long-run political investment intact. Since public pressure is limited and dissipates quickly, and corporate divestment is transient rather than durably reallocated, the underlying financial incentives facing policymakers remain unchanged in the long run, sustaining the policy status quo.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35495#fromrss",
+   "title": "Human Enhancement Technologies: A Survey Experiment on Private Demand and Governance Preferences. -- by Giovanni Immordino, Mario Macis, Immacolata Marino, Fabrizio Panebianco",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35495#fromrss",
+   "abstract": "When a new technology promises large private benefits but may impose social costs that markets do not price, demand need not reveal how citizens want it governed. We examine this using a nationally representative U.S. survey experiment (N=5,556) on human enhancement technologies (HET). The experiment randomizes benefit domain, mechanism, heritability, purpose, and risk across vignettes; for each respondent’s assigned vignette, we elicit stated adoption, preferred regulation, and ethical and societal concerns. Overall, about 53% would adopt. Framing the technology as enhancing rather than restorative lowers adoption by about five percentage points, as much as a severe side-effect profile. About 28% would not adopt at any benefit. This refusal is driven overwhelmingly by the enhancing framing rather than by risk, consistent with a non-compensatory constraint for a substantial subgroup. Most who would adopt still favor strict regulation, and most who would never adopt do not wish to forbid others from doing so. Productivity enhancement generates the most ethical concern of any attribute but attracts the least regulation, and respondents favor subsidizing rather than taxing its adoption, consistent with a concern about access rather than safety. Private demand is therefore an unreliable guide to the governance citizens want, and the divergence we document provides a basis for regulators seeking to align the direction of technical change with societal values and priorities.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35496#fromrss",
+   "title": "Supply Chain Risk, Trade and Economic Fragility -- by Juanma Castro-Vincenzi, Adry Gracio, Gaurav Khanna, Nitya Pandalai-Nayar",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35496#fromrss",
+   "abstract": "We study how equilibrium patterns of production, trade, and input sourcing in complex supply chains are shaped by aggregate risk. We develop a quantitative multi-country model with multi-sourcing across stages. We show that sourcing shares equal an input’s expected output elasticity — its expected marginal contribution to output across states of the world. Risk has a positional effect on sourcing and welfare, operating through offsetting cross-stage complementarity and within-stage substitutability; which one dominates is a quantitative question. An increase in a country’s own risk always lowers its welfare; risk elsewhere has ambiguous, sometimes positive, effects through relative prices. We also show analytically that risk attenuates comparative advantage, as countries shift sourcing away from their most productive suppliers. Quantifying the model for 50 countries and 3 production stages, we show that supply-chain complexity lowers volatility for the riskiest countries, and rising Chinese-origin risk reallocates production and lowers welfare unevenly across the chain.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35497#fromrss",
+   "title": "Exorbitant Privilege of the Periodic Table? Geoeconomics, Endogenous Centrality and Strategic Minerals for the Green Transition -- by Josh Kirk, Evgenia Passari, Hélène Rey",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35497#fromrss",
+   "abstract": "Trade networks underpinning the energy transition are endogenous economic objects, and their structure is a source of market power. Using bilateral trade data for thirteen electrification metals over 1995–2023, we show that trade in these materials has reorganised into a hub-and-spoke system centred on China, in sharp contrast to the diffuse, multilateral structure of fossil fuels. This centrality did not follow from resource endowments: China holds few of the underlying reserves. It was built through processing investment, industrial policy, and commodity-targeted development finance—an equilibrium outcome rather than a geographical accident. We formalise this in a stylised model in which a country chooses how central to become, and show that centrality maps into pricing power: the world price response to a strategic supply cut is stronger when the network is more concentrated and downstream demand and fringe supply are more inelastic. Constructing text-based, commodity-specific supply shocks and estimating local projections, we find that supply contractions in critical metals raise US and EU consumer prices by roughly twice as much as comparable fossil-fuel shocks, and more persistently. Centrality is therefore not merely descriptive: it creates leverage over global prices. The green transition reduces strategic dependence on hydrocarbon exporters but reconstitutes it around mineral supply chains.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35498#fromrss",
+   "title": "Optimal Currency Strategies Under Deviations From Interest Parity -- by Luis M. Viceira, Sally Shen",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35498#fromrss",
+   "abstract": "This paper examines optimal currency demands for global equity and bond investors in a large cross-section of developed and emerging markets over the 1975-2023 period. It extends the framework of Campbell et al. (2010) by incorporating both optimal portfolio-risk minimizing currency exposures, accounting for empirically measured hedging costs arising from deviations of Covered Interest Parity (CIP), and optimal expected-return-driven currency demands based on non-zero expected excess currency returns arising from empirically measured deviations of Uncovered Interest Parity (UIP). The analysis shows that the main conclusions of their portfolio risk-minimizing framework hold for this larger and longer panel of countries and that they are robust to deviations from CIP. Specifically, it is optimal for portfolio risk-minimizing equity investors to hold exposures to the U.S. dollar and the euro while avoiding exposure to all other currencies, whereas bond investors should hedge all currency exposures. In contrast, observed deviations from UIP are sufficiently large and persistent among currencies with high average relative interest currencies, especially Emerging Markets currencies, to generate expected return-driven currency demands that offset, and in some cases reverse, portfolio-risk minimizing demands, even for investors with low risk tolerance. The average excess returns on those currencies are large enough to compensate investors for their substantial return volatility and strong positive covariance with equity returns.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35499#fromrss",
+   "title": "Spreading Out Across Expanding Idea Space -- by Ina Ganguli, Jeffrey Lin, Vitaly Meursault, Nicholas F. Reynolds",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35499#fromrss",
+   "abstract": "Over nearly two centuries, US inventions have become increasingly dissimilar: not just fewer head-to-head collisions between inventors, but growing distance between neighboring inventions. We document this secular decline in similarity using validated neural language models applied to the full text of claims in over 11 million US patents (1836–2023), corroborated by a 98% decline in patent interference rates, a measure of independent simultaneous invention. Measuring this correctly requires validation, since different representations of the same patent text can yield opposite conclusions about whether inventions are converging or spreading out. Our validation framework, the first systematic comparison for patent text, selects among these representations. We develop a spatial competition model in which inventors choose locations in idea space. The model explains spreading out and connects it to several independently documented patterns — rising R&D investment per inventor, increasing patent values, weakening knowledge spillovers, and declining research productivity. The mechanism is spatial; as inventors spread out to capture new territory, inventions become more valuable but also more costly for others to absorb. In doing so, the model turns spillover intensity, innovation step size, and research productivity from fixed primitives into outcomes of inventor positioning. A calibrated decomposition attributes roughly 40% of the long-run decline in US research productivity to these spatial forces, alongside traditional explanations such as fishing out and the burden of knowledge. Where inventors stand relative to each other in idea space matters as much for growth as how many of them there are.",
+   "published": "",
+   "relevance": "high",
+   "topics": [
+    "城市/区域",
+    "企业进入/空间竞争"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35500#fromrss",
+   "title": "Volatility Disagreement in the Options Market -- by Turan G. Bali, Bryan T. Kelly, Mathis Mörke",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35500#fromrss",
+   "abstract": "We construct a novel stock-level measure of volatility disagreement as the cross-sectional dispersion of realized variance forecasts built from heterogeneous information sets and machine learning models. Sorting single-name delta-hedged straddles on this measure yields a long-short return of −5.14% per month, robust to known option return predictors and not subsumed by disagreement about first moments or the variance risk premium. A one-standard-deviation increase in volatility disagreement is associated with a 30% rise in option position opening. The cross-sectional patterns of our disagreement measure align with recent theoretical advances of beliefs and pricing of variance claims. Evidence on attention, ownership, and arbitrage costs is more consistent with mispricing than risk compensation.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35501#fromrss",
+   "title": "Human Capital in Venture Capital: Evidence From 100,000 Venture Capitalists -- by Blake Jackson, Ilya A. Strebulaev",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35501#fromrss",
+   "abstract": "We study human capital in venture capital (VC) using a new dataset covering over 100,000 professionals affiliated with U.S. VC firms. Investment success is extremely concentrated: fewer than 40% of VCs with any investments are ever credited with a successful investment, and 90% of investment profits are generated by 5% of VCs. Differences in education, prior work experience, and demographics predict career progression and investment outcomes, consistent with persistent investor-specific skills. Quasi-experimental variation from marginal inclusions on the Forbes Midas List shows that achieving superstar status increases access to highly-valued startups, complementing other human capital and contributing to concentration.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35502#fromrss",
+   "title": "Physician Learning and Forgetting: Evidence from the US Military -- by Trevor Fitzgerald, Atul Gupta, Stephen D. Schwab",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35502#fromrss",
+   "abstract": "Physicians in the U.S. military health care system are quasi-randomly assigned to combat deployments, leading to gaps of varying durations in their clinical practice. We leverage this unique setting to provide novel causal evidence on skill depreciation (forgetting) and learning-by-doing among physicians. We find robust evidence that readmission rates increase by 48% in the first two months after a surgeon returns from a deployment. However, surgeons return to baseline performance within 6 months of resuming practice. In contrast, obstetricians maintain elevated cesarean section rates for up to 9 months, implying a deeper change in clinical judgment. Finally, we interpret these patterns through the lens of a learning model and estimate learning-by-doing rates for surgeons and obstetricians. A doubling of recent procedure volume reduces readmission and C-section rates by 17% and 11% for surgeons and obstetricians, respectively.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35503#fromrss",
+   "title": "Who Wants to Break Up Big Firms? Harm, Fairness, and the Demand for Antitrust -- by Ricardo Perez-Truglia, Jeffrey Yusof",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35503#fromrss",
+   "abstract": "The rise of superstar firms has made dominant companies central to modern economic life, and antitrust enforcement is one of the main policy tools for regulating their market power. Public opinion can shape the political and regulatory environment in which antitrust enforcement takes place, yet there is little direct evidence on what drives these preferences. We conduct a pre-registered information-provision experiment with 4,000 American households. Respondents were told about one of five real antitrust cases and randomly assigned to information treatments designed to study four potential drivers of support for antitrust enforcement: perceived market share, perceived consumer harm, perceived unfair competition, and perceived negative image. All four treatments moved the beliefs they were designed to affect, but their effects on demand for antitrust differed sharply. Information about consumer harm had the most systematic effects: it increased plaintiff support and support for break-up and conduct remedies, with effects remaining visible one month later, and also spilled over to broader support for antitrust policies. By contrast, and contrary to expert forecasts, information about market share had no meaningful effect on demand for antitrust enforcement. The findings suggest that the public thinks like economists in one key respect: they do not care about market share per se, but respond instead to consumer harm. One factor outside the core economic framework, perceived unfair competition, also matters, though its effects are more limited in scope. We discuss implications for policymakers and regulators.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35504#fromrss",
+   "title": "Bank Runs With and Without Bank Failure -- by Sergio A. Correia, Stephan Luck, Emil Verner",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35504#fromrss",
+   "abstract": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are considerably more likely in weak banks but also occur in strong banks, especially in response to negative news about the real economy or the broader banking system. However, runs typically only result in failure for banks with poor fundamentals. Strong banks survive runs through various mechanisms, including signaling strength, interbank cooperation, and temporary suspension. At the local level, runs on banks with poor fundamentals translate into substantially larger declines in deposits, lending, and manufacturing activity than runs on strong banks. Our findings imply that poor fundamentals are central to explaining both when runs occur and when they have severe economic effects, tempering the view that small shocks can generate discontinuous jumps to bad equilibria through self-fulfilling run dynamics.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35505#fromrss",
+   "title": "Global Financial Transparency and Offshore Wealth Accumulation -- by Annette Alstadsæter, Niels Johannesen, Ségal Le Guern Herry, Gabriel Zucman",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35505#fromrss",
+   "abstract": "This paper uses administrative data to analyze wealth flows from Norway to offshore tax havens before and after a major improvement of global financial transparency: automatic exchange of bank account information between tax authorities. We present three results suggesting that the policy is a significant deterrent of offshore tax evasion: First, taxpayers who become wealthy are much less likely to shift wealth to offshore banks. Second, when wealth does flow to offshore banks, it is much less likely to reduce domestic tax payments. Third, there is no increase in the use of complex ownership structures for offshore wealth flows.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35506#fromrss",
+   "title": "Economic Models of Identity Formation and Cultural Transmission -- by Alberto Bisin, Thierry Verdier",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35506#fromrss",
+   "abstract": "In this paper we survey recent advances in the economic theory of identity formation. We restrict our analysis to models which conceptualize identity formation as embedded into an inter-generational cultural transmission process, and therefore have implications for the dynamics of social identity. Through the lens of a general framework linking identity formation to cultural evolution, we discuss issues related to the dynamics of oppositional, racial, or minority attitudes, cultural polarization, identity switching, and openness to alternative identities. An application of the set-up to multidimensional identities constructed from combinations of characteristics, provides conditions under which societies converge (or not) toward narrow identities centered on salient markers such as religion, ethnicity, or race. We conclude by outlining promising avenues for future research.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.nber.org/papers/w35373#fromrss",
    "title": "How Do State “Auto-IRA” Policies Affect Household Balance Sheets? -- by Adam Bloomfield, Ngoc Dao, Kyung Min Lee, Sita Slavov",
@@ -3842,6 +4299,52 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
+   "title": "Whit Stillman’s *Metropolitan* (that was then, this is now)",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
+   "summary": "It is fun to watch/rewatch this 1990 movie circa 2026. It is about New York City debutantes (CT and the Hamptons too), and how they interact with each other. The movie is set a bit earlier in time, perhaps in the mid-1980s, though some scenes hearken back to the 1970s. Of course there is no […] The post Whit Stillman’s *Metropolitan* (that was then, this is now) appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-20T11:25:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/democrats-are-more-politically-segregated-than-are-republicans.html?utm_source=rss&utm_medium=rss&utm_campaign=democrats-are-more-politically-segregated-than-are-republicans",
+   "title": "Democrats are more politically segregated than are Republicans",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/democrats-are-more-politically-segregated-than-are-republicans.html?utm_source=rss&utm_medium=rss&utm_campaign=democrats-are-more-politically-segregated-than-are-republicans",
+   "summary": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for […] The post Democrats are more politically segregated than are Republicans appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-20T05:27:38+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-winners-56th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-56th-cohort",
+   "title": "Emergent Ventures winners, 56th cohort",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-winners-56th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-56th-cohort",
+   "summary": "Audrey London, Los Angeles, to write a book on water in California. Seyi Oluwasanmi, London, to bring Brits to SF to learn tech. Thomas Haferlach, Berlin, payments and compute layer for the long tail of AI apps. Juan Ramón Egea Fernández, Andalusia, tech. Teo Spiro, Israel, AI and biology. Amitav Krishna, suburban Ontario, 14, quantum. […] The post Emergent Ventures winners, 56th cohort appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-20T04:33:26+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-in-everything-78",
+   "title": "Markets in everything?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-in-everything-78",
+   "summary": "Peter Brook‘s five-hour-plus film adaptation of “The Mahabharata” is set for a BFI Blu-ray release on Aug. 10, presented in high definition from a new 4K restoration of the 1989 production. The release centres on the triptych version of the film, running 332 minutes, which sits between Brook’s three-hour cinema cut and the six-hour television version he shot […] The post Markets in everything? appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-19T19:10:49+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-576",
    "title": "Sunday assorted links",
    "source": "Marginal Revolution",
@@ -4217,6 +4720,17 @@
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108916",
+   "title": "GAOverview: Recent Federal Workforce Changes at OPM",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108916",
+   "summary": "Why This Matters The Office of Personnel Management (OPM) is the federal government's central agency for human resources and workforce management. Since December 2024, in alignment with presidential directives on the closure of certain offices and the reduction of the size of the federal workforce, OPM has undergone significant workforce and organizational structure changes. These actions have reduced institutional knowledge and operational capacity at the agency. OPM’s Headcount Decreased by 35 Percent Between December 2024 and March 2026 GAO analysis of OPM’s Federal Workforce Data (FWD) fou",
+   "published": "2026-07-20T11:22:29+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-107974",
    "title": "Navy Ship Modernization: DOD Needs Comprehensive Strategy to Field Hypersonic Missile Capability",
