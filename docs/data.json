@@ -1,6 +1,47 @@
 {
- "generated_at": "2026-07-20T13:07:49.607022+00:00",
+ "generated_at": "2026-07-21T12:24:17.581151+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jinteco.2026.104310",
+   "title": "Melitz meets Lewis: The impacts of roads on structural transformation and businesses",
+   "authors": "Joseph P. Kaboski, Will Jianyu Lu, Wei Qian, Lixia Ren",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104310",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104310",
+   "abstract": "",
+   "published": "2026-07-20T15:33:50Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104309",
+   "title": "A two-pronged approach to currency internationalization",
+   "authors": "Qing Liu, Wenlan Luo, Jiatong Niu",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104309",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104309",
+   "abstract": "",
+   "published": "2026-07-20T15:33:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104264",
+   "title": "Sponge city and impermeable housing value: Evidence from London",
+   "authors": "Yihao Wu",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104264",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104264",
+   "abstract": "",
+   "published": "2026-07-20T15:00:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
   {
    "id": "10.1016/j.jinteco.2026.104308",
    "title": "Offshore dollar funding shocks and the dollar exchange rate",
@@ -270,23 +311,6 @@
    "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
   },
   {
-   "id": "10.3982/ecta22979",
-   "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
-   "authors": "Christian Cox",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta22979",
-   "url": "https://doi.org/10.3982/ecta22979",
-   "abstract": "The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "竞选融资管制放松的均衡效应",
-   "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
-   "ai_relevance": "low",
-   "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
-  },
-  {
    "id": "10.3982/ecta21839",
    "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
    "authors": "Anh Nguyen",
@@ -302,6 +326,23 @@
    "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
    "ai_relevance": "low",
    "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
+  },
+  {
+   "id": "10.3982/ecta22979",
+   "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
+   "authors": "Christian Cox",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta22979",
+   "url": "https://doi.org/10.3982/ecta22979",
+   "abstract": "The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "竞选融资管制放松的均衡效应",
+   "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
+   "ai_relevance": "low",
+   "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
   },
   {
    "id": "10.3982/ecta23049",
@@ -1286,23 +1327,6 @@
    "ai_reason": "虽为政策研究但主题与赌博、破产政策评估无直接关系"
   },
   {
-   "id": "10.1257/aer.20250166",
-   "title": "A Welfare Analysis of Policies Impacting Climate Change",
-   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250166",
-   "url": "https://doi.org/10.1257/aer.20250166",
-   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "气候变化政策的福利分析",
-   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
-   "ai_relevance": "low",
-   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
-  },
-  {
    "id": "10.1257/aer.20241925",
    "title": "Monetary Policy without Commitment",
    "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
@@ -1318,6 +1342,23 @@
    "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
    "ai_relevance": "low",
    "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
+  },
+  {
+   "id": "10.1257/aer.20250166",
+   "title": "A Welfare Analysis of Policies Impacting Climate Change",
+   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250166",
+   "url": "https://doi.org/10.1257/aer.20250166",
+   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "气候变化政策的福利分析",
+   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
+   "ai_relevance": "low",
+   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
   },
   {
    "id": "10.1257/aer.116.7.2324",
@@ -2262,7 +2303,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag061",
    "url": "https://doi.org/10.1093/restud/rdag061",
-   "abstract": "Abstract We investigate how technologies that reduce the costs of monitoring by central authorities have shaped the historical transition from small patrimonial states to large bureaucratic organizations. Our analysis is based on a novel dataset that traces changes in the organizational structure and geographic presence of the U.S. federal government over the nineteenth century. To identify causal effects, we develop a new identification strategy that exploits the expansion of the railroad network as a source of variation in the travel time–and thus monitoring costs–between Washington D.C. and other locations. We present three main findings. First, reductions in travel time to Washington D.C. significantly increased the likelihood of federal government presence in a location. Second, this effect is stronger for occupations and tasks characterized by more severe agency problems. Third, decreases in travel time to Washington D.C. are associated with a decline in patrimonial features of the federal government in the location, in line with enhanced monitoring capacity reducing dependence on personal trust and connections.",
+   "abstract": "Abstract We investigate how technologies that reduce the costs of monitoring by central authorities have shaped the historical transition from small patrimonial states to large bureaucratic organizations. Our analysis is based on a novel dataset that traces changes in the organizational structure and geographic presence of the U.S. federal government over the 19th century. To identify causal effects, we develop a new identification strategy that exploits the expansion of the railroad network as a source of variation in the travel time—and thus monitoring costs—between Washington D.C. and other locations. We present three main findings. First, reductions in travel time to Washington D.C. significantly increased the likelihood of federal government presence in a location. Second, this effect is stronger for occupations and tasks characterized by more severe agency problems. Third, decreases in travel time to Washington D.C. are associated with a decline in patrimonial features of the federal government in the location, in line with enhanced monitoring capacity reducing dependence on personal trust and connections.",
    "published": "2026-06-16T16:37:14Z",
    "relevance": "low",
    "topics": [],
@@ -4299,6 +4340,78 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
+   "title": "The Odyssey",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
+   "summary": "Worth seeing, and I enjoyed it — but a few observations I haven’t seen elsewhere. For all the praise of IMAX and 70mm’s supposed clarity, several scenes are out of focus on the actor. Pulling focus is harder with a large-format negative. The problem is compounded by Nolan’s fondness for darkness: too many scenes are […] The post The Odyssey appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-21T11:18:18+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
+   "title": "The economic effects of GLP-1s",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
+   "summary": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness […] The post The economic effects of GLP-1s appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-21T06:38:12+00:00",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
+   "title": "Is America ruled by an oligarchy?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
+   "summary": "Any time you hear claims about American government, a sanity-inducing response is to ask whether they also are true of state and local governments. Here is an excerpt from my latest piece at The Free Press: First, in people’s daily lives, they typically interact with their state and local governments more than with the feds. […] The post Is America ruled by an oligarchy? appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-21T04:34:49+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
+   "title": "Words of wisdom on Chinese AI and our responses",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
+   "summary": "The strategy for China is obvious: commoditize your complements. Note that Xi explicitly ties openness to AI “moving from the digital world into the physical world”; the physical world is the world dominated by China, and the country’s lead in areas like robotics is going to massively benefit from widely available AI models. Along the […] The post Words of wisdom on Chinese AI and our responses appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-20T21:11:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW1hNHJkQmpwdVRraHkxR2hlRnJka2U4RWxfc3lFak9GVW9wa2MzanZRcUUzdFJmejhCNk1PUmp0QWpuWjE5Z0ZJSC16ZVBSdERLNXlqQjhNanE3b0pwX29xRmpTWmhaLXlibDFZeHJHR3FKQ2VTdEViU295Y2NaSEg4dUlWWHphbkhSZkI4YlhzT2MwRUdlZ242bW5LcG1DVGVrVEx5OU1oLWpRQ3RPYW9fQi1lYlhfRGk0MVFSYWQ?oc=5",
+   "title": "Healthcare bankruptcy volume 'stabilizes' in H1, though more practices are falling under - Fierce Healthcare",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW1hNHJkQmpwdVRraHkxR2hlRnJka2U4RWxfc3lFak9GVW9wa2MzanZRcUUzdFJmejhCNk1PUmp0QWpuWjE5Z0ZJSC16ZVBSdERLNXlqQjhNanE3b0pwX29xRmpTWmhaLXlibDFZeHJHR3FKQ2VTdEViU295Y2NaSEg4dUlWWHphbkhSZkI4YlhzT2MwRUdlZ242bW5LcG1DVGVrVEx5OU1oLWpRQ3RPYW9fQi1lYlhfRGk0MVFSYWQ?oc=5",
+   "summary": "Healthcare bankruptcy volume 'stabilizes' in H1, though more practices are falling under Fierce Healthcare",
+   "published": "2026-07-20T20:30:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-569",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-569",
+   "summary": "1. “In all three countries, declining places displayed higher animosity prior to salient populist campaigns.” In their tweets. 2. Sunstein on Hayek and conservatism. 3. Jacobian conjecture proved false. Fable found a counterexample that fits inside a tweet. From the strawberry guy: “in the areas that the labs are targeting, we’ve achieved artificial super intelligence. […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-20T16:34:14+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
    "title": "Whit Stillman’s *Metropolitan* (that was then, this is now)",
    "source": "Marginal Revolution",
@@ -4721,6 +4834,28 @@
  ],
  "reports": [
   {
+   "id": "https://www.gao.gov/products/gao-26-108954",
+   "title": "Priority Open Recommendations: Office of the Director of National Intelligence",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108954",
+   "summary": "What GAO Found In May 2025, GAO identified 14 priority recommendations for the Office of the Director of National Intelligence (ODNI). Since then, ODNI has implemented one of those recommendations. In June 2026, GAO identified one additional priority recommendation, and removed the priority status from eight recommendations, bringing the total to six. GAO is highlighting the following two areas that warrant timely and focused attention: Mitigating personnel vetting risks Addressing intelligence enterprise management challenges Addressing GAO's recommendations in these areas would improve the p",
+   "published": "2026-07-21T11:40:30+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109282",
+   "title": "Federal Home Loan Banks: Role in Providing Liquidity and Actions Related to the Spring 2023 Bank Failures",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109282",
+   "summary": "What GAO Found The Federal Home Loan Bank (FHLBank) System is a government-sponsored enterprise that consists of 11 federally chartered FHLBanks that support liquidity in the financial system by making loans—known as advances—to member financial institutions, including banks. These advances offer member institutions a low-cost source of funding to make mortgage loans or manage the risk of not meeting financial obligations in a timely and cost-efficient manner (liquidity risk). A December 2025 GAO report found that as of June 2025, 93 percent of banks were FHLBank members and more than three-qu",
+   "published": "2026-07-21T10:58:16+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://www.gao.gov/products/gao-26-108916",
    "title": "GAOverview: Recent Federal Workforce Changes at OPM",
    "source": "GAO Reports",
@@ -4932,19 +5067,6 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnAtR3ltRXVUdHFCb1U2a3VEUDk4TzhZZjFBcWhjQUlELWxoNTNIWTZnREZUN3VLRU03blQwNXQwdjg5U2w5WXUyc3o1aEN4NXA3dHJTZzg1ZTZETFdlSWVmZzBlT2R3UXlmYTk3VlRiY21XaWx6enRjZmtGSWNmUTJCTUs3ZWRxVGlNVGVaSFBfMXVVUWFtT1VtRVRRQQ?oc=5",
-   "title": "Many Families Rely on Credit and Savings to Afford Groceries - Urban Institute",
-   "source": "Google News: Urban Institute",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnAtR3ltRXVUdHFCb1U2a3VEUDk4TzhZZjFBcWhjQUlELWxoNTNIWTZnREZUN3VLRU03blQwNXQwdjg5U2w5WXUyc3o1aEN4NXA3dHJTZzg1ZTZETFdlSWVmZzBlT2R3UXlmYTk3VlRiY21XaWx6enRjZmtGSWNmUTJCTUs3ZWRxVGlNVGVaSFBfMXVVUWFtT1VtRVRRQQ?oc=5",
-   "summary": "Many Families Rely on Credit and Savings to Afford Groceries Urban Institute",
-   "published": "2026-07-13T12:00:00+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
    "id": "https://www.gao.gov/products/gao-26-108996",
    "title": "Priority Open Recommendations: General Services Administration",
    "source": "GAO Reports",
@@ -5025,6 +5147,19 @@
    "relevance": "medium",
    "topics": [
     "公共经济"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnAtR3ltRXVUdHFCb1U2a3VEUDk4TzhZZjFBcWhjQUlELWxoNTNIWTZnREZUN3VLRU03blQwNXQwdjg5U2w5WXUyc3o1aEN4NXA3dHJTZzg1ZTZETFdlSWVmZzBlT2R3UXlmYTk3VlRiY21XaWx6enRjZmtGSWNmUTJCTUs3ZWRxVGlNVGVaSFBfMXVVUWFtT1VtRVRRQQ?oc=5",
+   "title": "Many Families Rely on Credit and Savings to Afford Groceries - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnAtR3ltRXVUdHFCb1U2a3VEUDk4TzhZZjFBcWhjQUlELWxoNTNIWTZnREZUN3VLRU03blQwNXQwdjg5U2w5WXUyc3o1aEN4NXA3dHJTZzg1ZTZETFdlSWVmZzBlT2R3UXlmYTk3VlRiY21XaWx6enRjZmtGSWNmUTJCTUs3ZWRxVGlNVGVaSFBfMXVVUWFtT1VtRVRRQQ?oc=5",
+   "summary": "Many Families Rely on Credit and Savings to Afford Groceries Urban Institute",
+   "published": "2026-07-13T07:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
    ]
   },
   {
