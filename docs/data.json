@@ -1,6 +1,112 @@
 {
- "generated_at": "2026-07-22T12:25:59.726330+00:00",
+ "generated_at": "2026-07-23T12:24:38.401146+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104263",
+   "title": "Mobility, segregation and inequality: Who gains from urban transportation improvements?",
+   "authors": "Prottoy A. Akbar, Victor Couture",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104263",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104263",
+   "abstract": "",
+   "published": "2026-07-22T23:35:20Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104254",
+   "title": "Subsidize rent or subsidize homeownership? Evidence from a Hong Kong experiment",
+   "authors": "Michael B. Wong",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104254",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104254",
+   "abstract": "",
+   "published": "2026-07-22T23:35:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/742302",
+   "title": "The Federal Government’s Discretionary Spending",
+   "authors": "Karen Dynan, Douglas Elmendorf, Theresa Gullo",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742302",
+   "url": "https://doi.org/10.1086/742302",
+   "abstract": "",
+   "published": "2026-07-22T21:41:05Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/742149",
+   "title": "Debt, Deficits, and Tariffs",
+   "authors": "Kyle Pomerleau, Ali Melad",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742149",
+   "url": "https://doi.org/10.1086/742149",
+   "abstract": "",
+   "published": "2026-07-22T21:26:58Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/739117",
+   "title": "Teaching Tax Brackets: Evidence From A Randomized Survey Experiment",
+   "authors": "Patrick Sullivan",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/739117",
+   "url": "https://doi.org/10.1086/739117",
+   "abstract": "",
+   "published": "2026-07-22T21:16:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105707",
+   "title": "Is inflation relief passed-through? Evidence from excise taxes",
+   "authors": "Michael D. Noel, Travis Roach, Madison Hill",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105707",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105707",
+   "abstract": "",
+   "published": "2026-07-22T20:24:50Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105712",
+   "title": "Do social movements influence decision makers? Evidence from U.S. immigration courts",
+   "authors": "Yiannis Kountouris",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105712",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105712",
+   "abstract": "",
+   "published": "2026-07-22T16:14:58Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104262",
+   "title": "What are the benefits of metro rail in Mumbai, India?",
+   "authors": "Palak Suri, Maureen L. Cropper",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104262",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104262",
+   "abstract": "",
+   "published": "2026-07-22T15:05:33Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103891",
    "title": "Property Rights and Market Frictions: Evidence from the Universe of Land Dispute Files in China",
@@ -1407,23 +1513,6 @@
    "ai_reason": "虽为政策研究但主题与赌博、破产政策评估无直接关系"
   },
   {
-   "id": "10.1257/aer.20250166",
-   "title": "A Welfare Analysis of Policies Impacting Climate Change",
-   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250166",
-   "url": "https://doi.org/10.1257/aer.20250166",
-   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "气候变化政策的福利分析",
-   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
-   "ai_relevance": "low",
-   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
-  },
-  {
    "id": "10.1257/aer.20241925",
    "title": "Monetary Policy without Commitment",
    "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
@@ -1439,6 +1528,23 @@
    "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
    "ai_relevance": "low",
    "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
+  },
+  {
+   "id": "10.1257/aer.20250166",
+   "title": "A Welfare Analysis of Policies Impacting Climate Change",
+   "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250166",
+   "url": "https://doi.org/10.1257/aer.20250166",
+   "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "气候变化政策的福利分析",
+   "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
+   "ai_relevance": "low",
+   "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
   },
   {
    "id": "10.1257/aer.116.7.2324",
@@ -4420,6 +4526,96 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/alex-tabarrok-on-the-economic-analysis-of-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-tabarrok-on-the-economic-analysis-of-crime",
+   "title": "Alex Tabarrok on the Economic Analysis of Crime",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/alex-tabarrok-on-the-economic-analysis-of-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-tabarrok-on-the-economic-analysis-of-crime",
+   "summary": "I tell my Gary Becker story, why I like police more than prisons, how criminals are like children and more. The post Alex Tabarrok on the Economic Analysis of Crime appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-23T11:20:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-gita-gopinath",
+   "title": "What should I ask Gita Gopinath?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-gita-gopinath",
+   "summary": "Yes I will be doing a Conversation with her. From Wikipedia: Gita Gopinath…is an Indian-American economist who is currently serving as the Gregory and Ania Coffey professor of Economics at Harvard University and previously served as the first deputy managing director of the International Monetary Fund (IMF), from 21 January 2022 to 31 August 2025. Before that she also served […] The post What should I ask Gita Gopinath? appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-23T07:18:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/my-excellent-conversation-with-andrew-graham-dixon.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-andrew-graham-dixon",
+   "title": "My excellent Conversation with Andrew Graham-Dixon",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-excellent-conversation-with-andrew-graham-dixon.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-andrew-graham-dixon",
+   "summary": "Here is the audio, video, and transcript. From the episode summary: Tyler and Andrew discuss whether it was inevitable we’d rediscover Vermeer, how that vanishingly rare sect left its fingerprints all over his life, why the Met has misread its own Allegory of the Catholic Faith, whether Vermeer painted for money or pointedly refused to, where […] The post My excellent Conversation with Andrew Graham-Dixon appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-23T04:54:07+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
+   "title": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ - Chosunbiz",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
+   "summary": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ Chosunbiz",
+   "published": "2026-07-23T01:40:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-equilibrium-19",
+   "title": "Solve for the equilibrium",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-equilibrium-19",
+   "summary": "Something that the Ukraine and Iran wars have taught me is that for a lot of countries, including very big countries, there are a small number of buildings and infrastructure components that are required for their economy to function. And in countries that aren’t protected by oceans, like the US, drones completely change everything. You […] The post Solve for the equilibrium appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-22T18:33:35+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-fact-of-the-day-12",
+   "title": "Brazil fact of the day",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-fact-of-the-day-12",
+   "summary": "Last year, the US exported $171bn of agricultural goods according to the Department of Agriculture, just $2bn more than the export total claimed by Brazil, which many analysts say has benefited from trade disruption set in train by President Donald Trump’s tariffs. With US exports falling and Brazil’s rising — they increased 6 per cent […] The post Brazil fact of the day appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-22T18:04:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQc1A5MjV2c1ZlU2hlbWpDVzRYb2xmRVRONFdMR0FudVBoSmd6bXNYLV9UY09FLU9EZzFJYVBNLVZjR05IeWN1ZlZfS1doTm5ZYlJRRk53U2JVYW1uaHQ4ZTlnWUVKUWk2alRIc2o5SW9ZUy1HZWRMYm1ZbnVvY3Q2MHFpM2hpOGtwT0JYSkdnbUp0RWxtQ3dFTHRuSFBSUnJZX2NGYUNPZmFtNFNHODhsYXpYbTNzd0ZfNEhDUDF3eXRpS0w1WDJhcHBfX0llZl96M29EQTZ1b3dwTUlTX1ZOOG5DbXo4SkFNRTQ2Ukt3ZUEyQkJQVXpDM1F3eWNxakpVUjJFWUZ0c29aZTVkbk1BMU1UZWUwbFRBVC1ENm9WMkN0UndSeEw1Y0R1OW9XOXB0ZEJXMno0TDNfYjRGODZLaUN0OEYyZHBud2VDVG94SUp1cDQ5UTBXZnl0WQ?oc=5",
+   "title": "Bankruptcy filings hit 3-year high across US., with 1 in 15 cases filed in Texas - MSN",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQc1A5MjV2c1ZlU2hlbWpDVzRYb2xmRVRONFdMR0FudVBoSmd6bXNYLV9UY09FLU9EZzFJYVBNLVZjR05IeWN1ZlZfS1doTm5ZYlJRRk53U2JVYW1uaHQ4ZTlnWUVKUWk2alRIc2o5SW9ZUy1HZWRMYm1ZbnVvY3Q2MHFpM2hpOGtwT0JYSkdnbUp0RWxtQ3dFTHRuSFBSUnJZX2NGYUNPZmFtNFNHODhsYXpYbTNzd0ZfNEhDUDF3eXRpS0w1WDJhcHBfX0llZl96M29EQTZ1b3dwTUlTX1ZOOG5DbXo4SkFNRTQ2Ukt3ZUEyQkJQVXpDM1F3eWNxakpVUjJFWUZ0c29aZTVkbk1BMU1UZWUwbFRBVC1ENm9WMkN0UndSeEw1Y0R1OW9XOXB0ZEJXMno0TDNfYjRGODZLaUN0OEYyZHBud2VDVG94SUp1cDQ5UTBXZnl0WQ?oc=5",
+   "summary": "Bankruptcy filings hit 3-year high across US., with 1 in 15 cases filed in Texas MSN",
+   "published": "2026-07-22T16:39:11+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
+   "title": "Wednesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
+   "summary": "1. Balaji and Network State moving to Kazakhstan. 2. Why evolvable AI is not yet a Darwinian threat. 3. “This paper argues that societies with greater historical exposure to natural disasters are more likely to develop long-term-oriented norms that emphasize preparation, saving, and future well-being.” 4. And from Agustin: Questions that Are Rarely Asked. 5. MacroMusings […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-22T16:19:02+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
    "title": "An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face",
    "source": "Marginal Revolution",
@@ -4970,6 +5166,85 @@
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108703",
+   "title": "Federal Social Safety Net Programs: Millions of Workers, Including Many Employed by Large Employers, Continue to Rely on Medicaid and SNAP",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108703",
+   "summary": "What GAO Found According to U.S. Census Bureau data, an estimated 13.8 million adults enrolled in Medicaid and 10.6 million adults living in households that received Supplemental Nutrition Assistance Program (SNAP) benefits worked at some point during 2024. This is out of approximately 28 million and 20 million adults ages 19–64 in these programs, respectively. GAO’s analysis of Census data showed that about two-thirds of these adults in each program worked full-time (35 hours or more a week). However, when compared to other wage-earning adults not participating in either program, wage-earning",
+   "published": "2026-07-22T14:50:34+00:00",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108483",
+   "title": "Military Health Care: Information on Use of and Access to Toxic Exposure Records",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108483",
+   "summary": "What GAO Found The Individual Longitudinal Exposure Record (ILER) is a web application that links service members’ and veterans’ military toxic exposures and related information from Department of Defense (DOD) and Department of Veterans Affairs (VA) databases. DOD and VA intend ILER to be a multi-purpose tool to support clinicians in providing diagnoses and treatment decisions, researchers in conducting health surveillance and epidemiological research, and Veterans Benefit Administration (VBA) claims benefits staff in processing disability claims. Use of the ILER web application among DOD and",
+   "published": "2026-07-22T11:37:02+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108434",
+   "title": "Funding Status: Infrastructure Investment and Jobs Act and Inflation Reduction Act",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108434",
+   "summary": "What GAO Found The Infrastructure Investment and Jobs Act (IIJA) and Inflation Reduction Act (IRA) provided budget authorities for transportation, infrastructure, and energy projects. Together, the four agencies selected for this review—the Environmental Protection Agency (EPA), Department of the Interior (Interior), National Telecommunications and Information Administration (NTIA), and Department of Transportation (DOT)—obligated a majority of their IIJA or IRA funding. IIJA. Of the approximately $574.7 billion provided to them, the four agencies obligated about 76 percent and disbursed about",
+   "published": "2026-07-22T11:33:30+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108606",
+   "title": "Cybersecurity Regulations: Multiple Sectors Are Subject to Potentially Duplicative Reporting Requirements",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108606",
+   "summary": "What GAO Found GAO identified 117 cybersecurity regulations established by 37 federal agencies for private entities, spanning nine critical infrastructure sectors. Most of those regulations either contain the same kind of reporting requirement applicable to a sector or the same reporting requirement as at least one other regulation, which may lead to duplication. Specifically, 80 of the 117 regulations (about 70 percent) had at least 125 total reporting requirements (see figure), with some regulations requiring multiple types of reporting. Cybersecurity Regulations with Reporting Requirements,",
+   "published": "2026-07-22T11:27:47+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108641",
+   "title": "VA Software Asset Management: Adherence to Leading Management Practices Needed to Achieve Intended Outcomes",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108641",
+   "summary": "What GAO Found The Department of Veterans Affairs (VA) has not fully implemented selected leading planning and management practices for its enterprise software asset management (eSAM) program. eSAM is a department-wide effort intended to change how VA manages software assets by, among other things, requiring VA offices to coordinate with, and centrally report software license data to, VA’s IT management organization. This will require a change in organizational practices, given that VA programs have historically acquired their software independently. Department of Veterans Affairs’ (VA) Implem",
+   "published": "2026-07-22T11:19:25+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108655",
+   "title": "Firearms Education: ATF Should Use Performance Metrics and Information to Evaluate and Manage Outreach Campaign",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108655",
+   "summary": "What GAO Found Since 2000, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) and the National Shooting Sports Foundation (NSSF) have managed and launched the Don’t Lie for the Other Guy campaign across various cities in the U.S. The campaign is intended to educate the public about the legal consequences of “straw purchases”—when someone who is prohibited from buying a firearm has someone else (a “straw buyer”) make the purchase for them. The campaign also educates federal firearms licensees (FFLs)—which include individuals or businesses that have obtained a federal firearm license ",
+   "published": "2026-07-22T11:18:41+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108687",
+   "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling Technologies",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108687",
+   "summary": "What GAO Found Technologies like batteries and semiconductors are essential to the U.S. economy but rely on imports of lithium, gallium, and other critical minerals. GAO found that substitution and recycling technologies could help reduce U.S. reliance on these imports. But progress is likely to take many years in some cases. Potential for technologies to reduce critical mineral import reliance For batteries, substitution and recycling technologies offer near-term potential. For example, using lithium iron phosphate batteries for stationary grid energy storage might reduce imports of cobalt, m",
+   "published": "2026-07-22T11:10:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-109297",
    "title": "Broadband: Actions Needed to Strengthen Fragmented Federal Effort",
