@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-07-24T12:19:54.990135+00:00",
+ "generated_at": "2026-07-25T12:03:21.102489+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105735",
+   "title": "Implicit land taxes and their effect on the real economy",
+   "authors": "Daniel Murphy, Nathan Seegert",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105735",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105735",
+   "abstract": "",
+   "published": "2026-07-25T10:54:37Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/s0022-1996(26)00094-2",
+   "title": "Editorial Board",
+   "authors": "",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/s0022-1996(26)00094-2",
+   "url": "https://doi.org/10.1016/s0022-1996(26)00094-2",
+   "abstract": "",
+   "published": "2026-07-25T00:37:53Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/740840",
+   "title": "Supply and Demand Determinants of Heterogeneous VAT Pass-Through",
+   "authors": "Matthieu Bellon, Alexander Copestake, Wenzhang Zhang",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/740840",
+   "url": "https://doi.org/10.1086/740840",
+   "abstract": "",
+   "published": "2026-07-24T20:56:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/742262",
+   "title": "The Evolution of Deficits in the United States and Implications for Debt Sustainability",
+   "authors": "Jesse Bricker, William Peterman, Rebecca Wasyk",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742262",
+   "url": "https://doi.org/10.1086/742262",
+   "abstract": "",
+   "published": "2026-07-24T20:09:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105721",
+   "title": "Effective tax rates, firm size and the global minimum tax",
+   "authors": "Pierre Bachas, Anne Brockmeyer, Roel Dom, Camille Semelet",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105721",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105721",
+   "abstract": "",
+   "published": "2026-07-24T16:55:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104307",
+   "title": "Trust, business group verticality, and firm productivity",
+   "authors": "Christian Fons-Rosen, Miriam Manchin, Katalin Szemeredi",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104307",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104307",
+   "abstract": "",
+   "published": "2026-07-24T15:14:15Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105733",
+   "title": "Do ultra-poor graduation programs build women’s resilience to weather shocks? Evidence from rural Ethiopia",
+   "authors": "Kalle Hirvonen, Daniel O. Gilligan, Jessica Leight, Heleene Tambet, Victor Villa",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105733",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105733",
+   "abstract": "",
+   "published": "2026-07-24T14:11:46Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.regsciurbeco.2026.104266",
    "title": "The Effects of Neighborhood Redevelopment on Housing Markets and Beyond: Evidence from HOPE VI Revitalization Program",
@@ -538,23 +629,6 @@
    "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
   },
   {
-   "id": "10.3982/ecta21839",
-   "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
-   "authors": "Anh Nguyen",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21839",
-   "url": "https://doi.org/10.3982/ecta21839",
-   "abstract": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "共同价值拍卖中的信息设计与道德风险：近海租赁拍卖应用",
-   "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
-   "ai_relevance": "low",
-   "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
-  },
-  {
    "id": "10.3982/ecta22979",
    "title": "The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections",
    "authors": "Christian Cox",
@@ -570,6 +644,23 @@
    "abstract_zh": "本研究基于2010-2020年美国国会选举数据估计多阶段政治竞争模型，评估超级PAC支出的均衡效应，发现两方面支出产生相互抵消的反应。",
    "ai_relevance": "low",
    "ai_reason": "政治经济学与竞选融资主题，不在用户核心研究领域。"
+  },
+  {
+   "id": "10.3982/ecta21839",
+   "title": "Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions",
+   "authors": "Anh Nguyen",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21839",
+   "url": "https://doi.org/10.3982/ecta21839",
+   "abstract": "This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "共同价值拍卖中的信息设计与道德风险：近海租赁拍卖应用",
+   "abstract_zh": "本研究在美国近海石油/天然气租赁拍卖背景下，探索拍卖人信息披露设计对收益的影响，其中竞标者的探勘决策涉及道德风险。",
+   "ai_relevance": "low",
+   "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
   },
   {
    "id": "10.3982/ecta23049",
@@ -744,22 +835,6 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
    "id": "10.3982/ecta23358",
    "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
    "authors": "Anna Stansbury, Kyra Rodriguez",
@@ -775,6 +850,22 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+  },
+  {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -4567,6 +4658,50 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
+   "title": "A natural experiment in economics",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
+   "summary": "To study whether and how academics respond to political pressure, we exploit a natural experiment: the publication in early 2025 of a “blacklist” of words flagged by the U.S. government. We find that the release of this list led to a sharp reduction in the use of these flagged words among economists at universities that […] The post A natural experiment in economics appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-25T05:02:26+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
+   "title": "Crypto markets in everything? (moo)",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
+   "summary": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their cattle, signaling the potential of tokenizing RWAs as a financing tool. The […] The post Crypto markets in everything? (moo) appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-25T04:40:55+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
+   "title": "The Decision, the sequel",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
+   "summary": "Imagine your career were coming to a close, how would you want it to end? By earning an especially large sum of money? Publishing a final wonderful paper? With an amazing act of mentorship? When it comes to Lebron, had he wanted to finish his career with the guys he enjoys playing with the most, […] The post The Decision, the sequel appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-24T19:34:26+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
+   "title": "Friday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
+   "summary": "1. How global was “antiquity”? 2. Why the Clarity Act is mired in muck (NYT). 3. Jim Olds on the new science plan. 4. Cyber capabilities of Kimi 3? 5. “Following a standard workplace safety check, I have just received an email from a university administrator in which my custom of keeping books on the […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-24T16:37:53+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/talk-therapy-is-speech.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-therapy-is-speech",
    "title": "Talk Therapy is Speech",
    "source": "Marginal Revolution",
@@ -4655,22 +4790,22 @@
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y00gGUAUFVX3lxTE1fSjloV2g5TUw5eVBYZ2xVRFhnaTJraFFXN1RzU1RiMnhGSWRvM19UVnh1Z0pfY2NyUTRORGpUNnp1dzZLd0liUjdfcXVWSXNTQmVOTUNCR1FZVl96Mk0tMC1OdFJlSmJBcE0yUEplS2NBZmpfTXhCeDgtVDdhM0puSE1wZXI3RzdVZmJMOGVhd19XRjQ?oc=5",
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
    "title": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ - Chosunbiz",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y00gGUAUFVX3lxTE1fSjloV2g5TUw5eVBYZ2xVRFhnaTJraFFXN1RzU1RiMnhGSWRvM19UVnh1Z0pfY2NyUTRORGpUNnp1dzZLd0liUjdfcXVWSXNTQmVOTUNCR1FZVl96Mk0tMC1OdFJlSmJBcE0yUEplS2NBZmpfTXhCeDgtVDdhM0puSE1wZXI3RzdVZmJMOGVhd19XRjQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
    "summary": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ Chosunbiz",
    "published": "2026-07-23T01:40:00+00:00",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y00gGUAUFVX3lxTE1fSjloV2g5TUw5eVBYZ2xVRFhnaTJraFFXN1RzU1RiMnhGSWRvM19UVnh1Z0pfY2NyUTRORGpUNnp1dzZLd0liUjdfcXVWSXNTQmVOTUNCR1FZVl96Mk0tMC1OdFJlSmJBcE0yUEplS2NBZmpfTXhCeDgtVDdhM0puSE1wZXI3RzdVZmJMOGVhd19XRjQ?oc=5",
    "title": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ - Chosunbiz",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjNmMFRQWkRJbzJSTUJadVpoTWFUbmRXVU1lS2Q3YVlWUUNfREtEUXJjRkR0ck5SX3I3OEw3ejE0cmRncDNfMXpLaGU4N2owQndOYUF3QThnTmFieHdSRXBUU2xNMUFCaUhaVjh4OElSd1llV0xVLVBBMWJTU21uUdIBlAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0o5aFdoOU1MOXlQWGdsVURYZ2kya2hRVzdUc1NUYjJ4RklkbzNfVFZ4dWdKX2NjclE0TkRqVDZ6dXc2S3dJYlI3X3F1VklzU0JlTk1DQkdRWVZfejJNLTAtTnRSZUpiQXBNMlBKZUtjQWZqX014Qng4LVQ3YTNKbkhNcGVyN0c3VWZiTDhlYXdfV0Y00gGUAUFVX3lxTE1fSjloV2g5TUw5eVBYZ2xVRFhnaTJraFFXN1RzU1RiMnhGSWRvM19UVnh1Z0pfY2NyUTRORGpUNnp1dzZLd0liUjdfcXVWSXNTQmVOTUNCR1FZVl96Mk0tMC1OdFJlSmJBcE0yUEplS2NBZmpfTXhCeDgtVDdhM0puSE1wZXI3RzdVZmJMOGVhd19XRjQ?oc=5",
    "summary": "High rates and weak demand drive Korea bankruptcies to record high - CHOSUNBIZ Chosunbiz",
    "published": "2026-07-23T01:40:00+00:00",
    "relevance": "low",
@@ -5183,70 +5318,20 @@
    "topics": [
     "破产/家庭财务"
    ]
-  },
-  {
-   "id": "https://causalinf.substack.com/p/covariates-diff-in-diff-and-lalonde",
-   "title": "Covariates, diff in diff and Lalonde test",
-   "source": "Causal Inference (Scott Cunningham)",
-   "category": "newsletter",
-   "url": "https://causalinf.substack.com/p/covariates-diff-in-diff-and-lalonde",
-   "summary": "Well can you believe it?",
-   "published": "2026-07-15T09:54:22+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjN0Yjh1eFlLVGZzSFN5RFBVNk1ibDRvVUhEUmQxR21CRkJVXzRtaTlIMzRMQnh4X2xJSmxyb3pGaUxwWmM4NmZRNlVOTmZhTEhaOFdvdGdlcmZOZVZwSDJnZ0JuczQwUTF4dFZzY3Y3SmszeUZiN283b2ZqTE05RFN3ZkZGcER2T1N2ZW5VazVwd2FiNERaaTdB0gGfAUFVX3lxTE12bFBfSkd5RWh6QTFuSzBZb0ZBOHV6elNMTWpGSUNScUI1RkEzLU5FdUlDQTNIejEtdWlrTU5UNDN1b1FFT3dXMm11QUs5eERSVm8xTXB2NGcxak1XSnVVMEVkXzVzZjV1WGZwdTBmdkhySjFYSFlacTdjdE84cU9VWkllM1RWZFJYR0RzSmRDOUFIVGtHU0taVDhHc3ZXUQ?oc=5",
-   "title": "Weekly Bankruptcy Alert July 14, 2026 (For the Week Ending July 12, 2026) - The National Law Review",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjN0Yjh1eFlLVGZzSFN5RFBVNk1ibDRvVUhEUmQxR21CRkJVXzRtaTlIMzRMQnh4X2xJSmxyb3pGaUxwWmM4NmZRNlVOTmZhTEhaOFdvdGdlcmZOZVZwSDJnZ0JuczQwUTF4dFZzY3Y3SmszeUZiN283b2ZqTE05RFN3ZkZGcER2T1N2ZW5VazVwd2FiNERaaTdB0gGfAUFVX3lxTE12bFBfSkd5RWh6QTFuSzBZb0ZBOHV6elNMTWpGSUNScUI1RkEzLU5FdUlDQTNIejEtdWlrTU5UNDN1b1FFT3dXMm11QUs5eERSVm8xTXB2NGcxak1XSnVVMEVkXzVzZjV1WGZwdTBmdkhySjFYSFlacTdjdE84cU9VWkllM1RWZFJYR0RzSmRDOUFIVGtHU0taVDhHc3ZXUQ?oc=5",
-   "summary": "Weekly Bankruptcy Alert July 14, 2026 (For the Week Ending July 12, 2026) The National Law Review",
-   "published": "2026-07-14T20:34:28+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDVZTkJHQVhPVFpUR3ZwbzFKNnFBbHQ1TktWb2UteFQtbW1IaFRoRFgzSF9hMmNoMWdqcDFDbUIyb0pYX195d0owQUVVUzhTZ0NLUUtDbnNxNWVuTUZsU3YzcUlHMnFlYU5OQUdzWXhyeEpyeEVVSEdDbHJUdGc2YXk3ZGE?oc=5",
-   "title": "Personal bankruptcy filings rise for third year - AOL.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDVZTkJHQVhPVFpUR3ZwbzFKNnFBbHQ1TktWb2UteFQtbW1IaFRoRFgzSF9hMmNoMWdqcDFDbUIyb0pYX195d0owQUVVUzhTZ0NLUUtDbnNxNWVuTUZsU3YzcUlHMnFlYU5OQUdzWXhyeEpyeEVVSEdDbHJUdGc2YXk3ZGE?oc=5",
-   "summary": "Personal bankruptcy filings rise for third year AOL.com",
-   "published": "2026-07-14T20:04:43+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://causalinf.substack.com/p/episode-15-exploring-confounders",
-   "title": "Episode 15: Exploring Confounders That Could Impact Our Parallel Trends Assumption",
-   "source": "Causal Inference (Scott Cunningham)",
-   "category": "newsletter",
-   "url": "https://causalinf.substack.com/p/episode-15-exploring-confounders",
-   "summary": "Listen now (66 mins) | Caitlin Myers and myself have been studying the effect of House Bill 2 in Texas, which closed half the state's abortion clinics, on marriage rates using \"continuous difference-in-differences\" estimation for 14 episodes straight.",
-   "published": "2026-07-14T13:32:42+00:00",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "https://basisonline.org/2026/07/14/brain-disease-model-addiction-readiness-change-drinking-behavior/",
-   "title": "The DRAM, Vol. 22(7) – How exposure to the brain disease model of addiction shapes readiness to change drinking behavior",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/07/14/brain-disease-model-addiction-readiness-change-drinking-behavior/",
-   "summary": "This week, The DRAM reviews a study by Yi-Hao Liu and colleagues that explored whether thinking of addiction as a brain disease lowers drinkers’ readiness to change their drinking behavior.",
-   "published": "2026-07-14T13:20:00+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108552",
+   "title": "Rideshare and Taxi Safety: Information on Assault Data, Safety Features, and Background Checks",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108552",
+   "summary": "What GAO Found Rideshare and taxi services help meet the transportation needs of people in the U.S, but stakeholders have raised questions about the services’ safety. Available data sources do not provide a full picture of the number of rideshare and taxi assaults against drivers and passengers from 2021 through 2025. There is no federal requirement to collect such data, but GAO identified some sources at the federal, local, and industry level. For example: Two federal databases provide some information. For example, the Bureau of Labor Statistics estimated 20 nonfatal injuries to taxi and rid",
+   "published": "2026-07-24T10:59:36+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108027",
    "title": "Bank Regulatory Reviews: Action Needed to Better Identify and Address Unnecessary or Unduly Burdensome Requirements",
