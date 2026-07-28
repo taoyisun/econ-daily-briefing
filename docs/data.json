@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T13:39:53.706893+00:00",
+ "generated_at": "2026-07-28T12:55:19.192364+00:00",
  "papers": [
   {
    "id": "10.1016/j.jpubeco.2026.105714",
@@ -143,6 +143,19 @@
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105719",
    "abstract": "",
    "published": "2026-07-23T17:02:05Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag073",
+   "title": "When is Separate Sales Optimal?",
+   "authors": "Changhyun Kwak",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag073",
+   "url": "https://doi.org/10.1093/restud/rdag073",
+   "abstract": "Abstract This paper studies a multi-product monopolist facing a privately informed consumer with additive and type-increasing valuations. Separate monopoly pricing is robustly optimal with respect to the type distribution if and only if the marginal rate of substitution between each pair of goods is monotone. This result is obtained by extending the conventional Myersonian approach.",
+   "published": "2026-07-23T11:52:43Z",
    "relevance": "low",
    "topics": []
   },
@@ -874,22 +887,6 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
    "id": "10.3982/ecta23358",
    "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
    "authors": "Anna Stansbury, Kyra Rodriguez",
@@ -905,6 +902,22 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+  },
+  {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -1697,23 +1710,6 @@
    "ai_reason": "虽为政策研究但主题与赌博、破产政策评估无直接关系"
   },
   {
-   "id": "10.1257/aer.20241925",
-   "title": "Monetary Policy without Commitment",
-   "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241925",
-   "url": "https://doi.org/10.1257/aer.20241925",
-   "abstract": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "缺乏承诺的货币政策",
-   "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
-   "ai_relevance": "low",
-   "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
-  },
-  {
    "id": "10.1257/aer.20250166",
    "title": "A Welfare Analysis of Policies Impacting Climate Change",
    "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
@@ -1729,6 +1725,23 @@
    "abstract_zh": "使用边际公共资金价值框架评估96项气候相关税收和支出政策。发现清洁能源补贴相对其他补贴(含电动车补贴)的福利效率更高;燃油税和限排交易是高效融资手段。",
    "ai_relevance": "low",
    "ai_reason": "主题为气候和能源政策,与赌博政策评估无关"
+  },
+  {
+   "id": "10.1257/aer.20241925",
+   "title": "Monetary Policy without Commitment",
+   "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241925",
+   "url": "https://doi.org/10.1257/aer.20241925",
+   "abstract": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large. (JEL D43, E12, E23, E24, E31, E52, E58)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "缺乏承诺的货币政策",
+   "abstract_zh": "研究央行信誉不足对长期通胀和通胀动态的影响。在新凯恩斯框架中引入央行缺乏承诺,发现长期通胀由缺乏承诺与经济环境相互作用驱动;量化发现缺乏承诺的福利损失显著。",
+   "ai_relevance": "low",
+   "ai_reason": "宏观经济和货币政策,与赌博和家庭财务困境研究无关"
   },
   {
    "id": "10.1257/aer.116.7.2324",
@@ -5072,6 +5085,87 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html?utm_source=rss&utm_medium=rss&utm_campaign=the-apples-and-oranges-tribunal",
+   "title": "The Apples and Oranges Tribunal",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html?utm_source=rss&utm_medium=rss&utm_campaign=the-apples-and-oranges-tribunal",
+   "summary": "Suppose that apples sell for more than oranges and Parliament in it’s wisdom decides that, at last, apples and oranges must be compared. Not by shoppers — shoppers are biased, they merely reveal what they are willing to pay — but by a tribunal, which will determine whether apples and oranges are of truly equal […] The post The Apples and Oranges Tribunal appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-28T11:13:43+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-aea-presidential-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-aea-presidential-election",
+   "title": "The AEA presidential election",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-aea-presidential-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-aea-presidential-election",
+   "summary": "AEA is the American Economics Association, and a new president is needed, here is the candidate and likely winner: PINELOPI (PENNY) KOUJIANOU GOLDBERG, William Nordhaus Professor of Economics and Global Affairs, Yale University. Statement of Purpose: I am honored to stand for President of the American Economic Association. Economics has long contributed powerful tools to understand […] The post The AEA presidential election appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-28T06:44:56+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-confucian-fertility-paradox.html?utm_source=rss&utm_medium=rss&utm_campaign=the-confucian-fertility-paradox",
+   "title": "The Confucian fertility paradox",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-confucian-fertility-paradox.html?utm_source=rss&utm_medium=rss&utm_campaign=the-confucian-fertility-paradox",
+   "summary": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the region’s Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this “Confucian Fertility Paradox” dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal […] The post The Confucian fertility paradox appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-28T04:56:44+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ2SWJLZkFrLVBEQ25sS05xd2JNV0d6MlUweWtJUXZFQnNVYmNSU2xPamtub1d0OHpXcmE2ZnhtSnJsNHNBelhpTWRuZ0RfQlN5aVZJU2RxTURCcDJiZjdhVUJaSVFRdmFYX01MS1B2WDlWczlBbjFXLWNXUjIwX3dlRC1TXzMzdUo3MGx6S0Y3cHlTZUgzVFJB0gGfAUFVX3lxTE1RN3o5SGVTSS03bktrOGhiVWNWNkhYWERnUzJwWWUxRzk1X2VVdkMwbFpUd1NrQlRFTDZJM08ya041dHhtaUhCZEhMMkRVcTRjaEV6VVRVbHJIVWlnT18tUkNOTVZUcjRmS0NURTBQN3Jva0ZfOG9FOGdvMEw5YW9UOW9YQnBIOFB6dWtFM1Bta2ZZYUt1MjhSM25RR05RVQ?oc=5",
+   "title": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) - The National Law Review",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ2SWJLZkFrLVBEQ25sS05xd2JNV0d6MlUweWtJUXZFQnNVYmNSU2xPamtub1d0OHpXcmE2ZnhtSnJsNHNBelhpTWRuZ0RfQlN5aVZJU2RxTURCcDJiZjdhVUJaSVFRdmFYX01MS1B2WDlWczlBbjFXLWNXUjIwX3dlRC1TXzMzdUo3MGx6S0Y3cHlTZUgzVFJB0gGfAUFVX3lxTE1RN3o5SGVTSS03bktrOGhiVWNWNkhYWERnUzJwWWUxRzk1X2VVdkMwbFpUd1NrQlRFTDZJM08ya041dHhtaUhCZEhMMkRVcTRjaEV6VVRVbHJIVWlnT18tUkNOTVZUcjRmS0NURTBQN3Jva0ZfOG9FOGdvMEw5YW9UOW9YQnBIOFB6dWtFM1Bta2ZZYUt1MjhSM25RR05RVQ?oc=5",
+   "summary": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) The National Law Review",
+   "published": "2026-07-27T18:57:26+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/liberal-worlds-james-bryce-and-the-democratic-intellect-2.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-worlds-james-bryce-and-the-democratic-intellect-2",
+   "title": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/liberal-worlds-james-bryce-and-the-democratic-intellect-2.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-worlds-james-bryce-and-the-democratic-intellect-2",
+   "summary": "A very good book, here is one excerpt that bears directly on a conversation I was just having: He [Bryce] regretted the low quality of the Indian Civil Service: they were hard-working and motivated by a desire to promote the welfare of the Indian people, but ‘rather wanting in imagination and sympathy, less inspired by […] The post *Liberal Worlds: James Bryce and the Democratic Intellect* appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-27T18:53:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-570",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-570",
+   "summary": "1. Cameroonian prison with its own record label. 2. Noah on what will AI do for us exactly. 3. The impact of the sewing machine on women. 4. Will GPTVoice boost labor supply? 5. Smart phones in North Korea. 6. SSI update. 7. “There is still time for interested scholars to apply to our next […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-27T16:03:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFRidDE0ZGNIbG5DSTJrVkU0dVBVMmhTeXd1Z2tuOFZ4VUU2U1ZIZ3REMzRWZUR1ZGNEOXBGTGV6dlBwdjQ1ekpmS3FtU3oxVlBQcm84VVBGZ2kxRTJ0TFFKaWp4cTc4LWYzbE9jVTZoRzBFWjc3ejBybWpOUGxmbGpWV0x1RFlSS2V6TmJUNUk2Y0XSAZMBQVVfeXFMTURUYnQxNGRjSGxuQ0kya1ZFNHVQVTJoU3l3dWdrbjhWeFVFNlNWSGd0RDM0VmVEdWRjRDlwRkxlenZQcHY0NXpKZktxbVN6MVZQUHJvOFVQRmdpMUUydExRSmlqeHE3OC1mM2xPY1U2aEcwRVo3N3owcm1qTlBsZmxqVldMdURZUktlek5iVDVJNmNF?oc=5",
+   "title": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says - KFOR.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFRidDE0ZGNIbG5DSTJrVkU0dVBVMmhTeXd1Z2tuOFZ4VUU2U1ZIZ3REMzRWZUR1ZGNEOXBGTGV6dlBwdjQ1ekpmS3FtU3oxVlBQcm84VVBGZ2kxRTJ0TFFKaWp4cTc4LWYzbE9jVTZoRzBFWjc3ejBybWpOUGxmbGpWV0x1RFlSS2V6TmJUNUk2Y0XSAZMBQVVfeXFMTURUYnQxNGRjSGxuQ0kya1ZFNHVQVTJoU3l3dWdrbjhWeFVFNlNWSGd0RDM0VmVEdWRjRDlwRkxlenZQcHY0NXpKZktxbVN6MVZQUHJvOFVQRmdpMUUydExRSmlqeHE3OC1mM2xPY1U2aEcwRVo3N3owcm1qTlBsZmxqVldMdURZUktlek5iVDVJNmNF?oc=5",
+   "summary": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says KFOR.com",
+   "published": "2026-07-27T15:03:01+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
    "title": "Could our preoccupation with mental health be part of the problem?",
    "source": "Marginal Revolution",
@@ -5614,85 +5708,6 @@
    "published": "2026-07-18T15:43:03+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
-   "title": "Trial Lawyers Lobby Against Autonomous Vehicles",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
-   "summary": "Roughly 37,000–40,000 Americans die in auto accidents every year. We now have large‑scale, real‑world evidence—from Waymo and a joint analysis with Swiss Re—that driverless operations can be substantially safer than matched human driving within their current operating domains. The latest data show that over 220 million miles driven, Waymo vehicles–in Los Angeles, San Francisco, Phoenix, […] The post Trial Lawyers Lobby Against Autonomous Vehicles appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-18T11:18:18+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-luis-garicano",
-   "title": "What should I ask Luis Garicano?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-luis-garicano",
-   "summary": "Yes I will be doing a Conversation with him. From Wikipedia: Luis Garicano Gabilondo (pronounced [ˈlwis ɣaɾiˈkano]; born 1967) is a Spanish economist and politician who was a Member of the European Parliament (MEP) from 2019 to 2022. He was also vice president of Renew Europe and vice president of the European political party Alliance of Liberals and Democrats for […] The post What should I ask Luis Garicano? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-18T06:17:43+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
-   "title": "The small business boom",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
-   "summary": "Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance. Jump-started by the pandemic, when a confluence of factors including mass layoffs and remote work led to a flood of business creation, and supercharged by the rise of artificial intelligence, start-up activity is booming after a decades-long slump. Americans filed 5.7 million applications last […] The post The small business boom appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-18T04:23:07+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-the-movie-no-real-spoilers",
-   "title": "*The Odyssey*, the movie (no real spoilers)",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-the-movie-no-real-spoilers",
-   "summary": "I can’t say I loved it. The Circe scene was excellent, Cyclops was good, and the battles in Troy were well done. But most of the roles were miscast. I like Matt Damon, but he is too “Good Will Hunting” to play Odysseus. The character did not cohere. (Compare to Ralph Fiennes in the superior […] The post *The Odyssey*, the movie (no real spoilers) appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-18T01:30:34+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlprdEUwWS1RWjI4bGdXVXlsbE9yM1htZ3Q4SzRqSFFSdzhCeHlGVzZIRFhIYm1JbGlZRzFhakwwc0MtVWRqcEVrek4yaVpaMkNleUFmT0hoUmRhNFVzOFl5S2ZlZVpLdjVrdV9JQzdPZ3R3ejl1UnlQaDBZdkdNWk80aWJ2b3NsZGZhZmR1VUlRUEx1bTlMS1hvdm4ybHdURmZNVjhlelNNYXpBTmVjNmhfdWNyUWxxakI1VmMtY1cxZTlXZjRFcU9MUQ?oc=5",
-   "title": "NFL Suspends Cardinals Executive Indefinitely for Allegedly Violating League Gambling Policy - Sports Betting Dime",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlprdEUwWS1RWjI4bGdXVXlsbE9yM1htZ3Q4SzRqSFFSdzhCeHlGVzZIRFhIYm1JbGlZRzFhakwwc0MtVWRqcEVrek4yaVpaMkNleUFmT0hoUmRhNFVzOFl5S2ZlZVpLdjVrdV9JQzdPZ3R3ejl1UnlQaDBZdkdNWk80aWJ2b3NsZGZhZmR1VUlRUEx1bTlMS1hvdm4ybHdURmZNVjhlelNNYXpBTmVjNmhfdWNyUWxxakI1VmMtY1cxZTlXZjRFcU9MUQ?oc=5",
-   "summary": "NFL Suspends Cardinals Executive Indefinitely for Allegedly Violating League Gambling Policy Sports Betting Dime",
-   "published": "2026-07-17T22:19:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
-   "summary": "1. David Wallace-Wells on the status of reading (NYT). 2. Very good, very positive Kimi ad. 3. Balaji update. 4. An eighth-century Mayan mathematician. 5. Yet another balloon. 6. Nearby planet with helium-rich atmosphere (NYT). 7. Henry Oliver did not like The Movie. The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-17T17:12:39+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html?utm_source=rss&utm_medium=rss&utm_campaign=cataloging-growth-a-re-evaluation-of-1900-1990",
-   "title": "Cataloging Growth: A Re-Evaluation of 1900–1990",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html?utm_source=rss&utm_medium=rss&utm_campaign=cataloging-growth-a-re-evaluation-of-1900-1990",
-   "summary": "From Verónica Bäcker-Peral and Benjamin Wittenbrink of MIT: Measuring real GDP growth requires distinguishing changes in prices from changes in product quality and composition, yet systematic quality adjustment of price indexes is unavailable for much of the twentieth century. We construct a new quality-adjusted price index for U.S. consumer goods using 5.1 million product listings […] The post Cataloging Growth: A Re-Evaluation of 1900–1990 appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-17T15:33:38+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
@@ -5719,6 +5734,17 @@
    "topics": []
   },
   {
+   "id": "https://www.consumerfinance.gov/about-us/newsroom/deputy-director-mark-paolettas-remarks-to-the-financial-literacy-and-education-commission/",
+   "title": "Deputy Director Mark Paoletta’s Remarks to the Financial Literacy and Education Commission",
+   "source": "CFPB",
+   "category": "",
+   "url": "https://www.consumerfinance.gov/about-us/newsroom/deputy-director-mark-paolettas-remarks-to-the-financial-literacy-and-education-commission/",
+   "summary": "Deputy Director Mark Paoletta provided remarks to the Financial Literacy and Education Commission.",
+   "published": "2026-07-27T04:00:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://www.gao.gov/products/gao-26-108552",
    "title": "Rideshare and Taxi Safety: Information on Assault Data, Safety Features, and Background Checks",
    "source": "GAO Reports",
@@ -5728,6 +5754,19 @@
    "published": "2026-07-24T10:59:36+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
+   "title": "A New Financing Model to Catalyze Mixed-Income Housing - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
+   "summary": "A New Financing Model to Catalyze Mixed-Income Housing Urban Institute",
+   "published": "2026-07-23T12:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "https://www.gao.gov/products/gao-26-108027",
