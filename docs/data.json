@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-07-28T12:55:19.192364+00:00",
+ "generated_at": "2026-07-29T13:01:42.943553+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105736",
+   "title": "Agency incentives and disparate revenue collection: Evidence from Chicago parking tickets",
+   "authors": "Elizabeth Luh, Benjamin Pyle, James Reeves",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105736",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105736",
+   "abstract": "",
+   "published": "2026-07-28T20:06:28Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105742",
+   "title": "The political benefits of the monoculture: Estimating the electoral effect of the market facilitation program",
+   "authors": "Robert Gulotty, Anton Strezhnev",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105742",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105742",
+   "abstract": "",
+   "published": "2026-07-28T16:46:20Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104312",
+   "title": "Horizontal regulatory barriers in international trade: Evidence from electric plugs",
+   "authors": "Yuan Mei, Mingzhi (Jimmy) Xu",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104312",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104312",
+   "abstract": "",
+   "published": "2026-07-28T15:35:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/qje/qjag041",
+   "title": "Capital Services in Global Value Chains",
+   "authors": "Xiang Ding",
+   "journal": "Quarterly Journal of Economics",
+   "tier": "Top-5",
+   "doi": "10.1093/qje/qjag041",
+   "url": "https://doi.org/10.1093/qje/qjag041",
+   "abstract": "Abstract This paper constructs the first global dataset on inter-sectoral capital service expenditures. I use this data to disaggregate capital services and intermediate inputs in a dynamic multi-sector trade model. Steady state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures towards producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.",
+   "published": "2026-07-28T11:12:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag081",
+   "title": "Macro Shocks and Firm Dynamics with Oligopolistic Financial Intermediaries",
+   "authors": "Alessandro T Villa",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag081",
+   "url": "https://doi.org/10.1093/restud/rdag081",
+   "abstract": "Abstract Motivated by a secular increase in the concentration of the U.S. banking industry, I develop a new macroeconomic model with oligopolistic financial intermediaries and heterogeneous firms. Market power allows banks to price discriminate and charge firm-specific markups, exerting greater market power over productive and more financially constrained firms. This dampens capital accumulation and amplifies the effects of macroeconomic shocks. During a crisis, banks exploit the higher share of financially constrained firms to extract higher markups, inducing a larger decline in real activity. When a large bank fails, the remaining banks use their increased market power to restrict credit supply, worsening and prolonging the downturn.",
+   "published": "2026-07-27T13:42:43Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105714",
    "title": "Gun policy and the steel paradox",
@@ -887,6 +952,22 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
+  },
+  {
    "id": "10.3982/ecta23358",
    "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
    "authors": "Anna Stansbury, Kyra Rodriguez",
@@ -902,22 +983,6 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -5085,6 +5150,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
+   "title": "Data on Chinese innovation",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
+   "summary": "China’s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge […] The post Data on Chinese innovation appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-29T06:57:55+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
+   "title": "You will learn to love AI writing",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
+   "summary": "That is the theme of my latest Free Press article, excerpt: But do I wish to eschew AI writing for the rest of my life? Absolutely not. Most of all, I want AI writing to get better, so it does not irritate me with its clichés and all too obvious identifying marks. I want AI writing […] The post You will learn to love AI writing appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-29T04:52:47+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
+   "title": "Congratulations to Ross D. and others",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
+   "summary": "Ross Douthat, an opinion columnist at The New York Times, is leaving to join the CBS News program “60 Minutes” as a correspondent, the show’s executive producer said in a memo to staff on Tuesday. Mr. Douthat is among a group of journalists joining for the show’s 59th season, which will premiere on Sept. 13. […] The post Congratulations to Ross D. and others appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-28T21:34:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDl1bWhGdWVZRmd0LURidkRGMmh3MzRRSWF1c01pUHc3NkxHYkxpNFAxeVB3M3QtQ2lmVHFGdTVxSnc3cmN1YXg2ZmJLLVNRb0ZCM19VZVA1U2VNLUptQXVRVXhSU2Jmem8tc0NmLUlJQ0VwYnplSk52NVFhaVZLd1p2LTA4c1hIck9yQjdYeUJKTEFqdDFsSC1OdHl1T2hRZVFpMVNDcUZuUQ?oc=5",
+   "title": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit - news.bloombergtax.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDl1bWhGdWVZRmd0LURidkRGMmh3MzRRSWF1c01pUHc3NkxHYkxpNFAxeVB3M3QtQ2lmVHFGdTVxSnc3cmN1YXg2ZmJLLVNRb0ZCM19VZVA1U2VNLUptQXVRVXhSU2Jmem8tc0NmLUlJQ0VwYnplSk52NVFhaVZLd1p2LTA4c1hIck9yQjdYeUJKTEFqdDFsSC1OdHl1T2hRZVFpMVNDcUZuUQ?oc=5",
+   "summary": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit news.bloombergtax.com",
+   "published": "2026-07-28T18:07:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
+   "title": "Tuesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
+   "summary": "1. The economics of personal holding companies, including in the Nordics. 2. Jongkuch Mach is a good name for a very tall basketball player. 3. Can AI predict who will be the most important philosopher in 2046? For economics, the top pick of GPT Pro is Ludwig Straub, second choice is Stefanie Stantcheva. I like […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-28T16:27:44+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://basisonline.org/2026/07/28/peer-approach-preventing-partner-violence-women-substance-use-treatment/",
+   "title": "STASH, Vol. 22(8) – A peer-delivered approach to preventing sexual and intimate partner violence among women in substance use treatment",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/07/28/peer-approach-preventing-partner-violence-women-substance-use-treatment/",
+   "summary": "This week, STASH reviews a pilot trial of THRIVE, a peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment, led by Heidi Zinzow and colleagues.",
+   "published": "2026-07-28T16:26:24+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html?utm_source=rss&utm_medium=rss&utm_campaign=the-apples-and-oranges-tribunal",
    "title": "The Apples and Oranges Tribunal",
    "source": "Marginal Revolution",
@@ -5154,11 +5287,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFRidDE0ZGNIbG5DSTJrVkU0dVBVMmhTeXd1Z2tuOFZ4VUU2U1ZIZ3REMzRWZUR1ZGNEOXBGTGV6dlBwdjQ1ekpmS3FtU3oxVlBQcm84VVBGZ2kxRTJ0TFFKaWp4cTc4LWYzbE9jVTZoRzBFWjc3ejBybWpOUGxmbGpWV0x1RFlSS2V6TmJUNUk2Y0XSAZMBQVVfeXFMTURUYnQxNGRjSGxuQ0kya1ZFNHVQVTJoU3l3dWdrbjhWeFVFNlNWSGd0RDM0VmVEdWRjRDlwRkxlenZQcHY0NXpKZktxbVN6MVZQUHJvOFVQRmdpMUUydExRSmlqeHE3OC1mM2xPY1U2aEcwRVo3N3owcm1qTlBsZmxqVldMdURZUktlek5iVDVJNmNF?oc=5",
-   "title": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says - KFOR.com",
+   "title": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says - KFOR",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFRidDE0ZGNIbG5DSTJrVkU0dVBVMmhTeXd1Z2tuOFZ4VUU2U1ZIZ3REMzRWZUR1ZGNEOXBGTGV6dlBwdjQ1ekpmS3FtU3oxVlBQcm84VVBGZ2kxRTJ0TFFKaWp4cTc4LWYzbE9jVTZoRzBFWjc3ejBybWpOUGxmbGpWV0x1RFlSS2V6TmJUNUk2Y0XSAZMBQVVfeXFMTURUYnQxNGRjSGxuQ0kya1ZFNHVQVTJoU3l3dWdrbjhWeFVFNlNWSGd0RDM0VmVEdWRjRDlwRkxlenZQcHY0NXpKZktxbVN6MVZQUHJvOFVQRmdpMUUydExRSmlqeHE3OC1mM2xPY1U2aEcwRVo3N3owcm1qTlBsZmxqVldMdURZUktlek5iVDVJNmNF?oc=5",
-   "summary": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says KFOR.com",
+   "summary": "Oklahoma 9th-highest in nation’s business bankruptcy rate, report says KFOR",
    "published": "2026-07-27T15:03:01+00:00",
    "relevance": "high",
    "topics": [
@@ -5662,55 +5795,66 @@
    "published": "2026-07-19T16:25:48+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor",
-   "title": "Building luxury homes is good for the poor",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor",
-   "summary": "Tej Parikh writing in the FT: …high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households […] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-19T11:23:40+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
-   "title": "Cross-ethnic casting",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
-   "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play […] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-19T06:29:05+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/how-does-social-media-change-people.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-social-media-change-people",
-   "title": "How does social media change people?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-does-social-media-change-people.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-social-media-change-people",
-   "summary": "I would not trust the results of this (or any) paper on this topic very much, but it is good to see some inquiry along different dimensions than the usual: Past research explored the beneficial and harmful effects of social media (SM), but no study has investigated how SM might change people’s identities. Authors suggest […] The post How does social media change people? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-19T04:21:28+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-570",
-   "title": "Saturday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-570",
-   "summary": "1. How Roman concrete lasted for so long. 2. All restaurants in Germany are worthy of five stars? 3. They are making improvements to Refine. 4. New limits on graduate student visas? Should we/can we make the PhD three years only? 5.”I need him to make a decision.” 6. Vesuvius scrolls update. 7. “Where will […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-18T15:43:03+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108990",
+   "title": "Priority Open Recommendations: Department of Commerce",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108990",
+   "summary": "What GAO Found In May 2025, GAO identified eight priority recommendations for the Department of Commerce (Commerce). Since then, Commerce has implemented one of those recommendations. In July 2026, GAO added one priority recommendation, bringing the total to eight. GAO is highlighting the following two areas that warrant timely and focused attention: Improving planning for the decennial census, and Protecting personally identifiable information. Addressing GAO's recommendations in these areas could improve census cost and accuracy, particularly for hard-to-enumerate populations, and help Comme",
+   "published": "2026-07-29T11:31:14+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/e15005",
+   "title": "Professional Standards Update No. 101",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/e15005",
+   "summary": "To alert the audit community to changes in professional standards, we periodically issue Professional Standards Updates (PSU). These updates highlight the effective dates of recently issued standards and guidance related to engagements conducted in accordance with Government Auditing Standards. PSUs contain summary information only, and those affected by a change should refer to the respective standard or guidance for details.",
+   "published": "2026-07-28T14:07:57+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107521",
+   "title": "Transportation Worker Identification Credential: Actions Needed to Address Maritime Security Risks",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107521",
+   "summary": "What GAO Found TSA has taken some steps to communicate Transportation Worker Identification Credential (TWIC®) program information with stakeholders. However, TSA relies on an ad hoc communication approach rather than a documented communication plan to determine how to share information with stakeholders. This has contributed to some stakeholders reporting that they experienced declining engagement with and delays receiving key program updates from TSA. Developing and implementing a communication plan could help TSA ensure that all stakeholders receive the information necessary to effectively ",
+   "published": "2026-07-28T12:31:40+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/28/bankruptcies-rise-122-percent",
+   "title": "Bankruptcies Rise 12.2 Percent",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/28/bankruptcies-rise-122-percent",
+   "summary": "Bankruptcy filings rose 12.2 percent during the 12-month period ending June 30, 2026.",
+   "published": "2026-07-28T12:00:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107790",
+   "title": "Disaster Response: Lessons Learned in Supporting Mothers and Young Children",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107790",
+   "summary": "What GAO Found The unique needs of mothers and young children during disasters include appropriate sheltering, feeding and care supplies, medical and mental health support, and other services, according to relevant literature and disaster service providers from selected local, state, and nonprofit organizations. For example, large shelters may not be the best option for families with infants. Mothers also often need diapers, baby food, and infant formula. Service providers from 12 local, state, and nonprofit organizations GAO interviewed discussed ways they have supported mothers and young chi",
+   "published": "2026-07-28T11:28:13+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-109077",
    "title": "Priority Open Recommendations: Department of Homeland Security",
