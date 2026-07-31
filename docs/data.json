@@ -1,6 +1,284 @@
 {
- "generated_at": "2026-07-30T12:45:42.598907+00:00",
+ "generated_at": "2026-07-31T12:57:30.884172+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105591",
+   "title": "Impacts of childhood disability on family: Labor, marriage, fertility, and depression",
+   "authors": "Kuan-Ming Chen, Ming-Jen Lin, Wei-Lun Lo",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105591",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105591",
+   "abstract": "",
+   "published": "2026-07-31T00:25:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105722",
+   "title": "Green spills: Peer effects in pro-environmental behaviors",
+   "authors": "Patrick Bigler, Benedikt Janzen",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105722",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
+   "abstract": "",
+   "published": "2026-07-30T19:22:08Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20220777",
+   "title": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
+   "authors": "Guilherme Lichand, Nina Cunha, Ricardo A. Madeira, Eric Bettinger",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20220777",
+   "url": "https://doi.org/10.1257/pol.20220777",
+   "abstract": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20210174",
+   "title": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+   "authors": "Andrea Guariso, Thorsten Rogall",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20210174",
+   "url": "https://doi.org/10.1257/pol.20210174",
+   "abstract": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240302",
+   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
+   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240302",
+   "url": "https://doi.org/10.1257/pol.20240302",
+   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240478",
+   "title": "Racial and Ethnic Inequality and the China Shock",
+   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240478",
+   "url": "https://doi.org/10.1257/pol.20240478",
+   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240356",
+   "title": "Attracting and Retaining Highly Effective Educators in Hard-to-Staff Schools",
+   "authors": "Andrew Morgan, Minh Nguyen, Eric Hanushek, Ben Ost, Steven Rivkin",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240356",
+   "url": "https://doi.org/10.1257/pol.20240356",
+   "abstract": "Attracting and retaining effective teachers in high-poverty schools remains a persistent challenge. We evaluate the impact of an initiative that offered substantial performance-based compensation to highly effective teachers in the lowest-achieving schools. We find that the program led to dramatic improvements in achievement, nearly closing the gap between the targeted schools and the district average. When the program was later reversed for some campuses, effective teachers departed at high rates, resulting in an immediate decline in student achievement. The results underscore the potential for effectiveness-based compensating differentials to attract and retain effective teachers in disadvantaged schools. (JEL H75, I21, I28, J31, J45)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240197",
+   "title": "The Option Value of Municipal Liquidity",
+   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240197",
+   "url": "https://doi.org/10.1257/pol.20240197",
+   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240544",
+   "title": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+   "authors": "David Wolf, Kenji Takeuchi",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240544",
+   "url": "https://doi.org/10.1257/pol.20240544",
+   "abstract": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20230384",
+   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
+   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230384",
+   "url": "https://doi.org/10.1257/pol.20230384",
+   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240361",
+   "title": "Alcohol, Labor, and Agriculture",
+   "authors": "David M. A. Murphy",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240361",
+   "url": "https://doi.org/10.1257/pol.20240361",
+   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240212",
+   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+   "authors": "Sarika Gupta",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240212",
+   "url": "https://doi.org/10.1257/pol.20240212",
+   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20220738",
+   "title": "The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP",
+   "authors": "Jenna Anders, Charlie Rafkin",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20220738",
+   "url": "https://doi.org/10.1257/pol.20220738",
+   "abstract": "We study how eligibility expansions in the US Supplemental Nutrition Assistance Program (SNAP) affect take-up among previously eligible households and social welfare. Using an event study with administrative take-up data, we document a “woodwork effect”: Expanding eligibility raises take-up among previously eligible households. An online experiment and administrative survey provide evidence that information frictions, rather than stigma, drive SNAP's woodwork effect. To interpret our findings, we develop a model of welfare programs with incomplete take-up and woodwork effects. Given our empirical results and certain modeling assumptions, expanding SNAP eligibility would raise social welfare. (JEL D12, D83, H53, I12, I38)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济",
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20230136",
+   "title": "The Value of School Social Climate Information: Evidence from Chicago Housing Transactions",
+   "authors": "Rene A. Crespin",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230136",
+   "url": "https://doi.org/10.1257/pol.20230136",
+   "abstract": "Educational institutions increasingly measure and publish indicators of social climate. I exploit a plausibly exogenous shock of Chicago school information to examine how social climate information is capitalized into housing markets and affects homebuyer sorting. Using border discontinuities, event studies, and difference-in-differences designs, I find public disclosure raises prices for homes assigned to schools with better climate ratings, with suggestive evidence that higher-income families sort into these homes. A second, less publicized disclosure produced weaker price capitalization but significant responses among higher-income households, suggesting differences in access to information. The findings provide revealed-preference evidence that families value school climate quality. (JEL D83, H75, I21, I28, J13, J45, J81)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域",
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20230070",
+   "title": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+   "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230070",
+   "url": "https://doi.org/10.1257/pol.20230070",
+   "abstract": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230552",
+   "title": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
+   "authors": "Joakim A. Weill, Lucas Davis",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230552",
+   "url": "https://doi.org/10.1257/pol.20230552",
+   "abstract": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240369",
+   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
+   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240369",
+   "url": "https://doi.org/10.1257/pol.20240369",
+   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230542",
+   "title": "Estimating the Economic Value of Zoning Reform",
+   "authors": "Santosh Anagol, Fernando Ferreira, Jonah Rexer",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230542",
+   "url": "https://doi.org/10.1257/pol.20230542",
+   "abstract": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.18.3.i",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.18.3.i",
+   "url": "https://doi.org/10.1257/pol.18.3.i",
+   "abstract": "",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105740",
+   "title": "Information manipulation and repression: Theory and evidence from the COVID-19 response in Russia",
+   "authors": "Natalia Lamberova, Konstantin Sonin",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105740",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105740",
+   "abstract": "",
+   "published": "2026-07-30T12:36:27Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/s0022-1996(26)00111-x",
    "title": "Editorial Board",
@@ -224,7 +502,7 @@
   },
   {
    "id": "10.1016/j.regsciurbeco.2026.104266",
-   "title": "The Effects of Neighborhood Redevelopment on Housing Markets and Beyond: Evidence from HOPE VI Revitalization Program",
+   "title": "The effects of neighborhood redevelopment on housing markets and beyond: Evidence from HOPE VI Revitalization Program",
    "authors": "Lizhong Liu",
    "journal": "Regional Science and Urban Economics",
    "tier": "Urban",
@@ -1017,6 +1295,22 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
+  },
+  {
    "id": "10.3982/ecta23358",
    "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
    "authors": "Anna Stansbury, Kyra Rodriguez",
@@ -1032,22 +1326,6 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -1720,23 +1998,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230242",
-   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
-   "authors": "Matthew A. Masten, Alexandre Poirier",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230242",
-   "url": "https://doi.org/10.1257/aer.20230242",
-   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "遗漏变量对回归系数符号的影响",
-   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
-   "ai_relevance": "medium",
-   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
-  },
-  {
    "id": "10.1257/aer.20230849",
    "title": "The Aggregate Costs of Uninsurable Business Risk",
    "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
@@ -1752,6 +2013,23 @@
    "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
    "ai_relevance": "low",
    "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
+  },
+  {
+   "id": "10.1257/aer.20230242",
+   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
+   "authors": "Matthew A. Masten, Alexandre Poirier",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230242",
+   "url": "https://doi.org/10.1257/aer.20230242",
+   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "遗漏变量对回归系数符号的影响",
+   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
+   "ai_relevance": "medium",
+   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -5215,6 +5493,115 @@
  ],
  "news": [
   {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOam1XMHZrdENGbE9JSUFPTS1rd1BtRW94TDBpa3J1V1dCV2c3VUdzR3U2N2FoVVlHOHMydzc2cDVMeEtWWEdFQng3aUZkUFNHeWMza0l6emdVSFRpVjZ0MnBhZllsaDFpSmp5YkFXVVMySXVHZTZ0UmRoVmZJOVJ4d1RvUTZkOUo2dGVlcXAwRm1yamRKQWxoWkl1S2U2Zzk4WjZpbDh1aWpxMFFwbWtpd09hY0ZpcUN0UFdrU2lEaE5NbDN4ajlQTVgzSmlPRk5MdXgyVkRzWDdWQQ?oc=5",
+   "title": "N.J. has sixth-highest bankruptcy filings rate in U.S.; national filings increased 11.4% year over year - ROI-NJ",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOam1XMHZrdENGbE9JSUFPTS1rd1BtRW94TDBpa3J1V1dCV2c3VUdzR3U2N2FoVVlHOHMydzc2cDVMeEtWWEdFQng3aUZkUFNHeWMza0l6emdVSFRpVjZ0MnBhZllsaDFpSmp5YkFXVVMySXVHZTZ0UmRoVmZJOVJ4d1RvUTZkOUo2dGVlcXAwRm1yamRKQWxoWkl1S2U2Zzk4WjZpbDh1aWpxMFFwbWtpd09hY0ZpcUN0UFdrU2lEaE5NbDN4ajlQTVgzSmlPRk5MdXgyVkRzWDdWQQ?oc=5",
+   "summary": "N.J. has sixth-highest bankruptcy filings rate in U.S.; national filings increased 11.4% year over year ROI-NJ",
+   "published": "2026-07-31T09:26:09+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
+   "title": "An unprecedented weapon?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
+   "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-31T07:03:26+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-eli-dourado.html?utm_source=rss&utm_medium=rss&utm_campaign=the-wisdom-of-eli-dourado",
+   "title": "The wisdom of Eli Dourado",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-eli-dourado.html?utm_source=rss&utm_medium=rss&utm_campaign=the-wisdom-of-eli-dourado",
+   "summary": "How do “international efforts” work? Unlike most of the signatories of the letter, I have been a State Department advisor and have participated in multiple treaty negotiations. I have also been a member of technical committees for UN technical agencies. The international sector is unbelievably dysfunctional. Every single treaty or international agreement is an opportunity […] The post The wisdom of Eli Dourado appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-31T05:02:53+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVksyVlB5UTQzQ3FVX19FM1pWNVU3Q284VVQyNXRBRlplWGlnVHdxNkdlalZuVXJqUHhFWFZRTVZZS1QtWUxycXJFYU5USFdiT293TmU3VnUzNEhlNFZQUG9ubDNoMmV3ZVNvclRjT2lpa0o5VUdJM08wVVhRSUJpMG9TR2gwa3ZTLXfSAY8BQVVfeXFMT1BMcG5DVldZZ21fSHlnUUYxTHQtZnZXMnBVWUZBOC1XeFhfS0pHNTlHTlFkazBKdlNWVG1VSDdtcXNIOHRjZ1NWU0xULWZiRjVVdXpYYjZFU0RJRXhTX3BhSTd5aDBCd1N2TlExZUFUcnNaRDBvN3dvSHFNWXpXOTVyRzE5NnRPcEtXZVVaa0E?oc=5",
+   "title": "Louisiana sees nation’s largest rise in business bankruptcy filings - KTALnews.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVksyVlB5UTQzQ3FVX19FM1pWNVU3Q284VVQyNXRBRlplWGlnVHdxNkdlalZuVXJqUHhFWFZRTVZZS1QtWUxycXJFYU5USFdiT293TmU3VnUzNEhlNFZQUG9ubDNoMmV3ZVNvclRjT2lpa0o5VUdJM08wVVhRSUJpMG9TR2gwa3ZTLXfSAY8BQVVfeXFMT1BMcG5DVldZZ21fSHlnUUYxTHQtZnZXMnBVWUZBOC1XeFhfS0pHNTlHTlFkazBKdlNWVG1VSDdtcXNIOHRjZ1NWU0xULWZiRjVVdXpYYjZFU0RJRXhTX3BhSTd5aDBCd1N2TlExZUFUcnNaRDBvN3dvSHFNWXpXOTVyRzE5NnRPcEtXZVVaa0E?oc=5",
+   "summary": "Louisiana sees nation’s largest rise in business bankruptcy filings KTALnews.com",
+   "published": "2026-07-30T18:21:15+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anatomy-of-cyber-risk",
+   "title": "The Anatomy of Cyber Risk",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anatomy-of-cyber-risk",
+   "summary": "This paper uses computational linguistics to introduce a novel measure of firm-level cyber risk exposure based on the quarterly earnings calls of listed firms. Our measure covers more than 14,000 firms from over 90 countries between 2003 and 2025. The measure is validated using human auditors and a large language model. We show that cyber […] The post The Anatomy of Cyber Risk appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-30T18:06:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFVKcWpxcG5pNF9CVTBlZklSa1pRYU5hckFEd21fWEtkTENac3UzSk03SHFZQlhNNEQ0b0RMdzAwWDhRMGk1Nk0tYVBuclVQUEFoQTBjMUpTZl9FV3VGZE9oVzZxcHFpQkF5UkZacHZqMUlkX2ttSjM2YlJ4MjlUb2ZMcTc3Rm5menV2MmJvaW1pZTk5?oc=5",
+   "title": "Personal Bankruptcy Filings Continue To Climb Among Americans - newjersey.news12.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFVKcWpxcG5pNF9CVTBlZklSa1pRYU5hckFEd21fWEtkTENac3UzSk03SHFZQlhNNEQ0b0RMdzAwWDhRMGk1Nk0tYVBuclVQUEFoQTBjMUpTZl9FV3VGZE9oVzZxcHFpQkF5UkZacHZqMUlkX2ttSjM2YlJ4MjlUb2ZMcTc3Rm5menV2MmJvaW1pZTk5?oc=5",
+   "summary": "Personal Bankruptcy Filings Continue To Climb Among Americans newjersey.news12.com",
+   "published": "2026-07-30T17:07:51+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-563",
+   "title": "Thursday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-563",
+   "summary": "1. Joshua Rothman on lookism. 2. Young adults are using AI to manage their social media feeds (WSJ). 3. What predicts an NBA Achilles tear? 4. LLM data set on changing cultural trends over the centuries. 5. Xi’an Famous Foods is coming to Clarendon. 6. If a German expressionist movie director had filmed a silent […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-30T16:24:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zMy1vb1lEam5WRmVReEdVWl9jLWNXYkVHR3ZJb2xOQjZhOUdyUDJDNHZHRXV5SEh2NGZuM1VIdnB4RkQzSlFEVFlhN1BCckdDTDBQTURFN0g1OW9RZFRBMlNHdE9CMEtXRTF5Q3cxM2JHbUNZclpBWHZB?oc=5",
+   "title": "Bankruptcy Filings Are Climbing as More Americans Face Mounting Financial Pressure - EURweb",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zMy1vb1lEam5WRmVReEdVWl9jLWNXYkVHR3ZJb2xOQjZhOUdyUDJDNHZHRXV5SEh2NGZuM1VIdnB4RkQzSlFEVFlhN1BCckdDTDBQTURFN0g1OW9RZFRBMlNHdE9CMEtXRTF5Q3cxM2JHbUNZclpBWHZB?oc=5",
+   "summary": "Bankruptcy Filings Are Climbing as More Americans Face Mounting Financial Pressure EURweb",
+   "published": "2026-07-30T15:51:01+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXNZSmZkNUp4VzZhb1l6cEVPLUJZWHF5emNsME5WNkFtWGt3WEhZUEhEQ0VVY2lUUENTYzlyY3FmbDMtWGdoZXIzTUhwWV81R0VCU09UaFZ4OERUTlBydTMwZmxJengtejNIdjZnTnR4SkdwQ3AtM1ItclNKbVpqS3NuM2xzRHAyeldNSGZEbEd4SV9mcWRYcUlyX2VSUFJsMHp5ZkJqelA5d2ZCTGl4LWt5Ymo?oc=5",
+   "title": "South Arkansas bankruptcy filings by county for the week ended Tuesday, July 28, 2026 - Magnolia Reporter",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXNZSmZkNUp4VzZhb1l6cEVPLUJZWHF5emNsME5WNkFtWGt3WEhZUEhEQ0VVY2lUUENTYzlyY3FmbDMtWGdoZXIzTUhwWV81R0VCU09UaFZ4OERUTlBydTMwZmxJengtejNIdjZnTnR4SkdwQ3AtM1ItclNKbVpqS3NuM2xzRHAyeldNSGZEbEd4SV9mcWRYcUlyX2VSUFJsMHp5ZkJqelA5d2ZCTGl4LWt5Ymo?oc=5",
+   "summary": "South Arkansas bankruptcy filings by county for the week ended Tuesday, July 28, 2026 Magnolia Reporter",
+   "published": "2026-07-30T13:04:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
    "title": "The Endangered Species Act Reduces Housing",
    "source": "Marginal Revolution",
@@ -5229,11 +5616,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "title": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO - techeconomy.ng",
+   "title": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO - Techeconomy",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "summary": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO techeconomy.ng",
+   "summary": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO Techeconomy",
    "published": "2026-07-30T08:43:19+00:00",
    "relevance": "low",
    "topics": []
@@ -5836,81 +6223,53 @@
    "published": "2026-07-21T13:20:31+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
-   "title": "The Odyssey",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
-   "summary": "Worth seeing, and I enjoyed it — but a few observations I haven’t seen elsewhere. For all the praise of IMAX and 70mm’s supposed clarity, several scenes are out of focus on the actor. Pulling focus is harder with a large-format negative. The problem is compounded by Nolan’s fondness for darkness: too many scenes are […] The post The Odyssey appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-21T11:18:18+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
-   "title": "The economic effects of GLP-1s",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
-   "summary": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness […] The post The economic effects of GLP-1s appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-21T06:38:12+00:00",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
-   "title": "Is America ruled by an oligarchy?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
-   "summary": "Any time you hear claims about American government, a sanity-inducing response is to ask whether they also are true of state and local governments. Here is an excerpt from my latest piece at The Free Press: First, in people’s daily lives, they typically interact with their state and local governments more than with the feds. […] The post Is America ruled by an oligarchy? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-21T04:34:49+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
-   "title": "Words of wisdom on Chinese AI and our responses",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
-   "summary": "The strategy for China is obvious: commoditize your complements. Note that Xi explicitly ties openness to AI “moving from the digital world into the physical world”; the physical world is the world dominated by China, and the country’s lead in areas like robotics is going to massively benefit from widely available AI models. Along the […] The post Words of wisdom on Chinese AI and our responses appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-20T21:11:03+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW1hNHJkQmpwdVRraHkxR2hlRnJka2U4RWxfc3lFak9GVW9wa2MzanZRcUUzdFJmejhCNk1PUmp0QWpuWjE5Z0ZJSC16ZVBSdERLNXlqQjhNanE3b0pwX29xRmpTWmhaLXlibDFZeHJHR3FKQ2VTdEViU295Y2NaSEg4dUlWWHphbkhSZkI4YlhzT2MwRUdlZ242bW5LcG1DVGVrVEx5OU1oLWpRQ3RPYW9fQi1lYlhfRGk0MVFSYWQ?oc=5",
-   "title": "Healthcare bankruptcy volume 'stabilizes' in H1, though more practices are falling under - Fierce Healthcare",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW1hNHJkQmpwdVRraHkxR2hlRnJka2U4RWxfc3lFak9GVW9wa2MzanZRcUUzdFJmejhCNk1PUmp0QWpuWjE5Z0ZJSC16ZVBSdERLNXlqQjhNanE3b0pwX29xRmpTWmhaLXlibDFZeHJHR3FKQ2VTdEViU295Y2NaSEg4dUlWWHphbkhSZkI4YlhzT2MwRUdlZ242bW5LcG1DVGVrVEx5OU1oLWpRQ3RPYW9fQi1lYlhfRGk0MVFSYWQ?oc=5",
-   "summary": "Healthcare bankruptcy volume 'stabilizes' in H1, though more practices are falling under Fierce Healthcare",
-   "published": "2026-07-20T20:30:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-569",
-   "title": "Monday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-569",
-   "summary": "1. “In all three countries, declining places displayed higher animosity prior to salient populist campaigns.” In their tweets. 2. Sunstein on Hayek and conservatism. 3. Jacobian conjecture proved false. Fable found a counterexample that fits inside a tweet. From the strawberry guy: “in the areas that the labs are targeting, we’ve achieved artificial super intelligence. […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-20T16:34:14+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/30/statement-judge-robert-j-conrad-jr-director-ao-regarding-introduction-judicial-space-and-facilities",
+   "title": "Statement of Judge Robert J. Conrad, Jr., Director of the AO, Regarding Introduction of the Judicial Space and Facilities Management Effectiveness Act",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/30/statement-judge-robert-j-conrad-jr-director-ao-regarding-introduction-judicial-space-and-facilities",
+   "summary": "",
+   "published": "2026-07-30T12:00:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/30/federal-circuit-celebrates-independence-day-anniversary-through-history-and-civic-learning",
+   "title": "Federal Circuit Celebrates Independence Day Anniversary Through History and Civic Learning",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/30/federal-circuit-celebrates-independence-day-anniversary-through-history-and-civic-learning",
+   "summary": "On the eve of the 250th anniversary of Independence Day, in the nation’s capital, the Federal Circuit Center for Innovation and Law invited the public to the Justice Up Close, History All Around civics program to explore how law, innovation, science, and civic action have shaped the nation.",
+   "published": "2026-07-30T12:00:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108632",
+   "title": "Financial Audit Manual: Volume 3, July 2026",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108632",
+   "summary": "The U.S. Government Accountability Office (GAO) and the Council of the Inspectors General on Integrity and Efficiency (CIGIE) maintain the Financial Audit Manual (FAM). For more information, please visit the main FAM page, or contact Dawn B. Simpson at SimpsonDB@gao.gov.",
+   "published": "2026-07-30T11:26:02+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107610",
+   "title": "Public Health Preparedness: Experts Identified Actions to Improve Surveillance for Emerging Disease Threats",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107610",
+   "summary": "What GAO Found Emerging infectious diseases are infections that are new (e.g., COVID-19) or have existed but are reappearing in an area (e.g., measles), according to the Department of Health and Human Services (HHS). As the federal lead for public health, HHS partners with thousands of entities at all levels of government to conduct surveillance for emerging infectious diseases; doing so through continuous data collection, analysis, and sharing of health data needed to plan for and respond to such threats. Experts on a roundtable GAO convened suggested a range of actions that the federal gover",
+   "published": "2026-07-30T11:08:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108989",
    "title": "Priority Open Recommendations: Office of Personnel Management",
