@@ -1,6 +1,294 @@
 {
- "generated_at": "2026-07-31T12:57:30.884172+00:00",
+ "generated_at": "2026-08-01T12:03:02.644723+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103892",
+   "title": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
+   "authors": "Yinan Liu, Chen Lin, Zixiao Li, Jing Zhang",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103892",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
+   "abstract": "",
+   "published": "2026-07-31T23:04:04Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743389",
+   "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
+   "authors": "David Card, Eric Chyn, Laura Giuliano",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743389",
+   "url": "https://doi.org/10.1086/743389",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743331",
+   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+   "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743331",
+   "url": "https://doi.org/10.1086/743331",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743333",
+   "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
+   "authors": "Nathan Canen, Chad Kendall, Francesco Trebbi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743333",
+   "url": "https://doi.org/10.1086/743333",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743332",
+   "title": "A Theory of Redistribution and Public Good Provision Under Non-Democracy",
+   "authors": "Nicola Persico",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743332",
+   "url": "https://doi.org/10.1086/743332",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743329",
+   "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
+   "authors": "Thomas Wollmann",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743329",
+   "url": "https://doi.org/10.1086/743329",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743334",
+   "title": "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery",
+   "authors": "Kohei Takeda, Atsushi Yamagishi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743334",
+   "url": "https://doi.org/10.1086/743334",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/s0047-2727(26)00185-4",
+   "title": "Editorial Board",
+   "authors": "",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/s0047-2727(26)00185-4",
+   "url": "https://doi.org/10.1016/s0047-2727(26)00185-4",
+   "abstract": "",
+   "published": "2026-07-31T20:24:59Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743387",
+   "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
+   "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743387",
+   "url": "https://doi.org/10.1086/743387",
+   "abstract": "",
+   "published": "2026-07-31T19:11:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743388",
+   "title": "Safe Spaces: Shelters or Tribes?",
+   "authors": "Jean Tirole",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743388",
+   "url": "https://doi.org/10.1086/743388",
+   "abstract": "",
+   "published": "2026-07-31T19:11:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240094",
+   "title": "Energy Transitions in Regulated Markets",
+   "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240094",
+   "url": "https://doi.org/10.1257/aer.20240094",
+   "abstract": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240617",
+   "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+   "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240617",
+   "url": "https://doi.org/10.1257/aer.20240617",
+   "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241007",
+   "title": "The Productivity of Professions: Evidence from the Emergency Department",
+   "authors": "David Chan, Yiqun Chen",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241007",
+   "url": "https://doi.org/10.1257/aer.20241007",
+   "abstract": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.116.8.i",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.8.i",
+   "url": "https://doi.org/10.1257/aer.116.8.i",
+   "abstract": "",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240497",
+   "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+   "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240497",
+   "url": "https://doi.org/10.1257/aer.20240497",
+   "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20220264",
+   "title": "Talent Hoarding in Organizations",
+   "authors": "Ingrid Haegele",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20220264",
+   "url": "https://doi.org/10.1257/aer.20220264",
+   "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250305",
+   "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
+   "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250305",
+   "url": "https://doi.org/10.1257/aer.20250305",
+   "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240056",
+   "title": "Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs",
+   "authors": "Rüdiger Bachmann, Kai Carstensen, Stefan Lautenbacher, Manuel Menkhoff, Martin Schneider",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240056",
+   "url": "https://doi.org/10.1257/aer.20240056",
+   "abstract": "This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices. (JEL C83, D22, E20, E23)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250295",
+   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+   "authors": "Karl M. Aspelund, Anna Russo",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250295",
+   "url": "https://doi.org/10.1257/aer.20250295",
+   "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231696",
+   "title": "Professional Motivations in the Public Sector: Evidence from Police Officers",
+   "authors": "Aaron Chalfin, Felipe Gonçalves",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231696",
+   "url": "https://doi.org/10.1257/aer.20231696",
+   "abstract": "We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement. (JEL K42, J33, J45)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240712",
+   "title": "Random Utility with Unobservable Alternatives",
+   "authors": "Haruki Kono, Kota Saito, Alec Sandroni",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240712",
+   "url": "https://doi.org/10.1257/aer.20240712",
+   "abstract": "The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them. (JEL D11, D44, D83)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231414",
+   "title": "Remote Work and City Structure",
+   "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231414",
+   "url": "https://doi.org/10.1257/aer.20231414",
+   "abstract": "Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent. (JEL I12, J22, M54, R23, R31)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105591",
    "title": "Impacts of childhood disability on family: Labor, marriage, fertility, and depression",
@@ -110,19 +398,17 @@
    ]
   },
   {
-   "id": "10.1257/pol.20240544",
-   "title": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
-   "authors": "David Wolf, Kenji Takeuchi",
+   "id": "10.1257/pol.20240361",
+   "title": "Alcohol, Labor, and Agriculture",
+   "authors": "David M. A. Murphy",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240544",
-   "url": "https://doi.org/10.1257/pol.20240544",
-   "abstract": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+   "doi": "10.1257/pol.20240361",
+   "url": "https://doi.org/10.1257/pol.20240361",
+   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
    "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1257/pol.20230384",
@@ -138,17 +424,19 @@
    "topics": []
   },
   {
-   "id": "10.1257/pol.20240361",
-   "title": "Alcohol, Labor, and Agriculture",
-   "authors": "David M. A. Murphy",
+   "id": "10.1257/pol.20240544",
+   "title": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+   "authors": "David Wolf, Kenji Takeuchi",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240361",
-   "url": "https://doi.org/10.1257/pol.20240361",
-   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "doi": "10.1257/pol.20240544",
+   "url": "https://doi.org/10.1257/pol.20240544",
+   "abstract": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
    "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
   },
   {
    "id": "10.1257/pol.20240212",
@@ -1329,7 +1617,7 @@
   },
   {
    "id": "10.1093/restud/rdag078",
-   "title": "Large Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China",
+   "title": "Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China",
    "authors": "Stephan Heblich, Marlon Seror, Hao Xu, Yanos Zylberberg",
    "journal": "Review of Economic Studies",
    "tier": "Top-5",
@@ -1998,23 +2286,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230849",
-   "title": "The Aggregate Costs of Uninsurable Business Risk",
-   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230849",
-   "url": "https://doi.org/10.1257/aer.20230849",
-   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "不可保险商业风险的总体成本",
-   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
-   "ai_relevance": "low",
-   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
-  },
-  {
    "id": "10.1257/aer.20230242",
    "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
    "authors": "Matthew A. Masten, Alexandre Poirier",
@@ -2030,6 +2301,23 @@
    "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
    "ai_relevance": "medium",
    "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
+  },
+  {
+   "id": "10.1257/aer.20230849",
+   "title": "The Aggregate Costs of Uninsurable Business Risk",
+   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230849",
+   "url": "https://doi.org/10.1257/aer.20230849",
+   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "不可保险商业风险的总体成本",
+   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
+   "ai_relevance": "low",
+   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -2049,23 +2337,6 @@
    "abstract_zh": "对Moretti(2021)关于技术集聚规模与专利产出因果关系的批评；指出原论文事件研究和工具变量方法存在编码错误，校正后发现零效应。",
    "ai_relevance": "low",
    "ai_reason": "技术创新和创新地理研究，与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.1257/aer.20250064",
-   "title": "A Theory of Price Caps on Nonrenewable Resources",
-   "authors": "Simon Johnson, Lukasz Rachel, Catherine Wolfram",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250064",
-   "url": "https://doi.org/10.1257/aer.20250064",
-   "abstract": "What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "非可再生资源价格上限理论",
-   "abstract_zh": "开发动态模型分析资源出口国面对价格上限时的最优响应,纳入随机价格、金融摩擦和市场力量。研究表明精心设计的价格上限可激励增加开采以稳定全球价格,但执行不力时效应减弱。",
-   "ai_relevance": "low",
-   "ai_reason": "研究能源政策和国际贸易制裁工具,与赌博政策和消费者金融无关"
   },
   {
    "id": "10.1257/aer.20240642",
@@ -2099,6 +2370,23 @@
    "title_zh": "前言",
    "ai_relevance": "low",
    "ai_reason": "无实质研究内容"
+  },
+  {
+   "id": "10.1257/aer.20250064",
+   "title": "A Theory of Price Caps on Nonrenewable Resources",
+   "authors": "Simon Johnson, Lukasz Rachel, Catherine Wolfram",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250064",
+   "url": "https://doi.org/10.1257/aer.20250064",
+   "abstract": "What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "非可再生资源价格上限理论",
+   "abstract_zh": "开发动态模型分析资源出口国面对价格上限时的最优响应,纳入随机价格、金融摩擦和市场力量。研究表明精心设计的价格上限可激励增加开采以稳定全球价格,但执行不力时效应减弱。",
+   "ai_relevance": "low",
+   "ai_reason": "研究能源政策和国际贸易制裁工具,与赌博政策和消费者金融无关"
   },
   {
    "id": "10.1257/aer.20240673",
@@ -5493,6 +5781,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
+   "title": "More math breakthroughs from GPT models",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
+   "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […] The post More math breakthroughs from GPT models appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-01T10:53:40+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
+   "title": "Immigration and Macroeconomic Outcomes in OECD Countries",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
+   "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […] The post Immigration and Macroeconomic Outcomes in OECD Countries appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-01T06:48:26+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVNKajdPWC1sY3hoeEpDeXhONjJFdHJoeVppS2lGZHdWT1M3U0Zub0hxeFBDMXBzeDFuR1p4dGs2OUVTRWd0ams0bXA3RTRHTXR6Rkk0WXZscVZ3YXJHbmJaTTh6el9kQUpDTmhPa3BKeW5pNV92SXdnVEhwN3hVeVZMeDZBVWJsWWlldFlTV000TUdfb3NvTHppbEVQaWhjZjBZMTMxVW1fQ0kxYk5KcVhKSEhlSVppeDItd2xZTkpmSmJLeUtLaGl0SU9iNjJDQUZFMFNKdGtuRTBsQmJVQnpILUdHSnc?oc=5",
+   "title": "Power Struggle: New Pleasants Power leadership fights with former management in bankruptcy filings - News and Sentinel",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVNKajdPWC1sY3hoeEpDeXhONjJFdHJoeVppS2lGZHdWT1M3U0Zub0hxeFBDMXBzeDFuR1p4dGs2OUVTRWd0ams0bXA3RTRHTXR6Rkk0WXZscVZ3YXJHbmJaTTh6el9kQUpDTmhPa3BKeW5pNV92SXdnVEhwN3hVeVZMeDZBVWJsWWlldFlTV000TUdfb3NvTHppbEVQaWhjZjBZMTMxVW1fQ0kxYk5KcVhKSEhlSVppeDItd2xZTkpmSmJLeUtLaGl0SU9iNjJDQUZFMFNKdGtuRTBsQmJVQnpILUdHSnc?oc=5",
+   "summary": "Power Struggle: New Pleasants Power leadership fights with former management in bankruptcy filings News and Sentinel",
+   "published": "2026-08-01T06:16:40+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
+   "title": "Emergent Ventures India, 18th cohort",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
+   "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […] The post Emergent Ventures India, 18th cohort appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-01T04:24:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
+   "title": "*Redefining Global Health in the 21st Century*",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
+   "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […] The post *Redefining Global Health in the 21st Century* appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-31T17:54:16+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
+   "title": "Friday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
+   "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia. The post Friday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-07-31T16:05:45+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOam1XMHZrdENGbE9JSUFPTS1rd1BtRW94TDBpa3J1V1dCV2c3VUdzR3U2N2FoVVlHOHMydzc2cDVMeEtWWEdFQng3aUZkUFNHeWMza0l6emdVSFRpVjZ0MnBhZllsaDFpSmp5YkFXVVMySXVHZTZ0UmRoVmZJOVJ4d1RvUTZkOUo2dGVlcXAwRm1yamRKQWxoWkl1S2U2Zzk4WjZpbDh1aWpxMFFwbWtpd09hY0ZpcUN0UFdrU2lEaE5NbDN4ajlQTVgzSmlPRk5MdXgyVkRzWDdWQQ?oc=5",
    "title": "N.J. has sixth-highest bankruptcy filings rate in U.S.; national filings increased 11.4% year over year - ROI-NJ",
    "source": "Google News: 破产政策",
@@ -5511,7 +5867,7 @@
    "source": "Marginal Revolution",
    "category": "econ",
    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
-   "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
+   "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred yards, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
    "published": "2026-07-31T07:03:26+00:00",
    "relevance": "low",
    "topics": []
@@ -5553,11 +5909,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFVKcWpxcG5pNF9CVTBlZklSa1pRYU5hckFEd21fWEtkTENac3UzSk03SHFZQlhNNEQ0b0RMdzAwWDhRMGk1Nk0tYVBuclVQUEFoQTBjMUpTZl9FV3VGZE9oVzZxcHFpQkF5UkZacHZqMUlkX2ttSjM2YlJ4MjlUb2ZMcTc3Rm5menV2MmJvaW1pZTk5?oc=5",
-   "title": "Personal Bankruptcy Filings Continue To Climb Among Americans - newjersey.news12.com",
+   "title": "Personal Bankruptcy Filings Continue To Climb Among Americans - News12 | New Jersey",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFVKcWpxcG5pNF9CVTBlZklSa1pRYU5hckFEd21fWEtkTENac3UzSk03SHFZQlhNNEQ0b0RMdzAwWDhRMGk1Nk0tYVBuclVQUEFoQTBjMUpTZl9FV3VGZE9oVzZxcHFpQkF5UkZacHZqMUlkX2ttSjM2YlJ4MjlUb2ZMcTc3Rm5menV2MmJvaW1pZTk5?oc=5",
-   "summary": "Personal Bankruptcy Filings Continue To Climb Among Americans newjersey.news12.com",
+   "summary": "Personal Bankruptcy Filings Continue To Climb Among Americans News12 | New Jersey",
    "published": "2026-07-30T17:07:51+00:00",
    "relevance": "high",
    "topics": [
@@ -5616,11 +5972,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "title": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO - Techeconomy",
+   "title": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO - techeconomy.ng",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "summary": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO Techeconomy",
+   "summary": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO techeconomy.ng",
    "published": "2026-07-30T08:43:19+00:00",
    "relevance": "low",
    "topics": []
@@ -5707,6 +6063,19 @@
    "topics": []
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
+   "title": "How State Policy Initiatives Can Reduce Problem Gambling... - National Conference of State Legislatures",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
+   "summary": "How State Policy Initiatives Can Reduce Problem Gambling... National Conference of State Legislatures",
+   "published": "2026-07-29T14:39:24+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
    "title": "Data on Chinese innovation",
    "source": "Marginal Revolution",
@@ -5738,6 +6107,19 @@
    "published": "2026-07-28T21:34:00+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEpadVRyc3UwUE5qa2VodjlmbTFMNVFmc2tZTnA5SjRUakdFZ2JWWXpGRW1ndmhpa1ZIaXliMG9nRzcxS19Lc1VkNFhCRTEyLWludERIMzVEOXgwZU1YUW0zbGI0dDNtc1hyNVFoTzFubDFHck1HLWVhUV9pNm9ELVBPT0tlS0hISC10OW9hRkthWW5zbC1tZ283VWpNUmxFRzc5NmhtQQ?oc=5",
+   "title": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit - Bloomberg Law News",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEpadVRyc3UwUE5qa2VodjlmbTFMNVFmc2tZTnA5SjRUakdFZ2JWWXpGRW1ndmhpa1ZIaXliMG9nRzcxS19Lc1VkNFhCRTEyLWludERIMzVEOXgwZU1YUW0zbGI0dDNtc1hyNVFoTzFubDFHck1HLWVhUV9pNm9ELVBPT0tlS0hISC10OW9hRkthWW5zbC1tZ283VWpNUmxFRzc5NmhtQQ?oc=5",
+   "summary": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit Bloomberg Law News",
+   "published": "2026-07-28T18:07:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDl1bWhGdWVZRmd0LURidkRGMmh3MzRRSWF1c01pUHc3NkxHYkxpNFAxeVB3M3QtQ2lmVHFGdTVxSnc3cmN1YXg2ZmJLLVNRb0ZCM19VZVA1U2VNLUptQXVRVXhSU2Jmem8tc0NmLUlJQ0VwYnplSk52NVFhaVZLd1p2LTA4c1hIck9yQjdYeUJKTEFqdDFsSC1OdHl1T2hRZVFpMVNDcUZuUQ?oc=5",
@@ -6166,66 +6548,53 @@
    "published": "2026-07-22T16:19:02+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
-   "title": "An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
-   "summary": "AI has just had what I considered to be the first truly concerning security breach. The facts, as we know them so far, are wild. On July 16, Hugging Face, a vast repository housing over a million open-source AI models and data, announced in a blog post: Earlier this week, we detected and responded to […] The post An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-22T11:14:54+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html?utm_source=rss&utm_medium=rss&utm_campaign=alec-stapp-on-the-new-science-report-from-michael-kratsios",
-   "title": "Alec Stapp on the new Science report from Michael Kratsios",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html?utm_source=rss&utm_medium=rss&utm_campaign=alec-stapp-on-the-new-science-report-from-michael-kratsios",
-   "summary": "Major new report from the White House Office of Science and Technology Policy. Five things in the report I really liked: 1. Proposes metascience units as a way to advance experimentation in science agencies. IFP recommended OSTP take this forward in our response to a 2025 RFI. 2. Advocates for a portfolio approach to federal […] The post Alec Stapp on the new Science report from Michael Kratsios appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-22T06:30:45+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html?utm_source=rss&utm_medium=rss&utm_campaign=betting-markets-in-everything-5",
-   "title": "Betting markets in everything",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html?utm_source=rss&utm_medium=rss&utm_campaign=betting-markets-in-everything-5",
-   "summary": "Alan and Karen Miller’s first dance was a win-or-lose moment for many of their wedding guests. As the couple glided across the floor during their reception in New Rochelle, N.Y., last year, attendees kept track of the chosen artist and the length of the dance. Earlier in the night, they had noted their guesses on […] The post Betting markets in everything appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-22T04:35:44+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
-   "title": "Tuesday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
-   "summary": "1. White on Hutt’s macro. 2. Are LLMs obsessed with Japan? 3. Princeton University art museum gets landmark gift of Haitian paintings. 4. “Sight unseen” — the revenge of asymmetric information. But was it a good buy? 5. “Democratic types would give up about $210,000 and Republican types about $100,000 in annual partner income to […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-21T16:22:13+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/07/21/profiles-nicotine-initiation-product-type/",
-   "title": "ASHES, Vol. 22(8) – Profiles of nicotine initiation by product type",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/07/21/profiles-nicotine-initiation-product-type/",
-   "summary": "This week, ASHES reviews a study by Olufemi Erinoso and colleagues that explored the profiles of youth who initiate nicotine use based on product type.",
-   "published": "2026-07-21T13:20:31+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-109272",
+   "title": "B-52 Bomber: Air Force Actions Needed to Improve Major Modernization and Sustainment Efforts",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109272",
+   "summary": "What GAO Found Ten of the 13 B-52 modernizations are experiencing cost, schedule, or performance challenges. The Air Force’s most expensive B-52 modernization effort, the Commercial Engine Replacement Program (CERP) will likely continue to face significant challenges as the Air Force plans to begin production with little to no developmental flight testing. While the Air Force analyzed and accepted increased risks from this approach in 2023, since then CERP costs increased by about $3 billion and initial operational capability was delayed more than 15 months. Department of Defense (DOD) policy ",
+   "published": "2026-07-31T11:50:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108084",
+   "title": "Inflation Reduction Act: EPA’s Use and Oversight of $11.5 Billion in Appropriations",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108084",
+   "summary": "What GAO Found The Inflation Reduction Act of 2022 (IRA) provided about $41.5 billion in supplemental appropriations to the U.S. Environmental Protection Agency (EPA) for grants and other investments to reduce air pollution and enhance national climate resilience. EPA primarily used the appropriations to create new grant programs and has awarded hundreds of grants. In 2025, EPA terminated grants funded by $30 billion of IRA appropriations and several grant recipients were challenging the terminations in court as of June 2026. Of the roughly $11.5 billion in appropriations unaffected by the ter",
+   "published": "2026-07-31T11:07:05+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108965",
+   "title": "Federal Land and Water Management: Lessons Learned from Implementing Federal-Tribal Shared Decision-Making Agreements",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108965",
+   "summary": "What GAO Found Various federal land and water management agencies and Tribes have entered into shared decision-making agreements. Under these agreements, Tribes provide substantive input on federal natural and cultural resource management decisions over many years. The relevant federal agencies are the Departments of Agriculture, Commerce, the Interior, and their subcomponents. The subcomponents include the U.S. Forest Service, National Oceanic and Atmospheric Administration, Bureau of Land Management, U.S. Fish and Wildlife Service, and National Park Service. GAO identified five lessons learn",
+   "published": "2026-07-31T11:00:09+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108504",
+   "title": "Army Corps of Engineers: Disaster Funding and Information Used to Support Flood Risk Management",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108504",
+   "summary": "What GAO Found The U.S. Army Corps of Engineers is responsible for planning, designing, and constructing much of the nation’s federally funded flood risk management infrastructure. The Corps usually does not request funds for disaster response during the annual budget cycle but instead receives supplemental appropriations for such activities after a disaster has occurred. In fiscal year (FY) 2004 through FY 2025, Congress appropriated more than $60 billion to the Corps for disaster response through 19 post-disaster supplemental appropriations acts and $450 million through annual appropriations",
+   "published": "2026-07-31T10:58:09+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/07/30/statement-judge-robert-j-conrad-jr-director-ao-regarding-introduction-judicial-space-and-facilities",
    "title": "Statement of Judge Robert J. Conrad, Jr., Director of the AO, Regarding Introduction of the Judicial Space and Facilities Management Effectiveness Act",
