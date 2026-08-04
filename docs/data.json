@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-03T13:41:59.328978+00:00",
+ "generated_at": "2026-08-04T13:03:36.696720+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103893",
+   "title": "When wages rise, quality falls: Minimum wages and the hidden trade-off in competitive e-commerce markets",
+   "authors": "Xinyu Liu, Han Xiao, Songqing Jin",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103893",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103893",
+   "abstract": "",
+   "published": "2026-08-03T23:34:47Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105744",
    "title": "Wage spillovers across sectors: Evidence from a localized public-sector wage cut",
@@ -437,19 +450,6 @@
    ]
   },
   {
-   "id": "10.1257/pol.20230384",
-   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
-   "authors": "Jamein P. Cunningham, Rob Gillezeau",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230384",
-   "url": "https://doi.org/10.1257/pol.20230384",
-   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/pol.20240361",
    "title": "Alcohol, Labor, and Agriculture",
    "authors": "David M. A. Murphy",
@@ -458,6 +458,19 @@
    "doi": "10.1257/pol.20240361",
    "url": "https://doi.org/10.1257/pol.20240361",
    "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230384",
+   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
+   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230384",
+   "url": "https://doi.org/10.1257/pol.20230384",
+   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -1589,22 +1602,6 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
    "id": "10.3982/ecta22110",
    "title": "Economic Growth and the Rise of Large Firms",
    "authors": "Zhang Chen",
@@ -1622,18 +1619,18 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
    "authors": "",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
    "abstract": "",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
+   "title_zh": "Econometrica 第94卷第4期 前言",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -1653,6 +1650,22 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+  },
+  {
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "向计量经济学会专著系列投稿",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -1787,7 +1800,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag077",
    "url": "https://doi.org/10.1093/restud/rdag077",
-   "abstract": "Abstract We show that the formalization of representativeness (Kahneman and Tversky (1972)) developed by Gennaioli and Shleifer (2010) features an intrinsic connection between uncertainty and overreaction. In the time series domain, we develop this connection in a smooth version of Diagnostic Expectations (DE), where overreaction varies smoothly with uncertainty. Intuitively, under smoothness, lower uncertainty leaves less room for representativeness to distort beliefs. Smooth DE provides a joint, parsimonious micro-foundation for key features of survey data: overreaction to news, stronger overreaction at longer horizons, overconfidence in subjective uncertainty, and a new stylized fact documented here—overreaction intensifies with higher uncertainty. An analytical Real Business Cycle model with Smooth DE accounts for survey overreaction and overconfidence, as well as three salient business cycle properties: asymmetry, countercyclical macro volatility, and countercyclical micro volatility.",
+   "abstract": "Abstract We show that the formalization of representativeness (Kahneman and Tversky, 1972, Cognitive Psychology, 3, 430–454) developed by Gennaioli and Shleifer (2010, The Quarterly Journal of Economics, 125, 1399–1433) features an intrinsic connection between uncertainty and overreaction. In the time series domain, we develop this connection in a smooth version of diagnostic expectations (DE), where overreaction varies smoothly with uncertainty. Intuitively, under smoothness, lower uncertainty leaves less room for representativeness to distort beliefs. Smooth DE provides a joint, parsimonious micro-foundation for key features of survey data: overreaction to news, stronger overreaction at longer horizons, overconfidence in subjective uncertainty, and a new stylized fact documented here—overreaction intensifies with higher uncertainty. An analytical Real Business Cycle model with Smooth DE accounts for survey overreaction and overconfidence, as well as three salient business cycle properties: asymmetry, countercyclical macro volatility, and countercyclical micro volatility.",
    "published": "2026-07-13T11:25:00Z",
    "relevance": "low",
    "topics": [],
@@ -4219,108 +4232,6 @@
    "title_zh": "非学分制劳动力培训、行业资格认证与劳动力市场成果",
    "ai_relevance": "low",
    "ai_reason": "涉及劳动经济学人力资本,与赌博政策研究无关"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105680",
-   "title": "Occupational Hazard? An analysis of birth outcomes among physician mothers",
-   "authors": "Anupam B. Jena, David Slusky, Lilly Springer",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105680",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105680",
-   "abstract": "",
-   "published": "2026-06-05T11:53:51Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "职业危害？医师母亲的出生结果分析",
-   "ai_relevance": "low",
-   "ai_reason": "涉及卫生经济学和劳动市场,与研究主题无关"
-  },
-  {
-   "id": "10.1093/qje/qjag023",
-   "title": "A Cognitive Theory of Reasoning and Choice",
-   "authors": "Pedro Bordalo, Nicola Gennaioli, Giacomo Lanzani, Andrei Shleifer",
-   "journal": "Quarterly Journal of Economics",
-   "tier": "Top-5",
-   "doi": "10.1093/qje/qjag023",
-   "url": "https://doi.org/10.1093/qje/qjag023",
-   "abstract": "Abstract We present a theory of choice in which attention to the features of options is determined by the decision maker’s categorization of the current problem in a set of problems she solved in the past. Categorization depends on goal-relevant and contextual problem-level features. The model yields heterogeneity in attention and choice in a given problem based on different past experiences and instability when changes in irrelevant context cause recategorization. We show that heterogeneous and unstable representations of a choice problem unify major biases in judgment and decision making.",
-   "published": "2026-06-05T11:42:53Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "推理与选择的认知理论",
-   "abstract_zh": "建立决策时注意力分配由过往决策问题分类决定的理论框架。模型解释了同一问题中异质注意力导致的选择异质性和语境变化导致的选择不稳定性,统一解释了多种判断和决策偏差现象。",
-   "ai_relevance": "medium",
-   "ai_reason": "行为决策理论,对理解赌博决策中的认知失误和判断偏差有理论价值"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104290",
-   "title": "How to grow an invoicing currency: Micro evidence from Argentina",
-   "authors": "Felipe Benguria, Dennis Novy",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104290",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104290",
-   "abstract": "",
-   "published": "2026-06-05T06:33:48Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "如何培育发票货币:来自阿根廷的微观证据",
-   "ai_relevance": "low",
-   "ai_reason": "关于货币制度和金融创新,与赌博政策、破产、消费者信贷等核心研究主题无关。"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103831",
-   "title": "The forsaken road: Reassessing living standards following the Cuban Revolution and the American embargo",
-   "authors": "João Pedro Bastos, Vincent Geloso, Jamie Bologna Pavlik",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103831",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103831",
-   "abstract": "",
-   "published": "2026-06-04T23:47:39Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "被遗弃的道路:古巴革命和美国禁运后生活水平的重新评估",
-   "abstract_zh": "",
-   "ai_relevance": "low",
-   "ai_reason": "历史政策与发展经济学主题,不涉及赌博、债务减免或家庭财务困境研究。"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103835",
-   "title": "Non-normal Empirical Bayes prediction of local welfare",
-   "authors": "Chris Elbers, Roy van der Weide",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103835",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103835",
-   "abstract": "",
-   "published": "2026-06-04T16:24:57Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "非正态经验贝叶斯局部福利预测",
-   "abstract_zh": "",
-   "ai_relevance": "low",
-   "ai_reason": "纯统计方法论论文,缺乏实质政策问题或因果推断的具体应用场景。"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103837",
-   "title": "Housing wealth, family relationship and mental health: Evidence from China",
-   "authors": "Fenghang Li, Shenglong Liu",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103837",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103837",
-   "abstract": "",
-   "published": "2026-06-04T15:17:21Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "住房财富、家庭关系与心理健康：来自中国的证据",
-   "abstract_zh": "",
-   "ai_relevance": "low",
-   "ai_reason": "住房与心理健康研究与赌博政策、破产影响无直接关系"
   }
  ],
  "working_papers": [
@@ -6097,6 +6008,87 @@
  ],
  "news": [
   {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBtYUFWWnI1MFFiRHZ3UlZVUXNDVVd3ZzJRRTdzVXp4TnpDODc5aHZ5WTdpMEx0anI2X0h5cU1YMnNicjZFS28tV2RoUHdVY05TOHFnNVBUUkI4V0hUTjBxYVhQWW1CbkMzcktHMkhxNG9yX1c5ek9pXzdkMXBOaXBaSkRxYjF0YV9IeDNkYk5RWjA?oc=5",
+   "title": "Texas business bankruptcies jumped 41% in one year. Here's why - MySA",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBtYUFWWnI1MFFiRHZ3UlZVUXNDVVd3ZzJRRTdzVXp4TnpDODc5aHZ5WTdpMEx0anI2X0h5cU1YMnNicjZFS28tV2RoUHdVY05TOHFnNVBUUkI4V0hUTjBxYVhQWW1CbkMzcktHMkhxNG9yX1c5ek9pXzdkMXBOaXBaSkRxYjF0YV9IeDNkYk5RWjA?oc=5",
+   "summary": "Texas business bankruptcies jumped 41% in one year. Here's why MySA",
+   "published": "2026-08-04T11:39:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
+   "title": "The economics of H-1B immigration",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
+   "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […] The post The economics of H-1B immigration appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-04T06:23:41+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
+   "title": "Emergent Ventures winners, 57th cohort",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
+   "summary": "Oisin O’Gorman, 15, Dublin, misinformation and fakes. Karsen Lee Wahal, Stanford, is AI killing the web?, and measuring media slant. Davy Deng, with Claire Wang (previous winner), whole brain emulation, MIT. Enej Grmek, 16, Ljubljana, privacy. Vladimir Shmelev, Ukraine, Ukrainian children for relief trips to Montenegro. Nik Verma, Chicago, a legal framework for AI agents. […] The post Emergent Ventures winners, 57th cohort appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-04T05:16:58+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
+   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - acainternational.org",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
+   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 acainternational.org",
+   "published": "2026-08-03T22:12:37+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
+   "title": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) - The National Law Review",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
+   "summary": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) The National Law Review",
+   "published": "2026-08-03T19:02:27+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
+   "title": "How does the market regard stablecoins?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
+   "summary": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the stablecoin deposit premium co-moves with the Treasury premium when […] The post How does the market regard stablecoins? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-03T18:32:18+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-571",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-571",
+   "summary": "1. A new simulation argument? 2. PC on aesthetics. 3. An interview with Yiyang Zhuge. 4. The truth and aesthetics of going to church? 5. Some forms of math cope? And a different view. 6. At the demolition derby. The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-03T15:43:56+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
    "title": "What should I ask Nick Bostrom?",
    "source": "Marginal Revolution",
@@ -6238,11 +6230,24 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - thecentersquare.com",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Center Square",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thecentersquare.com",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Center Square",
+   "published": "2026-08-01T13:40:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - WaltonTribune.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. WaltonTribune.com",
    "published": "2026-08-01T13:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6546,11 +6551,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
-   "title": "How State Policy Initiatives Can Reduce Problem Gambling... - ncsl.org",
+   "title": "How State Policy Initiatives Can Reduce Problem Gambling... - National Conference of State Legislatures",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
-   "summary": "How State Policy Initiatives Can Reduce Problem Gambling... ncsl.org",
+   "summary": "How State Policy Initiatives Can Reduce Problem Gambling... National Conference of State Legislatures",
    "published": "2026-07-29T14:39:24+00:00",
    "relevance": "high",
    "topics": [
@@ -6830,53 +6835,20 @@
    "published": "2026-07-25T16:38:10+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
-   "title": "A natural experiment in economics",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
-   "summary": "To study whether and how academics respond to political pressure, we exploit a natural experiment: the publication in early 2025 of a “blacklist” of words flagged by the U.S. government. We find that the release of this list led to a sharp reduction in the use of these flagged words among economists at universities that […] The post A natural experiment in economics appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-25T05:02:26+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
-   "title": "Crypto markets in everything? (moo)",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
-   "summary": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their cattle, signaling the potential of tokenizing RWAs as a financing tool. The […] The post Crypto markets in everything? (moo) appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-25T04:40:55+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
-   "title": "The Decision, the sequel",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
-   "summary": "Imagine your career were coming to a close, how would you want it to end? By earning an especially large sum of money? Publishing a final wonderful paper? With an amazing act of mentorship? When it comes to Lebron, had he wanted to finish his career with the guys he enjoys playing with the most, […] The post The Decision, the sequel appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-24T19:34:26+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
-   "summary": "1. How global was “antiquity”? 2. Why the Clarity Act is mired in muck (NYT). 3. Jim Olds on the new science plan. 4. Cyber capabilities of Kimi 3? 5. “Following a standard workplace safety check, I have just received an email from a university administrator in which my custom of keeping books on the […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-24T16:37:53+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108980",
+   "title": "Priority Open Recommendations: Department of Defense",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108980",
+   "summary": "What GAO Found In May 2025, GAO identified 79 priority recommendations for the Department of Defense. Since then, the Department has implemented 17 of those recommendations. In June 2026, GAO identified an additional seven priority recommendations and removed the priority designation from 16 recommendations, bringing the total to 53 priority recommendations. GAO is highlighting the following three areas that warrant timely and focused attention: Sustaining U.S. military readiness, Ensuring weapon system acquisition and modernization, and Improving financial and fraud risk management. Addressin",
+   "published": "2026-08-04T11:32:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108468",
    "title": "Law Enforcement: DOJ Should Improve Training and Misconduct Guidelines for Nonfederal Task Force Officers",
