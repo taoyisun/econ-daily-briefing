@@ -1,6 +1,47 @@
 {
- "generated_at": "2026-08-04T13:03:36.696720+00:00",
+ "generated_at": "2026-08-05T12:53:36.194932+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105745",
+   "title": "Benefit-based taxation can include substantial redistribution",
+   "authors": "Jo Ellery, Matthew Weinzierl",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105745",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105745",
+   "abstract": "",
+   "published": "2026-08-05T09:48:13Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103897",
+   "title": "Expected foreign military intervention and demand for state-building: Evidence from Mali",
+   "authors": "Alessandro Belmonte, Désirée Teobaldelli, Davide Ticchi",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103897",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103897",
+   "abstract": "",
+   "published": "2026-08-04T15:46:53Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103896",
+   "title": "Building infrastructure and cohesion through locally embedded institutions: Evidence from a field experiment in War-torn Eastern Congo",
+   "authors": "Eric Mvukiyehe, Julie Bousquet, Marijke Verpoorten",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103896",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103896",
+   "abstract": "",
+   "published": "2026-08-04T15:46:39Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103893",
    "title": "When wages rise, quality falls: Minimum wages and the hidden trade-off in competitive e-commerce markets",
@@ -236,19 +277,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20220264",
-   "title": "Talent Hoarding in Organizations",
-   "authors": "Ingrid Haegele",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20220264",
-   "url": "https://doi.org/10.1257/aer.20220264",
-   "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20240497",
    "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
    "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
@@ -257,6 +285,19 @@
    "doi": "10.1257/aer.20240497",
    "url": "https://doi.org/10.1257/aer.20240497",
    "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20220264",
+   "title": "Talent Hoarding in Organizations",
+   "authors": "Ingrid Haegele",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20220264",
+   "url": "https://doi.org/10.1257/aer.20220264",
+   "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
    "published": "2026-07-31T12:49:41Z",
    "relevance": "low",
    "topics": []
@@ -1114,7 +1155,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag080",
    "url": "https://doi.org/10.1093/restud/rdag080",
-   "abstract": "Abstract The European Union designates 26% of its landmass as protected areas, limiting economic development for biodiversity. We use the staggered introduction of protected areas between 1985 and 2019 to study the selection of protected land and the causal effect of protection on vegetation cover and nightlights. We find no meaningful impacts on either outcome across four decades, countries, protection cohorts, or land characteristics. These null effects are consistent with the political economy of EU land protection: weak incentives to internalize biodiversity gains, green-glow motives, and area-based targets shape local siting and stringency choices. In practice, strict protection is applied where development pressure is low–so that protection has little bite—while in high-pressure regions, protection is typically weak, imposing only limited constraints on economic activity.",
+   "abstract": "Abstract The European Union (EU) designates 26% of its landmass as protected areas, limiting economic development for biodiversity. We use the staggered introduction of protected areas between 1985 and 2019 to study the selection of protected land and the causal effect of protection on vegetation cover and nightlights. We find no meaningful impacts on either outcome across four decades, countries, protection cohorts, or land characteristics. These null effects are consistent with the political economy of EU land protection: weak incentives to internalize biodiversity gains, green-glow motives, and area-based targets shape local siting and stringency choices. In practice, strict protection is applied where development pressure is low–so that protection has little bite—while in high-pressure regions, protection is typically weak, imposing only limited constraints on economic activity.",
    "published": "2026-07-21T11:33:03Z",
    "relevance": "low",
    "topics": []
@@ -1315,7 +1356,7 @@
   },
   {
    "id": "10.1016/j.jdeveco.2026.103880",
-   "title": "Suing the Leviathan: The Effect of Trans-Regional Jurisdiction Reform on Corporate Investment",
+   "title": "Suing the leviathan: The effect of trans-regional jurisdiction reform on corporate investment",
    "authors": "Jiayi Geng, Yinyi Jiao, Jinjun (Ricky) Ke, Meiting Lu, Yaowen Shan",
    "journal": "Journal of Development Economics",
    "tier": "Development",
@@ -2338,23 +2379,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230849",
-   "title": "The Aggregate Costs of Uninsurable Business Risk",
-   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230849",
-   "url": "https://doi.org/10.1257/aer.20230849",
-   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "不可保险商业风险的总体成本",
-   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
-   "ai_relevance": "low",
-   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
-  },
-  {
    "id": "10.1257/aer.20230242",
    "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
    "authors": "Matthew A. Masten, Alexandre Poirier",
@@ -2370,6 +2394,23 @@
    "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
    "ai_relevance": "medium",
    "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
+  },
+  {
+   "id": "10.1257/aer.20230849",
+   "title": "The Aggregate Costs of Uninsurable Business Risk",
+   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230849",
+   "url": "https://doi.org/10.1257/aer.20230849",
+   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "不可保险商业风险的总体成本",
+   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
+   "ai_relevance": "low",
+   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -4168,70 +4209,6 @@
    "title_zh": "从租金到成效:中国反腐改革与对非援助有效性",
    "ai_relevance": "low",
    "ai_reason": "宏观政策与发展援助主题,与研究方向无关"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104284",
-   "title": "Reducing trade with Russia: Sanctions vs. firms’ voluntary suspension of activities",
-   "authors": "Juan de Lucio, Raúl Mínguez, Asier Minondo, Francisco Requena",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104284",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104284",
-   "abstract": "",
-   "published": "2026-06-06T03:50:53Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "减少对俄贸易:制裁与企业主动暂停活动",
-   "ai_relevance": "low",
-   "ai_reason": "国际贸易政策主题,离研究核心太远"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104293",
-   "title": "Familiar strangers: The role of diaspora networks in foreign investment and long-run development",
-   "authors": "Fanghao Chen, Ruichi Xiong, Xiaobo Zhang",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104293",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104293",
-   "abstract": "",
-   "published": "2026-06-06T03:50:50Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "熟悉的陌生人:侨民网络在外资与长期发展中的作用",
-   "ai_relevance": "low",
-   "ai_reason": "侨汇与发展经济学主题,与赌博政策/破产/企业竞争无关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103839",
-   "title": "The benefits of public transit to households: Evidence from India",
-   "authors": "Palak Suri, Maureen Cropper",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103839",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103839",
-   "abstract": "",
-   "published": "2026-06-05T15:40:48Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "公共交通对家庭的好处：来自印度的证据",
-   "ai_relevance": "low",
-   "ai_reason": "城市/区域经济学主题，与核心研究方向（赌博政策影响破产/家庭财务困境）关系较远，属于一般发展经济学范畴。"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105679",
-   "title": "Noncredit workforce training, industry credentials, and labor market outcomes",
-   "authors": "Di Xu, Kelli A. Bird, Michael Cooper, Benjamin L. Castleman",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105679",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105679",
-   "abstract": "",
-   "published": "2026-06-05T13:36:30Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "非学分制劳动力培训、行业资格认证与劳动力市场成果",
-   "ai_relevance": "low",
-   "ai_reason": "涉及劳动经济学人力资本,与赌博政策研究无关"
   }
  ],
  "working_papers": [
@@ -6008,6 +5985,115 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
+   "title": "Dominant Assurance Contract aka Refund Bonus Explainer",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
+   "summary": "I created the dominant assurance contract aka the refund bonus mechanism in 1998–it’s a mechanism capable of producing some types of public goods privately–in recent years working with Tim Cason and Robertas Zubrickas I’ve put refund bonuses to the test in lab experiments and they work! I’ve written an accessible Refund Bonus Explainer that covers […] The post Dominant Assurance Contract aka Refund Bonus Explainer appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-05T11:16:55+00:00",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=is-this-why-china-finds-it-so-hard-to-inflate-producer-prices",
+   "title": "Is this why China finds it so hard to inflate producer prices?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=is-this-why-china-finds-it-so-hard-to-inflate-producer-prices",
+   "summary": "This paper investigates why China’s recurrent credit expansions have coincided with persistently weak inflation. We argue that this pattern reflects the country’s production-oriented monetary regime. At the aggregate level, faster monetary-financial expansion temporarily raises PPI inflation but depresses it over longer horizons. At the sectoral level, liability growth among listed industrial firms is followed by […] The post Is this why China finds it so hard to inflate producer prices? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-05T07:20:41+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/victor-niederhoffer-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=victor-niederhoffer-rip",
+   "title": "Victor Niederhoffer, RIP",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/victor-niederhoffer-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=victor-niederhoffer-rip",
+   "summary": "In addition to his well-known public roles, he worked very hard to help and befriend me when I was younger. Here are the Google searches for Victor. Less well known about Victor is that he had one of the world’s best collections of private letters. He also once gave me a very nice small painting […] The post Victor Niederhoffer, RIP appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-05T06:04:51+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-value-of-behavioral-policies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-value-of-behavioral-policies",
+   "title": "The Value of Behavioral Policies",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-value-of-behavioral-policies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-value-of-behavioral-policies",
+   "summary": "Behavioral interventions have become central to modern public policy, but their empirical promise remains contested because estimated treatment effects often appear small. We argue that a policy response is economically meaningful only relative to the response generated by alternative policies. We assemble more than 1,200 estimates from over 600 studies comparing “nudges” and traditional price […] The post The Value of Behavioral Policies appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-05T04:51:59+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGg2WWFJbng2RkxvZW9JYmkwSkp0QVp5U2txbFpRVjhVaUdwUzFSU2RxeFR0UU1MdTcxUkFybE0wT0pvZkdRMWdLUFpfYURoQjdKVnJpb3A5N2RoQTk3MnJYSFFFMjZmSnBDcW5hVE1FX18yZUY5RnFQRXNHUTVhanN0UXBQMVo0MjB1N2w5ZVhEWC1hNVVQSHBGR0R0c29BbkM1QkR3?oc=5",
+   "title": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting - CDC Gaming",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGg2WWFJbng2RkxvZW9JYmkwSkp0QVp5U2txbFpRVjhVaUdwUzFSU2RxeFR0UU1MdTcxUkFybE0wT0pvZkdRMWdLUFpfYURoQjdKVnJpb3A5N2RoQTk3MnJYSFFFMjZmSnBDcW5hVE1FX18yZUY5RnFQRXNHUTVhanN0UXBQMVo0MjB1N2w5ZVhEWC1hNVVQSHBGR0R0c29BbkM1QkR3?oc=5",
+   "summary": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting CDC Gaming",
+   "published": "2026-08-05T00:19:29+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWFIYUU3QnJHeHpTaS1fZHhVQS1jNUI1dXk3MU1DWlV5a1RyZGZHTlBzTDB6eFlvUU5ZbGNiZUhCTW9BbkZlWkQzTzlqMm9kX0xIbHVkM3lhcG5NZE8yTDhlVFI0clVJMHcxanFQRFRFTEc0OEZiRDdjVUhfT2dZcHQwLXFFMm9lb0N5dG5BOUowT2dsTDZ2NW5hc1l3OEZ6Zm9DZW1tSEc5eEkwRE9IdEMwczdrRnl0dkhIcVFydXdmUFQ2VXFxYjNpb19XbHZoZWlQU0JSdlQ2S00tOHdzdUVQd1JnTGxGVkl5RXM3bFFLd0x6?oc=5",
+   "title": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting - Cache Valley Daily",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWFIYUU3QnJHeHpTaS1fZHhVQS1jNUI1dXk3MU1DWlV5a1RyZGZHTlBzTDB6eFlvUU5ZbGNiZUhCTW9BbkZlWkQzTzlqMm9kX0xIbHVkM3lhcG5NZE8yTDhlVFI0clVJMHcxanFQRFRFTEc0OEZiRDdjVUhfT2dZcHQwLXFFMm9lb0N5dG5BOUowT2dsTDZ2NW5hc1l3OEZ6Zm9DZW1tSEc5eEkwRE9IdEMwczdrRnl0dkhIcVFydXdmUFQ2VXFxYjNpb19XbHZoZWlQU0JSdlQ2S00tOHdzdUVQd1JnTGxGVkl5RXM3bFFLd0x6?oc=5",
+   "summary": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting Cache Valley Daily",
+   "published": "2026-08-04T22:21:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
+   "title": "Estimating the Economic Value of Zoning Reform",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
+   "summary": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate […] The post Estimating the Economic Value of Zoning Reform appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-04T18:51:23+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://basisonline.org/2026/08/04/changing-gambling-care-call-away/",
+   "title": "The WAGER, Vol. 31(8) – Changing your gambling: Just a “care” call away",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/08/04/changing-gambling-care-call-away/",
+   "summary": "This week, The WAGER reviews a study by Jakob Jonsson and colleagues that examined changes in gambling behavior following care calls provided to customers of a large Norwegian gambling operator who were identified as at risk for gambling-related harm.",
+   "published": "2026-08-04T16:55:56+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-580",
+   "title": "Tuesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-580",
+   "summary": "1. Selecting innovation funding mechanisms. 2. Helen Andrews on race. 3. Famous radio station goes all-automated. 4. On Stefanie Stantcheva. 5. ChinaTalk submission hiring contest. 6. New Hamilton faculty at University of Florida, 21 of them. 7. Battery in your backyard? (WSJ) 8. How Americans are talking to Claude about politics. The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-04T15:29:06+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBtYUFWWnI1MFFiRHZ3UlZVUXNDVVd3ZzJRRTdzVXp4TnpDODc5aHZ5WTdpMEx0anI2X0h5cU1YMnNicjZFS28tV2RoUHdVY05TOHFnNVBUUkI4V0hUTjBxYVhQWW1CbkMzcktHMkhxNG9yX1c5ek9pXzdkMXBOaXBaSkRxYjF0YV9IeDNkYk5RWjA?oc=5",
    "title": "Texas business bankruptcies jumped 41% in one year. Here's why - MySA",
    "source": "Google News: 破产政策",
@@ -6042,11 +6128,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - acainternational.org",
+   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - ACA International",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 acainternational.org",
+   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 ACA International",
    "published": "2026-08-03T22:12:37+00:00",
    "relevance": "high",
    "topics": [
@@ -6055,11 +6141,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
-   "title": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) - The National Law Review",
+   "title": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) - natlawreview.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
-   "summary": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) The National Law Review",
+   "summary": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) natlawreview.com",
    "published": "2026-08-03T19:02:27+00:00",
    "relevance": "high",
    "topics": [
@@ -6364,6 +6450,19 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVksyVlB5UTQzQ3FVX19FM1pWNVU3Q284VVQyNXRBRlplWGlnVHdxNkdlalZuVXJqUHhFWFZRTVZZS1QtWUxycXJFYU5USFdiT293TmU3VnUzNEhlNFZQUG9ubDNoMmV3ZVNvclRjT2lpa0o5VUdJM08wVVhRSUJpMG9TR2gwa3ZTLXfSAY8BQVVfeXFMT1BMcG5DVldZZ21fSHlnUUYxTHQtZnZXMnBVWUZBOC1XeFhfS0pHNTlHTlFkazBKdlNWVG1VSDdtcXNIOHRjZ1NWU0xULWZiRjVVdXpYYjZFU0RJRXhTX3BhSTd5aDBCd1N2TlExZUFUcnNaRDBvN3dvSHFNWXpXOTVyRzE5NnRPcEtXZVVaa0E?oc=5",
    "summary": "Louisiana sees nation’s largest rise in business bankruptcy filings KTALnews.com",
+   "published": "2026-07-30T18:21:15+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclpPeEgxaWU5VDdvT19icEo5bWpublJOOVQ2aGs0SEZadXU5MnZpUWlBcTNsMVlsWTJ1TEQ4RHFjSEtKQXJkVVl5blc2cVV6cG9CX3BkM0twZ2dBVHFSTVd6MENEcUd1eWpieXlKMGgxVEMteW1icWZhcmNDU2E2aTVQTVR2YmFadnB1TXZ2V0lCRU5sbzVUQlMtNkZuUVNW?oc=5",
+   "title": "Louisiana sees nation’s largest rise in business bankruptcy filings - Yahoo Finance",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclpPeEgxaWU5VDdvT19icEo5bWpublJOOVQ2aGs0SEZadXU5MnZpUWlBcTNsMVlsWTJ1TEQ4RHFjSEtKQXJkVVl5blc2cVV6cG9CX3BkM0twZ2dBVHFSTVd6MENEcUd1eWpieXlKMGgxVEMteW1icWZhcmNDU2E2aTVQTVR2YmFadnB1TXZ2V0lCRU5sbzVUQlMtNkZuUVNW?oc=5",
+   "summary": "Louisiana sees nation’s largest rise in business bankruptcy filings Yahoo Finance",
    "published": "2026-07-30T18:21:15+00:00",
    "relevance": "high",
    "topics": [
@@ -6678,11 +6777,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ2SWJLZkFrLVBEQ25sS05xd2JNV0d6MlUweWtJUXZFQnNVYmNSU2xPamtub1d0OHpXcmE2ZnhtSnJsNHNBelhpTWRuZ0RfQlN5aVZJU2RxTURCcDJiZjdhVUJaSVFRdmFYX01MS1B2WDlWczlBbjFXLWNXUjIwX3dlRC1TXzMzdUo3MGx6S0Y3cHlTZUgzVFJB0gGfAUFVX3lxTE1RN3o5SGVTSS03bktrOGhiVWNWNkhYWERnUzJwWWUxRzk1X2VVdkMwbFpUd1NrQlRFTDZJM08ya041dHhtaUhCZEhMMkRVcTRjaEV6VVRVbHJIVWlnT18tUkNOTVZUcjRmS0NURTBQN3Jva0ZfOG9FOGdvMEw5YW9UOW9YQnBIOFB6dWtFM1Bta2ZZYUt1MjhSM25RR05RVQ?oc=5",
-   "title": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) - The National Law Review",
+   "title": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) - natlawreview.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ2SWJLZkFrLVBEQ25sS05xd2JNV0d6MlUweWtJUXZFQnNVYmNSU2xPamtub1d0OHpXcmE2ZnhtSnJsNHNBelhpTWRuZ0RfQlN5aVZJU2RxTURCcDJiZjdhVUJaSVFRdmFYX01MS1B2WDlWczlBbjFXLWNXUjIwX3dlRC1TXzMzdUo3MGx6S0Y3cHlTZUgzVFJB0gGfAUFVX3lxTE1RN3o5SGVTSS03bktrOGhiVWNWNkhYWERnUzJwWWUxRzk1X2VVdkMwbFpUd1NrQlRFTDZJM08ya041dHhtaUhCZEhMMkRVcTRjaEV6VVRVbHJIVWlnT18tUkNOTVZUcjRmS0NURTBQN3Jva0ZfOG9FOGdvMEw5YW9UOW9YQnBIOFB6dWtFM1Bta2ZZYUt1MjhSM25RR05RVQ?oc=5",
-   "summary": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) The National Law Review",
+   "summary": "Weekly Bankruptcy Alert July 27, 2026 (For the week ending July 26, 2026) natlawreview.com",
    "published": "2026-07-27T18:57:26+00:00",
    "relevance": "high",
    "topics": [
@@ -6778,63 +6877,6 @@
    "published": "2026-07-26T15:51:08+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/oriental-rugs-atlas-and-quiz.html?utm_source=rss&utm_medium=rss&utm_campaign=oriental-rugs-atlas-and-quiz",
-   "title": "The Rug Belt Atlas and Quiz",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/oriental-rugs-atlas-and-quiz.html?utm_source=rss&utm_medium=rss&utm_campaign=oriental-rugs-atlas-and-quiz",
-   "summary": "I have an amateur interest in Oriental rugs but my eye is untrained. Thus, for fun and learning I created with Fable a Rug Atlas and quiz. The Rug Belt Atlas Check it out. Constructive comments welcome. P.S. The site is in fact safe! Working on getting it recognized. The post The Rug Belt Atlas and Quiz appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T11:18:30+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies",
-   "title": "The demand for human enhancement technologies",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies",
-   "summary": "When a new technology promises large private benefits but may impose social costs that markets do not price, demand need not reveal how citizens want it governed. We examine this using a nationally representative U.S. survey experiment (N=5,556) on human enhancement technologies (HET). The experiment randomizes benefit domain, mechanism, heritability, purpose, and risk across vignettes; […] The post The demand for human enhancement technologies appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T07:12:48+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html?utm_source=rss&utm_medium=rss&utm_campaign=the-common-sense-of-fareed-zakaria",
-   "title": "The common sense of Fareed Zakaria",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html?utm_source=rss&utm_medium=rss&utm_campaign=the-common-sense-of-fareed-zakaria",
-   "summary": "This is one of the best Op-Eds you will read this year, though it deliberately deemphasizes the personal (no one is attacked) in a manner that will result in less attention. Better to write the truth! Excerpt: Why has this [voter discontent} happened? Some of it is economic. Expensive housing, stagnant incomes and widening inequality have fueled public […] The post The common sense of Fareed Zakaria appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T04:56:48+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=odysseus-notes",
-   "title": "Odysseus notes",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=odysseus-notes",
-   "summary": "The subsection of the Georgi Gospodinov novel runs like this: The Shortest Novel About Odysseus After His Return Home One night, now old and flabby and starting to forget, he leaves his home secretly. He’s sick of everything, so he heads back one last time to see the places, women, and wonders he had once […] The post Odysseus notes appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-25T18:34:27+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-571",
-   "title": "Saturday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-571",
-   "summary": "1. The 1991 Project’s oral history collection (led by Shreyas Narla and Shruti) with ~50 hours of interviews with policy reformers and witnesses to India’s market liberalization, is now available. 2. Mini Cities. 3. The new Claude, on Mondrian. 4. More on cybersecurity and cyberdefense. And Simon Willison on The Incident. And early AI fears were not about LLMs, […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-25T16:38:10+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
@@ -6846,6 +6888,17 @@
    "url": "https://www.gao.gov/products/gao-26-108980",
    "summary": "What GAO Found In May 2025, GAO identified 79 priority recommendations for the Department of Defense. Since then, the Department has implemented 17 of those recommendations. In June 2026, GAO identified an additional seven priority recommendations and removed the priority designation from 16 recommendations, bringing the total to 53 priority recommendations. GAO is highlighting the following three areas that warrant timely and focused attention: Sustaining U.S. military readiness, Ensuring weapon system acquisition and modernization, and Improving financial and fraud risk management. Addressin",
    "published": "2026-08-04T11:32:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108427",
+   "title": "FEMA Workforce: Staff Reductions and Lack of Planning May Impact Mission Readiness",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108427",
+   "summary": "What GAO Found The increasing number and complexity of disasters demonstrates the need to ensure that the Federal Emergency Management Agency’s (FEMA) workforce can meet its core mission to help people before, during, and after disasters. In response to 2025 presidential directives, many federal agencies have taken steps to reduce the size of their workforces. In fiscal year 2025, FEMA employed about 25,134 employees, on average. However, over 4,300 employees separated from FEMA in fiscal year 2025—a 55 percent increase in separations from fiscal year 2024 (see figure). These separations have ",
+   "published": "2026-08-04T11:01:01+00:00",
    "relevance": "low",
    "topics": []
   },
