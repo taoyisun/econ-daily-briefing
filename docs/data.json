@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-08-05T12:53:36.194932+00:00",
+ "generated_at": "2026-08-06T12:58:01.065026+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105734",
+   "title": "Minimum wage laws and job search",
+   "authors": "Vitor Melo, Christopher M. Kaiser, David Neumark, Liya Palagashvili, Michael D. Farren",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105734",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105734",
+   "abstract": "",
+   "published": "2026-08-05T22:18:57Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105738",
+   "title": "Basic income versus fairness: redistribution with inactive agents",
+   "authors": "Antoine Germain",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105738",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105738",
+   "abstract": "",
+   "published": "2026-08-05T16:44:25Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/s0094-1190(26)00067-7",
+   "title": "Editorial Board",
+   "authors": "",
+   "journal": "Journal of Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/s0094-1190(26)00067-7",
+   "url": "https://doi.org/10.1016/s0094-1190(26)00067-7",
+   "abstract": "",
+   "published": "2026-08-05T16:13:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag085",
+   "title": "Foreign Exchange Intervention with UIP and CIP Deviations",
+   "authors": "Philippe Bacchetta, Kenza Benhima, Brendan Berthold",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag085",
+   "url": "https://doi.org/10.1093/restud/rdag085",
+   "abstract": "Abstract We examine the welfare-based opportunity cost of foreign exchange (FX) intervention when both CIP and UIP deviations are present. We consider a small open economy that receives international capital flows through constrained international financial intermediaries. Deviations from CIP come from limited arbitrage or through a convenience yield, while UIP deviations are also affected by global risk. We show that the sign of CIP and UIP deviations may differ for safe haven countries. We find that FX reserves may provide a net benefit, rather than a cost, when international intermediaries value the safe-haven properties of a currency more than domestic households. We show that this has been the case for the Swiss franc and the Japanese Yen. We examine the optimal policy of a constrained central bank planner in this context.",
+   "published": "2026-08-05T11:53:09Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag087",
+   "title": "Marriage, Assortative Mating and Wealth Inequality",
+   "authors": "Andreas Fagereng, Luigi Guiso, Luigi Pistaferri",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag087",
+   "url": "https://doi.org/10.1093/restud/rdag087",
+   "abstract": "Abstract We use population data on capital income and wealth holdings for Norway to measure asset positions and wealth returns before individuals marry and after the household is formed. These data allow us to establish a number of novel facts. First, individuals sort on personal wealth rather than parental wealth. Second, people match also on their personal returns to wealth and assortative mating on returns is as strong as that on wealth. Third, post-marriage returns on family wealth reflect in equal part the pre-marriage returns of the two spouses. However, for households at the top of the wealth distribution at marriage, family wealth is largely managed by the spouse with the highest potential to grow it, providing a microfoundation for the scale dependence in wealth returns documented in several empirical papers. Fourth, marriage lowers the degree of wealth inequality as well as the heterogeneity in returns relative to the counterfactual case of no marriages. We use a simple framework to illustrate how the inequality-attenuating role of marriage is affected by assortative mating on wealth and returns and by wealth management task allocation between spouses.",
+   "published": "2026-08-05T11:53:09Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105745",
    "title": "Benefit-based taxation can include substantial redistribution",
@@ -39,6 +104,19 @@
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103896",
    "abstract": "",
    "published": "2026-08-04T15:46:39Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag084",
+   "title": "Optimal Age-based Policies for Pandemics: An Economic Analysis of Covid-19 and Beyond",
+   "authors": "Luiz Brotherhood, Philipp Kircher, Cezar Santos, Michèle Tertilt",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag084",
+   "url": "https://doi.org/10.1093/restud/rdag084",
+   "abstract": "Abstract This paper investigates the importance of the age composition for pandemic policy design. To do so, it introduces an economic framework with age heterogeneity, individual choice, and incomplete information, emphasizing the value of testing. Calibrating the model to the US Covid-19 pandemic reveals an 80% reduction in the death toll due to voluntary actions and the lockdown implemented in the US. The optimal lockdown, however, is more stringent than what was implemented. Moreover, the social planner follows an asymmetric approach by locking down the young relatively more than the old. We highlight the role of testing in reducing deaths, lowering economic costs, and allowing for a less restrictive lockdown. A social planner would choose a faster ramp-up in testing capacity relative to what occurred in the US. We use the framework to provide insights into pandemics caused by different viruses (including the Spanish flu), and underline the influence of economic conditions on optimal policies.",
+   "published": "2026-08-04T11:45:31Z",
    "relevance": "low",
    "topics": []
   },
@@ -277,19 +355,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240497",
-   "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
-   "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240497",
-   "url": "https://doi.org/10.1257/aer.20240497",
-   "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20220264",
    "title": "Talent Hoarding in Organizations",
    "authors": "Ingrid Haegele",
@@ -298,6 +363,19 @@
    "doi": "10.1257/aer.20220264",
    "url": "https://doi.org/10.1257/aer.20220264",
    "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240497",
+   "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+   "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240497",
+   "url": "https://doi.org/10.1257/aer.20240497",
+   "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)",
    "published": "2026-07-31T12:49:41Z",
    "relevance": "low",
    "topics": []
@@ -1643,6 +1721,22 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "Econometrica 第94卷第4期 前言",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
+  },
+  {
    "id": "10.3982/ecta22110",
    "title": "Economic Growth and the Rise of Large Firms",
    "authors": "Zhang Chen",
@@ -1660,18 +1754,18 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
    "authors": "",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
    "abstract": "",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
+   "title_zh": "向计量经济学会专著系列投稿",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -1691,22 +1785,6 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -2379,23 +2457,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230242",
-   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
-   "authors": "Matthew A. Masten, Alexandre Poirier",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230242",
-   "url": "https://doi.org/10.1257/aer.20230242",
-   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "遗漏变量对回归系数符号的影响",
-   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
-   "ai_relevance": "medium",
-   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
-  },
-  {
    "id": "10.1257/aer.20230849",
    "title": "The Aggregate Costs of Uninsurable Business Risk",
    "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
@@ -2411,6 +2472,23 @@
    "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
    "ai_relevance": "low",
    "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
+  },
+  {
+   "id": "10.1257/aer.20230242",
+   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
+   "authors": "Matthew A. Masten, Alexandre Poirier",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230242",
+   "url": "https://doi.org/10.1257/aer.20230242",
+   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "遗漏变量对回归系数符号的影响",
+   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
+   "ai_relevance": "medium",
+   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -4193,22 +4271,6 @@
    "title_zh": "城市工资溢价的历史视角",
    "ai_relevance": "low",
    "ai_reason": "城市经济学与劳动经济学,关于地理工资差异,与研究主题无关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103841",
-   "title": "From rents to results: China’s anti-corruption reforms and the effectiveness of aid to Africa",
-   "authors": "Yiran Du, Kai Feng, Gang Xu",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103841",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103841",
-   "abstract": "",
-   "published": "2026-06-06T23:08:16Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "从租金到成效:中国反腐改革与对非援助有效性",
-   "ai_relevance": "low",
-   "ai_reason": "宏观政策与发展援助主题,与研究方向无关"
   }
  ],
  "working_papers": [
@@ -5985,6 +6047,50 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-binmen-of-birmingham",
+   "title": "The Binmen of Birmingham",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-binmen-of-birmingham",
+   "summary": "I was on the British CapX Podcast talking about the Equality Act, riffing off my two posts Equality Act 2010 and The Apples and Oranges Tribunal. One thing I discussed in the podcast which I haven’t blogged on is the amazing Birmingham dustbin dispute. In 2010 an employment tribunal ruled that Birmingham City Council had […] The post The Binmen of Birmingham appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-06T11:15:11+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
+   "title": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
+   "summary": "Federal money flows to cities in three flavors: direct transfers, indirect transfers, and what we call fiscal dark matter. Direct transfers are exactly what they sound like — money sent directly from the federal government to various localities. These include funds disbursed through programs like the Community Development Block Grant (CDBG), which supports things like […] The post Will U.S. cities face a knock-on fiscal crisis from the feds? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-06T05:28:13+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html?utm_source=rss&utm_medium=rss&utm_campaign=who-pays-for-unions",
+   "title": "Who Pays for Unions?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html?utm_source=rss&utm_medium=rss&utm_campaign=who-pays-for-unions",
+   "summary": "If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to […] The post Who Pays for Unions? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-06T04:21:20+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-565",
+   "title": "Wednesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-565",
+   "summary": "1. A catalog of past AI predictions. 2. Jasmine Sun on why people do not want data centers. And Jasmine Sun on Ezra Klein, on data centers (NYT). 3. A bot running an SF retail boutique? (NYT) 4. Elise Cawley, RIP. 5. On the NYC grocery store plan. 6. New credit card gives you tokens […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-05T15:35:40+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
    "title": "Dominant Assurance Contract aka Refund Bonus Explainer",
    "source": "Marginal Revolution",
@@ -6302,6 +6408,19 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Erwin Record",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Erwin Record",
+   "published": "2026-08-01T14:40:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
    "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Kingsport Times News",
    "source": "Google News: 破产政策",
@@ -6444,6 +6563,19 @@
    "topics": []
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVQyd3JSTnVkNThlV0p4QzB3cHhpWE5UNUlpYjhNcXhJU3ZYMnZJMDU1a1ZKdkt0Y1NncFJXS20yN2RCeVJqb0JTNDNtVGhjRFdvVGlGOVE2dWxjanJVNDZLR0NOeTlncVp0amlSSUFGYk1uLVRnQmJFVWpsMFdydFI1S1c?oc=5",
+   "title": "Louisiana sees nation’s largest rise in business bankruptcy filings - AOL.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVQyd3JSTnVkNThlV0p4QzB3cHhpWE5UNUlpYjhNcXhJU3ZYMnZJMDU1a1ZKdkt0Y1NncFJXS20yN2RCeVJqb0JTNDNtVGhjRFdvVGlGOVE2dWxjanJVNDZLR0NOeTlncVp0amlSSUFGYk1uLVRnQmJFVWpsMFdydFI1S1c?oc=5",
+   "summary": "Louisiana sees nation’s largest rise in business bankruptcy filings AOL.com",
+   "published": "2026-07-30T18:54:50+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVksyVlB5UTQzQ3FVX19FM1pWNVU3Q284VVQyNXRBRlplWGlnVHdxNkdlalZuVXJqUHhFWFZRTVZZS1QtWUxycXJFYU5USFdiT293TmU3VnUzNEhlNFZQUG9ubDNoMmV3ZVNvclRjT2lpa0o5VUdJM08wVVhRSUJpMG9TR2gwa3ZTLXfSAY8BQVVfeXFMT1BMcG5DVldZZ21fSHlnUUYxTHQtZnZXMnBVWUZBOC1XeFhfS0pHNTlHTlFkazBKdlNWVG1VSDdtcXNIOHRjZ1NWU0xULWZiRjVVdXpYYjZFU0RJRXhTX3BhSTd5aDBCd1N2TlExZUFUcnNaRDBvN3dvSHFNWXpXOTVyRzE5NnRPcEtXZVVaa0E?oc=5",
    "title": "Louisiana sees nation’s largest rise in business bankruptcy filings - KTALnews.com",
    "source": "Google News: 破产政策",
@@ -6494,6 +6626,19 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlhXbDk2TVhhckdPQXRmQlFwOU9IMTB0NElzNFgyWG0yS2h6OWphTzZ1NjdVbnpiT2VaeFcwSUhfLXRLOERHeU83SGg4VUtzc3ZQUi1jQXRCeG1veERreURSQ2NHMkFmVUtqWkdhTDF2bHVGUEx3eWZyU21yenIxX3pONDBWeElQcGo1Zmd0YVJRMTBLb2xIOC0wWXQzSEhhQTVZQTczZDltNVVrYmxRSTJtVVozS2tmeXd2dkhfdDNaMHBs?oc=5",
+   "title": "Personal Bankruptcy Filings Continue To Climb Among Americans - News12 | Connecticut",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlhXbDk2TVhhckdPQXRmQlFwOU9IMTB0NElzNFgyWG0yS2h6OWphTzZ1NjdVbnpiT2VaeFcwSUhfLXRLOERHeU83SGg4VUtzc3ZQUi1jQXRCeG1veERreURSQ2NHMkFmVUtqWkdhTDF2bHVGUEx3eWZyU21yenIxX3pONDBWeElQcGo1Zmd0YVJRMTBLb2xIOC0wWXQzSEhhQTVZQTczZDltNVVrYmxRSTJtVVozS2tmeXd2dkhfdDNaMHBs?oc=5",
+   "summary": "Personal Bankruptcy Filings Continue To Climb Among Americans News12 | Connecticut",
+   "published": "2026-07-30T16:34:07+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-563",
    "title": "Thursday assorted links",
    "source": "Marginal Revolution",
@@ -6503,19 +6648,6 @@
    "published": "2026-07-30T16:24:33+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlhXbDk2TVhhckdPQXRmQlFwOU9IMTB0NElzNFgyWG0yS2h6OWphTzZ1NjdVbnpiT2VaeFcwSUhfLXRLOERHeU83SGg4VUtzc3ZQUi1jQXRCeG1veERreURSQ2NHMkFmVUtqWkdhTDF2bHVGUEx3eWZyU21yenIxX3pONDBWeElQcGo1Zmd0YVJRMTBLb2xIOC0wWXQzSEhhQTVZQTczZDltNVVrYmxRSTJtVVozS2tmeXd2dkhfdDNaMHBs?oc=5",
-   "title": "Personal Bankruptcy Filings Continue To Climb Among Americans - News12 | Connecticut",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlhXbDk2TVhhckdPQXRmQlFwOU9IMTB0NElzNFgyWG0yS2h6OWphTzZ1NjdVbnpiT2VaeFcwSUhfLXRLOERHeU83SGg4VUtzc3ZQUi1jQXRCeG1veERreURSQ2NHMkFmVUtqWkdhTDF2bHVGUEx3eWZyU21yenIxX3pONDBWeElQcGo1Zmd0YVJRMTBLb2xIOC0wWXQzSEhhQTVZQTczZDltNVVrYmxRSTJtVVozS2tmeXd2dkhfdDNaMHBs?oc=5",
-   "summary": "Personal Bankruptcy Filings Continue To Climb Among Americans News12 | Connecticut",
-   "published": "2026-07-30T16:16:10+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zMy1vb1lEam5WRmVReEdVWl9jLWNXYkVHR3ZJb2xOQjZhOUdyUDJDNHZHRXV5SEh2NGZuM1VIdnB4RkQzSlFEVFlhN1BCckdDTDBQTURFN0g1OW9RZFRBMlNHdE9CMEtXRTF5Q3cxM2JHbUNZclpBWHZB?oc=5",
@@ -6822,64 +6954,42 @@
    "topics": [
     "破产/家庭财务"
    ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
-   "title": "Could our preoccupation with mental health be part of the problem?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
-   "summary": "Could our preoccupation with mental health be part of the problem? In some ways, encouraging people to think and talk more about their mental health is a good thing. There is now less stigma around mental illness, and more people who can benefit from professional help are getting it. But there is also reason to […] The post Could our preoccupation with mental health be part of the problem? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-27T07:38:40+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas",
-   "title": "The Decline in the Transmission of Scientific Ideas",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas",
-   "summary": "We document that the diffusion of new scientific ideas beyond their field of origin has declined substantially over the past four decades. This contraction is closely linked to increasing specialization in scientific language: research that employs more technical terminology tends to be adopted less broadly. We develop a theory of scientific discovery in which the […] The post The Decline in the Transmission of Scientific Ideas appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-27T04:18:41+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/in-relative-terms-maybe-children-do-not-cost-more-than-before.html?utm_source=rss&utm_medium=rss&utm_campaign=in-relative-terms-maybe-children-do-not-cost-more-than-before",
-   "title": "In relative terms, maybe children do not cost more than before?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/in-relative-terms-maybe-children-do-not-cost-more-than-before.html?utm_source=rss&utm_medium=rss&utm_campaign=in-relative-terms-maybe-children-do-not-cost-more-than-before",
-   "summary": "Despite rapid inflation in childcare and tuition prices, the goods-and-services CCI closely tracks adult prices, as these increases are offset by children’s lower exposure to shelter and by slower price growth elsewhere in the child basket. Households devote substantially more real resources to children than they did in 1990, but this increase parallels the growth […] The post In relative terms, maybe children do not cost more than before? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T23:16:14+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america",
-   "title": "Further progress in South America",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america",
-   "summary": "The share of people who are hungry has been decreasing faster in South America than anywhere else in the world. It is down by one-third since 2020, according to a report published on July 21st by the UN’s Food and Agriculture Organisation (FAO). Just 3.5% of people in the region consume insufficient calories, the lowest […] The post Further progress in South America appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T19:10:05+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-577",
-   "title": "Sunday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-577",
-   "summary": "1. Deirdre economics reading list. 2. The 1878 entrance exam for the British India civil service. 3. How good is Opus 5 on biology? 4. “A linguistic “golden age” flourished between 1,000 to 3,000 years ago when tens of thousands of languages were spoken throughout the world, according to a new study coauthored by Yale […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-26T15:51:08+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108615",
+   "title": "DOGE Wall of Receipts: More Transparency Needed on How Savings Are Derived from Contract, Grant, and Lease Terminations",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108615",
+   "summary": "What GAO Found The Department of Government Efficiency (DOGE) began posting its estimated savings on a web page known as the Wall of Receipts on February 17, 2025. As of July 7, 2026, the Wall of Receipts reported savings of $110 billion across contracts, grants, and leases, but some savings estimates are incorrect or lack supporting evidence. While DOGE provided some information about estimated savings, several issues limit the transparency and reliability of these reported savings. DOGE was not transparent regarding methodologies used to calculate savings. Specifically, DOGE did not use its ",
+   "published": "2026-08-06T12:22:09+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108640",
+   "title": "College Athletics: Most Programs Spend More Than They Generate in Revenue",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108640",
+   "summary": "What GAO Found Intercollegiate athletics at four-year colleges in the National Collegiate Athletic Association (NCAA) are organized into divisions, subdivisions, and conferences. Division I (DI) colleges compete at the highest level and can offer students full athletics scholarships. Division II (DII) colleges typically offer partial athletics scholarships. In both divisions, expenses for most athletic programs were greater than the revenue they generated, according to GAO’s analysis of NCAA data for the 2014–15 and 2023–24 academic years. In the 2023–24 academic year, the 352 DI colleges repo",
+   "published": "2026-08-05T13:51:01+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108403",
+   "title": "DOGE: Information on Personnel and Ethics Activities",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108403",
+   "summary": "What GAO Found GAO identified 206 Department of Government Efficiency (DOGE) personnel who held positions in the Executive Office of the President (EOP) from January 20, 2025, through January 31, 2026. These individuals held positions at the U.S. DOGE Service (USDS), White House Office, and Office of Management and Budget (OMB). Some of these DOGE personnel were also detailed to other executive agencies outside of EOP. USDS is responsible for coordinating with executive agencies to advance DOGE’s initiatives. Coordination Between U.S. DOGE Service and Other Federal Entities Of the 206 personne",
+   "published": "2026-08-05T11:12:34+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108980",
    "title": "Priority Open Recommendations: Department of Defense",
