@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-07T11:46:42.780262+00:00",
+ "generated_at": "2026-08-08T11:29:57.803680+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103898",
+   "title": "Career guidance and investments in education: Experimental evidence from Cambodia",
+   "authors": "Esther Gehrke, Friederike Lenel, Claudia Schupp",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103898",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103898",
+   "abstract": "",
+   "published": "2026-08-07T23:32:29Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.regsciurbeco.2026.104267",
    "title": "Online consumption and sustained air pollution exposure: Evidence from a quasi-experiment in China",
@@ -37,6 +50,19 @@
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103895",
    "abstract": "",
    "published": "2026-08-06T13:08:01Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/qje/qjag040",
+   "title": "Clause and Effect: Theory and Field Experimental Evidence on Noncompete Clauses",
+   "authors": "Bo Cowgill, Brandon Freiberg, Evan Starr",
+   "journal": "Quarterly Journal of Economics",
+   "tier": "Top-5",
+   "doi": "10.1093/qje/qjag040",
+   "url": "https://doi.org/10.1093/qje/qjag040",
+   "abstract": "Abstract We study worker noncompete clauses in a large field experiment with two finance firms. Across ~14,000 job offers to freelance recruiters on short-term contracts, we randomize wages and the presence, salience, and duration of noncompetes (all contracts also included a nondisclosure agreement). Removing a noncompete increases mobility between competing employers by 36–52% and raises workers’ total earnings from the two firms by 12–17%. We find no evidence—rejecting even small effects—that removing noncompetes generates secret leakage. We also find no evidence that workers choose noncompete jobs for higher pay. Many workers appear unaware of noncompetes before firms’ post-employment communication. The results align with a model of inattention and uncertainty about enforcement.",
+   "published": "2026-08-06T11:55:20Z",
    "relevance": "low",
    "topics": []
   },
@@ -102,6 +128,19 @@
    "url": "https://doi.org/10.1093/restud/rdag087",
    "abstract": "Abstract We use population data on capital income and wealth holdings for Norway to measure asset positions and wealth returns before individuals marry and after the household is formed. These data allow us to establish a number of novel facts. First, individuals sort on personal wealth rather than parental wealth. Second, people match also on their personal returns to wealth and assortative mating on returns is as strong as that on wealth. Third, post-marriage returns on family wealth reflect in equal part the pre-marriage returns of the two spouses. However, for households at the top of the wealth distribution at marriage, family wealth is largely managed by the spouse with the highest potential to grow it, providing a microfoundation for the scale dependence in wealth returns documented in several empirical papers. Fourth, marriage lowers the degree of wealth inequality as well as the heterogeneity in returns relative to the counterfactual case of no marriages. We use a simple framework to illustrate how the inequality-attenuating role of marriage is affected by assortative mating on wealth and returns and by wealth management task allocation between spouses.",
    "published": "2026-08-05T11:53:09Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag072",
+   "title": "College, Cognitive Ability, and Socioeconomic Disadvantage: Policy Lessons from the U.K. in 1960–2004",
+   "authors": "Andrea Ichino, Aldo Rustichini, Giulio Zanella",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag072",
+   "url": "https://doi.org/10.1093/restud/rdag072",
+   "abstract": "Abstract University access has significantly expanded in OECD countries, and further growth figures prominently in political agendas. We study possible consequences of historical and future expansions in a stochastic, general equilibrium Roy model where tertiary educational attainment is determined by cognitive ability and socioeconomic disadvantage. In our analysis, individual productivity depends not only on education but also directly on cognitive ability. The expansion of university access in the U.K. that started in the 1960s provides an ideal case study to draw lessons for the future. We find that this expansion led to the selection into college of progressively less talented students from advantaged backgrounds. Appropriate counterfactual policies existed that would have achieved the dual goal of increasing college graduates’ cognitive ability while improving tertiary education opportunities for the disadvantaged.",
+   "published": "2026-08-05T11:52:31Z",
    "relevance": "low",
    "topics": []
   },
@@ -1426,7 +1465,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag079",
    "url": "https://doi.org/10.1093/restud/rdag079",
-   "abstract": "Abstract Racial covenants in housing deeds were widely used in the United States during the early 20th century to segregate neighborhoods. In 1948, the Supreme Court decision in Shelley v. Kraemer made racial covenants unenforceable in court, stopping short of prohibiting them entirely. We surmise that even after losing their judicial enforceability, such covenants could have shaped segregation if they served as a focal point for coordination on an initial equilibrium in neighborhood formation, a context characterized by investment durability and path dependency. To test this hypothesis, we assemble novel parcel-level data on racial covenants and develop a quasi-experimental design that exploits delays between covenant execution and housing construction to isolate exposure to enforceable covenants at the time neighborhoods were built. Covenant enforceability indeed affected early-stage neighborhood formation in terms of housing characteristics, public infrastructure placement, and the composition of initial residents. These early differences proved durable: Enforceable covenants account for 6–24% of the observed neighborhood racial segregation from 1980 to 2020 and 3.1–4.4% of housing price differentials in the 21st century. We conclude that by coordinating beliefs and decisions during neighborhood formation, the law generated spatial inequality that has long outlived racial covenants themselves.",
+   "abstract": "Abstract Racial covenants in housing deeds were widely used in the United States during the early 20th century to segregate neighbourhoods. In 1948, the Supreme Court decision in Shelley v. Kraemer made racial covenants unenforceable in court, stopping short of prohibiting them entirely. We surmise that even after losing their judicial enforceability, such covenants could have shaped segregation if they served as a focal point for coordination on an initial equilibrium in neighbourhood formation, a context characterised by investment durability and path dependency. To test this hypothesis, we assemble novel parcel-level data on racial covenants and develop a quasi-experimental design that exploits delays between covenant execution and housing construction to isolate exposure to enforceable covenants at the time neighbourhoods were built. Covenant enforceability indeed affected early-stage neighbourhood formation in terms of housing characteristics, public infrastructure placement, and the composition of initial residents. These early differences proved durable: A one standard deviation increase in neighborhood exposure to enforceable covenants accounts for 6%–24% of the observed neighbourhood racial segregation from 1980 to 2020 and 3.1%–4.4% of housing price differentials in the 21st century. We conclude that by coordinating beliefs and decisions during neighbourhood formation, the law generated spatial inequality that has long outlived racial covenants themselves.",
    "published": "2026-07-17T11:42:54Z",
    "relevance": "medium",
    "topics": [
@@ -1760,6 +1799,22 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "Econometrica 第94卷第4期 前言",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
+  },
+  {
    "id": "10.3982/ecta22110",
    "title": "Economic Growth and the Rise of Large Firms",
    "authors": "Zhang Chen",
@@ -1777,18 +1832,18 @@
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
   },
   {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "id": "10.3982/ecta944sum",
+   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
    "authors": "",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
+   "doi": "10.3982/ecta944sum",
+   "url": "https://doi.org/10.3982/ecta944sum",
    "abstract": "",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
+   "title_zh": "向计量经济学会专著系列投稿",
    "ai_relevance": "low",
    "ai_reason": "无研究内容"
   },
@@ -1808,22 +1863,6 @@
    "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
    "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.3982/ecta944sum",
-   "title": "Submission of Manuscripts to the Econometric Society Monograph Series",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944sum",
-   "url": "https://doi.org/10.3982/ecta944sum",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "向计量经济学会专著系列投稿",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -4228,88 +4267,6 @@
    "abstract_zh": "利用德国2020年下半年临时性增值税减税作为自然实验,使用调查和扫描数据研究家庭消费对财政政策的反应。发现增值税减税导致感知传导率高的个体的耐用品和半耐用品支出相对增加,HANK模型显示总消费支出增加4.4%。",
    "ai_relevance": "medium",
    "ai_reason": "属于公共经济学,涉及家庭消费决策和财政政策传导"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103843",
-   "title": "Is high-speed internet detrimental for early childhood development? Evidence from a countrywide program",
-   "authors": "Karina Colombo, Elisa Failache",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103843",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103843",
-   "abstract": "",
-   "published": "2026-06-08T23:59:02Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "高速互联网对早期儿童发展有害吗?来自全国项目的证据",
-   "ai_relevance": "low",
-   "ai_reason": "儿童发展政策评估主题,虽有因果推断设计但离研究方向太远"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103821",
-   "title": "Labor market competition and inequality",
-   "authors": "Jose Garcia-Louzao, Alessandro Ruggieri",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103821",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103821",
-   "abstract": "",
-   "published": "2026-06-08T23:27:23Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "劳动力市场竞争与不平等",
-   "ai_relevance": "medium",
-   "ai_reason": "涉及竞争模型和市场分析,对企业进入/空间竞争研究有方法论参考价值"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103842",
-   "title": "Corrigendum to ‘The phantom menace in agriculture: How lagged droughts distort input decisions and create environmental deadweight loss’ [J. Dev. Econ. 182, 2026, 103781]",
-   "authors": "Dingqiang Sun, Xueting Qie, Kaixing Huang",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103842",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103842",
-   "abstract": "",
-   "published": "2026-06-08T22:22:37Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "勘误:《农业中的幽灵威胁:滞后干旱如何扭曲投入决策并造成环境无谓损失》",
-   "ai_relevance": "low",
-   "ai_reason": "农业与气候影响主题,与研究核心无关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103832",
-   "title": "Government demand and firm growth",
-   "authors": "Bernard Hoekman, Marco Sanfilippo, Filippo Santi, Rohit Ticku",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103832",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103832",
-   "abstract": "",
-   "published": "2026-06-08T16:30:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "政府需求与企业成长",
-   "ai_relevance": "low",
-   "ai_reason": "企业增长决定因素,但与赌博政策/破产/家庭债务无关"
-  },
-  {
-   "id": "10.1016/j.regsciurbeco.2026.104245",
-   "title": "The urban wage premium in historical perspective",
-   "authors": "Kyle Butts, Taylor Jaworski, Carl T. Kitchens",
-   "journal": "Regional Science and Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.regsciurbeco.2026.104245",
-   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104245",
-   "abstract": "",
-   "published": "2026-06-08T16:26:18Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "城市工资溢价的历史视角",
-   "ai_relevance": "low",
-   "ai_reason": "城市经济学与劳动经济学,关于地理工资差异,与研究主题无关"
   }
  ],
  "working_papers": [
@@ -6086,6 +6043,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
+   "title": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
+   "summary": "That is the new book by Peter Gray, and it is very much a whole philosophy of child-rearing and also antidote to the current panic over social media. Excerpt: In preparation for this chapter, I spent weeks poring over the research literature pretaining to smartphones, social media, and teen mental health. It is clear to […] The post *Restoring Childhood: How to Set Kids Free in the Age of Anxiety* appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-08T06:43:54+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
+   "title": "What I’ve been reading",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
+   "summary": "1. Mike Jay, Wireheads: An Unnatural History of Technology in the Brain. Much of this story is told through the lens of the accompanying science fiction and non-neuro trends in other parts of science. An excellent book, substantive on every page, and it will make you want to read some of the works he cites. […] The post What I’ve been reading appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-08T04:43:17+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
+   "title": "The Queen song ’39",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
+   "summary": "I only recently learned what it is really about, namely very rapid travel into space and time dilation mattering for the return voyage. I had never before listened carefully to the lyrics. I heard the “’39” reference at the beginning, the mention of volunteeers sailing away, and the general nostalgic British music hall mood to […] The post The Queen song ’39 appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-07T17:36:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
+   "title": "Friday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
+   "summary": "1. Denmark fact of the day. 2. “Books that Tyler Cowen probably would like.” 3. The tenure dismissal of Sanjay Reddy (NYT). 4. Dell and Rambachan NBER video on the economics of AI. I have yet to view, but “self-recommending.” 5. Anton Leicht on AI and how the concentration of power will evolve. Very good […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-07T15:50:35+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
+   "title": "AI and Marginal Revolutions in Wastewater Treatment",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
+   "summary": "An interesting paper from French economists, including recent Nobelist Philippe Aghion, looks at the savings from a predictive machine-learning model applied to wastewater treatment: This paper studies the environmental effects of a specialised AI aeration-control system deployed across French wastewater treatment plants operated by a global leader in water supply services. Exploiting quasi-experimental variation in […] The post AI and Marginal Revolutions in Wastewater Treatment appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-07T11:20:34+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
+   "title": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. - Demócrata",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
+   "summary": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. Demócrata",
+   "published": "2026-08-07T09:58:51+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
    "title": "My excellent Conversation with Julia Ioffe",
    "source": "Marginal Revolution",
@@ -6262,11 +6287,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWFIYUU3QnJHeHpTaS1fZHhVQS1jNUI1dXk3MU1DWlV5a1RyZGZHTlBzTDB6eFlvUU5ZbGNiZUhCTW9BbkZlWkQzTzlqMm9kX0xIbHVkM3lhcG5NZE8yTDhlVFI0clVJMHcxanFQRFRFTEc0OEZiRDdjVUhfT2dZcHQwLXFFMm9lb0N5dG5BOUowT2dsTDZ2NW5hc1l3OEZ6Zm9DZW1tSEc5eEkwRE9IdEMwczdrRnl0dkhIcVFydXdmUFQ2VXFxYjNpb19XbHZoZWlQU0JSdlQ2S00tOHdzdUVQd1JnTGxGVkl5RXM3bFFLd0x6?oc=5",
-   "title": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting - cachevalleydaily.com",
+   "title": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting - Cache Valley Daily",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVWFIYUU3QnJHeHpTaS1fZHhVQS1jNUI1dXk3MU1DWlV5a1RyZGZHTlBzTDB6eFlvUU5ZbGNiZUhCTW9BbkZlWkQzTzlqMm9kX0xIbHVkM3lhcG5NZE8yTDhlVFI0clVJMHcxanFQRFRFTEc0OEZiRDdjVUhfT2dZcHQwLXFFMm9lb0N5dG5BOUowT2dsTDZ2NW5hc1l3OEZ6Zm9DZW1tSEc5eEkwRE9IdEMwczdrRnl0dkhIcVFydXdmUFQ2VXFxYjNpb19XbHZoZWlQU0JSdlQ2S00tOHdzdUVQd1JnTGxGVkl5RXM3bFFLd0x6?oc=5",
-   "summary": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting cachevalleydaily.com",
+   "summary": "Federal judge rules Utah anti-gambling laws apply to Kalshi sports betting Cache Valley Daily",
    "published": "2026-08-04T22:21:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6507,11 +6532,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Tomahawk",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - thetomahawk.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Tomahawk",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thetomahawk.com",
    "published": "2026-08-01T14:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6520,11 +6545,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - erwinrecord.net",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Erwin Record",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. erwinrecord.net",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Erwin Record",
    "published": "2026-08-01T14:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6546,11 +6571,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Center Square",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - thecentersquare.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Center Square",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thecentersquare.com",
    "published": "2026-08-01T13:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6903,90 +6928,20 @@
    "topics": [
     "赌博/博彩"
    ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
-   "title": "Data on Chinese innovation",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
-   "summary": "China’s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge […] The post Data on Chinese innovation appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-29T06:57:55+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
-   "title": "You will learn to love AI writing",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
-   "summary": "That is the theme of my latest Free Press article, excerpt: But do I wish to eschew AI writing for the rest of my life? Absolutely not. Most of all, I want AI writing to get better, so it does not irritate me with its clichés and all too obvious identifying marks. I want AI writing […] The post You will learn to love AI writing appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-29T04:52:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
-   "title": "Congratulations to Ross D. and others",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
-   "summary": "Ross Douthat, an opinion columnist at The New York Times, is leaving to join the CBS News program “60 Minutes” as a correspondent, the show’s executive producer said in a memo to staff on Tuesday. Mr. Douthat is among a group of journalists joining for the show’s 59th season, which will premiere on Sept. 13. […] The post Congratulations to Ross D. and others appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-28T21:34:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEpadVRyc3UwUE5qa2VodjlmbTFMNVFmc2tZTnA5SjRUakdFZ2JWWXpGRW1ndmhpa1ZIaXliMG9nRzcxS19Lc1VkNFhCRTEyLWludERIMzVEOXgwZU1YUW0zbGI0dDNtc1hyNVFoTzFubDFHck1HLWVhUV9pNm9ELVBPT0tlS0hISC10OW9hRkthWW5zbC1tZ283VWpNUmxFRzc5NmhtQQ?oc=5",
-   "title": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit - Bloomberg Law News",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEpadVRyc3UwUE5qa2VodjlmbTFMNVFmc2tZTnA5SjRUakdFZ2JWWXpGRW1ndmhpa1ZIaXliMG9nRzcxS19Lc1VkNFhCRTEyLWludERIMzVEOXgwZU1YUW0zbGI0dDNtc1hyNVFoTzFubDFHck1HLWVhUV9pNm9ELVBPT0tlS0hISC10OW9hRkthWW5zbC1tZ283VWpNUmxFRzc5NmhtQQ?oc=5",
-   "summary": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit Bloomberg Law News",
-   "published": "2026-07-28T18:07:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDl1bWhGdWVZRmd0LURidkRGMmh3MzRRSWF1c01pUHc3NkxHYkxpNFAxeVB3M3QtQ2lmVHFGdTVxSnc3cmN1YXg2ZmJLLVNRb0ZCM19VZVA1U2VNLUptQXVRVXhSU2Jmem8tc0NmLUlJQ0VwYnplSk52NVFhaVZLd1p2LTA4c1hIck9yQjdYeUJKTEFqdDFsSC1OdHl1T2hRZVFpMVNDcUZuUQ?oc=5",
-   "title": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit - news.bloombergtax.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDl1bWhGdWVZRmd0LURidkRGMmh3MzRRSWF1c01pUHc3NkxHYkxpNFAxeVB3M3QtQ2lmVHFGdTVxSnc3cmN1YXg2ZmJLLVNRb0ZCM19VZVA1U2VNLUptQXVRVXhSU2Jmem8tc0NmLUlJQ0VwYnplSk52NVFhaVZLd1p2LTA4c1hIck9yQjdYeUJKTEFqdDFsSC1OdHl1T2hRZVFpMVNDcUZuUQ?oc=5",
-   "summary": "IRS Wins Consumer Bankruptcy Appeal Over Tax Discharge Suit news.bloombergtax.com",
-   "published": "2026-07-28T18:07:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
-   "title": "Tuesday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
-   "summary": "1. The economics of personal holding companies, including in the Nordics. 2. Jongkuch Mach is a good name for a very tall basketball player. 3. Can AI predict who will be the most important philosopher in 2046? For economics, the top pick of GPT Pro is Ludwig Straub, second choice is Stefanie Stantcheva. I like […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-28T16:27:44+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/07/28/peer-approach-preventing-partner-violence-women-substance-use-treatment/",
-   "title": "STASH, Vol. 22(8) – A peer-delivered approach to preventing sexual and intimate partner violence among women in substance use treatment",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/07/28/peer-approach-preventing-partner-violence-women-substance-use-treatment/",
-   "summary": "This week, STASH reviews a pilot trial of THRIVE, a peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment, led by Heidi Zinzow and colleagues.",
-   "published": "2026-07-28T16:26:24+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-107780",
+   "title": "Federal Student Loans: Education Could Better Coordinate with Servicers When Making Program Changes",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107780",
+   "summary": "What GAO Found The Department of Education provides student loan servicers with instruction for implementing program changes via formal documents known as change requests. Change requests outline new or modified requirements for servicers and can vary in their complexity. For example, Education could require servicers to carry out tasks ranging from sending straightforward borrower communications to implementing major repayment plan changes. Examples of Tasks Student Loan Servicers Carry Out for Education The servicers reported facing challenges in implementing Education’s instruction for prog",
+   "published": "2026-08-06T13:22:58+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108615",
    "title": "DOGE Wall of Receipts: More Transparency Needed on How Savings Are Derived from Contract, Grant, and Lease Terminations",
@@ -6995,6 +6950,50 @@
    "url": "https://www.gao.gov/products/gao-26-108615",
    "summary": "What GAO Found The Department of Government Efficiency (DOGE) began posting its estimated savings on a web page known as the Wall of Receipts on February 17, 2025. As of July 7, 2026, the Wall of Receipts reported savings of $110 billion across contracts, grants, and leases, but some savings estimates are incorrect or lack supporting evidence. While DOGE provided some information about estimated savings, several issues limit the transparency and reliability of these reported savings. DOGE was not transparent regarding methodologies used to calculate savings. Specifically, DOGE did not use its ",
    "published": "2026-08-06T12:22:09+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109121",
+   "title": "Semiconductors: Commerce Needs Plan to Meet CHIPS for America R&D Requirements",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109121",
+   "summary": "What GAO Found The Department of Commerce has continued to implement the semiconductor facilities and equipment incentives program, and awardees have made progress on milestones. Since July 2025, Commerce has awarded nine new projects, for a total of 49 projects across 24 companies. When setting award amounts, Commerce considered new factors as compared to prior awards, such as whether the company would provide equity in exchange for funding. Commerce also amended existing awards for 14 companies. As of April 2026, awardees had completed all required milestones by their due dates, but some mil",
+   "published": "2026-08-06T11:37:32+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108249",
+   "title": "International Agreements: DOD Has Opportunities to Improve Internal Communication and Oversight",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108249",
+   "summary": "What GAO Found The Department of Defense (DOD) uses international agreements and arrangements to achieve political, economic, and military objectives. For example, these could include cooperatively developing and producing a military system with a foreign partner. From fiscal years 2021 through 2025, DOD established 303 acquisition-related international arrangements with an associated dollar value of $64 billion. However, both the number and dollar value of these arrangements declined over this period. DOD officials said that factors like personnel shortages and lengthy review and approval tim",
+   "published": "2026-08-06T11:33:49+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107847",
+   "title": "Wearable Technologies: Potential Benefits and Challenges in Clinical Decision-Making",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107847",
+   "summary": "What GAO Found Wearable devices (wearables) with health-related features have the potential to be used in clinical decision-making (see figure). Wearables can be either medical or wellness devices, and their features can be augmented by artificial intelligence (AI). Wearables use sensors to track vital signs and establish patient health baselines; alert users, caregivers, or clinicians of medical events or suggested lifestyle changes; and provide additional assessments of user data that can be sent to a clinician for interpretation. Clinicians could use such data as a source of information whe",
+   "published": "2026-08-06T11:28:53+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107711",
+   "title": "Carbon Capture Tax Credit: Actions Needed to Improve Federal Administration and Evaluation of Tax Expenditure",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107711",
+   "summary": "What GAO Found The Carbon Oxide Sequestration Credit (45Q) is a tax credit provided for certain carbon oxides that are captured at emission sources or directly from the air and either stored underground or used to produce products. The credit has been amended multiple times, including by the 2022 Inflation Reduction Act (IRA), which added new credit features. More recently, the One Big Beautiful Bill Act created parity in credit values across uses of captured carbon. As of March 2026, there were 33 carbon capture facilities in the U.S., with additional facilities planned. The number of 45Q cre",
+   "published": "2026-08-06T11:25:05+00:00",
    "relevance": "low",
    "topics": []
   },
@@ -7871,17 +7870,6 @@
    "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-joint-final-rule-on-adopting-uniform-standards-for-reporting-financial-data/",
    "summary": "",
    "published": "2026-06-25T04:00:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-is-correcting-flaws-to-restore-integrity-and-utility-to-the-consumer-complaint-system/",
-   "title": "The CFPB is Correcting Flaws to Restore Integrity and Utility to the Consumer Complaint System",
-   "source": "CFPB",
-   "category": "",
-   "url": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-is-correcting-flaws-to-restore-integrity-and-utility-to-the-consumer-complaint-system/",
-   "summary": "The consumer complaint portal has long been plagued by issues that severely limit its effectiveness in addressing consumers’ complaints and practical utility of its information.",
-   "published": "2026-06-24T04:00:00+00:00",
    "relevance": "low",
    "topics": []
   }
