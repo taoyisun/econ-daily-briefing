@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-08T11:29:57.803680+00:00",
+ "generated_at": "2026-08-09T11:29:39.616405+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103894",
+   "title": "Household consumption and savings over the life cycle: The roles of demographics and durables",
+   "authors": "Neha Bairoliya, Areendam Chanda, Jingyi Fang, Fang Yang",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103894",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103894",
+   "abstract": "",
+   "published": "2026-08-08T15:08:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103903",
+   "title": "Migration Incentives and Elderly Health: Evidence from the Hukou Reforms in China",
+   "authors": "Wei Huang, Hai Huang, Haotian Zhang, Wei Zheng",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103903",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103903",
+   "abstract": "",
+   "published": "2026-08-08T15:08:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103899",
+   "title": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+   "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103899",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
+   "abstract": "",
+   "published": "2026-08-08T15:08:09Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104326",
+   "title": "The extensive margin of restructuring: Adoption of new work in a global economy",
+   "authors": "Gueyon Kim",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104326",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104326",
+   "abstract": "",
+   "published": "2026-08-08T15:03:27Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103898",
    "title": "Career guidance and investments in education: Experimental evidence from Cambodia",
@@ -1799,22 +1851,6 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
    "id": "10.3982/ecta22110",
    "title": "Economic Growth and the Rise of Large Firms",
    "authors": "Zhang Chen",
@@ -1830,6 +1866,22 @@
    "abstract_zh": "本文记录经济发展过程中企业规模分布右尾加厚的现象,开发了内生增长和企业规模分布的思想搜索模型。发现支持大企业的政策可以通过利用创新的扩散外部性来改进社会福利。",
    "ai_relevance": "low",
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
+  },
+  {
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "Econometrica 第94卷第4期 前言",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.3982/ecta944sum",
@@ -2222,7 +2274,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag075",
    "url": "https://doi.org/10.1093/restud/rdag075",
-   "abstract": "Abstract We study structural change in production networks for intermediate inputs (inputoutput network) and new capital (investment network). For each network, we document that the share of output produced by services (relative to goods) is rising over time. While the relative prices of services that produce intermediates and consumption are rising, we find that the relative price of services that produce investment is falling over time. We then develop a multi-sector growth model to study these trends and their implications for economic growth. To match the relative price trends, inputs to intermediates production are complements and inputs to investment production are substitutes. Hence, structural change endogenously reallocates resources to the slowest growing intermediates producers and the fastest growing investment producers. Growth accounting exercises reveal that investment-specific technical change accounts for an increasing share of U.S. aggregate growth, with 20% of aggregate growth since 2000 due to investment structural change. Growth projections from our model show that structural change within investment networks alone can offset stagnating or declining growth in other sectors due to Baumol’s cost disease.",
+   "abstract": "Abstract We study structural change in production networks for intermediate inputs (input–output network) and new capital (investment network). For each network, we document that the share of output produced by services (relative to goods) is rising over time. While the relative prices of services that produce intermediates and consumption are rising, we find that the relative price of services that produce investment is falling over time. We then develop a multi-sector growth model to study these trends and their implications for economic growth. To match the relative price trends, inputs to intermediates production are complements and inputs to investment production are substitutes. Hence, structural change endogenously reallocates resources to the slowest growing intermediates producers and the fastest growing investment producers. Growth accounting exercises reveal that investment-specific technical change accounts for an increasing share of U.S. aggregate growth, with 20% of aggregate growth since 2000 due to investment structural change. Growth projections from our model show that structural change within investment networks alone can offset stagnating or declining growth in other sectors due to Baumol’s cost disease.",
    "published": "2026-07-08T11:57:28Z",
    "relevance": "low",
    "topics": [],
@@ -2297,13 +2349,13 @@
   },
   {
    "id": "10.1093/qje/qjag033",
-   "title": "In their Shoes: Empathy Through Information",
+   "title": "In Their Shoes: Empathy Through Information",
    "authors": "Marianne Andries, Leonardo Bursztyn, Thomas Chaney, Milena Djourelova, Alex Imas",
    "journal": "Quarterly Journal of Economics",
    "tier": "Top-5",
    "doi": "10.1093/qje/qjag033",
    "url": "https://doi.org/10.1093/qje/qjag033",
-   "abstract": "Abstract We explore the mechanics of empathy. We show that information about an outgroup can activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) experience a simulation of the struggle of unauthorized migrants (“protagonists”), then replicate these results in a series of controlled lab experiments. We show that information enhances the witnesses’ empathetic response and drives them to engage in more prosocial behavior when it increases their perceived interpersonal similarity, or relatability to the protagonist — an effect we trace to attention: eye-tracking data reveals that information provision concentrates witnesses’ gaze on the struggles of the protagonist instead of searching through peripheral elements of the scene. Conversely, only information packages that strengthen perceived relatability — an effect that can vary across subgroups with heterogeneous attributes — magnify empathy. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple, targeted, information provision.",
+   "abstract": "Abstract We explore the mechanics of empathy. We show that information about an outgroup can activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group. We provide evidence for this effect in an immersive virtual reality experiment where participants (witnesses) experience a simulation of the struggle of unauthorized migrants (protagonists), then replicate these results in a series of controlled lab experiments. We show that information enhances the witnesses’ empathetic response and drives them to engage in more prosocial behavior when it increases their perceived interpersonal similarity, or relatability to the protagonist—an effect we trace to attention: eye-tracking data reveal that information provision concentrates witnesses’ gaze on the struggles of the protagonist instead of searching through peripheral elements of the scene. Conversely, only information packages that strengthen perceived relatability—an effect that can vary across subgroups with heterogeneous attributes—magnify empathy. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple, targeted, information provision.",
    "published": "2026-07-06T23:29:33Z",
    "relevance": "low",
    "topics": [],
@@ -2473,7 +2525,7 @@
    "tier": "Top-5",
    "doi": "10.1093/qje/qjag034",
    "url": "https://doi.org/10.1093/qje/qjag034",
-   "abstract": "Abstract If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less-attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses–and therefore who ultimately bears the cost-depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.",
+   "abstract": "Abstract If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses—and therefore who ultimately bears the cost—depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.",
    "published": "2026-07-01T14:59:53Z",
    "relevance": "high",
    "topics": [
@@ -4202,71 +4254,6 @@
    "abstract_zh": "建立定量空间模型研究远程办公对美国4502个地区的人口与就业分布的影响。发现远程办公导致地区内和区域间人口与就业的非单调性重新配置,改善工资不平等但加剧了部分群体的福利损失。",
    "ai_relevance": "low",
    "ai_reason": "空间经济学,关于就业地理分布与收入不平等,与赌博政策和家庭债务无关"
-  },
-  {
-   "id": "10.1016/s0304-3878(26)00131-8",
-   "title": "Editorial Board",
-   "authors": "",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/s0304-3878(26)00131-8",
-   "url": "https://doi.org/10.1016/s0304-3878(26)00131-8",
-   "abstract": "",
-   "published": "2026-06-10T11:07:22Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "编委会",
-   "ai_relevance": "low",
-   "ai_reason": "编委会名单而非研究论文"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105678",
-   "title": "Fiscal externalities of transaction taxes: Evidence from the Los Angeles mansion tax",
-   "authors": "Daniel Green, Vikram Jambulapati, Jack Liebersohn, Tejaswi Velayudhan",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105678",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105678",
-   "abstract": "",
-   "published": "2026-06-10T06:53:35Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "交易税的财政外部性：洛杉矶豪宅税的证据",
-   "ai_relevance": "medium",
-   "ai_reason": "属于公共经济学税收政策研究"
-  },
-  {
-   "id": "10.1016/j.jue.2026.103885",
-   "title": "Flattening governments, flattening growth: Equalization–efficiency trade-off in jurisdictional reform",
-   "authors": "Shawn Xiaoguang Chen, Pei Li, Saijie Sun",
-   "journal": "Journal of Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.jue.2026.103885",
-   "url": "https://doi.org/10.1016/j.jue.2026.103885",
-   "abstract": "",
-   "published": "2026-06-09T15:13:46Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "政府扁平化、增长扁平化：管辖权改革中的平等-效率权衡",
-   "ai_relevance": "medium",
-   "ai_reason": "属于公共经济学政策研究"
-  },
-  {
-   "id": "10.1093/restud/rdag055",
-   "title": "A Temporary VAT Cut as Unconventional Fiscal Policy",
-   "authors": "Rüdiger Bachmann, Benjamin Born, Olga Goldfayn-Frank, Georgi Kocharkov, Ralph Luetticke, Michael Weber",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag055",
-   "url": "https://doi.org/10.1093/restud/rdag055",
-   "abstract": "Abstract We exploit Germany’s temporary three-percentage-point value-added tax (VAT) cut in the second half of 2020 to study the spending response to unconventional fiscal policy. We use survey and scanner data on household consumption expenditures and their perceived pass-through of the tax change into prices, and a HANK model to quantify the effects of this VAT policy. The survey and scanner data show that the temporary VAT reduction led to a relative increase in durable and, to a lesser extent, semi-durable spending for individuals with high perceived pass-through. According to the HANK model, the VAT policy increased total aggregate consumption spending by 4.4% on impact.",
-   "published": "2026-06-09T11:34:14Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "临时增值税减税作为非常规财政政策",
-   "abstract_zh": "利用德国2020年下半年临时性增值税减税作为自然实验,使用调查和扫描数据研究家庭消费对财政政策的反应。发现增值税减税导致感知传导率高的个体的耐用品和半耐用品支出相对增加,HANK模型显示总消费支出增加4.4%。",
-   "ai_relevance": "medium",
-   "ai_reason": "属于公共经济学,涉及家庭消费决策和财政政策传导"
   }
  ],
  "working_papers": [
@@ -6043,6 +6030,85 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
+   "title": "JFK’s AI Voice",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
+   "summary": "From Kennedy’s 1961 inaugural: “Ask not what your country can do for you—ask what you can do for your country.” “Let us never negotiate out of fear. But let us never fear to negotiate.” “United, there is little we cannot do… Divided, there is little we can do.” “If a free society cannot help the […] The post JFK’s AI Voice appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-09T11:26:05+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
+   "title": "Pressure",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
+   "summary": "Who would have thought that someone could make a gripping movie about predicting the weather? Nevertheless, Pressure delivers. To be sure, it’s predicting the weather for D-Day. Excellent cast. Hews very close to the truth. The two camps really did divide on theory versus past prediction and the weather was as portrayed. After the war, […] The post Pressure appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-09T11:19:44+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGIxNjJpenBvN1BiRnZRd1RwWktQZl9wdUJzbmJyX0U5WTB2X2lxRUR6Y2FDVmIzTnYyal84UTdKX0dXWGFyM212MlR2N1lTUzVEVTA0dzJLWFBsczV0X2Y2UEcxQklBYzRoWVl1bkpmTTlMZERpQzRYdTNraFNVblBod1NsR0pZNnI4V0x3NHF5MFBxT1E?oc=5",
+   "title": "Far more Americans are filing for bankruptcy — but maybe not enough, as people don't get 'how good of a deal' it can be - moneywise.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGIxNjJpenBvN1BiRnZRd1RwWktQZl9wdUJzbmJyX0U5WTB2X2lxRUR6Y2FDVmIzTnYyal84UTdKX0dXWGFyM212MlR2N1lTUzVEVTA0dzJLWFBsczV0X2Y2UEcxQklBYzRoWVl1bkpmTTlMZERpQzRYdTNraFNVblBod1NsR0pZNnI4V0x3NHF5MFBxT1E?oc=5",
+   "summary": "Far more Americans are filing for bankruptcy — but maybe not enough, as people don't get 'how good of a deal' it can be moneywise.com",
+   "published": "2026-08-09T11:11:01+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
+   "title": "One of the better pro-natalist Lieder",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
+   "summary": "The post One of the better pro-natalist Lieder appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-09T06:46:47+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
+   "title": "Is there a Balkan fertility paradox? (from my email)",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
+   "summary": "The Balkans may be the only region other than central Asia where fertility has increased from 2015 to 2026.* All of the highest fertility rates in Europe are in the Balkans. As of 2024: Montenegro (1.8), Bulgaria (1.73) Moldova (1.73), and Serbia (1.64) are top four. France was next at 1.61. Other balkan countries were […] The post Is there a Balkan fertility paradox? (from my email) appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-09T04:13:46+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
+   "title": "The future of warfare? (from my email)",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
+   "summary": "As weapon systems increase in effectiveness, they will generally target one another rather than humans. Lower loss of life will ease conflict entry and hinder exit. Warfare will veer further from industrial competition into techno-industrial; the current appearance of parity between low tech and advanced actors reflects near zero deployment of advanced systems. As these […] The post The future of warfare? (from my email) appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-08T18:40:53+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
+   "title": "Saturday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
+   "summary": "1. Possibly AI-written pieces that have won literary awards. 2. HuggingFace co-founder on what happened, very good post. 3. What do private insurers want from a Hormuz agreement? 4. GPT Pro on burrito price worries. 5. NoVa vs. MD, once again. 6. Do people listen to female economists more? 7. North Korea might be growing […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-08T15:42:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
    "title": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
    "source": "Marginal Revolution",
@@ -6099,11 +6165,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
-   "title": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. - Demócrata",
+   "title": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. - democrata.es",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
-   "summary": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. Demócrata",
+   "summary": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. democrata.es",
    "published": "2026-08-07T09:58:51+00:00",
    "relevance": "high",
    "topics": [
@@ -6192,6 +6258,19 @@
    "published": "2026-08-06T11:15:11+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2IwbXdyaXBZU0E3N25XZTJLQlo1S24yb2dtWC01a1dmWGF6Nm1XUUxCWkU5dHoza3c5aHRPdWg4bDIwTXYxbWRNVlRoaWN6dlpHT1duaXU2SGtYcExYSFl3WUR3emVDdXhSSUJ5TjVxS2xvX29pTENMZGNEN2ZhVTR6SnF2Y3FJRTViNzZjcU5aY1FITmZycnZqTVJqZ0RGTGo3cmt3MFRfc3FXbWt1Sl9nQlRZSkJGZGFlUVVjalJfVWxMY2NDSVRWaGZldm5sNjRCTVpzQjg1Zw?oc=5",
+   "title": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase - USA Today",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2IwbXdyaXBZU0E3N25XZTJLQlo1S24yb2dtWC01a1dmWGF6Nm1XUUxCWkU5dHoza3c5aHRPdWg4bDIwTXYxbWRNVlRoaWN6dlpHT1duaXU2SGtYcExYSFl3WUR3emVDdXhSSUJ5TjVxS2xvX29pTENMZGNEN2ZhVTR6SnF2Y3FJRTViNzZjcU5aY1FITmZycnZqTVJqZ0RGTGo3cmt3MFRfc3FXbWt1Sl9nQlRZSkJGZGFlUVVjalJfVWxMY2NDSVRWaGZldm5sNjRCTVpzQjg1Zw?oc=5",
+   "summary": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase USA Today",
+   "published": "2026-08-06T07:00:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
   },
   {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
@@ -6370,11 +6449,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - ACA International",
+   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - acainternational.org",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 ACA International",
+   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 acainternational.org",
    "published": "2026-08-03T22:12:37+00:00",
    "relevance": "high",
    "topics": [
@@ -6456,7 +6535,7 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
    "summary": "Bankruptcy filings rise 12.2 percent Rhode Island Lawyers Weekly",
-   "published": "2026-08-02T19:10:08+00:00",
+   "published": "2026-08-02T19:10:44+00:00",
    "relevance": "high",
    "topics": [
     "破产/家庭财务"
@@ -6531,12 +6610,25 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Kingsport Times News",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Kingsport Times News",
+   "published": "2026-08-01T14:40:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - thetomahawk.com",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Tomahawk",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thetomahawk.com",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Tomahawk",
    "published": "2026-08-01T14:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6557,13 +6649,13 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Kingsport Times News",
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - WaltonTribune.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Kingsport Times News",
-   "published": "2026-08-01T14:40:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. WaltonTribune.com",
+   "published": "2026-08-01T13:40:00+00:00",
    "relevance": "high",
    "topics": [
     "破产/家庭财务"
@@ -6576,19 +6668,6 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
    "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thecentersquare.com",
-   "published": "2026-08-01T13:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - WaltonTribune.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. WaltonTribune.com",
    "published": "2026-08-01T13:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6809,124 +6888,6 @@
    "relevance": "high",
    "topics": [
     "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
-   "title": "The Endangered Species Act Reduces Housing",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
-   "summary": "Max Tabarrok’s paper on the Endangered Species Act and housing (WP) has just been published in the Journal of Public Economics! It’s a clever paper: Max observed that the moment an animal is put on the endangered species list, developers face enhanced compliance costs and liability risk. But what’s important for an empirical economist is […] The post The Endangered Species Act Reduces Housing appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-30T11:16:05+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "title": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO - Techeconomy",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEdjQW12VWVvSjZkV3dtbEU3YmpnYVZxWDBnMXdLVGVWbnZfYzY1RVU4VlVoSlZINmJ2aGU0bXd0RGs2NDc2akREbFREcVRaazlnYmxfTmFJTDQxLW80RTlBbnk0Z3pERzh4RHBqRmdHXzZ3WmpIQ21VNFZVMGVIRUlTeExsZ3J3VzJQWUNoTWhwUFFxMkpFR2VQMWpZdHVXcmRQV2Ezc0h4Y0twMFRTd2UzemI1WndKekNn?oc=5",
-   "summary": "EGC2026: Policy Volatility, Not Regulation, is Africa's Real Threat to Gaming Investment - iGaming Afrika CEO Techeconomy",
-   "published": "2026-07-30T08:43:19+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html?utm_source=rss&utm_medium=rss&utm_campaign=an-experiment-for-our-schools",
-   "title": "An experiment for our schools",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html?utm_source=rss&utm_medium=rss&utm_campaign=an-experiment-for-our-schools",
-   "summary": "Schools in at least three states will be equipped with drones this year that can zoom through halls, smash windows and pepper-spray active shooters if teachers report a threat. At least nine schools — three in Florida, five in Georgia and one in Colorado — will have storage boxes that house the plastic, nonlethal aircraft […] The post An experiment for our schools appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-30T08:07:55+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html?utm_source=rss&utm_medium=rss&utm_campaign=forty-interesting-facts-about-australia",
-   "title": "Forty interesting facts about Australia",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html?utm_source=rss&utm_medium=rss&utm_campaign=forty-interesting-facts-about-australia",
-   "summary": "Australia was the richest country on earth, per capita, for decades. After the 1850s gold rush, up until the 1890s depression, Australia had the highest per capita income in the world. In 1850, probably only the United Kingdom and the Netherlands sat above Australia, by about 20 per cent, with the United States 9 per cent […] The post Forty interesting facts about Australia appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-30T05:22:54+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGFBX0U1VXdOVWhrZUhsVldzWHlKNkNSaFlNWGZkVGs5Nk5BZlYzZ1JrOXdPdkZaZlM3NTNTYjU0ZWtra3E1a05NSG5IZDFLMEl0QXhJNlotTnloMGM2Nlk0eUF2VUhCR3hndUJHZFU5NFlUMk9FMnlleW5TREhQSEVVQVhNSHZDbFhTMHQtZEZpcnpTZ3RVVXozeHJpT00?oc=5",
-   "title": "Personal Bankruptcy Filings Hit Record, Set to Top 160,000 This Year - Seoul Economic Daily",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGFBX0U1VXdOVWhrZUhsVldzWHlKNkNSaFlNWGZkVGs5Nk5BZlYzZ1JrOXdPdkZaZlM3NTNTYjU0ZWtra3E1a05NSG5IZDFLMEl0QXhJNlotTnloMGM2Nlk0eUF2VUhCR3hndUJHZFU5NFlUMk9FMnlleW5TREhQSEVVQVhNSHZDbFhTMHQtZEZpcnpTZ3RVVXozeHJpT00?oc=5",
-   "summary": "Personal Bankruptcy Filings Hit Record, Set to Top 160,000 This Year Seoul Economic Daily",
-   "published": "2026-07-29T22:30:05+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html?utm_source=rss&utm_medium=rss&utm_campaign=reforms-to-the-phd",
-   "title": "Reforms to the PhD?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html?utm_source=rss&utm_medium=rss&utm_campaign=reforms-to-the-phd",
-   "summary": "The Trump administration is pairing top universities with corporate giants in an effort to steer traditional PhD programs toward national scientific priorities. Today, the White House and National Science Foundation are announcing a $47 million pilot program to fund around 250 four-year doctorates in technical fields, starting this fall. Students in the pilot will be […] The post Reforms to the PhD? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-29T21:43:14+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
-   "title": "What should I ask Jared Diamond?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
-   "summary": "Yes, I will be doing a Conversation with him. His whole career is fair game, though many of my questions will cover his forthcoming book Profits, Prophets, Coaches, and Kings (When) Do Leaders Matter? From the Amazon summary: “Now, in Profits, Prophets, Coaches and Kings, he studies leaders throughout time to answer the question: do the actions […] The post What should I ask Jared Diamond? appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-29T18:36:20+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHhvY3NZVEhyT2FIRmNwdElQOE9hSXpRbm5QQXZ5YVg4U3VpWldDYUx0eXMyRGQ5X09tRFZScWdzTTJZT2VWRFFKdHc0TkhETWw4cFlxWEE2eEV4TDVNbVJSb1JBTVNTaTBVWklVYk9pRFQ4UDdOUzYzZ3Zmd3U0Q1RlRzFhS0d6N0haUEdXU2Fqa1RWM0NELWRIbWFRUUNxdDA4UDFfQmp3S1hPcTRlc0F3RU5pNHJ6VmVmNllESQ?oc=5",
-   "title": "British Gambling Commission appoints Sarah Fox to lead policy, research and National Lottery regulation - Focus Gaming News",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHhvY3NZVEhyT2FIRmNwdElQOE9hSXpRbm5QQXZ5YVg4U3VpWldDYUx0eXMyRGQ5X09tRFZScWdzTTJZT2VWRFFKdHc0TkhETWw4cFlxWEE2eEV4TDVNbVJSb1JBTVNTaTBVWklVYk9pRFQ4UDdOUzYzZ3Zmd3U0Q1RlRzFhS0d6N0haUEdXU2Fqa1RWM0NELWRIbWFRUUNxdDA4UDFfQmp3S1hPcTRlc0F3RU5pNHJ6VmVmNllESQ?oc=5",
-   "summary": "British Gambling Commission appoints Sarah Fox to lead policy, research and National Lottery regulation Focus Gaming News",
-   "published": "2026-07-29T18:13:39+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-564",
-   "title": "Wednesday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-564",
-   "summary": "1. Mark Zuckerberg on our AI future (WSJ). 2. Claims about beauty (recommended). 3. 26 charts of Australia in trouble. 4. Hans Moravec interview (right now ungated?). 5. Those new service sector therapist jobs end the fertility crisis too. 6. The Routledge Handbook of Classical Liberalism. 7. Profile of Reihan Salam (NYT). The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-29T16:16:02+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
-   "title": "How State Policy Initiatives Can Reduce Problem Gambling... - ncsl.org",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1ROUURvTHhnMWtOdUE1cVZjVGtrZktBMzA5cF9NRDdsemJNQ2EzN3B4bzY4Q0FpY1BYLUJBUjlwNEc0cE1vWnNiQTEydFE1ZW15d0NnYnVvR0cxSUZja0dieURGYlozSC0xNHF2aTI2N2hNY1h3UXNjVTlFeGZ0MDdIRVk0T3p4MFZMYTB1YXd2MmR0d2pscUpqcE10V2dxYWdBR29XWDR5MUVOQnc?oc=5",
-   "summary": "How State Policy Initiatives Can Reduce Problem Gambling... ncsl.org",
-   "published": "2026-07-29T14:39:24+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
    ]
   }
  ],
@@ -7344,7 +7305,7 @@
   },
   {
    "id": "https://www.gao.gov/products/gao-26-109100",
-   "title": "Combating Fraud: Managing Risks in Federally Funded, State-Administered Programs",
+   "title": "Combating Fraud: Managing Risks in Federally Funded, State-Administered Programs [Reissued with revisions on Aug. 7, 2026]",
    "source": "GAO Reports",
    "category": "",
    "url": "https://www.gao.gov/products/gao-26-109100",
@@ -7848,28 +7809,6 @@
    "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/06/26/judiciary-approves-funding-case-management-and-public-access-modernization",
    "summary": "To fund the accelerated initiative to modernize and strengthen the security of its case management and public access system, the Judiciary is implementing a modest temporary increase in fees for electronic access to court records beginning on Jan. 1, 2027.",
    "published": "2026-06-26T12:00:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0lKTUozRmNFZTNFSDNlUUVvOFZldDhfVnAxTjA5XzdlTHBMSU11Wk9uTVJpTGpUTE5sbmhyYVdqT2tNSV9KbTVYVkNiaUcyRFBjc09aTnFWS19SRmZJY1ZFZVNJX0RaTU5kSE9BQzZ4ZktDU1lNSGhMVEtiaHFQN1A1SDd1dXV0OTZfVWlVLTVGRnpfUnc?oc=5",
-   "title": "Five highlights from Brookings’ prediction market events - Brookings",
-   "source": "Google News: Brookings",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0lKTUozRmNFZTNFSDNlUUVvOFZldDhfVnAxTjA5XzdlTHBMSU11Wk9uTVJpTGpUTE5sbmhyYVdqT2tNSV9KbTVYVkNiaUcyRFBjc09aTnFWS19SRmZJY1ZFZVNJX0RaTU5kSE9BQzZ4ZktDU1lNSGhMVEtiaHFQN1A1SDd1dXV0OTZfVWlVLTVGRnpfUnc?oc=5",
-   "summary": "Five highlights from Brookings’ prediction market events Brookings",
-   "published": "2026-06-25T07:00:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-joint-final-rule-on-adopting-uniform-standards-for-reporting-financial-data/",
-   "title": "CFPB Announces Joint Final Rule on Adopting Uniform Standards for Reporting Financial Data",
-   "source": "CFPB",
-   "category": "",
-   "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-joint-final-rule-on-adopting-uniform-standards-for-reporting-financial-data/",
-   "summary": "",
-   "published": "2026-06-25T04:00:00+00:00",
    "relevance": "low",
    "topics": []
   }
