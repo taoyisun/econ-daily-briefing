@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-10T11:48:04.512474+00:00",
+ "generated_at": "2026-08-11T11:44:28.675618+00:00",
  "papers": [
+  {
+   "id": "10.1093/restud/rdag090",
+   "title": "Embracing the Enemy",
+   "authors": "Alvaro Delgado-Vega, Johannes Schneider",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag090",
+   "url": "https://doi.org/10.1093/restud/rdag090",
+   "abstract": "Abstract A principal (such as a centrist political party) can partially influence the allocation of power between two competing parties. The principal is closer to one party, the ``Friend'', than to the other, the ``Enemy''. The principal's optimal contract initially seeks to exclude the Enemy. However, once the Enemy gains power, the principal embraces him in exchange for policy moderation. Moderation also disciplines the Friend, inducing him to move closer to the principal's preferred policy. Principals close to the Friend fully embrace the Enemy; more centrist principals divide their support. Commitment benefits the principal only if she is close to the Friend and parties value power little.",
+   "published": "2026-08-11T07:54:12Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103894",
    "title": "Household consumption and savings over the life cycle: The roles of demographics and durables",
@@ -102,6 +115,19 @@
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103895",
    "abstract": "",
    "published": "2026-08-06T13:08:01Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag086",
+   "title": "How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice",
+   "authors": "Jonathan Gruber, Mengyun Lin, Haoming Liu, Junjian Yi",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag086",
+   "url": "https://doi.org/10.1093/restud/rdag086",
+   "abstract": "Abstract We document that the source of funds for paying health insurance premiums has a dramatic impact on plan choices. We focus on the MediSave program in Singapore, a medical savings account that is used to pay out-of-pocket medical spending. Residents can also pay their health insurance premiums with cash or MediSave funds, but are subject to limits that vary by age and over time. By exploiting variations in those limits, we consistently find that when individuals are able to pay their health insurance premiums with MediSave funds, they are less price sensitive and more willing to enroll in more generous plans. We develop and estimate a mental accounting model which explains these patterns. We embed and reject alternative explanations such as hassle costs and liquidity constraints. We then extend this model and show that mental accounting can explain much, but not all, of the misweighting of premiums relative to out-of-pocket expenses in health insurance choice. We also find that allowing MediSave payment for both premiums and out-of-pocket expenses (e.g. putting them in the same mental account) enhances individual welfare and reduces adverse selection.",
+   "published": "2026-08-06T11:58:29Z",
    "relevance": "low",
    "topics": []
   },
@@ -699,19 +725,6 @@
    ]
   },
   {
-   "id": "10.1257/pol.20240361",
-   "title": "Alcohol, Labor, and Agriculture",
-   "authors": "David M. A. Murphy",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240361",
-   "url": "https://doi.org/10.1257/pol.20240361",
-   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/pol.20230384",
    "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
    "authors": "Jamein P. Cunningham, Rob Gillezeau",
@@ -720,6 +733,19 @@
    "doi": "10.1257/pol.20230384",
    "url": "https://doi.org/10.1257/pol.20230384",
    "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240361",
+   "title": "Alcohol, Labor, and Agriculture",
+   "authors": "David M. A. Murphy",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240361",
+   "url": "https://doi.org/10.1257/pol.20240361",
+   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -2587,23 +2613,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230849",
-   "title": "The Aggregate Costs of Uninsurable Business Risk",
-   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230849",
-   "url": "https://doi.org/10.1257/aer.20230849",
-   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "不可保险商业风险的总体成本",
-   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
-   "ai_relevance": "low",
-   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
-  },
-  {
    "id": "10.1257/aer.20230242",
    "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
    "authors": "Matthew A. Masten, Alexandre Poirier",
@@ -2619,6 +2628,23 @@
    "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
    "ai_relevance": "medium",
    "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
+  },
+  {
+   "id": "10.1257/aer.20230849",
+   "title": "The Aggregate Costs of Uninsurable Business Risk",
+   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230849",
+   "url": "https://doi.org/10.1257/aer.20230849",
+   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "不可保险商业风险的总体成本",
+   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
+   "ai_relevance": "low",
+   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -4123,22 +4149,6 @@
    "title_zh": "埃塞俄比亚大规模土地征购:对农业生产率和森林砍伐的影响",
    "ai_relevance": "low",
    "ai_reason": "农业生产与环境主题,离因果推断应用和研究核心太远"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105685",
-   "title": "Combining part-time work and social benefits: Empirical evidence from Finland",
-   "authors": "Salla Kalin, Tomi Kyyrä, Tuomas Matikka",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105685",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105685",
-   "abstract": "",
-   "published": "2026-06-11T20:35:55Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "兼职工作与社会福利的结合:来自芬兰的实证证据",
-   "ai_relevance": "medium",
-   "ai_reason": "属于公共经济学范畴(社会福利政策),与用户研究的社会保障/转移支付相关"
   }
  ],
  "working_papers": [
@@ -6163,6 +6173,87 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html?utm_source=rss&utm_medium=rss&utm_campaign=impedimenta-developerum",
+   "title": "Impedimenta Developerum!",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html?utm_source=rss&utm_medium=rss&utm_campaign=impedimenta-developerum",
+   "summary": "NME: Harry Potter fans have succeeded in moving a construction project that would have originally gone through the “grave” of the character Dobby. The 125-mile Greenlink power connector, which costs £430million, is intended to link power between the UK’s National Grid and Ireland, running between County Wexford and Freshwater West in Pembrokeshire. However, the latter […] The post Impedimenta Developerum! appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-11T11:20:05+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-ai-peer-review-work",
+   "title": "How well does AI peer review work?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-ai-peer-review-work",
+   "summary": "Claude and I planted 100 known errors into 10 open-access psychology papers and then ran them through frontier models and two commercial AI review tools. In brief: The best single system caught 71 of 100 errors, while the worst caught 30. Pooling every system’s output caught 93 of 100. Models are only partly correlated in […] The post How well does AI peer review work? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-11T06:57:16+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html?utm_source=rss&utm_medium=rss&utm_campaign=who-enters-congress",
+   "title": "Who enters Congress?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html?utm_source=rss&utm_medium=rss&utm_campaign=who-enters-congress",
+   "summary": "We trace the family origins of Members of Congress (MC) born between 1830 and 1950, linking each MC, their parents, and their brothers to the complete-count censuses. Future MCs have always been economic outliers. By 1940, close to 60 percent of MCs aged 18–40 held a college degree, against under 5 percent of comparable young […] The post Who enters Congress? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-11T04:30:48+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
+   "title": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) - The National Law Review",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
+   "summary": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) The National Law Review",
+   "published": "2026-08-10T19:01:02+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
+   "title": "Brian Chau at work",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
+   "summary": "I am automating investigative journalism at http://Effort.News We’re breaking five stories today based on verifiable financial data which everyone missed for years. Here is the entire thread, which also describes the five stories. The post Brian Chau at work appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-10T17:43:59+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnpWVk91QkxWa00tUkhJX1pUV0NKdnFUWFFpWnEyRVlxclhvUEh2cTY1dFpfdHA4WjdvbTJGWkxBU1VGUjRkU0U2ZGFrNVVnNHF5OGtYaVRoRDJUQmZFSHFUWWUyMXRPMnM0N0hNLWtvWUdzRFlCYzlidFpuMFNzenUwSFBkczRzNklqUllBRTE2aENzWHB2NnVYMFZ6anJYN0JrUFRBQnJEZUZZaXY0Sjl2Q2tyX3c?oc=5",
+   "title": "July commercial Chapter 11 bankruptcy filings decrease year over year in US - Baltimore Sun",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnpWVk91QkxWa00tUkhJX1pUV0NKdnFUWFFpWnEyRVlxclhvUEh2cTY1dFpfdHA4WjdvbTJGWkxBU1VGUjRkU0U2ZGFrNVVnNHF5OGtYaVRoRDJUQmZFSHFUWWUyMXRPMnM0N0hNLWtvWUdzRFlCYzlidFpuMFNzenUwSFBkczRzNklqUllBRTE2aENzWHB2NnVYMFZ6anJYN0JrUFRBQnJEZUZZaXY0Sjl2Q2tyX3c?oc=5",
+   "summary": "July commercial Chapter 11 bankruptcy filings decrease year over year in US Baltimore Sun",
+   "published": "2026-08-10T17:42:33+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-572",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-572",
+   "summary": "1. Tax land more heavily than structures. 2. “Our findings suggest that equality-oriented governments adopt an approach that insures the middle, buffers the poor, but spares the rich. The result is a rhetorical commitment to equality that eschews its most redistributive instrument(s).” 3. Francesco Cabella conversation with (an older) Victor Niederhoffer. 4. New homes in […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-10T15:29:45+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1pUdnVyaVN6c2tUWkpSdE8tbVNWYjM2aDNOWDA1QzZYREZ1SkVkaWJmeU1MekJqWkk2NXVfUk94UTVDdnZhSW9iSDBjcmZZSUNGRlNuM3NFbnU3SlVEdldGODVlMUJNWFQ5TW5Kc2FlZFN0d1Iyd2FHbzlsWURENXEzRVRsYm1k?oc=5",
    "title": "India Notifies Online Gaming Regulation Framework 2026 - usthadian.com",
    "source": "Google News: 赌博监管",
@@ -6342,11 +6433,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
-   "title": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. - Demócrata",
+   "title": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. - democrata.es",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkx3Ymp6czN6eVFHNXRvMXh6ZC04bHBtOVFqWGFhOEhVekZLN0ZpZFdfM2kxY2M3YWJuTU1yYTJ1dUFKeTU5VXBDWU1JdnN0enhLNGdyVTlaYS00WWJBMVRNSWdJUXdOM2ZxQ1doSEhTeG85RnhQeC1FQmZyWUlYaUdmMjQ0MHY4QWtzVjVIOWRJRHl4RVRqQXJOREd3alFlVVRxdUx3b25iSm5KUDZ5T1lsYnlxdExzYWlpUzM5aVVLMXF4MWfSAcsBQVVfeXFMTTNXY25TYnl1SklsYWFlYUJ3R1FtZ1JfSkNHZ0JnR3VVR1c4bWdOcm1KTlYtTTFBNzl0TVR1M18ydkI4NUc5RUZ1T01hRkpDX3Vqa21qU0V5aW43ZFh1N1pJNmM4YWxiM1I0enVYRnpBM0ZVUkZpTzZMVlczVUIxSUlJQlVfM2RoRjlLU21oUlpKUXBDLWYyUDlpbG95dkgxVUhjTm5MajlORndGTzlmS2QzdUh6cU5aQUdaTGNaOUZRUE40aTVMUEk2X2c?oc=5",
-   "summary": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. Demócrata",
+   "summary": "The bankruptcy filings decrease by 2.6% until July, with 3,815 cases, according to Iberinform. democrata.es",
    "published": "2026-08-07T09:58:51+00:00",
    "relevance": "high",
    "topics": [
@@ -6626,11 +6717,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - ACA International",
+   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - acainternational.org",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 ACA International",
+   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 acainternational.org",
    "published": "2026-08-03T22:12:37+00:00",
    "relevance": "high",
    "topics": [
@@ -6707,11 +6798,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "title": "Bankruptcy filings rise 12.2 percent - rilawyersweekly.com",
+   "title": "Bankruptcy filings rise 12.2 percent - Rhode Island Lawyers Weekly",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "summary": "Bankruptcy filings rise 12.2 percent rilawyersweekly.com",
+   "summary": "Bankruptcy filings rise 12.2 percent Rhode Island Lawyers Weekly",
    "published": "2026-08-02T19:10:44+00:00",
    "relevance": "high",
    "topics": [
@@ -6787,12 +6878,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Tomahawk",
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Erwin Record",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Tomahawk",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Erwin Record",
    "published": "2026-08-01T14:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6800,12 +6891,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Erwin Record",
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Tomahawk",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Erwin Record",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Tomahawk",
    "published": "2026-08-01T14:40:00+00:00",
    "relevance": "high",
    "topics": [
@@ -6839,6 +6930,19 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGRkZGNaazMwVzRaX1YyVm95a1hobGJiaFFxOTVsdFNNeFhDUnVfeVNYWV9FdmJxd1FrQ3IxcjNqRjFsOWRkQ0dQaEVVTVZ4amF6Tkczb3FYS0ItSEpYcWR0TnFUOFlUOXhCWUZvS195OGJlcHVxbTFIci1EcHZLSDJ4ZkJCWWJxdzRwaDRMbjhwbUVJbjRKbTVBbng5eUZZNk5LM0VPc205enhpYWR5T2llR0tuT0F3WEo3N0hLWm5rbVM5clVEX2lkQzhVcVN2MWt5a0pkZEdiZGkyZFRtVA?oc=5",
+   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - KTBS 3",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGRkZGNaazMwVzRaX1YyVm95a1hobGJiaFFxOTVsdFNNeFhDUnVfeVNYWV9FdmJxd1FrQ3IxcjNqRjFsOWRkQ0dQaEVVTVZ4amF6Tkczb3FYS0ItSEpYcWR0TnFUOFlUOXhCWUZvS195OGJlcHVxbTFIci1EcHZLSDJ4ZkJCWWJxdzRwaDRMbjhwbUVJbjRKbTVBbng5eUZZNk5LM0VPc205enhpYWR5T2llR0tuT0F3WEo3N0hLWm5rbVM5clVEX2lkQzhVcVN2MWt5a0pkZEdiZGkyZFRtVA?oc=5",
+   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. KTBS 3",
+   "published": "2026-08-01T13:40:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
    "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - WaltonTribune.com",
    "source": "Google News: 破产政策",
@@ -6863,77 +6967,44 @@
    "topics": [
     "破产/家庭财务"
    ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
-   "title": "More math breakthroughs from GPT models",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
-   "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […] The post More math breakthroughs from GPT models appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-01T10:53:40+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVNKajdPWC1sY3hoeEpDeXhONjJFdHJoeVppS2lGZHdWT1M3U0Zub0hxeFBDMXBzeDFuR1p4dGs2OUVTRWd0ams0bXA3RTRHTXR6Rkk0WXZscVZ3YXJHbmJaTTh6el9kQUpDTmhPa3BKeW5pNV92SXdnVEhwN3hVeVZMeDZBVWJsWWlldFlTV000TUdfb3NvTHppbEVQaWhjZjBZMTMxVW1fQ0kxYk5KcVhKSEhlSVppeDItd2xZTkpmSmJLeUtLaGl0SU9iNjJDQUZFMFNKdGtuRTBsQmJVQnpILUdHSnc?oc=5",
-   "title": "Power Struggle: New Pleasants Power leadership fights with former management in bankruptcy filings - News and Sentinel",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVNKajdPWC1sY3hoeEpDeXhONjJFdHJoeVppS2lGZHdWT1M3U0Zub0hxeFBDMXBzeDFuR1p4dGs2OUVTRWd0ams0bXA3RTRHTXR6Rkk0WXZscVZ3YXJHbmJaTTh6el9kQUpDTmhPa3BKeW5pNV92SXdnVEhwN3hVeVZMeDZBVWJsWWlldFlTV000TUdfb3NvTHppbEVQaWhjZjBZMTMxVW1fQ0kxYk5KcVhKSEhlSVppeDItd2xZTkpmSmJLeUtLaGl0SU9iNjJDQUZFMFNKdGtuRTBsQmJVQnpILUdHSnc?oc=5",
-   "summary": "Power Struggle: New Pleasants Power leadership fights with former management in bankruptcy filings News and Sentinel",
-   "published": "2026-08-01T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
-   "title": "Immigration and Macroeconomic Outcomes in OECD Countries",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
-   "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […] The post Immigration and Macroeconomic Outcomes in OECD Countries appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-01T06:48:26+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
-   "title": "Emergent Ventures India, 18th cohort",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
-   "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […] The post Emergent Ventures India, 18th cohort appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-01T04:24:42+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
-   "title": "*Redefining Global Health in the 21st Century*",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
-   "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […] The post *Redefining Global Health in the 21st Century* appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-31T17:54:16+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
-   "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia. The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-07-31T16:05:45+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108681",
+   "title": "Army Depot Maintenance: Information on Workload, Workforce, and Challenges",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108681",
+   "summary": "What GAO Found The Anniston and Red River Army Depots, among other things, perform maintenance and repairs on ground vehicles, including vehicles such as tanks, personnel carriers, and self-propelled artillery systems; trucks for hauling fuel and supplies; and light armored vehicles for transporting personnel and cargo. The maintenance and repairs performed at both depots include overhauls, major repairs, repairable parts, and other depot work. The annual total workload at Anniston Army Depot varied and slightly declined overall when comparing FY 2021 to FY 2025. The depot workload at Red Rive",
+   "published": "2026-08-10T12:08:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107965",
+   "title": "State Department: Standards for Overseas Housing Need Review",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107965",
+   "summary": "What GAO Found The Department of State last updated its standards for overseas housing space in 1991, according to State officials. Those standards may no longer align with State’s goal of providing Foreign Service personnel living abroad with housing comparable to the Washington, D.C., metropolitan area. In the last 35 years, housing in the Washington, D.C., area has been increasing in cost and decreasing in square footage. In addition, State’s method for measuring overseas housing does not align with the domestic industry standards typically followed by housing appraisers in the U.S., which ",
+   "published": "2026-08-10T11:28:52+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109074",
+   "title": "2026 Filing Season: Preliminary Observations on IRS Performance",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109074",
+   "summary": "What GAO Found The Internal Revenue Service’s (IRS) overall processing performance during the 2026 filing season was similar to 2025. IRS processed about 98 percent of the 177 million individual and business returns that it received during the 2026 filing season—the same percentage as last year. However, according to IRS, unavailable processing systems and reduced staffing delayed paper return processing. IRS said the systems were not available due in part to recent staff losses that delayed programming updates. IRS sent about half of paper returns to outside vendors to scan and submit to IRS ",
+   "published": "2026-08-10T11:01:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-107780",
    "title": "Federal Student Loans: Education Could Better Coordinate with Servicers When Making Program Changes",
@@ -7278,19 +7349,6 @@
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
-   "title": "A New Financing Model to Catalyze Mixed-Income Housing - Urban Institute",
-   "source": "Google News: Urban Institute",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
-   "summary": "A New Financing Model to Catalyze Mixed-Income Housing Urban Institute",
-   "published": "2026-07-23T12:00:00+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
    "id": "https://www.gao.gov/products/gao-26-108027",
    "title": "Bank Regulatory Reviews: Action Needed to Better Identify and Address Unnecessary or Unduly Burdensome Requirements",
    "source": "GAO Reports",
@@ -7355,6 +7413,19 @@
    "published": "2026-07-23T11:00:30+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
+   "title": "A New Financing Model to Catalyze Mixed-Income Housing - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
+   "summary": "A New Financing Model to Catalyze Mixed-Income Housing Urban Institute",
+   "published": "2026-07-23T07:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "https://www.gao.gov/products/gao-26-108703",
@@ -7840,17 +7911,6 @@
    "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/06/30/2025-wiretap-report-intercepts-and-convictions-fall",
    "summary": "Federal and state courts reported a combined 24 percent decrease in authorized wiretaps in 2025, compared with 2024, according to the Judiciary’s 2025 Wiretap Report.",
    "published": "2026-06-30T12:00:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/06/26/judiciary-approves-funding-case-management-and-public-access-modernization",
-   "title": "Judiciary Approves Funding for Case Management and Public Access Modernization",
-   "source": "US Courts",
-   "category": "",
-   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/06/26/judiciary-approves-funding-case-management-and-public-access-modernization",
-   "summary": "To fund the accelerated initiative to modernize and strengthen the security of its case management and public access system, the Judiciary is implementing a modest temporary increase in fees for electronic access to court records beginning on Jan. 1, 2027.",
-   "published": "2026-06-26T12:00:00+00:00",
    "relevance": "low",
    "topics": []
   }
