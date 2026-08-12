@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-11T11:44:28.675618+00:00",
+ "generated_at": "2026-08-12T11:47:04.703389+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103905",
+   "title": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
+   "authors": "Yu Luo, Yongwei Nian, Ming-ang Zhang",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103905",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103905",
+   "abstract": "",
+   "published": "2026-08-11T23:43:14Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103890",
+   "title": "Self-medication under uncertainty: Insights on drug quality and consumer behavior in Burkina Faso",
+   "authors": "Renate Hartwig, Moumouni Koala, Lena Merkel, Salfo Ouedraogo, Fadima Yaya Bocoum",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103890",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103890",
+   "abstract": "",
+   "published": "2026-08-11T23:43:10Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1111/1756-2171.70072",
+   "title": "Issue Information",
+   "authors": "",
+   "journal": "RAND Journal of Economics",
+   "tier": "IO",
+   "doi": "10.1111/1756-2171.70072",
+   "url": "https://doi.org/10.1111/1756-2171.70072",
+   "abstract": "",
+   "published": "2026-08-11T16:35:43Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag088",
+   "title": "Capital Unemployment",
+   "authors": "Pablo Ottonello",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag088",
+   "url": "https://doi.org/10.1093/restud/rdag088",
+   "abstract": "Abstract This paper studies the unemployment of physical capital—defined as idle units searching to be traded—and its macroeconomic implications. I provide evidence documenting that capital unemployment is large, volatile, and increases during economic downturns. I construct a capital-accumulation model that explains these patterns, with trading frictions in capital markets, which give rise to equilibrium capital unemployment, and financial shocks, which lead to large fluctuations in trading probabilities and capital unemployment. Using the model, I show that trading frictions and capital unemployment matter for aggregate dynamics. First, unemployed capital affects aggregate investment dynamics: Downturns characterized by large increases in unemployed capital are followed by investment slumps, because the economy tends to recover by absorbing existing unemployed capital rather than by producing new capital goods. Second, capital unemployment constitutes a propagation mechanism from financial shocks to economic activity, which shows up at the aggregate level as measured total factor productivity.",
+   "published": "2026-08-11T11:36:12Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1093/restud/rdag090",
    "title": "Embracing the Enemy",
@@ -191,7 +243,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag085",
    "url": "https://doi.org/10.1093/restud/rdag085",
-   "abstract": "Abstract We examine the welfare-based opportunity cost of foreign exchange (FX) intervention when both CIP and UIP deviations are present. We consider a small open economy that receives international capital flows through constrained international financial intermediaries. Deviations from CIP come from limited arbitrage or through a convenience yield, while UIP deviations are also affected by global risk. We show that the sign of CIP and UIP deviations may differ for safe haven countries. We find that FX reserves may provide a net benefit, rather than a cost, when international intermediaries value the safe-haven properties of a currency more than domestic households. We show that this has been the case for the Swiss franc and the Japanese Yen. We examine the optimal policy of a constrained central bank planner in this context.",
+   "abstract": "Abstract We examine the welfare-based opportunity cost of foreign exchange (FX) intervention when both covered interest rate parity (CIP) and uncovered interest rate parity (UIP) deviations are present. We consider a small open economy that receives international capital flows through constrained international financial intermediaries. Deviations from CIP come from limited arbitrage or through a convenience yield, while UIP deviations are also affected by global risk. We show that the sign of CIP and UIP deviations may differ for safe haven countries. We find that FX reserves may provide a net benefit, rather than a cost, when international intermediaries value the safe-haven properties of a currency more than domestic households. We show that this has been the case for the Swiss franc and the Japanese Yen. We examine the optimal policy of a constrained central bank planner in this context.",
    "published": "2026-08-05T11:53:09Z",
    "relevance": "low",
    "topics": []
@@ -1877,6 +1929,22 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
+   "abstract": "",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "Econometrica 第94卷第4期 前言",
+   "ai_relevance": "low",
+   "ai_reason": "无研究内容"
+  },
+  {
    "id": "10.3982/ecta22110",
    "title": "Economic Growth and the Rise of Large Firms",
    "authors": "Zhang Chen",
@@ -1892,22 +1960,6 @@
    "abstract_zh": "本文记录经济发展过程中企业规模分布右尾加厚的现象,开发了内生增长和企业规模分布的思想搜索模型。发现支持大企业的政策可以通过利用创新的扩散外部性来改进社会福利。",
    "ai_relevance": "low",
    "ai_reason": "企业增长与规模分布研究,与赌博政策和家庭财务困难无关"
-  },
-  {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
-   "ai_relevance": "low",
-   "ai_reason": "无研究内容"
   },
   {
    "id": "10.3982/ecta944sum",
@@ -2613,23 +2665,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230242",
-   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
-   "authors": "Matthew A. Masten, Alexandre Poirier",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230242",
-   "url": "https://doi.org/10.1257/aer.20230242",
-   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "遗漏变量对回归系数符号的影响",
-   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
-   "ai_relevance": "medium",
-   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
-  },
-  {
    "id": "10.1257/aer.20230849",
    "title": "The Aggregate Costs of Uninsurable Business Risk",
    "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
@@ -2645,6 +2680,23 @@
    "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
    "ai_relevance": "low",
    "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
+  },
+  {
+   "id": "10.1257/aer.20230242",
+   "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
+   "authors": "Matthew A. Masten, Alexandre Poirier",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230242",
+   "url": "https://doi.org/10.1257/aer.20230242",
+   "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "遗漏变量对回归系数符号的影响",
+   "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
+   "ai_relevance": "medium",
+   "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -4101,54 +4153,6 @@
    "title_zh": "股权融资与出口:来自中国IPO批准的证据",
    "ai_relevance": "low",
    "ai_reason": "研究企业融资政策对出口贸易的影响,虽涉及企业战略但主要焦点在国际贸易,与赌博、破产、空间竞争等研究方向无关"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104294",
-   "title": "Liability dollarization and exchange rate pass-through to domestic prices",
-   "authors": "Junhyong Kim, Annie Soyean Lee",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104294",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104294",
-   "abstract": "",
-   "published": "2026-06-13T00:54:46Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "负债美元化与汇率向国内价格的传导",
-   "ai_relevance": "low",
-   "ai_reason": "宏观经济学汇率传导问题,与赌博政策、破产、企业竞争无关"
-  },
-  {
-   "id": "10.1016/j.regsciurbeco.2026.104244",
-   "title": "Sport stadiums & land values",
-   "authors": "Hiroaki Funahashi, Alexander Cardazzi",
-   "journal": "Regional Science and Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.regsciurbeco.2026.104244",
-   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104244",
-   "abstract": "",
-   "published": "2026-06-12T23:47:45Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "体育场馆与地产价值",
-   "ai_relevance": "medium",
-   "ai_reason": "属于城市/区域经济学范畴,可能采用因果推断方法(事件研究/断点回归等)"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103836",
-   "title": "Large-scale land acquisitions in Ethiopia: Impacts on agricultural productivity and deforestation",
-   "authors": "Workineh Asmare Kassie, Yeshwas Admasu, Dagim Belay, Solomon Zena Walelign, Jipeng Zhang",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103836",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103836",
-   "abstract": "",
-   "published": "2026-06-12T15:38:07Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "埃塞俄比亚大规模土地征购:对农业生产率和森林砍伐的影响",
-   "ai_relevance": "low",
-   "ai_reason": "农业生产与环境主题,离因果推断应用和研究核心太远"
   }
  ],
  "working_papers": [
@@ -6173,6 +6177,50 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
+   "title": "What makes people happy?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
+   "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […] The post What makes people happy? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-12T06:51:30+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
+   "title": "Immigrant Earnings Assimilation, 1981–2021",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
+   "summary": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States […] The post Immigrant Earnings Assimilation, 1981–2021 appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-12T04:42:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
+   "title": "How much will cybersecurity costs rise?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
+   "summary": "Here is one (partial) estimate of the higher cyber costs. I am not sure how many incidents they have in mind, but this seems to me realistic as an estimate but also rather modest relative to the Angst I am seeing? Not quite “a Gilda Radner thing,” but if nothing else shows the usefulness of […] The post How much will cybersecurity costs rise? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-11T18:31:06+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
+   "title": "Tuesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
+   "summary": "1. “The fraction of women who undergo this procedure who go on to bear a child with the frozen eggs is around 2%.” 2. Long Mark Zuckerberg/Meta piece on the future of AI. 3. “According to Bloomberg Intelligence, companies in the S&P 500 are expected to post an average +29% jump in quarterly earnings for […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-11T15:52:04+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html?utm_source=rss&utm_medium=rss&utm_campaign=impedimenta-developerum",
    "title": "Impedimenta Developerum!",
    "source": "Marginal Revolution",
@@ -6798,11 +6846,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "title": "Bankruptcy filings rise 12.2 percent - Rhode Island Lawyers Weekly",
+   "title": "Bankruptcy filings rise 12.2 percent - rilawyersweekly.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "summary": "Bankruptcy filings rise 12.2 percent Rhode Island Lawyers Weekly",
+   "summary": "Bankruptcy filings rise 12.2 percent rilawyersweekly.com",
    "published": "2026-08-02T19:10:44+00:00",
    "relevance": "high",
    "topics": [
@@ -6830,146 +6878,31 @@
    "published": "2026-08-02T14:16:16+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-fact-of-the-day-3",
-   "title": "Taiwan fact of the day",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-fact-of-the-day-3",
-   "summary": "[Annualized] 14% GDP growth in the first half of 2026 The post Taiwan fact of the day appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-02T06:54:39+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day",
-   "title": "Mexico (Taiwan) fact of the day",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day",
-   "summary": "Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are now the country’s top US export, overtaking autos […] The post Mexico (Taiwan) fact of the day appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-02T04:35:52+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html?utm_source=rss&utm_medium=rss&utm_campaign=rothko-show-in-florence",
-   "title": "Rothko show in Florence",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html?utm_source=rss&utm_medium=rss&utm_campaign=rothko-show-in-florence",
-   "summary": "In Museo San Marco there is an ancillary exhibit, placing some smaller, lighter colored Rothkos next to their Fra Angelico frescoes. Those rooms bowled me over, as for one thing they show how much Rothko was a religious painter at heart. I also was struck by the high proportion of Chinese visitors at this show, […] The post Rothko show in Florence appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-01T17:50:35+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-572",
-   "title": "Saturday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-572",
-   "summary": "1. What do consultants get paid for? 2. Ugly architecture creates coalitions against development. 3. London is (modestly) degentrifying. 4. Is the “no forward guidance” approach failing? (FT) 5. Chinese interview with Christopher Nolan. 6. “social media use and school grades are unrelated for adolescents…meta-analytic evidence is not in support of dramatic claims relating social […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-01T16:21:09+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Erwin Record",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTBkV1BtRUw3TDBrUVdldXJWX2N0OUhTTFdzWnhiWmdSel9ERkxQSUJSS3oyREV6QlRUMmg5X19hTi10dF9XaEQ0QXZ6bTdURHlwYVpfQTI2SHc4Vkh4ZzhBTFFwVXFPWWJtN2UtOWxhbjd0SkJEZXdScjQxUWpOUnkzNUtoLU5mRjFkcURVNWgyOVh0R0Z5VVhPS3RPVGc?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Erwin Record",
-   "published": "2026-08-01T14:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Tomahawk",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdidU9LZEk0NGxleTI2WXh2aHp0cUxUZUU3TW5tYnRfSkY1SWFMZmo1Qk53ZUVIdTQxVGRYVzE0T0paa1pTVzlIaXpWbHJaVDRhaEwwXzROemx6bHY5N21yTWJWeWV1MzBBR0tCSzAwc3hvZWF1M3NCbzNMR0w1Tm9zNW83SC05UWdfMHRPLUhtdC1NYnplLVZpTFE5WFU?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Tomahawk",
-   "published": "2026-08-01T14:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - Kingsport Times News",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2NCaU5PZ3RyNlFHaFRUazZSdkpEUEltdWQ3RXFPRkt1MV9MR2hvNENCbTZieXpWOURuaVg1bTd6WHdvd1M4Q3g4UGp1c29VdG9KNnhHbml6WGdHVFJUSUExYUlDVTRnUkZtaXk1RU95SzczQllBSmhSZGp2ZS1yQ2Y2bFU1R29mSkk3UzUtYUVRS3d4aS1mWU9qZUY?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. Kingsport Times News",
-   "published": "2026-08-01T14:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFk4S1FBa1B0Skw5eEZUNnRud2NfTmFORGJLZFZsTVBlbGZTcmszdXoteDgySjM1SGw0UTJGTUx3blNrSVVFQlNyZnBHa25TaGxtZGhneWxBQU1qS25ZNkdESWFsNEpvSDNURXZvc01uMmduOFA3V1NtenlDZGVyZFdKaUZWWnBDNHNIdXNVajNrOG16SDJLRHJHMDRXMWJwcF9BWG55RUJGdw?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - The Black Chronicle",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFk4S1FBa1B0Skw5eEZUNnRud2NfTmFORGJLZFZsTVBlbGZTcmszdXoteDgySjM1SGw0UTJGTUx3blNrSVVFQlNyZnBHa25TaGxtZGhneWxBQU1qS25ZNkdESWFsNEpvSDNURXZvc01uMmduOFA3V1NtenlDZGVyZFdKaUZWWnBDNHNIdXNVajNrOG16SDJLRHJHMDRXMWJwcF9BWG55RUJGdw?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. The Black Chronicle",
-   "published": "2026-08-01T13:44:25+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGRkZGNaazMwVzRaX1YyVm95a1hobGJiaFFxOTVsdFNNeFhDUnVfeVNYWV9FdmJxd1FrQ3IxcjNqRjFsOWRkQ0dQaEVVTVZ4amF6Tkczb3FYS0ItSEpYcWR0TnFUOFlUOXhCWUZvS195OGJlcHVxbTFIci1EcHZLSDJ4ZkJCWWJxdzRwaDRMbjhwbUVJbjRKbTVBbng5eUZZNk5LM0VPc205enhpYWR5T2llR0tuT0F3WEo3N0hLWm5rbVM5clVEX2lkQzhVcVN2MWt5a0pkZEdiZGkyZFRtVA?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - KTBS 3",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGRkZGNaazMwVzRaX1YyVm95a1hobGJiaFFxOTVsdFNNeFhDUnVfeVNYWV9FdmJxd1FrQ3IxcjNqRjFsOWRkQ0dQaEVVTVZ4amF6Tkczb3FYS0ItSEpYcWR0TnFUOFlUOXhCWUZvS195OGJlcHVxbTFIci1EcHZLSDJ4ZkJCWWJxdzRwaDRMbjhwbUVJbjRKbTVBbng5eUZZNk5LM0VPc205enhpYWR5T2llR0tuT0F3WEo3N0hLWm5rbVM5clVEX2lkQzhVcVN2MWt5a0pkZEdiZGkyZFRtVA?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. KTBS 3",
-   "published": "2026-08-01T13:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - WaltonTribune.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFNlVXp0dnlzVGg5ZkotdTB3a3g4YUpfWmEwMWtFMy1xeDNIdXJaVmlIbnp5Q2tuQ1VkNUFwRjBfVkhBQ2tYNHRVQmZPdC1xWFpqTGxxam5BTjIzaWxiSWYxaEZrSzd6T0d1cmQzYlExTDBkalRROE84VWlEZ182T3NTZ0l5ZlVmVDRsMlM4UzVCU3VrenFXdGQ0TVJ1VUdac2tlSWxXaXNsbjYyR2hvNDUxMVVhVjU3UnUzQmQ1a2ZrRV81MGd2Rzg4OXprdzBiYnpxZTNENTlfQ1YzcUlLcVhwaGRTOTdIeTAyeA?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. WaltonTribune.com",
-   "published": "2026-08-01T13:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "title": "Delaware, Texas have highest business bankruptcy filings in U.S. - thecentersquare.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZMWXZlRXBWU21pbXdhTUMwWjdqWEFWb0pBRE40d2dCTVhZUHh2cVBSVEZhTTV5Vmd2cjh4UFFVbGExTVdwM0FnaHIzWmlxcUgtZWI2ejNuNExnSkN5dVA4OHpIbjFkZjkxY1RTUkFaYnpseEljZDE4b2FNUXBxZS1JZ0M5WEdrVW1jQy0zMkx5SlQ50gGaAUFVX3lxTE50RHdCcGI4YV9pbmpycEtvdGV5TWxFWktHQWZTSXA3UDVnRmFBRHVscW1hUnhUVGlCa19PRkRLc0ZWTjcwRThLa253cC03VnV3QTNIS1htaldLRl9GOHo1SzRRS2hxQUhWelN1Ul9NZFczRFExUEYwZ25SYWRuR0l6TjlmWk1sQmtDWDdvRUg1UE5nVTRqdUpEcUE?oc=5",
-   "summary": "Delaware, Texas have highest business bankruptcy filings in U.S. thecentersquare.com",
-   "published": "2026-08-01T13:40:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108991",
+   "title": "Priority Open Recommendations: Office of Management and Budget",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108991",
+   "summary": "Why GAO Did This Study In August 2024, GAO identified 37 priority recommendations for the Office of Management and Budget (OMB). Since then, OMB has implemented 11 of those recommendations. In August 2026, GAO identified an additional seven priority recommendations, removed the priority designation from five, and closed eight others as no longer valid, bringing the total number to 20. GAO is highlighting the following three areas that warrant timely and focused attention: Combatting federal fraud, Reducing improper payments, and Fully developing a federal program inventory. Addressing GAO's re",
+   "published": "2026-08-11T11:28:47+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108578",
+   "title": "Airports: Online Information Is Widely Available for General Aviation Fuel Prices but Not for Required Fees",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108578",
+   "summary": "What GAO Found Fixed base operators (FBO) offer services at airports—such as fueling, parking, and maintenance—for general aviation pilots and other users. These users often seek information about fuel prices and fees for FBO services before taking a trip. Stakeholders that GAO interviewed said pilots obtain information from multiple sources, including websites and calls to FBOs, depending on the purpose of their trip. GAO compared information about fuel prices and fees that it obtained through covert phone calls to 45 FBOs with information that it obtained through online sources. GAO found th",
+   "published": "2026-08-11T11:10:04+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108681",
    "title": "Army Depot Maintenance: Information on Workload, Workforce, and Challenges",
