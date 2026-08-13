@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-12T11:47:04.703389+00:00",
+ "generated_at": "2026-08-13T11:48:04.859168+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105752",
+   "title": "Fairness perceptions of redistribution and predistribution",
+   "authors": "Krishna Srinivasan, Justin Valasek, Weijia Wang",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105752",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105752",
+   "abstract": "",
+   "published": "2026-08-13T03:57:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104269",
+   "title": "Corrigendum to “Leases over real property” [Reg. Sci. Urban Econ. 111 (2025) 104087]",
+   "authors": "Dylan R. Clarke",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104269",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104269",
+   "abstract": "",
+   "published": "2026-08-13T03:56:05Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103905",
    "title": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
@@ -63,6 +91,19 @@
    "url": "https://doi.org/10.1093/restud/rdag090",
    "abstract": "Abstract A principal (such as a centrist political party) can partially influence the allocation of power between two competing parties. The principal is closer to one party, the ``Friend'', than to the other, the ``Enemy''. The principal's optimal contract initially seeks to exclude the Enemy. However, once the Enemy gains power, the principal embraces him in exchange for policy moderation. Moderation also disciplines the Friend, inducing him to move closer to the principal's preferred policy. Principals close to the Friend fully embrace the Enemy; more centrist principals divide their support. Commitment benefits the principal only if she is close to the Friend and parties value power little.",
    "published": "2026-08-11T07:54:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag083",
+   "title": "Informative Certification: Screening vs. Acquisition",
+   "authors": "Gorkem Celik, Roland Strausz",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag083",
+   "url": "https://doi.org/10.1093/restud/rdag083",
+   "abstract": "Abstract We study monopolistic certification in markets where sellers possess partial private information about product quality. A certifier can provide information through two channels: screening sellers’ private information (soft information) and acquiring new quality data (hard information). We prove that any certification menu achieving less than maximal screening is Pareto dominated by one with full screening. Among Pareto-efficient menus, the certifier’s profit-maximising menu provides maximal soft information while restricting hard information provision. The two channels diverge because screening creates value the certifier can fully capture, whereas hard information amplifies costly information rents. Using power value functions, we derive comparative statics showing that information restrictions target low-quality sellers when information value is moderate, but high-quality sellers receive perfect quality revelation when information value is high.",
+   "published": "2026-08-10T11:26:35Z",
    "relevance": "low",
    "topics": []
   },
@@ -777,19 +818,6 @@
    ]
   },
   {
-   "id": "10.1257/pol.20230384",
-   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
-   "authors": "Jamein P. Cunningham, Rob Gillezeau",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230384",
-   "url": "https://doi.org/10.1257/pol.20230384",
-   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/pol.20240361",
    "title": "Alcohol, Labor, and Agriculture",
    "authors": "David M. A. Murphy",
@@ -816,6 +844,19 @@
    "topics": [
     "因果推断方法"
    ]
+  },
+  {
+   "id": "10.1257/pol.20230384",
+   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
+   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230384",
+   "url": "https://doi.org/10.1257/pol.20230384",
+   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1257/pol.20240212",
@@ -1242,7 +1283,7 @@
    "tier": "Top-5",
    "doi": "10.1093/qje/qjag037",
    "url": "https://doi.org/10.1093/qje/qjag037",
-   "abstract": "Abstract Information often spreads and influences beliefs regardless of its reliability. We show that this occurs in part because indicators of reliability tend to be lost in the process of word-of-mouth transmission. We conduct controlled experiments where participants listen to economic forecasts and pass them on through voice messages. Other participants listen either to original or transmitted audio recordings and report incentivized beliefs. Across various transmitter incentive schemes, a claim’s reliability is lost in transmission much more than the claim itself. Reliable and unreliable information, once filtered through transmission, impact listener beliefs similarly. Mechanism experiments show that reliability is lost not because it is perceived as less relevant or harder to transmit, but because it is less likely to come to mind during transmission. Evidence from our experiments, a large corpus of everyday conversations, and economic TV news shows that contextual cues can bring reliability to mind and induce its transmission, but situations in which people share information seldom contain such cues.",
+   "abstract": "Abstract Information often spreads and influences beliefs regardless of its reliability. We show that this occurs in part because indicators of reliability tend to be lost in the process of word-of-mouth transmission. We conduct controlled experiments where participants listen to economic forecasts and pass them on through voice messages. Other participants listen either to original or transmitted audio recordings and report incentivized beliefs. Across various transmitter incentive schemes, a claim’s reliability is lost in transmission much more than the claim itself. Reliable and unreliable information, once filtered through transmission, affect listeners’ beliefs similarly. Mechanism experiments show that reliability is lost not because it is perceived as less relevant or harder to transmit but because it is less likely to come to mind during transmission. Evidence from our experiments, a large corpus of everyday conversations, and economic TV news shows that contextual cues can bring reliability to mind and induce its transmission, but situations in which people share information seldom contain such cues.",
    "published": "2026-07-23T11:51:28Z",
    "relevance": "low",
    "topics": []
@@ -2665,23 +2706,6 @@
    "ai_reason": "研究早期健康冲击的长期发展后果,虽有因果推断价值但内容与赌博、破产无关"
   },
   {
-   "id": "10.1257/aer.20230849",
-   "title": "The Aggregate Costs of Uninsurable Business Risk",
-   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230849",
-   "url": "https://doi.org/10.1257/aer.20230849",
-   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
-   "published": "2026-06-30T13:29:25Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "不可保险商业风险的总体成本",
-   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
-   "ai_relevance": "low",
-   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
-  },
-  {
    "id": "10.1257/aer.20230242",
    "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
    "authors": "Matthew A. Masten, Alexandre Poirier",
@@ -2697,6 +2721,23 @@
    "abstract_zh": "证明遗漏变量更容易翻转系数符号而非仅将其驱向零,特别是使用Oster's delta时。提出修正的稳健性度量方法,在多项实证应用和元分析中验证,并实现Stata模块供使用。",
    "ai_relevance": "medium",
    "ai_reason": "因果推断方法论工作,对面板数据/准自然实验研究的识别可信度和稳健性检验具有重要方法学价值"
+  },
+  {
+   "id": "10.1257/aer.20230849",
+   "title": "The Aggregate Costs of Uninsurable Business Risk",
+   "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230849",
+   "url": "https://doi.org/10.1257/aer.20230849",
+   "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk, much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk. (JEL D33, E02, E44, G32, L25, L26)",
+   "published": "2026-06-30T13:29:25Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "不可保险商业风险的总体成本",
+   "abstract_zh": "使用企业数据记录私人企业的利润份额经历大幅波动。研究表明因为企业可通过缩小规模限制风险,不可保险商业风险导致的宏观经济损失远大于信贷约束带来的损失。",
+   "ai_relevance": "low",
+   "ai_reason": "研究企业层面的风险和创业动态,与个人/家庭破产和消费者赌博政策无直接关系"
   },
   {
    "id": "10.1257/aer.20231415",
@@ -6177,6 +6218,61 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
+   "title": "USA fact of the day",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
+   "summary": "Here is the source. The post USA fact of the day appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-13T10:40:20+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
+   "title": "My very interesting Conversation with Daron Acemoglu",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
+   "summary": "Here is the audio, video, and transcript. Here is the episode summary: Daron Acemoglu returns for his second appearance with a new book, What Happened to Liberal Democracy?, which Tyler reads as an attempt to redefine and revitalize liberalism for our times. Where Daron’s first visit was about how states and societies contend for the narrow […] The post My very interesting Conversation with Daron Acemoglu appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-13T05:31:43+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
+   "title": "Mistakes in financial economics",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
+   "summary": "I feel like this is almost deliberately missing the point. My median expectation is that AI boosts the economy enormously, so shorting things would be a terrible idea. But non-trivial tail risk is that it kills everyone. So shorting things would be pointless. That is from Tom Chivers. It is easy enough to say buy […] The post Mistakes in financial economics appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-12T18:46:44+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-566",
+   "title": "Wednesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-566",
+   "summary": "1. The cheese collateral in Italian banks is melting. 2. Denmark fact of the day: “…half of Denmark’s growth has been due to essentially one company” 3. “Foreign travel now makes up 1.4% of the US consumer spending budget. By contrast, imported Chinese goods make up about 3% of US domestic expenditures.” 4. Noah is […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-12T16:12:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
+   "title": "Fast Company covers New Aesthetics",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
+   "summary": "A good piece, it is good to see the artists themselves front and center of the story. The post Fast Company covers New Aesthetics appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-12T13:19:06+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
    "title": "What makes people happy?",
    "source": "Marginal Revolution",
@@ -6217,6 +6313,17 @@
    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
    "summary": "1. “The fraction of women who undergo this procedure who go on to bear a child with the frozen eggs is around 2%.” 2. Long Mark Zuckerberg/Meta piece on the future of AI. 3. “According to Bloomberg Intelligence, companies in the S&P 500 are expected to post an average +29% jump in quarterly earnings for […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
    "published": "2026-08-11T15:52:04+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://basisonline.org/2026/08/11/rural-veterans-experience-care-alcohol/",
+   "title": "The DRAM, Vol. 22(8) – What rural veterans experience when receiving care for alcohol-related problems",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/08/11/rural-veterans-experience-care-alcohol/",
+   "summary": "This week, The DRAM reviews a study by Tony Pomales and colleagues that explored the experiences of rural veterans who received care for alcohol-related problems.",
+   "published": "2026-08-11T13:44:44+00:00",
    "relevance": "low",
    "topics": []
   },
@@ -6529,11 +6636,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazVwNjF6Q3o1MGFqVld1QVJfcjJoODl1b3NWeF9zMnUyWHpZR2xBX1Z3NDFJcTNSQlN4VVNVN2lJZUFVVG5uTk5YVDVTbTJ6cWNVYTZLbXhxa2p5cU1FNWVaeUxFRllRaDhOSTJjUjNPZUF3WUs2Q3pMS1hqY0JSMGc2WmZLQVRTeGFWQmhlU0IzLW5LR3VpX0pUZ2p4NWc5OUJEWUtuNDd0Q1hnOTVhM2x3dFlxQnpRVnBV?oc=5",
-   "title": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules - Iredell Free News",
+   "title": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules - iredellfreenews.com",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazVwNjF6Q3o1MGFqVld1QVJfcjJoODl1b3NWeF9zMnUyWHpZR2xBX1Z3NDFJcTNSQlN4VVNVN2lJZUFVVG5uTk5YVDVTbTJ6cWNVYTZLbXhxa2p5cU1FNWVaeUxFRllRaDhOSTJjUjNPZUF3WUs2Q3pMS1hqY0JSMGc2WmZLQVRTeGFWQmhlU0IzLW5LR3VpX0pUZ2p4NWc5OUJEWUtuNDd0Q1hnOTVhM2x3dFlxQnpRVnBV?oc=5",
-   "summary": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules Iredell Free News",
+   "summary": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules iredellfreenews.com",
    "published": "2026-08-06T15:51:41+00:00",
    "relevance": "high",
    "topics": [
@@ -6553,11 +6660,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2JoZHdYTEhyMXN6UzNQMmZQcE83WHNwaGtkQURQRWtFS2VHWkFnV3p5amNBWGthRGlLZ1ZSeGlHcXEtUkNVQnhVS2Y4RHZQd2VvdUpfTy1pNWVHanRBMl9BckNxUmU0MWNYbFMyaERkZjBxS3JKT3U1OVBVMnJLbnlSNG9SeGVNZzV4MHl2WE9WeU15eUZUMzNQT01PZm53MzdjOTJqdnVySkk0Ri1JbjkwSlVvNm0tbGJLeXlZR0hDdFFmWXFJVlZBam8?oc=5",
-   "title": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase - Barchart.com",
+   "title": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase - barchart.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2JoZHdYTEhyMXN6UzNQMmZQcE83WHNwaGtkQURQRWtFS2VHWkFnV3p5amNBWGthRGlLZ1ZSeGlHcXEtUkNVQnhVS2Y4RHZQd2VvdUpfTy1pNWVHanRBMl9BckNxUmU0MWNYbFMyaERkZjBxS3JKT3U1OVBVMnJLbnlSNG9SeGVNZzV4MHl2WE9WeU15eUZUMzNQT01PZm53MzdjOTJqdnVySkk0Ri1JbjkwSlVvNm0tbGJLeXlZR0hDdFFmWXFJVlZBam8?oc=5",
-   "summary": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase Barchart.com",
+   "summary": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase barchart.com",
    "published": "2026-08-06T13:04:02+00:00",
    "relevance": "high",
    "topics": [
@@ -6765,11 +6872,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - acainternational.org",
+   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - ACA International",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 acainternational.org",
+   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 ACA International",
    "published": "2026-08-03T22:12:37+00:00",
    "relevance": "high",
    "topics": [
@@ -6783,7 +6890,7 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
    "summary": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) The National Law Review",
-   "published": "2026-08-03T19:02:27+00:00",
+   "published": "2026-08-03T19:02:42+00:00",
    "relevance": "high",
    "topics": [
     "破产/家庭财务"
@@ -6819,63 +6926,6 @@
    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
    "summary": "Yes I will be doing a Conversation with him. So what should I ask? If you need them, here are various Bostrom links. The post What should I ask Nick Bostrom? appeared first on Marginal REVOLUTION .",
    "published": "2026-08-03T13:20:26+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
-   "title": "On infinite ethics",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
-   "summary": "Infinite numbers have long troubled utilitarian ethicists: if the universe is boundless, then there is infinite positive utility and infinite negative utility, and we can’t even define our current state, let alone affect it. Oxford philosopher Toby Ord proposes a solution: use hyperreal numbers, a mathematical construct in which infinite sums behave more like finite ones (for example, […] The post On infinite ethics appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-03T07:11:06+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=romes-age-of-revolution",
-   "title": "*Rome’s Age of Revolution*",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=romes-age-of-revolution",
-   "summary": "The author is Tim Whitmarsh and the subtitle is Augustus, Empire and the Making of Christianity. This is the most important book on the history of Christianity I have read in a long time, and it is also an important work in Roman history. Yet also fun and extremely readable. Excerpt: The story I have […] The post *Rome’s Age of Revolution* appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-03T04:33:37+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "title": "Bankruptcy filings rise 12.2 percent - rilawyersweekly.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3RQeklFT2UtckQwelFKeU00T1EyclBfenJrY3BySHhRNkNzbkNyaE14aVRQc1V0M3RiLWVrUFByX3l4bVRCWHMzOEVaTTROak5QUmlSV05JOVNQSVVsU0lDZl9tUWo5WG0weFZvSW54SkJQeWRaX1M4YjR4ZVV0Sjh3?oc=5",
-   "summary": "Bankruptcy filings rise 12.2 percent rilawyersweekly.com",
-   "published": "2026-08-02T19:10:44+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-578",
-   "title": "Sunday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-578",
-   "summary": "1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what “Astra” means. 6. David Perell art history game. 7. New model of […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-02T15:58:08+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/on-the-acemoglu-autor-et-al-fertility-result.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-acemoglu-autor-et-al-fertility-result",
-   "title": "On the Acemoglu-Autor et.al. fertility result",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/on-the-acemoglu-autor-et-al-fertility-result.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-acemoglu-autor-et-al-fertility-result",
-   "summary": "Here is criticism from Revana Sharfuddin. Here is criticism from JFV. The post On the Acemoglu-Autor et.al. fertility result appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-02T14:16:16+00:00",
    "relevance": "low",
    "topics": []
   }
