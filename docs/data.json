@@ -1,6 +1,71 @@
 {
- "generated_at": "2026-08-13T11:48:04.859168+00:00",
+ "generated_at": "2026-08-14T11:44:12.772439+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105739",
+   "title": "Friends with drugs: The role of social networks in the opioid epidemic",
+   "authors": "Kai Maeckle, Stefan Ruenzi",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105739",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105739",
+   "abstract": "",
+   "published": "2026-08-14T07:12:06Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103900",
+   "title": "The political economy of regional development: Evidence from the Cassa per il Mezzogiorno",
+   "authors": "Tancredi Buscemi, Giulia Romani",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103900",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103900",
+   "abstract": "",
+   "published": "2026-08-13T23:27:40Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105755",
+   "title": "Do information and communication technologies empower female workers? Evidence from Vietnam",
+   "authors": "Heiwai Tang, Yao Wang, Victoria Wenxin Xie, Natalie Chun",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105755",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105755",
+   "abstract": "",
+   "published": "2026-08-13T16:27:47Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104325",
+   "title": "Transportation networks, technology adoption, and structural transformation",
+   "authors": "T. Terry Cheung, Han Yang",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104325",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
+   "abstract": "",
+   "published": "2026-08-13T15:37:28Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105741",
+   "title": "Non-monetary incentives and bureaucratic performance: Evidence from U.S. courts",
+   "authors": "Jonathan B. Petkun",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105741",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105741",
+   "abstract": "",
+   "published": "2026-08-13T12:56:29Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105752",
    "title": "Fairness perceptions of redistribution and predistribution",
@@ -28,6 +93,19 @@
    "topics": [
     "城市/区域"
    ]
+  },
+  {
+   "id": "10.1093/restud/rdag089",
+   "title": "An optimal test for strategic interaction in network formation games",
+   "authors": "Andrin Pelican, Bryan S Graham",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag089",
+   "url": "https://doi.org/10.1093/restud/rdag089",
+   "abstract": "Abstract Consider a setting where N players, partitioned into K observable types, form a directed network. Agents’ preferences over the form of the network consist of an arbitrary network benefit function (e.g., agents may have preferences over their network centrality) and a private, or dyadic, component which is additively separable in own links. This latter component allows for unobserved heterogeneity in the costs of sending and receiving links across agents (respectively out- and in- degree heterogeneity) as well as homophily/heterophily across the K types of agents. In contrast, the network benefit function allows agents’ preferences over links to vary with the presence or absence of links elsewhere in the network (and hence with the link formation behavior of their peers). In the null model, which excludes the network benefit function, links form independently across dyads in the manner described by Charbonneau (2017) among others. Under the alternative, there is interdependence across linking decisions (i.e., strategic interaction). We show how to test the null with power optimized in specific directions. These alternative directions include many common models of strategic network formation (e.g., “connections” models, “structural hole” models etc.). Our random utility specification induces an exponential family structure under the null which we exploit to construct a similar test which exactly controls size (despite the the null being a composite one with many nuisance parameters). We further show how to construct locally best tests for specific alternatives without making any assumptions about equilibrium selection. To make our tests feasible, we introduce a new MCMC algorithm for simulating the null distributions of our test statistics.",
+   "published": "2026-08-12T11:48:05Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jdeveco.2026.103905",
@@ -4144,56 +4222,6 @@
    "abstract_zh": "论文开发了离散选择模型,纳入同伴效应对偏好和考量集的影响,并刻画均衡行为。应用于茶连锁市场扩展决策,发现有限考量证据,通过模拟评估信息不完全如何减缓市场进入和竞争。",
    "ai_relevance": "low",
    "ai_reason": "虽有因果推断方法论价值,但应用对象(消费商业扩展)与用户赌博政策/破产研究无关"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104296",
-   "title": "Demand shocks during the post-pandemic inflation surge: An international perspective",
-   "authors": "Drago Bergholt, Inga Nielsen Friis, Francesco Furlanetto, Kristine Aunvåg Matsen, Ørjan Robstad",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104296",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104296",
-   "abstract": "",
-   "published": "2026-06-15T06:38:40Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "疫情后通胀飙升期间的需求冲击:国际视角",
-   "ai_relevance": "low",
-   "ai_reason": "研究全球通胀期间的宏观需求变化,属于宏观经济学,与赌博、家庭财务等微观研究主题无关"
-  },
-  {
-   "id": "10.1016/j.regsciurbeco.2026.104246",
-   "title": "Urban internal structures and gender commuting gap: Evidence from China",
-   "authors": "Yalin Wang, Xiaofang Dong",
-   "journal": "Regional Science and Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.regsciurbeco.2026.104246",
-   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104246",
-   "abstract": "",
-   "published": "2026-06-14T18:15:52Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "城市内部结构与性别通勤差距:来自中国的证据",
-   "ai_relevance": "low",
-   "ai_reason": "城市和区域经济学,关于通勤与劳动供给,与赌博或家庭债务无关"
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104292",
-   "title": "Equity financing and exports: Evidence from IPO approvals in China",
-   "authors": "Robin Kaiji Gong, Yao Amber Li, Stephen Teng Sun, Shang-Jin Wei",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104292",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104292",
-   "abstract": "",
-   "published": "2026-06-14T17:39:44Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "股权融资与出口:来自中国IPO批准的证据",
-   "ai_relevance": "low",
-   "ai_reason": "研究企业融资政策对出口贸易的影响,虽涉及企业战略但主要焦点在国际贸易,与赌博、破产、空间竞争等研究方向无关"
   }
  ],
  "working_papers": [
@@ -6218,6 +6246,61 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change",
+   "title": "Regulated Markets Are Slow to Handle Change",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change",
+   "summary": "Gowrisankaran, Langer and Reguant have an excellent paper, Energy Transitions in Regulated Markets (WP), in the latest AER. The basic idea is that regulation designed to prevent utilities from building useless power plants can induce them to keep obsolete power plants. Some background. We regulated electric utilities under the theory that they were natural monopolies […] The post Regulated Markets Are Slow to Handle Change appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-14T11:20:34+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world",
+   "title": "The Economics of a Shrinking World",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world",
+   "summary": "From Jesus Fernandez-Villaverde and Patrick Norrick: As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236 […] The post The Economics of a Shrinking World appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-14T06:14:58+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=intergenerational-mobility-of-immigrants-in-15-destination-countries",
+   "title": "Intergenerational mobility of immigrants in 15 destination countries",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=intergenerational-mobility-of-immigrants-in-15-destination-countries",
+   "summary": "We estimate intergenerational mobility of children of immigrants in fifteen receiving countries. Children of immigrants have somewhat lower income than children of local-born parents. Around half of this gap can be explained by differences in parental income, with the remainder due to differences in mobility parameters. The daughters of immigrants enjoy higher absolute mobility than […] The post Intergenerational mobility of immigrants in 15 destination countries appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-14T05:03:22+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/those-old-service-sector-jobs-2.html?utm_source=rss&utm_medium=rss&utm_campaign=those-old-service-sector-jobs-2",
+   "title": "Those old (new?) service sector jobs",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/those-old-service-sector-jobs-2.html?utm_source=rss&utm_medium=rss&utm_campaign=those-old-service-sector-jobs-2",
+   "summary": "An ability to mimic the shrieks of langur monkeys may not seem like a bankable skill, but for some Indians it has become a job, if not a calling. These vocal professionals specialise in pest control and are being employed to keep out unwanted primates as Delhi prepares to host the badminton world championships. The […] The post Those old (new?) service sector jobs appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-13T18:37:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-565",
+   "title": "Thursday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-565",
+   "summary": "1. Write a paper in six days with only AIs, then record all of that and write a second paper about writing the first. 2. Saloni on the future of medicine. “Every disease is a policy failure.” 3. John List on generalizability, very important. And his comments here. 4. China is now regulating AI companions. […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-13T16:03:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
    "title": "USA fact of the day",
    "source": "Marginal Revolution",
@@ -6636,11 +6719,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazVwNjF6Q3o1MGFqVld1QVJfcjJoODl1b3NWeF9zMnUyWHpZR2xBX1Z3NDFJcTNSQlN4VVNVN2lJZUFVVG5uTk5YVDVTbTJ6cWNVYTZLbXhxa2p5cU1FNWVaeUxFRllRaDhOSTJjUjNPZUF3WUs2Q3pMS1hqY0JSMGc2WmZLQVRTeGFWQmhlU0IzLW5LR3VpX0pUZ2p4NWc5OUJEWUtuNDd0Q1hnOTVhM2x3dFlxQnpRVnBV?oc=5",
-   "title": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules - iredellfreenews.com",
+   "title": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules - Iredell Free News",
    "source": "Google News: 赌博监管",
    "category": "gambling",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazVwNjF6Q3o1MGFqVld1QVJfcjJoODl1b3NWeF9zMnUyWHpZR2xBX1Z3NDFJcTNSQlN4VVNVN2lJZUFVVG5uTk5YVDVTbTJ6cWNVYTZLbXhxa2p5cU1FNWVaeUxFRllRaDhOSTJjUjNPZUF3WUs2Q3pMS1hqY0JSMGc2WmZLQVRTeGFWQmhlU0IzLW5LR3VpX0pUZ2p4NWc5OUJEWUtuNDd0Q1hnOTVhM2x3dFlxQnpRVnBV?oc=5",
-   "summary": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules iredellfreenews.com",
+   "summary": "Utah Anti-Gambling Laws Apply to Kalshi Sports Betting, Federal Judge Rules Iredell Free News",
    "published": "2026-08-06T15:51:41+00:00",
    "relevance": "high",
    "topics": [
@@ -6657,6 +6740,19 @@
    "published": "2026-08-06T15:31:52+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZElvRnJpcjVvT3ZfVEticExuN1JTMENZQU82MDB4VExrRGdQTTZodGl3blJxNGtVQlloZUhUYTZlU253N3hPYkN3SVhXYXY5QWxGTlNTenlVVHBxZkY1bFZVYWdGTFBlckhLX2JCdWdYSERrdUtjSjZnaG54emRpNXd0ZFJwSHQ1WnVjY1ZFNmpFWE43RGdDNl9Dd2RzNWY2UjJkQU05aVJWa0p2cG55cFB5aEVEMnl5S0Y2OXhJaGdrODlMNVN3UDk3VmQ3Vk0?oc=5",
+   "title": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase - Barchart.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZElvRnJpcjVvT3ZfVEticExuN1JTMENZQU82MDB4VExrRGdQTTZodGl3blJxNGtVQlloZUhUYTZlU253N3hPYkN3SVhXYXY5QWxGTlNTenlVVHBxZkY1bFZVYWdGTFBlckhLX2JCdWdYSERrdUtjSjZnaG54emRpNXd0ZFJwSHQ1WnVjY1ZFNmpFWE43RGdDNl9Dd2RzNWY2UjJkQU05aVJWa0p2cG55cFB5aEVEMnl5S0Y2OXhJaGdrODlMNVN3UDk3VmQ3Vk0?oc=5",
+   "summary": "U.S. Bankruptcy Filings Rise 12.2%; Chapter 7 Bankruptcy Cases Account for 74% of the Increase Barchart.com",
+   "published": "2026-08-06T13:04:02+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2JoZHdYTEhyMXN6UzNQMmZQcE83WHNwaGtkQURQRWtFS2VHWkFnV3p5amNBWGthRGlLZ1ZSeGlHcXEtUkNVQnhVS2Y4RHZQd2VvdUpfTy1pNWVHanRBMl9BckNxUmU0MWNYbFMyaERkZjBxS3JKT3U1OVBVMnJLbnlSNG9SeGVNZzV4MHl2WE9WeU15eUZUMzNQT01PZm53MzdjOTJqdnVySkk0Ri1JbjkwSlVvNm0tbGJLeXlZR0hDdFFmWXFJVlZBam8?oc=5",
@@ -6836,101 +6932,20 @@
    "published": "2026-08-04T15:29:06+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBtYUFWWnI1MFFiRHZ3UlZVUXNDVVd3ZzJRRTdzVXp4TnpDODc5aHZ5WTdpMEx0anI2X0h5cU1YMnNicjZFS28tV2RoUHdVY05TOHFnNVBUUkI4V0hUTjBxYVhQWW1CbkMzcktHMkhxNG9yX1c5ek9pXzdkMXBOaXBaSkRxYjF0YV9IeDNkYk5RWjA?oc=5",
-   "title": "Texas business bankruptcies jumped 41% in one year. Here's why - MySA",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBtYUFWWnI1MFFiRHZ3UlZVUXNDVVd3ZzJRRTdzVXp4TnpDODc5aHZ5WTdpMEx0anI2X0h5cU1YMnNicjZFS28tV2RoUHdVY05TOHFnNVBUUkI4V0hUTjBxYVhQWW1CbkMzcktHMkhxNG9yX1c5ek9pXzdkMXBOaXBaSkRxYjF0YV9IeDNkYk5RWjA?oc=5",
-   "summary": "Texas business bankruptcies jumped 41% in one year. Here's why MySA",
-   "published": "2026-08-04T11:39:33+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
-   "title": "The economics of H-1B immigration",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
-   "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […] The post The economics of H-1B immigration appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-04T06:23:41+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
-   "title": "Emergent Ventures winners, 57th cohort",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
-   "summary": "Oisin O’Gorman, 15, Dublin, misinformation and fakes. Karsen Lee Wahal, Stanford, is AI killing the web?, and measuring media slant. Davy Deng, with Claire Wang (previous winner), whole brain emulation, MIT. Enej Grmek, 16, Ljubljana, privacy. Vladimir Shmelev, Ukraine, Ukrainian children for relief trips to Montenegro. Nik Verma, Chicago, a legal framework for AI agents. […] The post Emergent Ventures winners, 57th cohort appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-04T05:16:58+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "title": "Bankruptcy Filings Up 12.2 Percent From 2025 - ACA International",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXJKbHlNaFI2QlRqU1ozcXFfeTM4dVhRVjdJbXpqckpWdUlnMURjRFJySXFsbzg4YW93OGhTbXpLQnljbm9vV0xsRm8zX3E2emtNcTBqcFU3UkV1VEdFdWtPaWh6VDhQSGVCVDAwcTZWaWtsZ0d2SHVUMVJraHBFbVg2T3FjaHNQVHFz?oc=5",
-   "summary": "Bankruptcy Filings Up 12.2 Percent From 2025 ACA International",
-   "published": "2026-08-03T22:12:37+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
-   "title": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) - The National Law Review",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3pUaDY5Tm8xT1BSWlFNVHc1bnhVY2RHVWh5LXg4X202NFVOVlluUmJvbFdIaENhTnoyU1J6a3EyZktycDJ5SXFrN0YxelhrYkllaG9QRWVodkZCbjBXUUhEQWpFNlZ0a1NUOXlSSUdLVjI2aUtMTGZ3TU40X25qV1NVVzJ6d0FTb1Y5TGg0Zy1IZU9TcVg3QUF3c0TSAaIBQVVfeXFMTWFzRTFmUTRGdVd3SkR0QTN3MDRYZnV0cmpRaXlORVJHTTU2UDBiSW94NlZ2TVZlb3VBN2NVZE9RSjB4dFNiSTI0VFNfTHB2OEJDSTFFbzNSTGxYZWNobWRJMjQwREJSOGN3dEhpeW1NUXpEVFNEaS16c0RKS1ZBVlk2N3h1MkpoUzJVX09Idms1S2R5bGJIZFlmbUpucDkwLXJ3?oc=5",
-   "summary": "Weekly Bankruptcy Alert August 3, 2026 (For the Week Ending August 2, 2026) The National Law Review",
-   "published": "2026-08-03T19:02:42+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
-   "title": "How does the market regard stablecoins?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
-   "summary": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the stablecoin deposit premium co-moves with the Treasury premium when […] The post How does the market regard stablecoins? appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-03T18:32:18+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-571",
-   "title": "Monday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-571",
-   "summary": "1. A new simulation argument? 2. PC on aesthetics. 3. An interview with Yiyang Zhuge. 4. The truth and aesthetics of going to church? 5. Some forms of math cope? And a different view. 6. At the demolition derby. The post Monday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-03T15:43:56+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
-   "title": "What should I ask Nick Bostrom?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
-   "summary": "Yes I will be doing a Conversation with him. So what should I ask? If you need them, here are various Bostrom links. The post What should I ask Nick Bostrom? appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-03T13:20:26+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-109046",
+   "title": "National Crisis and Support Hotlines: Contact Volume Increased and Operations Remained Relatively Consistent in 2025",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109046",
+   "summary": "What GAO Found The 988 Suicide & Crisis Lifeline provides free, confidential 24/7 support for anyone experiencing mental health distress, suicidal thoughts, or substance use crises. The National Maternal Mental Health Hotline provides free, confidential emotional support, resources, and referrals to pregnant and postpartum women experiencing mental health challenges. Both of these hotlines, within the Department of Health and Human Services (HHS), are operated by nonfederal entities—primarily by local crisis contact centers and a contractor, respectively—while the Substance Abuse and Mental He",
+   "published": "2026-08-13T11:27:58+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108991",
    "title": "Priority Open Recommendations: Office of Management and Budget",
