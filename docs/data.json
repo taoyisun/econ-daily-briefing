@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T11:27:03.026054+00:00",
+ "generated_at": "2026-08-18T11:26:23.852898+00:00",
  "papers": [
   {
    "id": "10.1016/j.jdeveco.2026.103908",
@@ -948,19 +948,6 @@
    ]
   },
   {
-   "id": "10.1257/pol.20240361",
-   "title": "Alcohol, Labor, and Agriculture",
-   "authors": "David M. A. Murphy",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240361",
-   "url": "https://doi.org/10.1257/pol.20240361",
-   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/pol.20240544",
    "title": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
    "authors": "David Wolf, Kenji Takeuchi",
@@ -974,6 +961,19 @@
    "topics": [
     "因果推断方法"
    ]
+  },
+  {
+   "id": "10.1257/pol.20240361",
+   "title": "Alcohol, Labor, and Agriculture",
+   "authors": "David M. A. Murphy",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240361",
+   "url": "https://doi.org/10.1257/pol.20240361",
+   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1257/pol.20230384",
@@ -3636,192 +3636,6 @@
    "abstract_zh": "通过实验研究发现学生高估专业与其代表性职业的关联,这种刻板印象导致专业错配;政策干预有效减少偏见并影响学生选课和专业选择。",
    "ai_relevance": "low",
    "ai_reason": "关于职业刻板印象和教育选择,与赌博政策或家庭财务困境无关"
-  },
-  {
-   "id": "10.1111/1756-2171.70062",
-   "title": "Buyer's Hidden Search With Continuous Intensity: The Seller‐Optimal Mechanism and a Perverse Effect",
-   "authors": "Dongri Liu, Jingfeng Lu",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70062",
-   "url": "https://doi.org/10.1111/1756-2171.70062",
-   "abstract": "ABSTRACT We adopt a dynamic mechanism design approach to study how a revenue‐maximizing seller should sell an indivisible object when a buyer with a private value can search for an outside option with continuous‐intensity choices. We find that lowering the buyer's search cost definitely reduces the seller's revenue when the buyer's search decision is binary, as in Armstrong and Zhou (2016). In contrast, with continuous search intensity, a counterintuitive effect may arise: lowering the buyer's search cost function can, under mild conditions, actually increase the seller's revenue.",
-   "published": "2026-06-19T07:12:59Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "买方隐藏搜索与连续搜索强度：卖方最优机制与逆向效应",
-   "abstract_zh": "采用动态机制设计方法研究收入最大化的卖方应销售不可分割物品时的最优策略,当买方可进行连续搜索强度选择时。发现在连续搜索强度下,降低买方搜索成本可能反而增加卖方收益,与二元搜索决策形成对比。",
-   "ai_relevance": "low",
-   "ai_reason": "动态机制设计与搜索理论,不涉及赌博政策、财务困境或企业进入等研究相关主题"
-  },
-  {
-   "id": "10.1111/1756-2171.70067",
-   "title": "Peer Learning, Enforcement, and Reputation",
-   "authors": "Yi Chen, Kai Du, Phillip Stocken, Zhe Wang",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70067",
-   "url": "https://doi.org/10.1111/1756-2171.70067",
-   "abstract": "ABSTRACT We study a two‐period learning model where a sequentially rational regulator builds a reputation for strict enforcement and self‐interested firms test the regulator's enforcement propensity through their misconduct. In the transparent setting, where misconduct and enforcement are observable between the firms, the regulator's reputation concern endogenously creates positive or negative enforcement externalities between the firms. When the reputation concern is strong, the enforcement externalities are negative and dominate the information externalities, encouraging misconduct. Otherwise, both externalities are positive and deter misconduct. Although a strong reputation always benefits the regulator in the opaque setting, it often backfires in a transparent setting.",
-   "published": "2026-06-19T07:11:06Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "同行学习、执法与声誉",
-   "abstract_zh": "研究监管机构与企业的两期博弈:理性监管者建立严格执法声誉,自利企业通过违规行为测试执法倾向。发现信息透明环境下,强烈的声誉关切反而可能导致负向执法外部性,鼓励更多违规行为。",
-   "ai_relevance": "low",
-   "ai_reason": "监管与声誉的理论模型,虽涉及公共政策但主要为机制设计理论而非实证因果推断"
-  },
-  {
-   "id": "10.1016/j.jue.2026.103886",
-   "title": "JUE Insight: Technological innovation in mortgage underwriting and the growth in credit: 1985–2015",
-   "authors": "Christopher L. Foote, Lara Loewenstein, Paul S. Willen",
-   "journal": "Journal of Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.jue.2026.103886",
-   "url": "https://doi.org/10.1016/j.jue.2026.103886",
-   "abstract": "",
-   "published": "2026-06-19T06:53:29Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "抵押贷款承销中的技术创新与信贷增长(1985-2015)",
-   "ai_relevance": "medium",
-   "ai_reason": "涉及消费者信贷市场和家庭债务增长,与household financial outcomes和credit availability相关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103866",
-   "title": "More power outages, more CO2 emissions: Evidence from self-generation in China's manufacturing firms",
-   "authors": "Panbing Wan, Mian Yang, Bing Zhang",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103866",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103866",
-   "abstract": "",
-   "published": "2026-06-19T06:46:57Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "停电增加,二氧化碳排放增加:来自中国制造业企业自发电的证据",
-   "ai_relevance": "low",
-   "ai_reason": "研究电力供应冲击对企业碳排放的影响,属于环境经济学,与赌博、家庭财务等研究方向无关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103852",
-   "title": "Making information actionable: Experimental evidence from Kenyan courts",
-   "authors": "Matthieu Chemin, Daniel L. Chen, Vincenzo Di Maro, Paul Kimalu, Momanyi Mokaya, Manuel Ramos-Maqueda",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103852",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103852",
-   "abstract": "",
-   "published": "2026-06-19T00:00:22Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "使信息可行动化:来自肯尼亚法院的实验证据",
-   "ai_relevance": "low",
-   "ai_reason": "研究法院信息披露对案件处理的效果,与赌博政策、破产等核心研究主题无直接关联"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103863",
-   "title": "The mental health impact for adolescents ageing out of South Africa’s child support grant",
-   "authors": "Tsepang Khumalo, Ronelle Burger, Marisa von Fintel",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103863",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103863",
-   "abstract": "",
-   "published": "2026-06-19T00:00:12Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "南非儿童补助金失效对青少年心理健康的影响",
-   "ai_relevance": "medium",
-   "ai_reason": "涉及社会保险政策(儿童补助金)的评估,属于公共经济学转移支付政策领域"
-  },
-  {
-   "id": "10.1016/j.regsciurbeco.2026.104247",
-   "title": "Transportation infrastructure and urban and regional development",
-   "authors": "Gilles Duranton, Matthew A. Turner",
-   "journal": "Regional Science and Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.regsciurbeco.2026.104247",
-   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104247",
-   "abstract": "",
-   "published": "2026-06-18T23:58:27Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "交通基础设施与城市和区域发展",
-   "ai_relevance": "low",
-   "ai_reason": "区域经济发展研究，与赌博政策和家庭财务无关"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105702",
-   "title": "Building opportunity: the intergenerational effects of Chilean school construction",
-   "authors": "Adrienne M. Lucas, Patrick J. McEwan",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105702",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105702",
-   "abstract": "",
-   "published": "2026-06-18T21:50:10Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "创造机遇:智利学校建设的代际效应",
-   "ai_relevance": "low",
-   "ai_reason": "教育基础设施的长期经济影响,与赌博/破产研究无直接关联"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105696",
-   "title": "Can electric vehicles aid the renewable transition? Evidence from a field experiment incentivizing midday charging",
-   "authors": "Andrea La Nauze, Lana Friesen, Kai Li Lim, Flavio Menezes, Lionel Page, Thara Philip, Jake Whitehead",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105696",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105696",
-   "abstract": "",
-   "published": "2026-06-18T21:50:10Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "电动汽车能否助力可再生能源转型?来自中午充电激励的现场实验证据",
-   "ai_relevance": "low",
-   "ai_reason": "与赌博政策、破产、家庭债务等核心研究主题无关,属能源政策领域"
-  },
-  {
-   "id": "10.1111/1756-2171.70056",
-   "title": "Preemptive Entry and Technology Diffusion: The Market for Drive‐In Theaters",
-   "authors": "Ricard Gil, Jean‐François Houde, Shilong Sun, Yuya Takahashi",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70056",
-   "url": "https://doi.org/10.1111/1756-2171.70056",
-   "abstract": "ABSTRACT This article studies entry preemption in new industries. We first test a key prediction of dynamic entry games: Entry preemption is most relevant in intermediate‐sized markets, where firms face highest uncertainty about future entry. Using US drive‐in theater market (1945–1957) data, we find robust evidence for this non‐monotonic relationship between market size and early entry probability. We then estimate a dynamic entry game, and quantify preemption effects through counterfactual analysis. Preemptive motives increase early entry by up to 40% in mid‐size markets, raising entry costs by 5% and reducing firms' expected value by 1%.",
-   "published": "2026-06-18T18:39:43Z",
-   "relevance": "high",
-   "topics": [
-    "企业进入/空间竞争"
-   ],
-   "title_zh": "抢先进入与技术扩散：美国汽车影院市场研究",
-   "abstract_zh": "研究动态进入博弈中的抢先进入现象。使用1945-1957年美国汽车影院市场数据，证实进入预防在中等规模市场最为重要；通过估计动态进入模型发现，抢先进入动机在中等规模市场可使早期进入概率提高40%。",
-   "ai_relevance": "high",
-   "ai_reason": "属于企业进入博弈与内生区位选择研究，符合用户在Chapter 1中追踪的企业进入/空间竞争方向。"
-  },
-  {
-   "id": "10.1093/restud/rdag065",
-   "title": "School Choice and the Housing Market",
-   "authors": "Aram Grigoryan",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag065",
-   "url": "https://doi.org/10.1093/restud/rdag065",
-   "abstract": "Abstract I develop a unified theoretical framework with schools and residential choices to study the welfare consequences of public schools’ switching from the traditional neighbourhood assignment to the deferred acceptance mechanism. I find that when families receive higher priorities at neighbourhood schools, the deferred acceptance mechanism creates higher aggregate or utilitarian welfare than neighbourhood assignment. Under a common school ranking assumption, I also show that the deferred acceptance creates higher aggregate welfare with neighbourhood priorities than without them.",
-   "published": "2026-06-18T11:47:32Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "学校选择与住房市场",
-   "abstract_zh": "研究学校分配机制(邻近分配vs延迟接纳)的转变对家庭选择与福利的影响。在邻近优先的框架下,延迟接纳机制可产生更高的福利。",
-   "ai_relevance": "low",
-   "ai_reason": "教育选择与住房市场,与赌博政策和家庭债务无关"
   }
  ],
  "working_papers": [
@@ -6330,6 +6144,61 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html?utm_source=rss&utm_medium=rss&utm_campaign=why-arent-modernist-bridges-awful",
+   "title": "Why Aren’t Modernist Bridges Awful?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html?utm_source=rss&utm_medium=rss&utm_campaign=why-arent-modernist-bridges-awful",
+   "summary": "The public dislikes modern architecture but, generally speaking, they do not dislike modern bridges. Lists of the most awesome, most stunning, most beautiful bridges in the world will mention classics like London’s Tower Bridge, the Brooklyn Bridge, or the Rakotzbrücke but alongside them they will picture the Kubitschek Bridge in Brazil (Shutterstock). The Rio-Antirrio Bridge […] The post Why Aren’t Modernist Bridges Awful? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-18T11:17:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html?utm_source=rss&utm_medium=rss&utm_campaign=morocco-facts-of-the-day-morocco-is-not-hopeless",
+   "title": "Morocco facts of the day, Morocco is not hopeless",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html?utm_source=rss&utm_medium=rss&utm_campaign=morocco-facts-of-the-day-morocco-is-not-hopeless",
+   "summary": "For decades, South Africa was the great success story of African industrialization. Last year, Morocco took the lead, emerging as the African Development Bank’s top-ranked industrial economy in Africa. In the Bank’s analysis, published in the latest edition of its industrialization index, Morocco’s growth has been “driven by sustained industrial upgrading, export diversification, and strong industrial policy.” Since […] The post Morocco facts of the day, Morocco is not hopeless appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-18T05:18:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-economics-is-changing",
+   "title": "How economics is changing",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-economics-is-changing",
+   "summary": "As a proportion of the literature, research about econometric theory, monetary policy and corporate governance has slumped. Meanwhile, papers on development, crime and gender are on the up. This could perhaps be because of changing intellectual interests, or maybe demand-side pressures, such as policymaker priorities and external funding… Research from Prashant Garg, a postdoctoral researcher […] The post How economics is changing appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-18T04:56:36+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-573",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-573",
+   "summary": "1. Where do the great American comedians hail from? 2. General thoughts on biosafety. 3. “Violet Hensley Dies at 109; Ozarks Fiddler Made Opry Debut at 99” (NYT). She also handcrafted 73 fiddles, appeared on The Beverly Hillbillies, and considered bluegrass too modern for her. She had nine children as well. 4. Which campaiging politicians […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-17T17:50:54+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-roman-mars",
+   "title": "What should I ask Roman Mars?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-roman-mars",
+   "summary": "Yes I will be doing a Conversation with him. Most of all he is obsessed with design, here is Wikipedia: Roman Mars is an American radio producer. He is the host and producer of 99% Invisible, a KALW radio show and podcast, and a founder of the podcast collective Radiotopia, which he describes as efforts “to broaden the radio landscape [and] make […] The post What should I ask Roman Mars? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-17T15:40:34+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnRnMzhiRHBYN3pSYUg3YlVQbWVIcmR5NThwRFFkTmxnMkczZ0FKaW1YUHdjRW1oRXZBdWFfVFpLdGZVekpjVzlQYlpkcnBUdWYxcmRVUThaRXNuaUdEZVgzYjB4TUQ1emFIcDBmNVEtQkRpYWdNQTN6TnRpZTFfU0Zib0hhUQ?oc=5",
    "title": "Cyprus bankruptcy filings fall 41.7 per cent - Cyprus Mail",
    "source": "Google News: 破产政策",
@@ -6702,11 +6571,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
-   "title": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) - The National Law Review",
+   "title": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) - natlawreview.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
-   "summary": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) The National Law Review",
+   "summary": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) natlawreview.com",
    "published": "2026-08-10T19:01:02+00:00",
    "relevance": "high",
    "topics": [
@@ -6870,53 +6739,20 @@
    "published": "2026-08-08T15:42:08+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
-   "title": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
-   "summary": "That is the new book by Peter Gray, and it is very much a whole philosophy of child-rearing and also antidote to the current panic over social media. Excerpt: In preparation for this chapter, I spent weeks poring over the research literature pretaining to smartphones, social media, and teen mental health. It is clear to […] The post *Restoring Childhood: How to Set Kids Free in the Age of Anxiety* appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-08T06:43:54+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
-   "title": "What I’ve been reading",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
-   "summary": "1. Mike Jay, Wireheads: An Unnatural History of Technology in the Brain. Much of this story is told through the lens of the accompanying science fiction and non-neuro trends in other parts of science. An excellent book, substantive on every page, and it will make you want to read some of the works he cites. […] The post What I’ve been reading appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-08T04:43:17+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
-   "title": "The Queen song ’39",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
-   "summary": "I only recently learned what it is really about, namely very rapid travel into space and time dilation mattering for the return voyage. I had never before listened carefully to the lyrics. I heard the “’39” reference at the beginning, the mention of volunteeers sailing away, and the general nostalgic British music hall mood to […] The post The Queen song ’39 appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-07T17:36:23+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
-   "summary": "1. Denmark fact of the day. 2. “Books that Tyler Cowen probably would like.” 3. The tenure dismissal of Sanjay Reddy (NYT). 4. Dell and Rambachan NBER video on the economics of AI. I have yet to view, but “self-recommending.” 5. Anton Leicht on AI and how the concentration of power will evolve. Very good […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-07T15:50:35+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/oig-26-1",
+   "title": "Time to Hire: Using More Reliable Data Could Help GAO Monitor The Length of Its Hiring Process",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/oig-26-1",
+   "summary": "What the OIG Found GAO aims to provide Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information that can be used to improve government and save taxpayers billions of dollars. To execute its mission, GAO relies on a highly-qualified workforce that includes employees in mission-critical occupations (MCO) such as contracting, human resources management, and information technology management. In FY 2024, GAO’s hiring of MCO employees took about 103 days on average, which is longer than its internal target of 98 or 101 days (depending on the applic",
+   "published": "2026-08-17T16:01:46+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
    "title": "The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations",
