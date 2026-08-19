@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-08-18T11:26:23.852898+00:00",
+ "generated_at": "2026-08-19T11:26:14.868173+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105753",
+   "title": "How to fund nonprofits?",
+   "authors": "Eddy Zanoutene",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105753",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105753",
+   "abstract": "",
+   "published": "2026-08-19T10:03:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105759",
+   "title": "Safety net payment digitization and participant outcomes: Evidence from the WIC EBT transition",
+   "authors": "Charlotte Ambrozek, Timothy K.M. Beatty, Wenjie Zhan",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105759",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105759",
+   "abstract": "",
+   "published": "2026-08-19T10:03:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103912",
+   "title": "Road to Resilience: Floods, Highways and Indian Informal Manufacturing",
+   "authors": "Dixit Poudel, Munisamy Gopinath",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103912",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103912",
+   "abstract": "",
+   "published": "2026-08-18T15:40:47Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104327",
+   "title": "Reshaping factory Asia: How did the US-China trade war affect the Asian-Pacific supply chain?",
+   "authors": "Hong Ma, Jingxin Ning, Yuan Xu",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104327",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
+   "abstract": "",
+   "published": "2026-08-18T14:55:33Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103908",
    "title": "The Power of Words: Adult Literacy Campaign and Intergenerational Transmission of Human Capital",
@@ -226,13 +278,13 @@
   },
   {
    "id": "10.1093/restud/rdag083",
-   "title": "Informative Certification: Screening vs. Acquisition",
+   "title": "Informative Certification: Screening versus Acquisition",
    "authors": "Gorkem Celik, Roland Strausz",
    "journal": "Review of Economic Studies",
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag083",
    "url": "https://doi.org/10.1093/restud/rdag083",
-   "abstract": "Abstract We study monopolistic certification in markets where sellers possess partial private information about product quality. A certifier can provide information through two channels: screening sellers’ private information (soft information) and acquiring new quality data (hard information). We prove that any certification menu achieving less than maximal screening is Pareto dominated by one with full screening. Among Pareto-efficient menus, the certifier’s profit-maximising menu provides maximal soft information while restricting hard information provision. The two channels diverge because screening creates value the certifier can fully capture, whereas hard information amplifies costly information rents. Using power value functions, we derive comparative statics showing that information restrictions target low-quality sellers when information value is moderate, but high-quality sellers receive perfect quality revelation when information value is high.",
+   "abstract": "Abstract We study monopolistic certification in markets where sellers possess partial private information about product quality. A certifier can provide information through two channels: screening sellers’ private information (soft information) and acquiring new quality data (hard information). We prove that any certification menu achieving less than maximal screening is Pareto dominated by one with full screening. Among Pareto-efficient menus, the certifier’s profit-maximizing menu provides maximal soft information while restricting hard information provision. The two channels diverge because screening creates value the certifier can fully capture, whereas hard information amplifies costly information rents. Using power value functions, we derive comparative statics showing that information restrictions target low-quality sellers when information value is moderate, but high-quality sellers receive perfect quality revelation when information value is high.",
    "published": "2026-08-10T11:26:35Z",
    "relevance": "low",
    "topics": []
@@ -3583,59 +3635,6 @@
    "abstract_zh": "构建模型研究公共风险分摊对保险市场的影响；利用分阶段州级再保险项目事件研究，发现公共再保险降低保险公司定价和私人再保险购买，对财务受约束保险公司效益最大。",
    "ai_relevance": "medium",
    "ai_reason": "公共风险分摊政策对家庭保险和社会保障的影响，涉及家庭风险管理和社会保障体系"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105695",
-   "title": "Welfare debt relief: Impact on employment, benefit receipt, and mental health",
-   "authors": "Ernst-Jan de Bruijn, Heike Vethaak, Pierre Koning, Marike Knoef",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105695",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105695",
-   "abstract": "",
-   "published": "2026-06-19T13:35:31Z",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ],
-   "title_zh": "福利债务减免:对就业、福利领取和心理健康的影响",
-   "ai_relevance": "low",
-   "ai_reason": "涉及公共福利政策,但与赌博政策、家庭金融困境和破产研究无直接关系。"
-  },
-  {
-   "id": "10.1016/j.jue.2026.103887",
-   "title": "Quantity, price, and compliance effects of a second-home taxation reform in France",
-   "authors": "Antoine Belgodere, Georges Casamatta",
-   "journal": "Journal of Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.jue.2026.103887",
-   "url": "https://doi.org/10.1016/j.jue.2026.103887",
-   "abstract": "",
-   "published": "2026-06-19T13:05:33Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ],
-   "title_zh": "第二套房屋税改的数量、价格和遵从效应：法国证据",
-   "ai_relevance": "low",
-   "ai_reason": "房地产税收政策研究，与赌博政策和家庭财务困难无直接关系"
-  },
-  {
-   "id": "10.1093/qje/qjag031",
-   "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
-   "authors": "John J Conlon, Dev Patel",
-   "journal": "Quarterly Journal of Economics",
-   "tier": "Top-5",
-   "doi": "10.1093/qje/qjag031",
-   "url": "https://doi.org/10.1093/qje/qjag031",
-   "abstract": "Abstract We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using surveys administered among undergraduates at the Ohio State University as well as large-scale nationally representative data, we measure how U.S. first-year students perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which we corroborate with correlational evidence on job/major mismatch. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.",
-   "published": "2026-06-19T11:49:33Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "工作刻板印象:高等教育专业与职业选择",
-   "abstract_zh": "通过实验研究发现学生高估专业与其代表性职业的关联,这种刻板印象导致专业错配;政策干预有效减少偏见并影响学生选课和专业选择。",
-   "ai_relevance": "low",
-   "ai_reason": "关于职业刻板印象和教育选择,与赌博政策或家庭财务困境无关"
   }
  ],
  "working_papers": [
@@ -6144,6 +6143,87 @@
  ],
  "news": [
   {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQjgySUp6MktXYU5idkJfeUlGX2ZxRy05UlptalMtbFFZM0RCNlJSRGJjOEV2WU9EZmYxVmdkWFpYR3lDOVFPdU0weEtmRmpkVWVjektTRkR4bDhFdEJxRWxGNnlFdzhldDgyeFVKQ0xBNWl0dlE?oc=5",
+   "title": "Corporate Bankruptcy Filings Hit Record 1,299 in H1; SME Delinquency Rate at 11-Year High - finance.biggo.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQjgySUp6MktXYU5idkJfeUlGX2ZxRy05UlptalMtbFFZM0RCNlJSRGJjOEV2WU9EZmYxVmdkWFpYR3lDOVFPdU0weEtmRmpkVWVjektTRkR4bDhFdEJxRWxGNnlFdzhldDgyeFVKQ0xBNWl0dlE?oc=5",
+   "summary": "Corporate Bankruptcy Filings Hit Record 1,299 in H1; SME Delinquency Rate at 11-Year High finance.biggo.com",
+   "published": "2026-08-19T07:39:06+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents",
+   "title": "Capitalizing untethered AI agents",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents",
+   "summary": "That is my latest piece of writing, co-authored with Sonia Farrell Pearson of Harvard. Here is the opening premise: As early as 2017, the European Parliament floated “electronic personhood” for robots. More recently, a handful of U.S. states introduced legislation explicitly barring AI from legal personhood; and early this summer, President Milei of Argentina proposed letting AI agents own, manage, and bear responsibility […] The post Capitalizing untethered AI agents appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-19T04:21:02+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWRIb2I5bXJ0c1N0TEViLThYNU1PREphWTlKTE5FM2N0aDF0NEIyR3paWFNkWElwQTBIWFlPdDJrOEtIcV9scEktZGl5cDUzTjZWbmV2VmViUDdxTHM1TVRoU2c2ZDd0bVA5MUxMOWRvWjA5S0c4SlY4bUFma2t4NUdKcjliT1Raa0QzNnRkN1pFUzRDUG8tSVFPT1VYbW0xUVBF?oc=5",
+   "title": "Busan Bankruptcy Filings Jump 2.4-Fold in 3 Years, City Sends Debt-Relief Buses - Seoul Economic Daily",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWRIb2I5bXJ0c1N0TEViLThYNU1PREphWTlKTE5FM2N0aDF0NEIyR3paWFNkWElwQTBIWFlPdDJrOEtIcV9scEktZGl5cDUzTjZWbmV2VmViUDdxTHM1TVRoU2c2ZDd0bVA5MUxMOWRvWjA5S0c4SlY4bUFma2t4NUdKcjliT1Raa0QzNnRkN1pFUzRDUG8tSVFPT1VYbW0xUVBF?oc=5",
+   "summary": "Busan Bankruptcy Filings Jump 2.4-Fold in 3 Years, City Sends Debt-Relief Buses Seoul Economic Daily",
+   "published": "2026-08-18T22:32:09+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUE3THNSX1VDaDRGdzljS2JSd1ZqNzZlT2hySVJWUlFUeUVpUEI4TnA1OHViQlJ3OVdHVXFnQkh3clV1cHV0SnZnUFh0VkNMU1M3WW9VYTNidkpsRjJSX3hTU3FSMGk4YVZEVEplUVBzZmFlQ05Hcm9mNjUzWWloTWtmZ092RWpmVmhubk9FZzZnMmc?oc=5",
+   "title": "Pittsburgh-area business bankruptcies drop 38.7% in Q2 after first-quarter surge - The Business Journals",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUE3THNSX1VDaDRGdzljS2JSd1ZqNzZlT2hySVJWUlFUeUVpUEI4TnA1OHViQlJ3OVdHVXFnQkh3clV1cHV0SnZnUFh0VkNMU1M3WW9VYTNidkpsRjJSX3hTU3FSMGk4YVZEVEplUVBzZmFlQ05Hcm9mNjUzWWloTWtmZ092RWpmVmhubk9FZzZnMmc?oc=5",
+   "summary": "Pittsburgh-area business bankruptcies drop 38.7% in Q2 after first-quarter surge The Business Journals",
+   "published": "2026-08-18T20:21:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
+   "title": "Some fertility and AI forecasts",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
+   "summary": "The 2024 forecast is particularly pessimistic about China’s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major […] The post Some fertility and AI forecasts appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-18T17:45:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-582",
+   "title": "Tuesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-582",
+   "summary": "1. AI is helping patients to solve their medical mysteries (WSJ). 2. History of economic thought in one paragraph. 3. Becca Rothfeld on Rachel Cusk. 4. “Since ChatGPT, the number of new economics papers posted each year has almost doubled.” 5. Alan Macfarlane update China fact of the day. 6. Is the next cultural boom […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-18T15:50:45+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://basisonline.org/2026/08/18/did-you-clock-that-youth-anti-tobacco/",
+   "title": "ASHES, Vol. 22(9) – Did you clock that?: Youth awareness of anti-tobacco campaigns",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/08/18/did-you-clock-that-youth-anti-tobacco/",
+   "summary": "This week, ASHES reviews a study by Rime Jebai and colleagues that evaluated youth’s awareness of anti-tobacco campaigns and whether disparities existed among their sociodemographic characteristics and health behaviors.",
+   "published": "2026-08-18T13:13:44+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html?utm_source=rss&utm_medium=rss&utm_campaign=why-arent-modernist-bridges-awful",
    "title": "Why Aren’t Modernist Bridges Awful?",
    "source": "Marginal Revolution",
@@ -6200,11 +6280,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnRnMzhiRHBYN3pSYUg3YlVQbWVIcmR5NThwRFFkTmxnMkczZ0FKaW1YUHdjRW1oRXZBdWFfVFpLdGZVekpjVzlQYlpkcnBUdWYxcmRVUThaRXNuaUdEZVgzYjB4TUQ1emFIcDBmNVEtQkRpYWdNQTN6TnRpZTFfU0Zib0hhUQ?oc=5",
-   "title": "Cyprus bankruptcy filings fall 41.7 per cent - Cyprus Mail",
+   "title": "Cyprus bankruptcy filings fall 41.7 per cent - cyprus-mail.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnRnMzhiRHBYN3pSYUg3YlVQbWVIcmR5NThwRFFkTmxnMkczZ0FKaW1YUHdjRW1oRXZBdWFfVFpLdGZVekpjVzlQYlpkcnBUdWYxcmRVUThaRXNuaUdEZVgzYjB4TUQ1emFIcDBmNVEtQkRpYWdNQTN6TnRpZTFfU0Zib0hhUQ?oc=5",
-   "summary": "Cyprus bankruptcy filings fall 41.7 per cent Cyprus Mail",
+   "summary": "Cyprus bankruptcy filings fall 41.7 per cent cyprus-mail.com",
    "published": "2026-08-17T10:05:50+00:00",
    "relevance": "high",
    "topics": [
@@ -6571,11 +6651,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
-   "title": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) - natlawreview.com",
+   "title": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) - The National Law Review",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBsSzlLa0Zwa09UMHVJa2FacUdlTF9EcFJzWFk2TVJKSWNaVGF5QjA3OEVMNzJNVjVrdnhaTWVmNkVUWU9PVXd0N2QwQzNPNUdlNjZGMEdOTDlNbXhiTHQwNVVmYmxWMklmZEFQZ1ZFUXhRcmVvQkJRSWUzZlNOMTRKdXU5QlljNy1XVk1LX3YxRm05UVV6LW1PajFVQdIBowFBVV95cUxPZmNBTjduS1hTR3dfRVEybTVsUzNsNGJlVFhPanhMWWwxTEc0LVVqbTRKdVM2NWpfR3Q0dDlGSFREMlE5Unp4WUNwUVZkbTJfMkxxbzlub0RKUUVLTjJTMm8tazN2T1pqbmx5NDdxV09LdTRVUjBEc0pIc0dVR0NNNEdYSGVkM3dYdTh6eXRoeEE3VnpIdmprUEk5aUdxcUVLR3hv?oc=5",
-   "summary": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) natlawreview.com",
+   "summary": "Weekly Bankruptcy Alert August 10, 2026 (For the Week Ending August 9, 2026) The National Law Review",
    "published": "2026-08-10T19:01:02+00:00",
    "relevance": "high",
    "topics": [
@@ -6660,88 +6740,31 @@
    "published": "2026-08-09T15:29:20+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
-   "title": "JFK’s AI Voice",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
-   "summary": "From Kennedy’s 1961 inaugural: “Ask not what your country can do for you—ask what you can do for your country.” “Let us never negotiate out of fear. But let us never fear to negotiate.” “United, there is little we cannot do… Divided, there is little we can do.” “If a free society cannot help the […] The post JFK’s AI Voice appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-09T11:26:05+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
-   "title": "Pressure",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
-   "summary": "Who would have thought that someone could make a gripping movie about predicting the weather? Nevertheless, Pressure delivers. To be sure, it’s predicting the weather for D-Day. Excellent cast. Hews very close to the truth. The two camps really did divide on theory versus past prediction and the weather was as portrayed. After the war, […] The post Pressure appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-09T11:19:44+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGIxNjJpenBvN1BiRnZRd1RwWktQZl9wdUJzbmJyX0U5WTB2X2lxRUR6Y2FDVmIzTnYyal84UTdKX0dXWGFyM212MlR2N1lTUzVEVTA0dzJLWFBsczV0X2Y2UEcxQklBYzRoWVl1bkpmTTlMZERpQzRYdTNraFNVblBod1NsR0pZNnI4V0x3NHF5MFBxT1E?oc=5",
-   "title": "Far more Americans are filing for bankruptcy — but maybe not enough, as people don't get 'how good of a deal' it can be - moneywise.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGIxNjJpenBvN1BiRnZRd1RwWktQZl9wdUJzbmJyX0U5WTB2X2lxRUR6Y2FDVmIzTnYyal84UTdKX0dXWGFyM212MlR2N1lTUzVEVTA0dzJLWFBsczV0X2Y2UEcxQklBYzRoWVl1bkpmTTlMZERpQzRYdTNraFNVblBod1NsR0pZNnI4V0x3NHF5MFBxT1E?oc=5",
-   "summary": "Far more Americans are filing for bankruptcy — but maybe not enough, as people don't get 'how good of a deal' it can be moneywise.com",
-   "published": "2026-08-09T11:11:01+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
-   "title": "One of the better pro-natalist Lieder",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
-   "summary": "The post One of the better pro-natalist Lieder appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-09T06:46:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
-   "title": "Is there a Balkan fertility paradox? (from my email)",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
-   "summary": "The Balkans may be the only region other than central Asia where fertility has increased from 2015 to 2026.* All of the highest fertility rates in Europe are in the Balkans. As of 2024: Montenegro (1.8), Bulgaria (1.73) Moldova (1.73), and Serbia (1.64) are top four. France was next at 1.61. Other balkan countries were […] The post Is there a Balkan fertility paradox? (from my email) appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-09T04:13:46+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
-   "title": "The future of warfare? (from my email)",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
-   "summary": "As weapon systems increase in effectiveness, they will generally target one another rather than humans. Lower loss of life will ease conflict entry and hinder exit. Warfare will veer further from industrial competition into techno-industrial; the current appearance of parity between low tech and advanced actors reflects near zero deployment of advanced systems. As these […] The post The future of warfare? (from my email) appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-08T18:40:53+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
-   "title": "Saturday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
-   "summary": "1. Possibly AI-written pieces that have won literary awards. 2. HuggingFace co-founder on what happened, very good post. 3. What do private insurers want from a Hormuz agreement? 4. GPT Pro on burrito price worries. 5. NoVa vs. MD, once again. 6. Do people listen to female economists more? 7. North Korea might be growing […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-08T15:42:08+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/08/18/fellows-mentors-alumni-share-lasting-lessons-courts-next-generation",
+   "title": "From Fellows to Mentors: Alumni Share Lasting Lessons from Courts with the Next Generation",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/08/18/fellows-mentors-alumni-share-lasting-lessons-courts-next-generation",
+   "summary": "Annabel Rodriguez grew up in Boston in a Spanish-speaking home where, from childhood, she was the family translator and advocate. She didn’t think a career in law was within her reach until she got a unique opportunity in college to enroll in a fellowship at the federal courthouse.",
+   "published": "2026-08-18T12:00:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107829",
+   "title": "Defense Health Care: DOD Should Assess Its Needs for Managing Potential Brain Health Effects from Weapons Blast Exposures",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107829",
+   "summary": "What GAO Found The Department of Defense (DOD) and its components—relevant DOD offices and the military departments (Army, Navy, and Air Force)—are taking steps to prevent and mitigate the brain health effects of blast exposure. In 2024, DOD established several blast overpressure requirements, including one requiring that brain health be monitored. Specifically, this requires that all high-risk active duty service members complete a baseline cognitive assessment in fiscal year 2025 and all new service members complete one during initial military training. DOD also required tracking service mem",
+   "published": "2026-08-18T10:59:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/oig-26-1",
    "title": "Time to Hire: Using More Reliable Data Could Help GAO Monitor The Length of Its Hiring Process",
@@ -7243,11 +7266,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
-   "title": "A New Financing Model to Catalyze Mixed-Income Housing - Urban Institute",
+   "title": "A New Financing Model to Catalyze Mixed-Income Housing - urban.org",
    "source": "Google News: Urban Institute",
    "category": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlGdEYyYnpHc1E1YUdWLUJZdTdUQTJ2b3FBUm55X1lBT05XaGdSdGZ1OG1oSExjR2VEY1YyaHRwM0NqUmpubkRlZWpBVFJRWWptNnpOeGp3T2tBZUFRS0VGc0NqbWxNYml3WGFvcnZJaDJnY3hHX0pFVFZPMGUwN1lEZkdJNldBNGprRnQ1bWxRVjYyakpN?oc=5",
-   "summary": "A New Financing Model to Catalyze Mixed-Income Housing Urban Institute",
+   "summary": "A New Financing Model to Catalyze Mixed-Income Housing urban.org",
    "published": "2026-07-23T07:00:00+00:00",
    "relevance": "medium",
    "topics": [
