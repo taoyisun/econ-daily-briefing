@@ -1,6 +1,74 @@
 {
- "generated_at": "2026-08-21T11:26:58.624009+00:00",
+ "generated_at": "2026-08-22T11:21:25.438343+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jue.2026.103902",
+   "title": "Location choice when the number of jobs matters: matching in spatial equilibrium",
+   "authors": "Anthony J. Venables",
+   "journal": "Journal of Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.jue.2026.103902",
+   "url": "https://doi.org/10.1016/j.jue.2026.103902",
+   "abstract": "",
+   "published": "2026-08-22T09:34:02Z",
+   "relevance": "high",
+   "topics": [
+    "城市/区域",
+    "企业进入/空间竞争"
+   ]
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104331",
+   "title": "Climate policies as a catalyst for green FDI",
+   "authors": "Samuel Pienknagura",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104331",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104331",
+   "abstract": "",
+   "published": "2026-08-21T15:53:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104329",
+   "title": "Tapping into excess capacity: Chinese machinery exports and African industrialization",
+   "authors": "Pak Hung Lam, Yatang Lin, Fangyuan Peng, Jin Wang",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104329",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104329",
+   "abstract": "",
+   "published": "2026-08-21T15:53:15Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103906",
+   "title": "Supporting learning in and out of school: Experimental evidence from India",
+   "authors": "Martina Björkman Nyqvist, Andrea Guariso",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103906",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
+   "abstract": "",
+   "published": "2026-08-21T15:20:10Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103907",
+   "title": "Is drug-related violence fueling emigration from Central America?",
+   "authors": "Leonardo Bonilla-Mejía, Jessica Bracco, Andrés Ham, Leonardo Peñaloza-Pacheco",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103907",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103907",
+   "abstract": "",
+   "published": "2026-08-21T15:19:59Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jue.2026.103903",
    "title": "The redistributive effects of transport policies",
@@ -174,7 +242,7 @@
   },
   {
    "id": "10.1016/j.jdeveco.2026.103912",
-   "title": "Road to Resilience: Floods, Highways and Indian Informal Manufacturing",
+   "title": "Road to resilience: Floods, highways and Indian informal manufacturing",
    "authors": "Dixit Poudel, Munisamy Gopinath",
    "journal": "Journal of Development Economics",
    "tier": "Development",
@@ -3695,56 +3763,6 @@
    "title_zh": "精英是否择优录取且追求效率?MBA学生证据",
    "ai_relevance": "low",
    "ai_reason": "关于教育精英和职业选择的实验研究,与赌博/破产主题无关"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105701",
-   "title": "Real-time inequality",
-   "authors": "Thomas Blanchet, Léon Mouillet, Emmanuel Saez, Gabriel Zucman",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105701",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105701",
-   "abstract": "",
-   "published": "2026-06-23T07:18:57Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "实时不平等",
-   "ai_relevance": "low",
-   "ai_reason": "标题过于宽泛,无摘要,无法评估与核心研究方向的关联"
-  },
-  {
-   "id": "10.1111/1756-2171.70058",
-   "title": "Price Discrimination With Manipulable Observables",
-   "authors": "Teck Yong Tan",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70058",
-   "url": "https://doi.org/10.1111/1756-2171.70058",
-   "abstract": "ABSTRACT This article studies price discrimination by a seller who uses data on observables that buyers can control (or manipulate) at a cost. If the seller's discriminatory prices are offered covertly, equilibrium market segmentation is always coarse, resulting in limited price discrimination. In contrast, if prices must be transparently posted, every buyer pays a personalized price in equilibrium, though this does not always reduce buyer or social welfare. The analysis sheds new light on calls for transparency in how sellers utilize consumer data to customize prices and highlights potential issues with assessing welfare using (only) observed prices, pricing conduct, and market coverage.",
-   "published": "2026-06-23T06:49:55Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "可操纵观测指标下的价格歧视",
-   "abstract_zh": "研究消费者能控制或操纵的观测数据在价格歧视中的作用。分析隐性与透明定价下的市场分割与福利影响。",
-   "ai_relevance": "low",
-   "ai_reason": "价格歧视理论研究，与用户研究无关。"
-  },
-  {
-   "id": "10.1111/1756-2171.70064",
-   "title": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
-   "authors": "Harim Kim",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70064",
-   "url": "https://doi.org/10.1111/1756-2171.70064",
-   "abstract": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
-   "published": "2026-06-23T06:46:48Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "更清洁但波动性更大的能源？煤炭电厂退役对批发电力市场竞争的影响",
-   "abstract_zh": "用反事实分析研究煤电退役、天然气代替的能源转变对市场竞争的影响。发现转变中天然气边际成本的可变性可能导致市场力量上升，但最终取决于投资企业的特征。",
-   "ai_relevance": "low",
-   "ai_reason": "能源经济学研究，与赌博政策或财务困境研究无关。"
   }
  ],
  "working_papers": [
@@ -6253,6 +6271,52 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
+   "title": "What should I ask Annie Lowrey?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
+   "summary": "Yes I will be doing a Conversation with her. She has a new and very interesting book coming out, namely The Time Tax: How the Government Wastes Our Time―and How to Fix It. More generally, from Wikipedia: Annie M. Lowrey…is an American journalist who writes on politics and economic policy for The Atlantic. Previously, Lowrey covered economic […] The post What should I ask Annie Lowrey? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-22T06:37:48+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
+   "title": "This brew, at least, is from Ashburn, Virginia",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
+   "summary": "The post This brew, at least, is from Ashburn, Virginia appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-21T18:24:37+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-586",
+   "title": "Friday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-586",
+   "summary": "1. Profile of Julian Gough and his evolutionary cosmology. And the Substack version. 2. New Spanish-language edition of Bioy Casares on Borges coming out. The older edition was, among other things, too heavy to lug around or bring on a trip. 3. The market for data is the market of the future. 4. If Uzbekistan […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-21T16:03:18+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSk1jLTdMN0YzMTFzNnNTU0FpdVZvREZzWVktTFU5U1ViUS1NRGwzMV9acXVRSFNxZlhjUGFidWRpZWQ4QWM2MzZDazNIdk9tNGl4ejViM0w2YjNxU0VQdGJBTzkyOHdfTlNNZHRONWdaVjg4SzFPd3JYQjJqTV9EZUM3aE5rcWpNZXVpTWh2SnlLbFBWTXJGZExSMXV1WVJyR3BDVVlYQm9xWVBpRTlCS1VIdGt2c3pvNkFBcA?oc=5",
+   "title": "New database reveals full scope of farm bankruptcy filings - National Hog Farmer",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSk1jLTdMN0YzMTFzNnNTU0FpdVZvREZzWVktTFU5U1ViUS1NRGwzMV9acXVRSFNxZlhjUGFidWRpZWQ4QWM2MzZDazNIdk9tNGl4ejViM0w2YjNxU0VQdGJBTzkyOHdfTlNNZHRONWdaVjg4SzFPd3JYQjJqTV9EZUM3aE5rcWpNZXVpTWh2SnlLbFBWTXJGZExSMXV1WVJyR3BDVVlYQm9xWVBpRTlCS1VIdGt2c3pvNkFBcA?oc=5",
+   "summary": "New database reveals full scope of farm bankruptcy filings National Hog Farmer",
+   "published": "2026-08-21T13:41:09+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/breaking-ground-can-refund-bonuses-solve-the-holdout-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=breaking-ground-can-refund-bonuses-solve-the-holdout-problem",
    "title": "Breaking Ground: Can Refund Bonuses Solve the Holdout Problem?",
    "source": "Marginal Revolution",
@@ -6856,77 +6920,31 @@
    "published": "2026-08-12T13:19:06+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTEzdU1zbS1vOS05eGw4LWx6eU9FdUUzX1dfVnBRM0swOUVKcERCQUFTbkJHckxLNFZocVFTVF9Vc25ZaTlMQjIzVlAzYlZWUHBxX0VGdmhpeGR4Y0Y3TFFYMlZQUVdwZFdmbU8wZTB2ZkFoTWp4WTk4OXdaUXVNNVhubVA2SzJnMmxxRWZxMmRPSFE0SnYtREVMTUVTRU1ETlVsTDVHT2dNdV9JdWlIYk01VGlRMkt3UU9uOA?oc=5",
-   "title": "US tries to override New York gambling laws, orders Kalshi to keep operating - Ars Technica",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTEzdU1zbS1vOS05eGw4LWx6eU9FdUUzX1dfVnBRM0swOUVKcERCQUFTbkJHckxLNFZocVFTVF9Vc25ZaTlMQjIzVlAzYlZWUHBxX0VGdmhpeGR4Y0Y3TFFYMlZQUVdwZFdmbU8wZTB2ZkFoTWp4WTk4OXdaUXVNNVhubVA2SzJnMmxxRWZxMmRPSFE0SnYtREVMTUVTRU1ETlVsTDVHT2dNdV9JdWlIYk01VGlRMkt3UU9uOA?oc=5",
-   "summary": "US tries to override New York gambling laws, orders Kalshi to keep operating Ars Technica",
-   "published": "2026-08-12T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
-   "title": "What makes people happy?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
-   "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […] The post What makes people happy? appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-12T06:51:30+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
-   "title": "Immigrant Earnings Assimilation, 1981–2021",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
-   "summary": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States […] The post Immigrant Earnings Assimilation, 1981–2021 appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-12T04:42:23+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
-   "title": "How much will cybersecurity costs rise?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
-   "summary": "Here is one (partial) estimate of the higher cyber costs. I am not sure how many incidents they have in mind, but this seems to me realistic as an estimate but also rather modest relative to the Angst I am seeing? Not quite “a Gilda Radner thing,” but if nothing else shows the usefulness of […] The post How much will cybersecurity costs rise? appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-11T18:31:06+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
-   "title": "Tuesday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
-   "summary": "1. “The fraction of women who undergo this procedure who go on to bear a child with the frozen eggs is around 2%.” 2. Long Mark Zuckerberg/Meta piece on the future of AI. 3. “According to Bloomberg Intelligence, companies in the S&P 500 are expected to post an average +29% jump in quarterly earnings for […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-11T15:52:04+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/08/11/rural-veterans-experience-care-alcohol/",
-   "title": "The DRAM, Vol. 22(8) – What rural veterans experience when receiving care for alcohol-related problems",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/08/11/rural-veterans-experience-care-alcohol/",
-   "summary": "This week, The DRAM reviews a study by Tony Pomales and colleagues that explored the experiences of rural veterans who received care for alcohol-related problems.",
-   "published": "2026-08-11T13:44:44+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-107255",
+   "title": "Installation Maintenance: Better Information on Risks and Challenges Needed to Improve Oversight of DOD Facility Conditions",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107255",
+   "summary": "What GAO Found The Department of Defense (DOD) does not request full funding of identified needs for installation maintenance or major improvement projects for facilities. This shortage has led to an estimated $285 billion of maintenance backlogs in fiscal year 2025. Due to competing budget priorities, DOD set a goal to fund 90 percent of its maintenance needs, but GAO found that the military services continue to fall short of this goal by funding about 80 percent of these needs. DOD has not fully determined the risks to its mission and to the quality of life of its personnel as a result of no",
+   "published": "2026-08-21T11:18:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109201",
+   "title": "Export-Import Bank: Monitoring of Exports with Dual Military and Civilian Uses as of 2026",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109201",
+   "summary": "What GAO Found As of August 2026, EXIM was not monitoring the end use of any dual-use export because all such transactions had been repaid in full. EXIM did not finance any new exports under its dual-use authority in fiscal year 2025, according to EXIM authorization data and EXIM officials. Why GAO Did This Study The mission of the Export-Import Bank of the United States (EXIM) is to help support American jobs by facilitating the export of U.S. goods and services and financing imports. In 1994, Congress passed legislation authorizing EXIM to facilitate the financing of U.S. exports of defense ",
+   "published": "2026-08-21T11:15:58+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-107385",
    "title": "Nuclear Fuel: Actions Needed to Enhance Cost Reporting and Economic Analysis for Federal Uranium Supply Efforts",
