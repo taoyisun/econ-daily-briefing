@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-22T11:21:25.438343+00:00",
+ "generated_at": "2026-08-23T11:21:33.646403+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105754",
+   "title": "Do prosecutor and defendant race pairings matter? Evidence from random assignment",
+   "authors": "CarlyWill Sloan",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105754",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105754",
+   "abstract": "",
+   "published": "2026-08-22T12:34:36Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jue.2026.103902",
    "title": "Location choice when the number of jobs matters: matching in spatial equilibrium",
@@ -66,6 +79,19 @@
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103907",
    "abstract": "",
    "published": "2026-08-21T15:19:59Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag091",
+   "title": "Recruiting Talent",
+   "authors": "Simon Board, Moritz Meyer-ter-Vehn, Tomasz Sadzik",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag091",
+   "url": "https://doi.org/10.1093/restud/rdag091",
+   "abstract": "Abstract We study a parsimonious model of a competitive labor market in which firms privately screen workers to identify talent. The equilibrium exhibits dispersion in wages and productivity; when talent is scarce, firms with superior screening skills post higher wages, attract better applicants, and recruit more talented workers. High-wage firms impose a compositional externality on low-wage firms, leading to equilibrium inefficiency: Welfare would be higher if low-skilled firms posted high wages and selected first. We also provide a micro-foundation for firms heterogeneous screening skills. When talented workers are better at screening (e.g. via superior referrals), a dynamic version of the economy converges to a unique steady state in which differences in talent, profits and screening skills persist forever.",
+   "published": "2026-08-21T11:49:01Z",
    "relevance": "low",
    "topics": []
   },
@@ -3681,88 +3707,6 @@
    "title_zh": "交通基础设施与城市空间结构",
    "ai_relevance": "low",
    "ai_reason": "交通基础设施和城市经济学研究，与赌博政策和家庭财务无关"
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103867",
-   "title": "Son preference, intergenerational household dynamics, and women’s mental health in India",
-   "authors": "S. Anukriti, Catalina Herrera-Almanza, Shahadat Hossain, Mahesh Karra",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103867",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103867",
-   "abstract": "",
-   "published": "2026-06-24T06:49:07Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "儿子偏好、跨代家庭动态和印度妇女心理健康",
-   "ai_relevance": "low",
-   "ai_reason": "人口偏好和家庭动态研究与赌博政策、破产、消费者信贷无关"
-  },
-  {
-   "id": "10.1111/1756-2171.70069",
-   "title": "What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration",
-   "authors": "David Beheshti, Seth Neller",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70069",
-   "url": "https://doi.org/10.1111/1756-2171.70069",
-   "abstract": "ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.",
-   "published": "2026-06-24T05:37:57Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "是什么导致处方药支出的地理差异？医生迁移的证据",
-   "abstract_zh": "追踪医生迁移前后的处方行为变化，作为识别医生个人因素的自然实验。发现医生迁移后处方行为部分收敛至新地区平均水平，但医生特有因素解释60-70%的跨地区变异。",
-   "ai_relevance": "medium",
-   "ai_reason": "利用医生迁移作为自然实验进行因果推断，方法论上具有面板因果识别价值，尽管应用领域为医疗经济学。"
-  },
-  {
-   "id": "10.1111/1756-2171.70070",
-   "title": "Mergers in the Presence of Adverse Selection",
-   "authors": "Conor Ryan",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70070",
-   "url": "https://doi.org/10.1111/1756-2171.70070",
-   "abstract": "ABSTRACT In the presence of adverse selection, mergers can increase welfare through a reduction in inefficient sorting. I characterize the sorting externality internalized between merging firms in a tractable discrete choice model. Mergers benefit consumers when the firms are small, willingness to pay is moderately increasing in cost, and consumer costs are skewed. Applying the model to the non‐group health insurance market, 13% of potential mergers would improve consumer surplus. In markets where the sorting distortion exceeds $5 per person, nearly one‐third of mergers improve consumer surplus, highlighting the importance of considering adverse selection in merger evaluation.",
-   "published": "2026-06-24T05:36:28Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "逆向选择存在下的合并",
-   "abstract_zh": "研究逆向选择条件下合并的福利效应。应用于非团体健康保险市场，发现13%的潜在合并会改善消费者福利。",
-   "ai_relevance": "low",
-   "ai_reason": "健康保险市场合并的理论与实证研究，与用户研究主题无关。"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105703",
-   "title": "Cash transfer at birth reduces criminal activity of fathers and children",
-   "authors": "Sakshi Bhardwaj",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105703",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105703",
-   "abstract": "",
-   "published": "2026-06-23T16:09:23Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "出生时现金转移减少父亲和子女犯罪活动",
-   "ai_relevance": "medium",
-   "ai_reason": "公共经济学政策评估,涉及政策对家庭经济福利和行为的因果推断"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105700",
-   "title": "Are elites meritocratic and efficiency-seeking? Evidence from MBA students",
-   "authors": "Marcel Preuss, Germán Reyes, Jason Somerville, Joy Wu",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105700",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105700",
-   "abstract": "",
-   "published": "2026-06-23T16:09:23Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "精英是否择优录取且追求效率?MBA学生证据",
-   "ai_relevance": "low",
-   "ai_reason": "关于教育精英和职业选择的实验研究,与赌博/破产主题无关"
   }
  ],
  "working_papers": [
@@ -6271,6 +6215,85 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
+   "title": "Democracy and Caeserism",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
+   "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […] The post Democracy and Caeserism appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-23T11:15:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
+   "title": "My recent visit to Anthropic",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
+   "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the following: 1. Whatever one might take a “constitution” […] The post My recent visit to Anthropic appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-23T06:32:29+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
+   "title": "The new agentic O-ring world",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
+   "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn’t monitor them remotely through a phone or smartwatch. “The cost of the agents’ being […] The post The new agentic O-ring world appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-23T04:56:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNci0zZWhueGVzRE5mS0Y0cVJNenlCZUVZYUxLT1k1SjRtd21vTlJ4NWNVcmFHOEI2em9HSUxBVTNycnJES040YzJBQm95dGtKMWdnZEVNZGN1b0hOTHFNLWJCRm10RDRhai03VTZTdWo0QVhkc3FvRXRlOFRnTUJ6MVBlUVp1Ykgyend6RjQwc0oxZDdRMmtxaldNdjZranVURVE?oc=5",
+   "title": "Corporate Bankruptcy Filings in Korea Top 1,500, on Pace for Record - Seoul Economic Daily",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNci0zZWhueGVzRE5mS0Y0cVJNenlCZUVZYUxLT1k1SjRtd21vTlJ4NWNVcmFHOEI2em9HSUxBVTNycnJES040YzJBQm95dGtKMWdnZEVNZGN1b0hOTHFNLWJCRm10RDRhai03VTZTdWo0QVhkc3FvRXRlOFRnTUJ6MVBlUVp1Ykgyend6RjQwc0oxZDdRMmtxaldNdjZranVURVE?oc=5",
+   "summary": "Corporate Bankruptcy Filings in Korea Top 1,500, on Pace for Record Seoul Economic Daily",
+   "published": "2026-08-23T00:35:31+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
+   "title": "Has the European turnaround finally arrived?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
+   "summary": "Europe just had its best reporting season in years. Companies in the benchmark Stoxx Europe 600 index boosted earnings per share by 18% on average in the second quarter compared with a year earlier. Earnings barely grew at all in 2025 and 2024 as the strongest companies in the index were offset by weaker players. […] The post Has the European turnaround finally arrived? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-22T16:57:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575",
+   "title": "Saturday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575",
+   "summary": "1. New publication analyzing AI constitutions. 2. Niall Ferguson vs. Iain Banks, and against some other stufff too (TFP). 3. NYT obituary for Victor Niederhoffer. 4. “Engineered systems known as harnesses largely complete contracts in real time, make external work more observable than employment, and carry context and control across the firm’s edge.” (speculative) 5. […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-22T14:17:50+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-friday-nights-with-friends",
+   "title": "The End of Friday Nights with Friends",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-friday-nights-with-friends",
+   "summary": "This study examines how Americans’ time with friends has changed over the week, focusing not on how much social interaction has declined but on when it has. Using American Time Use Survey data from 2003 to 2024 (N = 243,095), I map hourly patterns of “friend time” across the days of the week. In the […] The post The End of Friday Nights with Friends appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-22T10:26:30+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
    "title": "What should I ask Annie Lowrey?",
    "source": "Marginal Revolution",
@@ -6863,61 +6886,6 @@
    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-565",
    "summary": "1. Write a paper in six days with only AIs, then record all of that and write a second paper about writing the first. 2. Saloni on the future of medicine. “Every disease is a policy failure.” 3. John List on generalizability, very important. And his comments here. 4. China is now regulating AI companions. […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
    "published": "2026-08-13T16:03:42+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
-   "title": "USA fact of the day",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
-   "summary": "Here is the source. The post USA fact of the day appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-13T10:40:20+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
-   "title": "My very interesting Conversation with Daron Acemoglu",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
-   "summary": "Here is the audio, video, and transcript. Here is the episode summary: Daron Acemoglu returns for his second appearance with a new book, What Happened to Liberal Democracy?, which Tyler reads as an attempt to redefine and revitalize liberalism for our times. Where Daron’s first visit was about how states and societies contend for the narrow […] The post My very interesting Conversation with Daron Acemoglu appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-13T05:31:43+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
-   "title": "Mistakes in financial economics",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
-   "summary": "I feel like this is almost deliberately missing the point. My median expectation is that AI boosts the economy enormously, so shorting things would be a terrible idea. But non-trivial tail risk is that it kills everyone. So shorting things would be pointless. That is from Tom Chivers. It is easy enough to say buy […] The post Mistakes in financial economics appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-12T18:46:44+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-566",
-   "title": "Wednesday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-566",
-   "summary": "1. The cheese collateral in Italian banks is melting. 2. Denmark fact of the day: “…half of Denmark’s growth has been due to essentially one company” 3. “Foreign travel now makes up 1.4% of the US consumer spending budget. By contrast, imported Chinese goods make up about 3% of US domestic expenditures.” 4. Noah is […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-12T16:12:03+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
-   "title": "Fast Company covers New Aesthetics",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
-   "summary": "A good piece, it is good to see the artists themselves front and center of the story. The post Fast Company covers New Aesthetics appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-12T13:19:06+00:00",
    "relevance": "low",
    "topics": []
   }
