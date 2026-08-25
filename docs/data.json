@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-24T11:29:40.250130+00:00",
+ "generated_at": "2026-08-25T11:28:32.116049+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jinteco.2026.104328",
+   "title": "The impact of AI and cross-border data regulation on international trade in digital services",
+   "authors": "Ruiqi Sun, Daniel Trefler",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104328",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104328",
+   "abstract": "",
+   "published": "2026-08-24T15:19:05Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105754",
    "title": "Do prosecutor and defendant race pairings matter? Evidence from random assignment",
@@ -254,19 +267,6 @@
    ]
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105753",
-   "title": "How to fund nonprofits?",
-   "authors": "Eddy Zanoutene",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105753",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105753",
-   "abstract": "",
-   "published": "2026-08-19T10:03:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105759",
    "title": "Safety net payment digitization and participant outcomes: Evidence from the WIC EBT transition",
    "authors": "Charlotte Ambrozek, Timothy K.M. Beatty, Wenjie Zhan",
@@ -274,6 +274,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105759",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105759",
+   "abstract": "",
+   "published": "2026-08-19T10:03:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105753",
+   "title": "How to fund nonprofits?",
+   "authors": "Eddy Zanoutene",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105753",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105753",
    "abstract": "",
    "published": "2026-08-19T10:03:46Z",
    "relevance": "low",
@@ -882,6 +895,32 @@
    "topics": []
   },
   {
+   "id": "10.1086/743329",
+   "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
+   "authors": "Thomas Wollmann",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743329",
+   "url": "https://doi.org/10.1086/743329",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743331",
+   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+   "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743331",
+   "url": "https://doi.org/10.1086/743331",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743332",
    "title": "A Theory of Redistribution and Public Good Provision Under Non-Democracy",
    "authors": "Nicola Persico",
@@ -921,32 +960,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743329",
-   "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
-   "authors": "Thomas Wollmann",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743329",
-   "url": "https://doi.org/10.1086/743329",
-   "abstract": "",
-   "published": "2026-07-31T21:28:12Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743331",
-   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
-   "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743331",
-   "url": "https://doi.org/10.1086/743331",
-   "abstract": "",
-   "published": "2026-07-31T21:28:12Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/s0047-2727(26)00185-4",
    "title": "Editorial Board",
    "authors": "",
@@ -960,19 +973,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743387",
-   "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
-   "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743387",
-   "url": "https://doi.org/10.1086/743387",
-   "abstract": "",
-   "published": "2026-07-31T19:11:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743388",
    "title": "Safe Spaces: Shelters or Tribes?",
    "authors": "Jean Tirole",
@@ -980,6 +980,19 @@
    "tier": "Top-5",
    "doi": "10.1086/743388",
    "url": "https://doi.org/10.1086/743388",
+   "abstract": "",
+   "published": "2026-07-31T19:11:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743387",
+   "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
+   "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743387",
+   "url": "https://doi.org/10.1086/743387",
    "abstract": "",
    "published": "2026-07-31T19:11:41Z",
    "relevance": "low",
@@ -1012,6 +1025,19 @@
    "topics": []
   },
   {
+   "id": "10.1257/aer.20240617",
+   "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+   "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240617",
+   "url": "https://doi.org/10.1257/aer.20240617",
+   "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1257/aer.20231414",
    "title": "Remote Work and City Structure",
    "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
@@ -1025,6 +1051,45 @@
    "topics": [
     "城市/区域"
    ]
+  },
+  {
+   "id": "10.1257/aer.20250305",
+   "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
+   "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250305",
+   "url": "https://doi.org/10.1257/aer.20250305",
+   "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250295",
+   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+   "authors": "Karl M. Aspelund, Anna Russo",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250295",
+   "url": "https://doi.org/10.1257/aer.20250295",
+   "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241007",
+   "title": "The Productivity of Professions: Evidence from the Emergency Department",
+   "authors": "David Chan, Yiqun Chen",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241007",
+   "url": "https://doi.org/10.1257/aer.20241007",
+   "abstract": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1257/aer.20240094",
@@ -1048,32 +1113,6 @@
    "doi": "10.1257/aer.20231696",
    "url": "https://doi.org/10.1257/aer.20231696",
    "abstract": "We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement. (JEL K42, J33, J45)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240617",
-   "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
-   "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240617",
-   "url": "https://doi.org/10.1257/aer.20240617",
-   "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250305",
-   "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
-   "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250305",
-   "url": "https://doi.org/10.1257/aer.20250305",
-   "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)",
    "published": "2026-07-31T12:49:41Z",
    "relevance": "low",
    "topics": []
@@ -1118,32 +1157,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20241007",
-   "title": "The Productivity of Professions: Evidence from the Emergency Department",
-   "authors": "David Chan, Yiqun Chen",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241007",
-   "url": "https://doi.org/10.1257/aer.20241007",
-   "abstract": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250295",
-   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
-   "authors": "Karl M. Aspelund, Anna Russo",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250295",
-   "url": "https://doi.org/10.1257/aer.20250295",
-   "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105591",
    "title": "Impacts of childhood disability on family: Labor, marriage, fertility, and depression",
    "authors": "Kuan-Ming Chen, Ming-Jen Lin, Wei-Lun Lo",
@@ -1170,19 +1183,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/pol.20210174",
-   "title": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
-   "authors": "Andrea Guariso, Thorsten Rogall",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20210174",
-   "url": "https://doi.org/10.1257/pol.20210174",
-   "abstract": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/pol.20230070",
    "title": "Hurricanes, Climate Change Policies, and Electoral Accountability",
    "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
@@ -1204,6 +1204,106 @@
    "doi": "10.1257/pol.20240361",
    "url": "https://doi.org/10.1257/pol.20240361",
    "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240369",
+   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
+   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240369",
+   "url": "https://doi.org/10.1257/pol.20240369",
+   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230136",
+   "title": "The Value of School Social Climate Information: Evidence from Chicago Housing Transactions",
+   "authors": "Rene A. Crespin",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230136",
+   "url": "https://doi.org/10.1257/pol.20230136",
+   "abstract": "Educational institutions increasingly measure and publish indicators of social climate. I exploit a plausibly exogenous shock of Chicago school information to examine how social climate information is capitalized into housing markets and affects homebuyer sorting. Using border discontinuities, event studies, and difference-in-differences designs, I find public disclosure raises prices for homes assigned to schools with better climate ratings, with suggestive evidence that higher-income families sort into these homes. A second, less publicized disclosure produced weaker price capitalization but significant responses among higher-income households, suggesting differences in access to information. The findings provide revealed-preference evidence that families value school climate quality. (JEL D83, H75, I21, I28, J13, J45, J81)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域",
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240212",
+   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+   "authors": "Sarika Gupta",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240212",
+   "url": "https://doi.org/10.1257/pol.20240212",
+   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240302",
+   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
+   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240302",
+   "url": "https://doi.org/10.1257/pol.20240302",
+   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20230384",
+   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
+   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230384",
+   "url": "https://doi.org/10.1257/pol.20230384",
+   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240197",
+   "title": "The Option Value of Municipal Liquidity",
+   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240197",
+   "url": "https://doi.org/10.1257/pol.20240197",
+   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20240478",
+   "title": "Racial and Ethnic Inequality and the China Shock",
+   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240478",
+   "url": "https://doi.org/10.1257/pol.20240478",
+   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -1237,49 +1337,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/pol.20240302",
-   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
-   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240302",
-   "url": "https://doi.org/10.1257/pol.20240302",
-   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.18.3.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.18.3.i",
-   "url": "https://doi.org/10.1257/pol.18.3.i",
-   "abstract": "",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240212",
-   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
-   "authors": "Sarika Gupta",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240212",
-   "url": "https://doi.org/10.1257/pol.20240212",
-   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
    "id": "10.1257/pol.20220738",
    "title": "The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP",
    "authors": "Jenna Anders, Charlie Rafkin",
@@ -1311,71 +1368,14 @@
    ]
   },
   {
-   "id": "10.1257/pol.20230384",
-   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
-   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "id": "10.1257/pol.18.3.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20230384",
-   "url": "https://doi.org/10.1257/pol.20230384",
-   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240197",
-   "title": "The Option Value of Municipal Liquidity",
-   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240197",
-   "url": "https://doi.org/10.1257/pol.20240197",
-   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20230136",
-   "title": "The Value of School Social Climate Information: Evidence from Chicago Housing Transactions",
-   "authors": "Rene A. Crespin",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230136",
-   "url": "https://doi.org/10.1257/pol.20230136",
-   "abstract": "Educational institutions increasingly measure and publish indicators of social climate. I exploit a plausibly exogenous shock of Chicago school information to examine how social climate information is capitalized into housing markets and affects homebuyer sorting. Using border discontinuities, event studies, and difference-in-differences designs, I find public disclosure raises prices for homes assigned to schools with better climate ratings, with suggestive evidence that higher-income families sort into these homes. A second, less publicized disclosure produced weaker price capitalization but significant responses among higher-income households, suggesting differences in access to information. The findings provide revealed-preference evidence that families value school climate quality. (JEL D83, H75, I21, I28, J13, J45, J81)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域",
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240478",
-   "title": "Racial and Ethnic Inequality and the China Shock",
-   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240478",
-   "url": "https://doi.org/10.1257/pol.20240478",
-   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240369",
-   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
-   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240369",
-   "url": "https://doi.org/10.1257/pol.20240369",
-   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
+   "doi": "10.1257/pol.18.3.i",
+   "url": "https://doi.org/10.1257/pol.18.3.i",
+   "abstract": "",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -1404,6 +1404,19 @@
    "doi": "10.1257/pol.20240356",
    "url": "https://doi.org/10.1257/pol.20240356",
    "abstract": "Attracting and retaining effective teachers in high-poverty schools remains a persistent challenge. We evaluate the impact of an initiative that offered substantial performance-based compensation to highly effective teachers in the lowest-achieving schools. We find that the program led to dramatic improvements in achievement, nearly closing the gap between the targeted schools and the district average. When the program was later reversed for some campuses, effective teachers departed at high rates, resulting in an immediate decline in student achievement. The results underscore the potential for effectiveness-based compensating differentials to attract and retain effective teachers in disadvantaged schools. (JEL H75, I21, I28, J31, J45)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20210174",
+   "title": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+   "authors": "Andrea Guariso, Thorsten Rogall",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20210174",
+   "url": "https://doi.org/10.1257/pol.20210174",
+   "abstract": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -2148,6 +2161,22 @@
    "ai_reason": "教育政策评估与赌博、破产、家庭财务困难研究无关"
   },
   {
+   "id": "10.1016/j.jpubeco.2026.105715",
+   "title": "Departmentalized instruction and elementary school effectiveness",
+   "authors": "Ben Backes, James Cowan, Dan Goldhaber",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105715",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105715",
+   "abstract": "",
+   "published": "2026-07-16T18:44:34Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "分科教学与小学教学有效性",
+   "ai_relevance": "low",
+   "ai_reason": "教育经济学主题，与用户的赌博政策、破产财务困境研究方向无关。"
+  },
+  {
    "id": "10.1016/j.jpubeco.2026.105718",
    "title": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
    "authors": "Essi Eerola, Teemu Lyytikäinen, Tuukka Saarimaa, Tuuli Vanhapelto",
@@ -2164,22 +2193,6 @@
    "title_zh": "租赁补贴的归宿：对租金、住房选择和供应的证据",
    "ai_relevance": "medium",
    "ai_reason": "补贴政策对家庭经济选择的影响，属于公共经济学应用范畴"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105715",
-   "title": "Departmentalized instruction and elementary school effectiveness",
-   "authors": "Ben Backes, James Cowan, Dan Goldhaber",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105715",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105715",
-   "abstract": "",
-   "published": "2026-07-16T18:44:34Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "分科教学与小学教学有效性",
-   "ai_relevance": "low",
-   "ai_reason": "教育经济学主题，与用户的赌博政策、破产财务困境研究方向无关。"
   },
   {
    "id": "10.1016/j.jdeveco.2026.103875",
@@ -2264,6 +2277,23 @@
    "ai_reason": "无研究内容"
   },
   {
+   "id": "10.3982/ecta23334",
+   "title": "The Inference‐Forecast Gap in Belief Updating",
+   "authors": "Tony Q. Fan, Yucheng Liang, Cameron Peng",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23334",
+   "url": "https://doi.org/10.3982/ecta23334",
+   "abstract": "Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "信念更新中的推论-预测偏差",
+   "abstract_zh": "本研究通过实验证据比较推论和预测更新中的认知偏差，发现受试在推断基础状态时反应不足、在修订未来预测时反应过度，简化启发式的差异使用为主要驱动机制。",
+   "ai_relevance": "low",
+   "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
+  },
+  {
    "id": "10.3982/ecta22451",
    "title": "Walras–Bowley Lecture: Climate Policy in the Wide World",
    "authors": "John Hassler, Per Krusell, Conny Olovsson",
@@ -2281,54 +2311,21 @@
    "ai_reason": "气候与环保经济学,与赌博政策及家庭财务困难研究无关"
   },
   {
-   "id": "10.3982/ecta20506",
-   "title": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
-   "authors": "Jonathan Eaton, Samuel Kortum, Francis Kramarz",
+   "id": "10.3982/ecta23358",
+   "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
+   "authors": "Anna Stansbury, Kyra Rodriguez",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta20506",
-   "url": "https://doi.org/10.3982/ecta20506",
-   "abstract": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
+   "doi": "10.3982/ecta23358",
+   "url": "https://doi.org/10.3982/ecta23358",
+   "abstract": "Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "企业对企业贸易：进口、出口与劳动市场",
-   "abstract_zh": "本研究基于一般均衡模型估计冰山成本和匹配摩擦对贸易的相对作用，并评估欧盟扩大等贸易自由化政策对劳动市场异质性的因果影响。",
-   "ai_relevance": "medium",
-   "ai_reason": "虽是国际贸易方向，但涉及政策冲击对劳动市场异质性效应的因果评估和结构模型应用。"
-  },
-  {
-   "id": "10.3982/ecta944fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 4",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta944fm",
-   "url": "https://doi.org/10.3982/ecta944fm",
-   "abstract": "",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "Econometrica 第94卷第4期 前言",
+   "title_zh": "美国学术界职业晋升的阶级差距:美国高校的证据",
+   "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
    "ai_relevance": "low",
-   "ai_reason": "无研究内容"
-  },
-  {
-   "id": "10.3982/ecta22542",
-   "title": "Job Ladder and Wealth Dynamics in General Equilibrium",
-   "authors": "Leo Kaas, Etienne Lalé, Nawid Siassi",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta22542",
-   "url": "https://doi.org/10.3982/ecta22542",
-   "abstract": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "工作阶梯与一般均衡中的财富动态",
-   "abstract_zh": "本文开发整合不完全市场、职业搜索和工资议价的宏观经济模型,研究税收和失业保险政策对劳动力市场及储蓄行为的影响。发现降低失业保险和降低累进税会增加消费风险和搜索成本,对工作者福利产生负面影响。",
-   "ai_relevance": "medium",
-   "ai_reason": "涉及公共转移支付政策(失业保险)对家庭储蓄和消费的影响,属于公共经济学范畴"
+   "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
   },
   {
    "id": "10.3982/ecta944bm",
@@ -2364,6 +2361,40 @@
    "abstract_zh": "通过机制设计构建激励相容菜单，使个体自我选择最适应激励方案；在6800名患有糖尿病和高血压的印度城市居民中的田间实验表明，个性化选择菜单使激励对锻炼的处理效应提升80%，成本无增加。",
    "ai_relevance": "low",
    "ai_reason": "健身行为激励研究，与赌博政策和家庭财务困难无直接关系"
+  },
+  {
+   "id": "10.3982/ecta22542",
+   "title": "Job Ladder and Wealth Dynamics in General Equilibrium",
+   "authors": "Leo Kaas, Etienne Lalé, Nawid Siassi",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta22542",
+   "url": "https://doi.org/10.3982/ecta22542",
+   "abstract": "This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "工作阶梯与一般均衡中的财富动态",
+   "abstract_zh": "本文开发整合不完全市场、职业搜索和工资议价的宏观经济模型,研究税收和失业保险政策对劳动力市场及储蓄行为的影响。发现降低失业保险和降低累进税会增加消费风险和搜索成本,对工作者福利产生负面影响。",
+   "ai_relevance": "medium",
+   "ai_reason": "涉及公共转移支付政策(失业保险)对家庭储蓄和消费的影响,属于公共经济学范畴"
+  },
+  {
+   "id": "10.3982/ecta20506",
+   "title": "Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market",
+   "authors": "Jonathan Eaton, Samuel Kortum, Francis Kramarz",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta20506",
+   "url": "https://doi.org/10.3982/ecta20506",
+   "abstract": "Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.",
+   "published": "2026-07-16T13:05:52Z",
+   "relevance": "low",
+   "topics": [],
+   "title_zh": "企业对企业贸易：进口、出口与劳动市场",
+   "abstract_zh": "本研究基于一般均衡模型估计冰山成本和匹配摩擦对贸易的相对作用，并评估欧盟扩大等贸易自由化政策对劳动市场异质性的因果影响。",
+   "ai_relevance": "medium",
+   "ai_reason": "虽是国际贸易方向，但涉及政策冲击对劳动市场异质性效应的因果评估和结构模型应用。"
   },
   {
    "id": "10.3982/ecta23049",
@@ -2402,38 +2433,20 @@
    "ai_reason": "因果推断理论研究，为面板数据应用和工具变量方法提供识别基础"
   },
   {
-   "id": "10.3982/ecta23345",
-   "title": "Double Robustness of Local Projections and Some Unpleasant VARithmetic",
-   "authors": "José Luis Montiel Olea, Mikkel Plagborg-Møller, Eric Qian, Christian K. Wolf",
+   "id": "10.3982/ecta944fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 4",
+   "authors": "",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23345",
-   "url": "https://doi.org/10.3982/ecta23345",
-   "abstract": "We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.",
+   "doi": "10.3982/ecta944fm",
+   "url": "https://doi.org/10.3982/ecta944fm",
+   "abstract": "",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "局部投影的双重稳健性及某些不愉快的向量自回归运算",
-   "abstract_zh": "本文研究向量自回归(VAR)模型存在局部误设时的脉冲反应推断。局部投影(LP)估计具有'双重稳健性',即使模型误设很大也能提供正确的置信区间覆盖,而传统VAR置信区间在误设情况下可能显著欠覆盖。",
+   "title_zh": "Econometrica 第94卷第4期 前言",
    "ai_relevance": "low",
-   "ai_reason": "时间序列统计方法论,非研究者关注的面板因果推断领域"
-  },
-  {
-   "id": "10.3982/ecta23358",
-   "title": "The Class Gap in Career Progression: Evidence From U.S. Academia",
-   "authors": "Anna Stansbury, Kyra Rodriguez",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23358",
-   "url": "https://doi.org/10.3982/ecta23358",
-   "abstract": "Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.",
-   "published": "2026-07-16T13:05:52Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "美国学术界职业晋升的阶级差距:美国高校的证据",
-   "abstract_zh": "本文用父母教育程度代理社会经济背景,记录美国学术职业中的巨大阶级差距。第一代大学毕业生在被聘为正教授、机构排名、薪资和工作满意度上显著低于同学,根本驱动因素是文化资本和社会资本的差异。",
-   "ai_relevance": "low",
-   "ai_reason": "学术职业社会经济分层研究,与赌博政策和家庭财务困难无关"
+   "ai_reason": "无研究内容"
   },
   {
    "id": "10.3982/ecta21839",
@@ -2453,21 +2466,21 @@
    "ai_reason": "微观经济理论与拍卖设计研究，与用户的应用微观、因果推断研究方向差距大。"
   },
   {
-   "id": "10.3982/ecta23334",
-   "title": "The Inference‐Forecast Gap in Belief Updating",
-   "authors": "Tony Q. Fan, Yucheng Liang, Cameron Peng",
+   "id": "10.3982/ecta23345",
+   "title": "Double Robustness of Local Projections and Some Unpleasant VARithmetic",
+   "authors": "José Luis Montiel Olea, Mikkel Plagborg-Møller, Eric Qian, Christian K. Wolf",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23334",
-   "url": "https://doi.org/10.3982/ecta23334",
-   "abstract": "Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.",
+   "doi": "10.3982/ecta23345",
+   "url": "https://doi.org/10.3982/ecta23345",
+   "abstract": "We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.",
    "published": "2026-07-16T13:05:52Z",
    "relevance": "low",
    "topics": [],
-   "title_zh": "信念更新中的推论-预测偏差",
-   "abstract_zh": "本研究通过实验证据比较推论和预测更新中的认知偏差，发现受试在推断基础状态时反应不足、在修订未来预测时反应过度，简化启发式的差异使用为主要驱动机制。",
+   "title_zh": "局部投影的双重稳健性及某些不愉快的向量自回归运算",
+   "abstract_zh": "本文研究向量自回归(VAR)模型存在局部误设时的脉冲反应推断。局部投影(LP)估计具有'双重稳健性',即使模型误设很大也能提供正确的置信区间覆盖,而传统VAR置信区间在误设情况下可能显著欠覆盖。",
    "ai_relevance": "low",
-   "ai_reason": "行为实验研究认知偏差机制，与用户的应用微观经济学、因果推断方向不符。"
+   "ai_reason": "时间序列统计方法论,非研究者关注的面板因果推断领域"
   },
   {
    "id": "10.1093/restud/rdag078",
@@ -3486,158 +3499,6 @@
    "title_zh": "JPE投稿周期时间",
    "ai_relevance": "low",
    "ai_reason": "期刊信息而非研究论文,无摘要内容"
-  },
-  {
-   "id": "10.1016/j.jue.2026.103888",
-   "title": "Housing market congestion: The effects of new for-sale supply on home prices and sale hazards",
-   "authors": "Elliot Anenberg, Daniel Ringo",
-   "journal": "Journal of Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.jue.2026.103888",
-   "url": "https://doi.org/10.1016/j.jue.2026.103888",
-   "abstract": "",
-   "published": "2026-06-26T10:49:31Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ],
-   "title_zh": "房地产市场拥堵：新供应对房价和销售风险的影响",
-   "ai_relevance": "low",
-   "ai_reason": "房地产市场研究，与赌博政策和家庭财务困难无直接关系"
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105704",
-   "title": "Equity and efficiency when needs differ",
-   "authors": "Kristoffer Berg, Morten Haavarstein, Paolo G. Piacquadio",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105704",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105704",
-   "abstract": "",
-   "published": "2026-06-26T10:49:24Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "公平性与效率:需求差异下的权衡",
-   "ai_relevance": "low",
-   "ai_reason": "无摘要,标题过于宽泛,与赌博/破产研究无明显关联"
-  },
-  {
-   "id": "10.1111/1756-2171.70057",
-   "title": "Consumer Search, Firm Heterogeneity, and Platform Design",
-   "authors": "Wenzhang Zhang",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70057",
-   "url": "https://doi.org/10.1111/1756-2171.70057",
-   "abstract": "ABSTRACT We study the optimal design of a monopoly platform that interacts with heterogeneous firms and consumers who face uncertainty about product values and prices. Consumers search randomly among firms recommended by the platform. The platform designs a menu of contracts tailored to different firm types and allocates consumer visits across these firms. We show that the optimal platform design creates a “superstar effect,” whereby high‐type firms capture a disproportionately large market share, and improves consumer welfare relative to the no‐design benchmark.",
-   "published": "2026-06-26T03:46:55Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "消费者搜索、企业异质性与平台设计",
-   "abstract_zh": "研究垄断平台在消费者不确定性下的最优设计问题。模型表明平台最优设计会产生超级明星效应，高质量企业获得过量市场份额。",
-   "ai_relevance": "low",
-   "ai_reason": "平台设计的理论研究，无实证应用或因果推断方法论关联。"
-  },
-  {
-   "id": "10.1111/1756-2171.70061",
-   "title": "Nonlinear Pricing in Oligopoly: How Brand Preferences Shape Market Outcomes",
-   "authors": "Renato Gomes, Jean‐Marie Lozachmeur, Lucas Maestri",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70061",
-   "url": "https://doi.org/10.1111/1756-2171.70061",
-   "abstract": "ABSTRACT We study oligopolistic competition by firms practicing second‐degree price discrimination. In line with the literature on demand estimation, our theory allows consumers' propensity to switch brands to vary with tastes for product quality. If low‐type consumers are sufficiently more (respectively, less) prone to switch brands than are high types, (i) quality provision is inefficiently low at the bottom (respectively, high at the top) of the product line, and (ii) informational rents are positive (respectively, negative) for high types and negative (respectively, positive) for low types. Interestingly, we show that an increase in the number of competing firms may decrease welfare (by tightening incentive constraints), so much so that monopoly may be welfare superior to oligopoly. Pure‐strategy equilibria fail to exist, resulting in price‐quality dispersion across firms, whenever the propensity to switch brands is sufficiently different across consumers types.",
-   "published": "2026-06-26T03:44:08Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "寡头垄断中的非线性定价：品牌偏好如何塑造市场结果",
-   "abstract_zh": "研究实行二级价格歧视的寡头竞争。理论分析表明品牌转换意愿的异质性会导致产品线两端品质配置的扭曲。",
-   "ai_relevance": "low",
-   "ai_reason": "产业组织理论研究，无实证应用或政策相关性。"
-  },
-  {
-   "id": "10.1111/1756-2171.70059",
-   "title": "The Competitive Effects of Mergers with Cournot Competition",
-   "authors": "Markus Reisinger, Hans Zenger",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70059",
-   "url": "https://doi.org/10.1111/1756-2171.70059",
-   "abstract": "ABSTRACT This article provides a full characterization of the competitive effects of horizontal mergers in the Cournot model with heterogeneous firms and constant marginal costs. We show that price effects depend only on the smaller merging firm's market share and the number of firms but are independent of the distribution of market shares among other firms. Standard concentration measures, instead, are often misleading. We also provide simple—yet general—closed‐form solutions for merger effects based on pre‐merger parameters. Moreover, we extend the model to study the combination of output and input market power and relate our results to the Merger Guidelines.",
-   "published": "2026-06-26T03:41:38Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "库诺竞争模型中合并的竞争效应",
-   "abstract_zh": "刻画库诺模型中水平合并的竞争效应。证明价格效应仅取决于较小合并企业的市场份额与企业数量，提供闭式解。",
-   "ai_relevance": "low",
-   "ai_reason": "产业组织理论研究，无实证应用。"
-  },
-  {
-   "id": "10.1111/1756-2171.70060",
-   "title": "Market Effects of Brand Search Advertising",
-   "authors": "Massimo Motta, Antonio Penta",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70060",
-   "url": "https://doi.org/10.1111/1756-2171.70060",
-   "abstract": "ABSTRACT We study the market effects of sponsored search auctions for advertising space on searches for brands. In our model, firms simultaneously choose the price of their product and the bids for the advertising auctions triggered by their own and rivals' brand keywords search. In any symmetric equilibrium, each firm wins its own keyword auction, and relative to a no‐ads benchmark, online advertising raises the winning brand's marginal cost and ultimately market prices. Only in an environment with strong initial asymmetries do we find that brand advertising might be beneficial.",
-   "published": "2026-06-26T03:39:17Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "品牌搜索广告的市场效应",
-   "abstract_zh": "研究品牌关键词广告竞价对市场价格的影响。理论模型表明品牌广告提高获胜企业的边际成本，进而抬升市场价格。",
-   "ai_relevance": "low",
-   "ai_reason": "搜索广告的理论研究，与用户研究无关。"
-  },
-  {
-   "id": "10.1111/1756-2171.70073",
-   "title": "Welfare Effects of Trade Associations: The Case of the Chilean Salmon Export Industry",
-   "authors": "Thomas Eisenberg, Manuel Estay, Debi Prasad Mohapatra",
-   "journal": "RAND Journal of Economics",
-   "tier": "IO",
-   "doi": "10.1111/1756-2171.70073",
-   "url": "https://doi.org/10.1111/1756-2171.70073",
-   "abstract": "ABSTRACT This article examines the welfare consequences of a trade association in an exporting country on consumers in destination countries. We estimate a structural model of the Chilean Salmon exporting industry that endogenizes firms' pricing and export decisions. Our results show that the trade association has a positive effect on consumer utility and involves higher marginal costs of production, consistent with higher quality products. Reduced form analysis estimates price effects associated with trade association membership of 3 to 8 percent. Our counterfactual analysis reveals that eliminating the trade association would reduce consumer welfare by 1.7 billion USD in destination countries.",
-   "published": "2026-06-26T03:30:41Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "贸易协会的福利效应：智利三文鱼出口行业案例",
-   "abstract_zh": "估计结构模型分析贸易协会对消费者福利的影响。实证发现贸易协会成员价格上升3-8%，但提高产品品质，反事实分析显示取消协会将减少目的地国消费者福利17亿美元。",
-   "ai_relevance": "low",
-   "ai_reason": "出口行业产业组织研究，与用户核心研究方向无关。"
-  },
-  {
-   "id": "10.1086/742178",
-   "title": "Introduction",
-   "authors": "Laura Kawano",
-   "journal": "National Tax Journal",
-   "tier": "Public",
-   "doi": "10.1086/742178",
-   "url": "https://doi.org/10.1086/742178",
-   "abstract": "",
-   "published": "2026-06-25T19:15:42Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "引言",
-   "ai_relevance": "low",
-   "ai_reason": "非论文标题,无内容信息可评估"
-  },
-  {
-   "id": "10.1093/restud/rdag068",
-   "title": "Skill-Replacing Technology and Bottom-Half Inequality",
-   "authors": "Oren Danieli",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag068",
-   "url": "https://doi.org/10.1093/restud/rdag068",
-   "abstract": "Abstract I propose a model of skill-replacing routine-biased technological change (SR-RBTC). In this model, technology substitutes for the use of skill in routine tasks, in contrast to standard RBTC models, which assume that technology replaces the workers themselves. The SR-RBTC model explains three key trends that are inconsistent with standard RBTC models: (1) why specifically middle wages declined even though workers in routine occupations are dispersed across the entire bottom half of the wage distribution, (2) why middle wages stopped declining while technological change continued, and (3) why there is no substantial decline in the average wage of workers in routine occupations. I derive two new testable predictions from the model: a decrease in the return to skill and a decrease in skill level in routine occupations. I use an interactive fixed-effects model to confirm both predictions. Since SR-RBTC violates the ignorability assumption required by standard decomposition methods, I introduce a “skewness decomposition” to show that SR-RBTC is the main driver of bottom-half inequality trends.",
-   "published": "2026-06-25T11:49:37Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "技能替代技术与底层工资不平等",
-   "abstract_zh": "研究技术进步如何替代日常工作中的技能要求,导致中位工资停滞。使用交互固定效应模型验证技能回报下降和例行职业技能水平的变化。",
-   "ai_relevance": "low",
-   "ai_reason": "劳动经济学研究技术与工资,与赌博政策或家庭财务困境无关"
   }
  ],
  "working_papers": [
@@ -6447,6 +6308,87 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
+   "title": "Towards a New House of Lords",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
+   "summary": "In Britain, the House of Lords was traditionally dominated by hereditary peers–a right bequeathed by the monarch, sometimes in ancient times, to sit in the House of Lords that was transmitted generationally. That system has been withering away for decades, however, and was finally ended this year by the 2026 Hereditary Peers Act. So how […] The post Towards a New House of Lords appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-25T11:18:22+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
+   "title": "Do Minimum Wages Help Worker in Poor and Low-Income Families?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
+   "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, […] The post Do Minimum Wages Help Worker in Poor and Low-Income Families? appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-25T07:32:36+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
+   "title": "That was then, this is now",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
+   "summary": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope of one day serving in the Assembly of Deputies as elected representatives from Jerusalem. […] The post That was then, this is now appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-25T04:31:38+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnNtXzFYZXp0SGlCYlZWM2JBOWVhQkd3MXJGNUs2SlI3Qjk1dHNrbVRVNEJJdVVwWGM0eUFHYzFmZWJtN1RidlA4UU5kckZMZVlzTHVKdWQ3dnh5cFJpMklwTUdQVHFRa1ZjbFIzcEdrVk1EODdxQ3BTLTNMWmFZSVpqMHo4SmtoQ0haQV8xdjFMcWhuTkp4SWpqM2ozV1VzVzRFS3U2S2RoZkNkR2ItZEhIX2pTdm1z?oc=5",
+   "title": "Coface stock holds in Paris as bankruptcy filings rise - Ad-hoc-news.de",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnNtXzFYZXp0SGlCYlZWM2JBOWVhQkd3MXJGNUs2SlI3Qjk1dHNrbVRVNEJJdVVwWGM0eUFHYzFmZWJtN1RidlA4UU5kckZMZVlzTHVKdWQ3dnh5cFJpMklwTUdQVHFRa1ZjbFIzcEdrVk1EODdxQ3BTLTNMWmFZSVpqMHo4SmtoQ0haQV8xdjFMcWhuTkp4SWpqM2ozV1VzVzRFS3U2S2RoZkNkR2ItZEhIX2pTdm1z?oc=5",
+   "summary": "Coface stock holds in Paris as bankruptcy filings rise Ad-hoc-news.de",
+   "published": "2026-08-24T19:30:51+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html?utm_source=rss&utm_medium=rss&utm_campaign=common-sense-in-charge",
+   "title": "Common sense in charge",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html?utm_source=rss&utm_medium=rss&utm_campaign=common-sense-in-charge",
+   "summary": "…children are increasingly seen as interfering with the freedom of parents; views on whether mothers of young children should work have become markedly more progressive and account for a substantially larger share of the decline among the tertiary-educated; and fewer people believe that women or men need children to lead a fulfilled life. This last […] The post Common sense in charge appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-24T17:39:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2YyVjQ2SUNTZWNtSmVJcnJSNkVIUGFlZ3NibWtSamE1Tk5aOTJMby1JY2dkVV96SndUUUtqRlR1TWtZVEp6VFhDZ0tBRVJPeFE4ZE5rM1Y2b1JJZTJxVHBZdXFzTlJ6OHJBemM0SFlVOVM5T0lTTzNCSWIwTXA0LTcyU0dablhEVFRnaHFvWk9IQzIzY2RZ?oc=5",
+   "title": "U.S. Bankruptcy Filings Jump 12% as Consumer Financial Stress Mounts - Florida Daily",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2YyVjQ2SUNTZWNtSmVJcnJSNkVIUGFlZ3NibWtSamE1Tk5aOTJMby1JY2dkVV96SndUUUtqRlR1TWtZVEp6VFhDZ0tBRVJPeFE4ZE5rM1Y2b1JJZTJxVHBZdXFzTlJ6OHJBemM0SFlVOVM5T0lTTzNCSWIwTXA0LTcyU0dablhEVFRnaHFvWk9IQzIzY2RZ?oc=5",
+   "summary": "U.S. Bankruptcy Filings Jump 12% as Consumer Financial Stress Mounts Florida Daily",
+   "published": "2026-08-24T17:12:30+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-574",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-574",
+   "summary": "1. There is now a formal 150 kph (93.2 mph) speed limit in one part of Czechia. 2. Why does the Japanese prime minister spend so much time in seclusion? 3. Decker defends academia (noting I do not think the “only the peaks” defense quite works. I also worry about very high quality research that […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-08-24T15:38:14+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html?utm_source=rss&utm_medium=rss&utm_campaign=childhood-exposure-to-joint-custody-reforms-and-adult-family-formation",
    "title": "Childhood Exposure to Joint Custody Reforms and Adult Family Formation",
    "source": "Marginal Revolution",
@@ -6806,13 +6748,26 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalpTaW9IRXRVdHBUVjJ1czNUZUJ2aW80MnI2STltS1doZUg0Q0Q4ZlpjMU9BMEZQTUlmNFFKcDI0RXZlZkhFdW00R3hmWmJCbWFSQi1ZR1ptbTdZUndySVdnSGFhckdHZGxKc3ZJWGUtUTlOSy1aMTc4U3FabDR2Ry1tc05vVklEdTJneE5oRnUxcnRtcHFZTW9oa2ZuZEthb2NMeTJYM3pRSW9tUHc?oc=5",
+   "title": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress - inkl",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalpTaW9IRXRVdHBUVjJ1czNUZUJ2aW80MnI2STltS1doZUg0Q0Q4ZlpjMU9BMEZQTUlmNFFKcDI0RXZlZkhFdW00R3hmWmJCbWFSQi1ZR1ptbTdZUndySVdnSGFhckdHZGxKc3ZJWGUtUTlOSy1aMTc4U3FabDR2Ry1tc05vVklEdTJneE5oRnUxcnRtcHFZTW9oa2ZuZEthb2NMeTJYM3pRSW9tUHc?oc=5",
+   "summary": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress inkl",
+   "published": "2026-08-19T12:29:28+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQjgySUp6MktXYU5idkJfeUlGX2ZxRy05UlptalMtbFFZM0RCNlJSRGJjOEV2WU9EZmYxVmdkWFpYR3lDOVFPdU0weEtmRmpkVWVjektTRkR4bDhFdEJxRWxGNnlFdzhldDgyeFVKQ0xBNWl0dlE?oc=5",
    "title": "Corporate Bankruptcy Filings Hit Record 1,299 in H1; SME Delinquency Rate at 11-Year High - finance.biggo.com",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrQjgySUp6MktXYU5idkJfeUlGX2ZxRy05UlptalMtbFFZM0RCNlJSRGJjOEV2WU9EZmYxVmdkWFpYR3lDOVFPdU0weEtmRmpkVWVjektTRkR4bDhFdEJxRWxGNnlFdzhldDgyeFVKQ0xBNWl0dlE?oc=5",
    "summary": "Corporate Bankruptcy Filings Hit Record 1,299 in H1; SME Delinquency Rate at 11-Year High finance.biggo.com",
-   "published": "2026-08-19T07:35:00+00:00",
+   "published": "2026-08-19T07:39:06+00:00",
    "relevance": "high",
    "topics": [
     "破产/家庭财务"
@@ -7032,77 +6987,20 @@
    "topics": [
     "因果推断方法"
    ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=a-conservative-case-for-liberal-immigration",
-   "title": "A Conservative Case for Liberal Immigration",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=a-conservative-case-for-liberal-immigration",
-   "summary": "That is the title of my latest Free Press piece, here is one excerpt: Or look at the AI revolution, another area where America is leading the world and also using its AI models to exert soft power. Dario Amodei of Anthropic has an Italian father, neural-network pioneer Geoffrey Hinton is originally from the U.K., […] The post A Conservative Case for Liberal Immigration appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-15T06:44:46+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-60",
-   "title": "That was then, this is now",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-60",
-   "summary": "I very much like the new Michael Khodarkovsky book The Steppe and its Empires: The Russian Empire & its Eurasian Counterparts. Excerpt: Russia presented the most remarkable contrast to both Eurasian and Western empires. The oower of Moscovite tsars and Russian emperors seemed to be completely unconstrained by moral or ethical boundaries. Whereas religious authorities […] The post That was then, this is now appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-15T05:00:09+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-585",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-585",
-   "summary": "1. What sort of maths are LLMs good at? 2. “People think the superrich are unhappy,” she said. “They’re not.” (NYT) 3. Trailer for a Celibadache biopic. 4. Good Joshua Saxe post on the need for a better cybersecurity policy. 5. Refine goes to work on the Stanford Encyclopedia of Philosophy. At some point we […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-14T17:44:02+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel",
-   "title": "Adding to the barrel of finance fallacies",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel",
-   "summary": "“I should note also that many (most? almost all?) of the bad scenarios have intermediate points of great worry and catastrophe” Not on my model. By the time any humans start worrying about a takeover or dying, AIs already control all infrastructure That is from Twitter, and I hear or read that argument often. It […] The post Adding to the barrel of finance fallacies appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-14T15:40:53+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm9ES01jcnpMQUdibi12bDdaSFNvUThsWUs1U21RWWNVVER2a1dtLTdlVlhvRkQwaHZqeUhKQUVKcm9OMHpDQmNyQ1VadklLZUVXQWtUUjVnUTl5bF9UUzc2ODhjQVpvWDVrenhxRk8zRzdFZC1ncmJrUHlaczhXRmZYY25RdDR0M3FTTjJkWExQWVMwZk1zNW5fOWpjVk5hcFdkMHRLWWR1WW9BZlFJM0swU0FUSGZzMlBFT1BxTzRHdklCanB4R1VqOTZlUzdaSGM1TFRMTWZUVm1hQ1BMUm53?oc=5",
-   "title": "1xCare: An Interview with Sissel Weitzhändler on Regulation, Accountability and the Future of Player Protection - Cision News",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm9ES01jcnpMQUdibi12bDdaSFNvUThsWUs1U21RWWNVVER2a1dtLTdlVlhvRkQwaHZqeUhKQUVKcm9OMHpDQmNyQ1VadklLZUVXQWtUUjVnUTl5bF9UUzc2ODhjQVpvWDVrenhxRk8zRzdFZC1ncmJrUHlaczhXRmZYY25RdDR0M3FTTjJkWExQWVMwZk1zNW5fOWpjVk5hcFdkMHRLWWR1WW9BZlFJM0swU0FUSGZzMlBFT1BxTzRHdklCanB4R1VqOTZlUzdaSGM1TFRMTWZUVm1hQ1BMUm53?oc=5",
-   "summary": "1xCare: An Interview with Sissel Weitzhändler on Regulation, Accountability and the Future of Player Protection Cision News",
-   "published": "2026-08-14T12:36:00+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEJJUlJCakQzN2Z5WFVaZS1Gb0NhSjVaXzlJT1NjblgzeDgzUU1EanI1MlVMeTZOZXFIVS1TOTV6VHpQb3BWUHhlaWhlTWVLRGdDenNMR3Zycnp6cVo0c0lwY1VMd2V3eGlVRGxtN3N6NVlKbFIybEI4UkVmQlVwdW5XV1lBaWNkUU5kd0RLSTU0X0RUcGQxTUhUaWxSUkRlVGRfVHRwMDVmcHprdERDZlpUbDBMVGVQc2xFLW9kWElKZkpGemFVaXpMV3BURFNxRGd2azZ0cHpxb3I4NF9FSElRRnBlcFRoOGdmOENEMWdsNERUU2dyNTBR?oc=5",
-   "title": "Credit Card Serious-Delinquency Flow Remains Above Great Recession Onset Level for 10th Straight Quarter - FinancialContent",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaEJJUlJCakQzN2Z5WFVaZS1Gb0NhSjVaXzlJT1NjblgzeDgzUU1EanI1MlVMeTZOZXFIVS1TOTV6VHpQb3BWUHhlaWhlTWVLRGdDenNMR3Zycnp6cVo0c0lwY1VMd2V3eGlVRGxtN3N6NVlKbFIybEI4UkVmQlVwdW5XV1lBaWNkUU5kd0RLSTU0X0RUcGQxTUhUaWxSUkRlVGRfVHRwMDVmcHprdERDZlpUbDBMVGVQc2xFLW9kWElKZkpGemFVaXpMV3BURFNxRGd2azZ0cHpxb3I4NF9FSElRRnBlcFRoOGdmOENEMWdsNERUU2dyNTBR?oc=5",
-   "summary": "Credit Card Serious-Delinquency Flow Remains Above Great Recession Onset Level for 10th Straight Quarter FinancialContent",
-   "published": "2026-08-14T12:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-108132",
+   "title": "Opportunity Zones: Effects of Original Tax Incentive Mostly Unknown and Revised Incentive May Offer Improvements",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108132",
+   "summary": "What GAO Found Qualified Opportunity Zones (Zone)—low-income census tracts nominated by governors and designated by the Department of the Treasury—have lower incomes and higher poverty than other census tracts. The law commonly known as the One Big Beautiful Bill Act (OBBBA) changed the eligibility criteria for Zone designation, which resulted in fewer eligible tracts for future selection. Stakeholders, including some states and subject-matter specialists, reported that this may allow better targeting of the tax incentive to the most economically distressed areas. Stakeholders reported the inc",
+   "published": "2026-08-24T10:55:45+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-107255",
    "title": "Installation Maintenance: Better Information on Risks and Challenges Needed to Improve Oversight of DOD Facility Conditions",
@@ -7170,17 +7068,6 @@
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNck9sazhoUk1EeU0zdWtwc1piU2xXSnYtWGpfd1RmY3ZLTktESGQxQzdkaTZWTjEtTGFIWUlKc1NJRzQzMDJMVTY5YW9IRkIxTjd1UWMzRFpuVWtjbU94b3JGNmFoZzhzc1BwS0hPOHFiQzVDWHJKV0xSYjBXOUwxWDJtcw?oc=5",
-   "title": "How secure is Taiwan? The view from Taipei - Brookings",
-   "source": "Google News: Brookings",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNck9sazhoUk1EeU0zdWtwc1piU2xXSnYtWGpfd1RmY3ZLTktESGQxQzdkaTZWTjEtTGFIWUlKc1NJRzQzMDJMVTY5YW9IRkIxTjd1UWMzRFpuVWtjbU94b3JGNmFoZzhzc1BwS0hPOHFiQzVDWHJKV0xSYjBXOUwxWDJtcw?oc=5",
-   "summary": "How secure is Taiwan? The view from Taipei Brookings",
-   "published": "2026-08-18T20:26:27+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/08/18/fellows-mentors-alumni-share-lasting-lessons-courts-next-generation",
    "title": "From Fellows to Mentors: Alumni Share Lasting Lessons from Courts with the Next Generation",
    "source": "US Courts",
@@ -7199,6 +7086,17 @@
    "url": "https://www.gao.gov/products/gao-26-107829",
    "summary": "What GAO Found The Department of Defense (DOD) and its components—relevant DOD offices and the military departments (Army, Navy, and Air Force)—are taking steps to prevent and mitigate the brain health effects of blast exposure. In 2024, DOD established several blast overpressure requirements, including one requiring that brain health be monitored. Specifically, this requires that all high-risk active duty service members complete a baseline cognitive assessment in fiscal year 2025 and all new service members complete one during initial military training. DOD also required tracking service mem",
    "published": "2026-08-18T10:59:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNck9sazhoUk1EeU0zdWtwc1piU2xXSnYtWGpfd1RmY3ZLTktESGQxQzdkaTZWTjEtTGFIWUlKc1NJRzQzMDJMVTY5YW9IRkIxTjd1UWMzRFpuVWtjbU94b3JGNmFoZzhzc1BwS0hPOHFiQzVDWHJKV0xSYjBXOUwxWDJtcw?oc=5",
+   "title": "How secure is Taiwan? The view from Taipei - Brookings",
+   "source": "Google News: Brookings",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNck9sazhoUk1EeU0zdWtwc1piU2xXSnYtWGpfd1RmY3ZLTktESGQxQzdkaTZWTjEtTGFIWUlKc1NJRzQzMDJMVTY5YW9IRkIxTjd1UWMzRFpuVWtjbU94b3JGNmFoZzhzc1BwS0hPOHFiQzVDWHJKV0xSYjBXOUwxWDJtcw?oc=5",
+   "summary": "How secure is Taiwan? The view from Taipei Brookings",
+   "published": "2026-08-18T04:29:10+00:00",
    "relevance": "low",
    "topics": []
   },
