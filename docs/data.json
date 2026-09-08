@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-07T16:18:32.470672+00:00",
+ "generated_at": "2026-09-08T14:56:54.440241+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104274",
+   "title": "Who scores from hosting sports events? Local spending evidence from the EURO 2024",
+   "authors": "Florian Dorn, Marie-Theres Gasser, Kevin Kloiber, Simon Krause, Carla Krolage",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104274",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104274",
+   "abstract": "",
+   "published": "2026-09-07T23:22:49Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104334",
+   "title": "Trade shocks and human capital: Evidence from Brazil’s trade liberalization",
+   "authors": "Marcos Y. Nakaguma, Arthur A. Viaro",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104334",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104334",
+   "abstract": "",
+   "published": "2026-09-07T23:20:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/qje/qjag044",
+   "title": "Fairness Across the World",
+   "authors": "Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden",
+   "journal": "Quarterly Journal of Economics",
+   "tier": "Top-5",
+   "doi": "10.1093/qje/qjag044",
+   "url": "https://doi.org/10.1093/qje/qjag044",
+   "abstract": "Abstract This paper provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85 percent when inequality is caused by merit rather than luck, compared to a 14 percent increase when redistribution entails a 50 percent efficiency cost. We document substantial heterogeneity in fairness views and beliefs both within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.",
+   "published": "2026-09-06T11:19:39Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/s0304-3878(26)00220-8",
    "title": "Editorial Board",
@@ -44,19 +83,6 @@
    ]
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105767",
-   "title": "Immigration enforcement and safety net participation in mixed-status households",
-   "authors": "Jaeyeon Shin",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105767",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105767",
-   "abstract": "",
-   "published": "2026-09-04T19:38:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105773",
    "title": "Do marriage tax penalties cause delayed marriage reporting?",
    "authors": "William Gorman, David Splinter",
@@ -77,6 +103,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105764",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105764",
+   "abstract": "",
+   "published": "2026-09-04T19:38:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105767",
+   "title": "Immigration enforcement and safety net participation in mixed-status households",
+   "authors": "Jaeyeon Shin",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105767",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105767",
    "abstract": "",
    "published": "2026-09-04T19:38:46Z",
    "relevance": "low",
@@ -296,19 +335,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743888",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "National Tax Journal",
-   "tier": "Public",
-   "doi": "10.1086/743888",
-   "url": "https://doi.org/10.1086/743888",
-   "abstract": "",
-   "published": "2026-08-31T19:52:30Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/742158",
    "title": "Grading Government: A Deficit Management Scorecard",
    "authors": "Alan J. Auerbach, Danny Yagan",
@@ -331,6 +357,84 @@
    "url": "https://doi.org/10.1086/743394",
    "abstract": "",
    "published": "2026-08-31T19:52:30Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743888",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/743888",
+   "url": "https://doi.org/10.1086/743888",
+   "abstract": "",
+   "published": "2026-08-31T19:52:30Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743916",
+   "title": "Strategic Wishful Thinking: Implications for Forecasts",
+   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743916",
+   "url": "https://doi.org/10.1086/743916",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743896",
+   "title": "Connecting Common Ratio and Common Consequence Preferences",
+   "authors": "Christina McGranaghan, Kirby Nielsen, Ted O'Donoghue, Jason Somerville, Charles Sprenger",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743896",
+   "url": "https://doi.org/10.1086/743896",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743898",
+   "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+   "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743898",
+   "url": "https://doi.org/10.1086/743898",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743914",
+   "title": "Not Learning from Others",
+   "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743914",
+   "url": "https://doi.org/10.1086/743914",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743901",
+   "title": "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates",
+   "authors": "Christian Hellwig, Nicolas Werquin",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743901",
+   "url": "https://doi.org/10.1086/743901",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
    "topics": []
   },
@@ -368,71 +472,6 @@
    "tier": "Top-5",
    "doi": "10.1086/743915",
    "url": "https://doi.org/10.1086/743915",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743914",
-   "title": "Not Learning from Others",
-   "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743914",
-   "url": "https://doi.org/10.1086/743914",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743898",
-   "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
-   "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743898",
-   "url": "https://doi.org/10.1086/743898",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743901",
-   "title": "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates",
-   "authors": "Christian Hellwig, Nicolas Werquin",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743901",
-   "url": "https://doi.org/10.1086/743901",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743916",
-   "title": "Strategic Wishful Thinking: Implications for Forecasts",
-   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743916",
-   "url": "https://doi.org/10.1086/743916",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743896",
-   "title": "Connecting Common Ratio and Common Consequence Preferences",
-   "authors": "Christina McGranaghan, Kirby Nielsen, Ted O'Donoghue, Jason Somerville, Charles Sprenger",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743896",
-   "url": "https://doi.org/10.1086/743896",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -603,14 +642,14 @@
    ]
   },
   {
-   "id": "10.1257/aer.20230768",
-   "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
-   "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
+   "id": "10.1257/aer.116.9.3197",
+   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+   "authors": "Lawrence F. Katz",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20230768",
-   "url": "https://doi.org/10.1257/aer.20230768",
-   "abstract": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
+   "doi": "10.1257/aer.116.9.3197",
+   "url": "https://doi.org/10.1257/aer.116.9.3197",
+   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "medium",
    "topics": [
@@ -618,32 +657,17 @@
    ]
   },
   {
-   "id": "10.1257/aer.20241087",
-   "title": "Manipulation-Robust Prediction",
-   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "id": "10.1257/aer.20240701",
+   "title": "Rationing by Race",
+   "authors": "Manasvini Singh, Atheendar Venkataramani",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20241087",
-   "url": "https://doi.org/10.1257/aer.20241087",
-   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+   "doi": "10.1257/aer.20240701",
+   "url": "https://doi.org/10.1257/aer.20240701",
+   "abstract": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241765",
-   "title": "The Environmental Bias of Corporate Income Taxation",
-   "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241765",
-   "url": "https://doi.org/10.1257/aer.20241765",
-   "abstract": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
   },
   {
    "id": "10.1257/aer.20240756",
@@ -667,73 +691,6 @@
    "doi": "10.1257/aer.20240579",
    "url": "https://doi.org/10.1257/aer.20240579",
    "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241001",
-   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
-   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241001",
-   "url": "https://doi.org/10.1257/aer.20241001",
-   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240664",
-   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
-   "authors": "Ethan Ligon",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240664",
-   "url": "https://doi.org/10.1257/aer.20240664",
-   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.116.9.3197",
-   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
-   "authors": "Lawrence F. Katz",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.3197",
-   "url": "https://doi.org/10.1257/aer.116.9.3197",
-   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20241404",
-   "title": "Marriage, Fertility, and Cultural Integration in Italy",
-   "authors": "Alberto Bisin, Giulia Tura",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241404",
-   "url": "https://doi.org/10.1257/aer.20241404",
-   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240701",
-   "title": "Rationing by Race",
-   "authors": "Manasvini Singh, Atheendar Venkataramani",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240701",
-   "url": "https://doi.org/10.1257/aer.20240701",
-   "abstract": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -765,6 +722,88 @@
    "topics": [
     "公共经济"
    ]
+  },
+  {
+   "id": "10.1257/aer.20240664",
+   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+   "authors": "Ethan Ligon",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240664",
+   "url": "https://doi.org/10.1257/aer.20240664",
+   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241001",
+   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241001",
+   "url": "https://doi.org/10.1257/aer.20241001",
+   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241087",
+   "title": "Manipulation-Robust Prediction",
+   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241087",
+   "url": "https://doi.org/10.1257/aer.20241087",
+   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241765",
+   "title": "The Environmental Bias of Corporate Income Taxation",
+   "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241765",
+   "url": "https://doi.org/10.1257/aer.20241765",
+   "abstract": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20230768",
+   "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+   "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230768",
+   "url": "https://doi.org/10.1257/aer.20230768",
+   "abstract": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20241404",
+   "title": "Marriage, Fertility, and Cultural Integration in Italy",
+   "authors": "Alberto Bisin, Giulia Tura",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241404",
+   "url": "https://doi.org/10.1257/aer.20241404",
+   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jpubeco.2026.105763",
@@ -1494,19 +1533,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jdeveco.2026.103903",
-   "title": "Migration incentives and elderly health: Evidence from the Hukou reforms in China",
-   "authors": "Wei Huang, Hai Huang, Haotian Zhang, Wei Zheng",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103903",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103903",
-   "abstract": "",
-   "published": "2026-08-08T15:08:13Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jdeveco.2026.103894",
    "title": "Household consumption and savings over the life cycle: The roles of demographics and durables",
    "authors": "Neha Bairoliya, Areendam Chanda, Jingyi Fang, Fang Yang",
@@ -1514,6 +1540,19 @@
    "tier": "Development",
    "doi": "10.1016/j.jdeveco.2026.103894",
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103894",
+   "abstract": "",
+   "published": "2026-08-08T15:08:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103903",
+   "title": "Migration incentives and elderly health: Evidence from the Hukou reforms in China",
+   "authors": "Wei Huang, Hai Huang, Haotian Zhang, Wei Zheng",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103903",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103903",
    "abstract": "",
    "published": "2026-08-08T15:08:13Z",
    "relevance": "low",
@@ -1821,32 +1860,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743334",
-   "title": "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery",
-   "authors": "Kohei Takeda, Atsushi Yamagishi",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743334",
-   "url": "https://doi.org/10.1086/743334",
-   "abstract": "",
-   "published": "2026-07-31T21:28:12Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743331",
-   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
-   "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743331",
-   "url": "https://doi.org/10.1086/743331",
-   "abstract": "",
-   "published": "2026-07-31T21:28:12Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743329",
    "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
    "authors": "Thomas Wollmann",
@@ -1886,6 +1899,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/743331",
+   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+   "authors": "Rodrigo Adao, Costas Arkolakis, Sharat Ganapati",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743331",
+   "url": "https://doi.org/10.1086/743331",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743333",
    "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
    "authors": "Nathan Canen, Chad Kendall, Francesco Trebbi",
@@ -1893,6 +1919,19 @@
    "tier": "Top-5",
    "doi": "10.1086/743333",
    "url": "https://doi.org/10.1086/743333",
+   "abstract": "",
+   "published": "2026-07-31T21:28:12Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743334",
+   "title": "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery",
+   "authors": "Kohei Takeda, Atsushi Yamagishi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743334",
+   "url": "https://doi.org/10.1086/743334",
    "abstract": "",
    "published": "2026-07-31T21:28:12Z",
    "relevance": "low",
@@ -1912,19 +1951,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743387",
-   "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
-   "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743387",
-   "url": "https://doi.org/10.1086/743387",
-   "abstract": "",
-   "published": "2026-07-31T19:11:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743388",
    "title": "Safe Spaces: Shelters or Tribes?",
    "authors": "Jean Tirole",
@@ -1938,69 +1964,15 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.116.8.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
+   "id": "10.1086/743387",
+   "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
+   "authors": "Peter Christensen, Gustavo Nino, Adam Osman",
+   "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1257/aer.116.8.i",
-   "url": "https://doi.org/10.1257/aer.116.8.i",
+   "doi": "10.1086/743387",
+   "url": "https://doi.org/10.1086/743387",
    "abstract": "",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20220264",
-   "title": "Talent Hoarding in Organizations",
-   "authors": "Ingrid Haegele",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20220264",
-   "url": "https://doi.org/10.1257/aer.20220264",
-   "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231414",
-   "title": "Remote Work and City Structure",
-   "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231414",
-   "url": "https://doi.org/10.1257/aer.20231414",
-   "abstract": "Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent. (JEL I12, J22, M54, R23, R31)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20250295",
-   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
-   "authors": "Karl M. Aspelund, Anna Russo",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250295",
-   "url": "https://doi.org/10.1257/aer.20250295",
-   "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240617",
-   "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
-   "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240617",
-   "url": "https://doi.org/10.1257/aer.20240617",
-   "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
-   "published": "2026-07-31T12:49:41Z",
+   "published": "2026-07-31T19:11:41Z",
    "relevance": "low",
    "topics": []
   },
@@ -2031,27 +2003,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240094",
-   "title": "Energy Transitions in Regulated Markets",
-   "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+   "id": "10.1257/aer.20250305",
+   "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
+   "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240094",
-   "url": "https://doi.org/10.1257/aer.20240094",
-   "abstract": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
-   "published": "2026-07-31T12:49:41Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231696",
-   "title": "Professional Motivations in the Public Sector: Evidence from Police Officers",
-   "authors": "Aaron Chalfin, Felipe Gonçalves",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231696",
-   "url": "https://doi.org/10.1257/aer.20231696",
-   "abstract": "We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement. (JEL K42, J33, J45)",
+   "doi": "10.1257/aer.20250305",
+   "url": "https://doi.org/10.1257/aer.20250305",
+   "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)",
    "published": "2026-07-31T12:49:41Z",
    "relevance": "low",
    "topics": []
@@ -2083,17 +2042,97 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20250305",
-   "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
-   "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
+   "id": "10.1257/aer.116.8.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20250305",
-   "url": "https://doi.org/10.1257/aer.20250305",
-   "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent. (JEL J15, K37, K42)",
+   "doi": "10.1257/aer.116.8.i",
+   "url": "https://doi.org/10.1257/aer.116.8.i",
+   "abstract": "",
    "published": "2026-07-31T12:49:41Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/aer.20220264",
+   "title": "Talent Hoarding in Organizations",
+   "authors": "Ingrid Haegele",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20220264",
+   "url": "https://doi.org/10.1257/aer.20220264",
+   "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm. (JEL D22, J23, L60, M12, M51, M54)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250295",
+   "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+   "authors": "Karl M. Aspelund, Anna Russo",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250295",
+   "url": "https://doi.org/10.1257/aer.20250295",
+   "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or “additional”—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts. (JEL D44, D82, Q24, Q57, R14)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240617",
+   "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+   "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240617",
+   "url": "https://doi.org/10.1257/aer.20240617",
+   "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC. (JEL D82, H51, I11, I13, I18)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240094",
+   "title": "Energy Transitions in Regulated Markets",
+   "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240094",
+   "url": "https://doi.org/10.1257/aer.20240094",
+   "abstract": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231696",
+   "title": "Professional Motivations in the Public Sector: Evidence from Police Officers",
+   "authors": "Aaron Chalfin, Felipe Gonçalves",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231696",
+   "url": "https://doi.org/10.1257/aer.20231696",
+   "abstract": "We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement. (JEL K42, J33, J45)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231414",
+   "title": "Remote Work and City Structure",
+   "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231414",
+   "url": "https://doi.org/10.1257/aer.20231414",
+   "abstract": "Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent. (JEL I12, J22, M54, R23, R31)",
+   "published": "2026-07-31T12:49:41Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "10.1016/j.jpubeco.2026.105591",
@@ -2120,6 +2159,49 @@
    "published": "2026-07-30T19:22:08Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240302",
+   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
+   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240302",
+   "url": "https://doi.org/10.1257/pol.20240302",
+   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20230384",
+   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
+   "authors": "Jamein P. Cunningham, Rob Gillezeau",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230384",
+   "url": "https://doi.org/10.1257/pol.20230384",
+   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240197",
+   "title": "The Option Value of Municipal Liquidity",
+   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240197",
+   "url": "https://doi.org/10.1257/pol.20240197",
+   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
   },
   {
    "id": "10.1257/pol.20220738",
@@ -2153,112 +2235,19 @@
    ]
   },
   {
-   "id": "10.1257/pol.20230070",
-   "title": "Hurricanes, Climate Change Policies, and Electoral Accountability",
-   "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
+   "id": "10.1257/pol.20240212",
+   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
+   "authors": "Sarika Gupta",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20230070",
-   "url": "https://doi.org/10.1257/pol.20230070",
-   "abstract": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240369",
-   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
-   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240369",
-   "url": "https://doi.org/10.1257/pol.20240369",
-   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20230384",
-   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
-   "authors": "Jamein P. Cunningham, Rob Gillezeau",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230384",
-   "url": "https://doi.org/10.1257/pol.20230384",
-   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240197",
-   "title": "The Option Value of Municipal Liquidity",
-   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240197",
-   "url": "https://doi.org/10.1257/pol.20240197",
-   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
+   "doi": "10.1257/pol.20240212",
+   "url": "https://doi.org/10.1257/pol.20240212",
+   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "medium",
    "topics": [
-    "因果推断方法"
+    "公共经济"
    ]
-  },
-  {
-   "id": "10.1257/pol.20230552",
-   "title": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
-   "authors": "Joakim A. Weill, Lucas Davis",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230552",
-   "url": "https://doi.org/10.1257/pol.20230552",
-   "abstract": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20220777",
-   "title": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
-   "authors": "Guilherme Lichand, Nina Cunha, Ricardo A. Madeira, Eric Bettinger",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20220777",
-   "url": "https://doi.org/10.1257/pol.20220777",
-   "abstract": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240478",
-   "title": "Racial and Ethnic Inequality and the China Shock",
-   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240478",
-   "url": "https://doi.org/10.1257/pol.20240478",
-   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240361",
-   "title": "Alcohol, Labor, and Agriculture",
-   "authors": "David M. A. Murphy",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240361",
-   "url": "https://doi.org/10.1257/pol.20240361",
-   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
   },
   {
    "id": "10.1257/pol.20240356",
@@ -2286,36 +2275,6 @@
    "relevance": "medium",
    "topics": [
     "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240302",
-   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
-   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240302",
-   "url": "https://doi.org/10.1257/pol.20240302",
-   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240212",
-   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
-   "authors": "Sarika Gupta",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240212",
-   "url": "https://doi.org/10.1257/pol.20240212",
-   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
    ]
   },
   {
@@ -2356,6 +2315,86 @@
    "doi": "10.1257/pol.18.3.i",
    "url": "https://doi.org/10.1257/pol.18.3.i",
    "abstract": "",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240478",
+   "title": "Racial and Ethnic Inequality and the China Shock",
+   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240478",
+   "url": "https://doi.org/10.1257/pol.20240478",
+   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240369",
+   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
+   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240369",
+   "url": "https://doi.org/10.1257/pol.20240369",
+   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240361",
+   "title": "Alcohol, Labor, and Agriculture",
+   "authors": "David M. A. Murphy",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240361",
+   "url": "https://doi.org/10.1257/pol.20240361",
+   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230552",
+   "title": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
+   "authors": "Joakim A. Weill, Lucas Davis",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230552",
+   "url": "https://doi.org/10.1257/pol.20230552",
+   "abstract": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/pol.20220777",
+   "title": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
+   "authors": "Guilherme Lichand, Nina Cunha, Ricardo A. Madeira, Eric Bettinger",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20220777",
+   "url": "https://doi.org/10.1257/pol.20220777",
+   "abstract": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
+   "published": "2026-07-30T13:55:23Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20230070",
+   "title": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+   "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20230070",
+   "url": "https://doi.org/10.1257/pol.20230070",
+   "abstract": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
    "published": "2026-07-30T13:55:23Z",
    "relevance": "low",
    "topics": []
@@ -3659,35 +3698,6 @@
    "title_zh": "进入放宽的有效性：来自中国出口强制检验放宽的准实验证据",
    "ai_relevance": "medium",
    "ai_reason": "市场进入管制政策涉及企业区位与进入决策，与企业进入模型方向有交集"
-  },
-  {
-   "id": "10.1093/qje/qjag036",
-   "title": "Correction to: A Further Augmentation of the Solow Model and the Empirics of Economic Growth for OECD Countries",
-   "authors": "",
-   "journal": "Quarterly Journal of Economics",
-   "tier": "Top-5",
-   "doi": "10.1093/qje/qjag036",
-   "url": "https://doi.org/10.1093/qje/qjag036",
-   "abstract": "",
-   "published": "2026-07-10T11:57:50Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105710",
-   "title": "Consumption responses to a major minimum wage increase: Evidence from Spain",
-   "authors": "Ignacio González, Hector Sala, Pedro Trivin",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105710",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105710",
-   "abstract": "",
-   "published": "2026-07-09T20:01:41Z",
-   "relevance": "low",
-   "topics": [],
-   "title_zh": "最低工资大幅提升的消费反应:西班牙证据",
-   "ai_relevance": "low",
-   "ai_reason": "最低工资政策评估,属公共经济学范畴,与赌博和家庭债务困境无直接关联"
   }
  ],
  "working_papers": [
@@ -7234,6 +7244,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html?utm_source=rss&utm_medium=rss&utm_campaign=some-navier-stokes-updates",
+   "title": "Some Navier-Stokes updates",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html?utm_source=rss&utm_medium=rss&utm_campaign=some-navier-stokes-updates",
+   "summary": "Some Terry Tao. More Terry Tao. Some ChatGPT. Some are calling this “a Deep Blue moment” for AI. All via T., a mathematician. The post Some Navier-Stokes updates appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-08T13:39:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://basisonline.org/2026/09/08/how-smartphone-app-family-help-prevent-dwi/",
+   "title": "The DRAM Vol. 22(9) – How a smartphone app uses family to help prevent DWI",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/09/08/how-smartphone-app-family-help-prevent-dwi/",
+   "summary": "This week, The DRAM reviews an article by W. Gill Woodall and colleagues that trialed a smartphone app using family-involved therapy approaches to reduce alcohol use and prevent IID lockout events.",
+   "published": "2026-09-08T13:37:04+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/no-doing-no-learning.html?utm_source=rss&utm_medium=rss&utm_campaign=no-doing-no-learning",
+   "title": "No Doing, No Learning",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/no-doing-no-learning.html?utm_source=rss&utm_medium=rss&utm_campaign=no-doing-no-learning",
+   "summary": "A regulation that raises gasoline prices makes people angry but when regulation prevents an industry from ever existing, most people never learn what they lost. Consider nuclear power. Overnight construction costs for early U.S. demonstration reactors fell 81 percent between 1954 and 1968. For reactors begun between 1967 and 1972, costs rose 187 percent. The […] The post No Doing, No Learning appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-08T11:16:52+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
+   "title": "Ed Elson and Scott Galloway interview me on AI",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
+   "summary": "The post Ed Elson and Scott Galloway interview me on AI appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-08T07:00:39+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html?utm_source=rss&utm_medium=rss&utm_campaign=will-new-transportation-technologies-increase-urban-density",
+   "title": "Will new transportation technologies increase urban density?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html?utm_source=rss&utm_medium=rss&utm_campaign=will-new-transportation-technologies-increase-urban-density",
+   "summary": "Will 21st century transportation innovations work against urban density, as the car did in the 20th century, or promote urban centralization, as the railroad did in the 19th century? Reducing the cost of commuting always reduces urban centralization in the classic Alonso-Muth-Mills model but that result reverses if the number of trips is endogenous and […] The post Will new transportation technologies increase urban density? appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-08T04:56:22+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
+   "title": "South Korean aspirational markets in everything",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
+   "summary": "Instead of Amazon, I spent the past week browsing a new breed of websites known as “dopamine sites,” a trend that emerged in South Korea. These websites — like Dopamine Shop and FoodNeverComes — recreate the entire ritual of online shopping: You search for products, compare reviews, add items to your cart, enter a shipping address, place an order, […] The post South Korean aspirational markets in everything appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-07T18:41:20+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
    "title": "Monday assorted links",
    "source": "Marginal Revolution",
@@ -7748,92 +7826,42 @@
    "published": "2026-08-29T16:07:42+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/scholar-data.html?utm_source=rss&utm_medium=rss&utm_campaign=scholar-data",
-   "title": "Scholar Data",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/scholar-data.html?utm_source=rss&utm_medium=rss&utm_campaign=scholar-data",
-   "summary": "In our paper, A Skeptical View of the National Science Foundation’s Role in Economic Research, Tyler and I point out that if the NSF is doing what it should, it ought to be doing very different things than other funders: Public goods theory tells us that the National Science Foundation should support activities that are […] The post Scholar Data appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-29T11:20:18+00:00",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdW5QSDZUZG1fU0hyNGNiU01TT0NjaEt2UlphTkJWY1REdEktckNwd01nOU9SR2QzV1pVaWpQQWwzWE5ncFd1OU5BRERZdUpiWnhvZ2MzNi1jTDUwNk1QVk8wcDh5ZXhncFpOWHpKSHFDUlR6a041VUp3TDdyaDFWenoza0ZtZUhmR3lENEVhWHZWeDRMc2h5YWdUc1NKcU1jcGhsNTBnOUs4OWVLaV9jUTVCZEgtR29RdklxajdNbi1uRmc?oc=5",
-   "title": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress - Salon.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdW5QSDZUZG1fU0hyNGNiU01TT0NjaEt2UlphTkJWY1REdEktckNwd01nOU9SR2QzV1pVaWpQQWwzWE5ncFd1OU5BRERZdUpiWnhvZ2MzNi1jTDUwNk1QVk8wcDh5ZXhncFpOWHpKSHFDUlR6a041VUp3TDdyaDFWenoza0ZtZUhmR3lENEVhWHZWeDRMc2h5YWdUc1NKcU1jcGhsNTBnOUs4OWVLaV9jUTVCZEgtR29RdklxajdNbi1uRmc?oc=5",
-   "summary": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress Salon.com",
-   "published": "2026-08-29T10:00:08+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/costco-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=costco-facts-of-the-day",
-   "title": "Costco facts of the day",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/costco-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=costco-facts-of-the-day",
-   "summary": "Costco sold 157.4mn rotisserie chickens worldwide last year, almost double the number of a decade ago. “It’s $4.99 and for Costco members, that’s one fantastic deal. I don’t think you can produce it for that,” said Walt Shafer, who oversaw the construction and management of the Nebraska site before he retired from Costco this year. […] The post Costco facts of the day appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-29T06:42:17+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html?utm_source=rss&utm_medium=rss&utm_campaign=visions-from-san-francisco-bay",
-   "title": "*Visions from San Francisco Bay*",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html?utm_source=rss&utm_medium=rss&utm_campaign=visions-from-san-francisco-bay",
-   "summary": "European and American capitalism were different. The violence of human clashes in America took place on the surface, in the open. The violence in Europe became formalized, coalesced with class divions hallowed by centuries; it was interiorized, ingrained, or baked in, if one may use such an expression. American capitalism was founded on daring, resourcefulness, […] The post *Visions from San Francisco Bay* appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-29T04:21:46+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1NUS1JaLVdvNEFTTWlzQ2lTR1RTZHdrc05rekFNSkVOMmFFVUxRVU1tbXIzc3I2ajF2V3F4Z09uTjVRMDFHMi15aExaWFVFSlFwU2VvVjR3WE9sUFVDYUpqOERyTEV3SVhxc2NZY3lrM2RvZnBWajJhUzRWZFZjX3JjTVZHMVBVNHRCOTlMdzM0cGpwdk82NmIwMU9LcDhZ?oc=5",
-   "title": "Kalshi cannot block Nevada’s regulation of sports event contracts, court rules - CDC Gaming",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1NUS1JaLVdvNEFTTWlzQ2lTR1RTZHdrc05rekFNSkVOMmFFVUxRVU1tbXIzc3I2ajF2V3F4Z09uTjVRMDFHMi15aExaWFVFSlFwU2VvVjR3WE9sUFVDYUpqOERyTEV3SVhxc2NZY3lrM2RvZnBWajJhUzRWZFZjX3JjTVZHMVBVNHRCOTlMdzM0cGpwdk82NmIwMU9LcDhZ?oc=5",
-   "summary": "Kalshi cannot block Nevada’s regulation of sports event contracts, court rules CDC Gaming",
-   "published": "2026-08-28T19:08:41+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tysons-corner-alaska-fact-of-the-day",
-   "title": "Tysons Corner (Alaska) fact of the day",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tysons-corner-alaska-fact-of-the-day",
-   "summary": "The centerpiece is Tysons Corner Center, today the eighth largest mall in the country, and one of the largest sub-city-sized markets for office space. It is half-owned by the Alaska Permanent Fund, which is the state-owned corporation that invests oil revenue on behalf of Alaska’s citizens, and half-owned by Macerich, a giant REIT, which is in turn owned by hundreds of […] The post Tysons Corner (Alaska) fact of the day appeared first on Marginal REVOLUTION .",
-   "published": "2026-08-28T18:37:37+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenJGUEZWM2JoaW1vc1NwQ0pwREUwTkJLaDVFN3JmWklIWXI3aVhQeE9DRDdzU1AyaGxoUjJabDNZQ0RDVVhBb2RUUkdGSWNVZW5LV1dJM3lqN2FialhzcnB0RnA2LU9GUURSUkFVSk8wbG1LV0pHS1JoaG1VTDVVNzhoZFR1OE1fM3l0WGZTRktIRTJBZHhRNzNVTDI?oc=5",
-   "title": "States can regulate prediction markets as gambling, federal appeals court rules - CNN",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenJGUEZWM2JoaW1vc1NwQ0pwREUwTkJLaDVFN3JmWklIWXI3aVhQeE9DRDdzU1AyaGxoUjJabDNZQ0RDVVhBb2RUUkdGSWNVZW5LV1dJM3lqN2FialhzcnB0RnA2LU9GUURSUkFVSk8wbG1LV0pHS1JoaG1VTDVVNzhoZFR1OE1fM3l0WGZTRktIRTJBZHhRNzNVTDI?oc=5",
-   "summary": "States can regulate prediction markets as gambling, federal appeals court rules CNN",
-   "published": "2026-08-28T18:17:58+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-107498",
+   "title": "Banking Services: Cannabis Businesses Face Access Challenges",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107498",
+   "summary": "What GAO Found In 2014, the Financial Crimes Enforcement Network (FinCEN)—a federal agency that helps combat financial crimes—issued guidance on how financial institutions can serve cannabis-related businesses (CRB) while complying with Bank Secrecy Act (BSA) requirements. This guidance instructs institutions to gather thorough information on CRB customers and file suspicious activity reports for certain transactions involving CRBs. Federal banking regulators help oversee institutions’ compliance with these requirements through BSA examinations. Financial institutions consider various factors ",
+   "published": "2026-09-08T11:24:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108127",
+   "title": "Chemical Security: DHS Should Provide Options for Voluntary Vetting of Facility Personnel for Terrorist Ties",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108127",
+   "summary": "What GAO Found The Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency (CISA) is the sector risk management agency (SRMA) for the U.S. chemical sector, responsible for implementing programs to assist facility owners and operators in identifying and mitigating security risks. In 2007, DHS established a regulatory program to mitigate security risks for high-risk chemical facilities. As part of this program, CISA required facilities to vet their personnel and certain unescorted visitors for terrorist ties against the U.S. government’s terrorist watchlist. Vett",
+   "published": "2026-09-08T11:19:29+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109086",
+   "title": "Priority Open Recommendations: Department of State",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109086",
+   "summary": "What GAO Found In April 2025, GAO identified 13 priority recommendations for the Department of State. Since then, State has implemented six of those recommendations, and GAO removed the priority status from two recommendations. In September 2026, GAO identified an additional four priority recommendations, bringing the total to nine. GAO is highlighting the following two areas that warrant timely and focused attention: Managing fraud risks, and Strengthening oversight of U.S. security assistance. Addressing GAO’s recommendations in these areas would help determine whether Ukraine used direct bu",
+   "published": "2026-09-08T11:18:54+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108208",
    "title": "Federal Rulemaking: Agencies Continue to Use Good Cause and Other Mechanisms to Forgo Public Comments",
