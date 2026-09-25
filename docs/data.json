@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-09-24T15:43:52.242647+00:00",
+ "generated_at": "2026-09-25T15:44:41.510899+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jinteco.2026.104339",
+   "title": "Out with the new, in with the old? Supranational bank supervision and the composition of firm investment",
+   "authors": "Miguel Ampudia, Thorsten Beck, Alexander Popov",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104339",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104339",
+   "abstract": "",
+   "published": "2026-09-24T23:12:07Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105782",
+   "title": "Information access and college admission outcomes",
+   "authors": "Le Kang, Yang Song, Li Chen",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105782",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105782",
+   "abstract": "",
+   "published": "2026-09-24T16:51:24Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104287",
+   "title": "The welfare effects of input price discrimination under endogenous horizontal differentiation",
+   "authors": "Duarte Brito, Markos Tselekounis",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104287",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104287",
+   "abstract": "",
+   "published": "2026-09-24T15:28:14Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105780",
    "title": "Transporting behavioral insights to low-income households: A field experiment on energy efficiency investments",
@@ -545,27 +584,53 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta20884",
-   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
-   "authors": "Molly Schnell",
+   "id": "10.3982/ecta23230",
+   "title": "The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair",
+   "authors": "Marek Pycia, Peter Troyan",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta20884",
-   "url": "https://doi.org/10.3982/ecta20884",
-   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
+   "doi": "10.3982/ecta23230",
+   "url": "https://doi.org/10.3982/ecta23230",
+   "abstract": "Random Priority is a popular mechanism used to allocate a set of objects to a set of agents without the use of monetary transfers. Random Priority is appealing because it satisfies desirable efficiency, fairness, and incentive properties. Is it the only mechanism with these properties? We answer this long‐standing question in the positive: Random Priority is the unique mechanism that is Pareto efficient, symmetric, and obviously strategy‐proof.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "10.3982/ecta22363",
-   "title": "Screening Property Rights for Innovation",
-   "authors": "William Matcham, Mark Schankerman",
+   "id": "10.3982/ecta945bm",
+   "title": "Backmatter of Econometrica Vol. 94 Iss. 5",
+   "authors": "",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta22363",
-   "url": "https://doi.org/10.3982/ecta22363",
-   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
+   "doi": "10.3982/ecta945bm",
+   "url": "https://doi.org/10.3982/ecta945bm",
+   "abstract": "",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta18759",
+   "title": "Promoting Women to Managerial Roles in the Bangladeshi Garment Sector",
+   "authors": "Rocco Macchiavello, Andreas Menzel, Atonu Rabbani, Christopher Woodruff",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta18759",
+   "url": "https://doi.org/10.3982/ecta18759",
+   "abstract": "Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta22524",
+   "title": "Curtailing False News, Amplifying Truth",
+   "authors": "Sergei Guriev, Emeric Henry, Théo Marquis, Ekaterina Zhuravskaya",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta22524",
+   "url": "https://doi.org/10.3982/ecta22524",
+   "abstract": "We develop a comprehensive framework to evaluate policy interventions aimed at curbing false news dissemination on social media. Using a randomized experiment on Twitter and X during the 2022 and 2024 U.S. elections, we assess priming for misinformation awareness, fact‐checking, confirmation clicks, and content consideration prompts. Priming proves most effective in reducing false‐news sharing while preserving true news dissemination. We build and structurally estimate a model of sharing, motivated by partisan persuasion, partisan signaling, and reputational concerns. We identify three channels through which policies influence sharing: (i) updating perceived veracity and partisanship of content, (ii) raising salience of reputation, and (iii) increasing engagement costs. Differences in the effects of policies are explained by the salience and cost channels. Content‐neutral priming is best at enhancing salience of reputation at minimal cost and almost as effective as fact‐checking in updating veracity. Salience channel is stronger when users encounter uncontroversially true content.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -610,32 +675,6 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta18759",
-   "title": "Promoting Women to Managerial Roles in the Bangladeshi Garment Sector",
-   "authors": "Rocco Macchiavello, Andreas Menzel, Atonu Rabbani, Christopher Woodruff",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta18759",
-   "url": "https://doi.org/10.3982/ecta18759",
-   "abstract": "Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta22524",
-   "title": "Curtailing False News, Amplifying Truth",
-   "authors": "Sergei Guriev, Emeric Henry, Théo Marquis, Ekaterina Zhuravskaya",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta22524",
-   "url": "https://doi.org/10.3982/ecta22524",
-   "abstract": "We develop a comprehensive framework to evaluate policy interventions aimed at curbing false news dissemination on social media. Using a randomized experiment on Twitter and X during the 2022 and 2024 U.S. elections, we assess priming for misinformation awareness, fact‐checking, confirmation clicks, and content consideration prompts. Priming proves most effective in reducing false‐news sharing while preserving true news dissemination. We build and structurally estimate a model of sharing, motivated by partisan persuasion, partisan signaling, and reputational concerns. We identify three channels through which policies influence sharing: (i) updating perceived veracity and partisanship of content, (ii) raising salience of reputation, and (iii) increasing engagement costs. Differences in the effects of policies are explained by the salience and cost channels. Content‐neutral priming is best at enhancing salience of reputation at minimal cost and almost as effective as fact‐checking in updating veracity. Salience channel is stronger when users encounter uncontroversially true content.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.3982/ecta21571",
    "title": "Causal Inference for Spatial Treatments",
    "authors": "Michael Pollmann",
@@ -651,6 +690,19 @@
    ]
   },
   {
+   "id": "10.3982/ecta24284",
+   "title": "Genetic Prediction and Adverse Selection",
+   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta24284",
+   "url": "https://doi.org/10.3982/ecta24284",
+   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta945fm",
    "title": "Frontmatter of Econometrica 94 Iss. 5",
    "authors": "",
@@ -658,32 +710,6 @@
    "tier": "Top-5",
    "doi": "10.3982/ecta945fm",
    "url": "https://doi.org/10.3982/ecta945fm",
-   "abstract": "",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta23230",
-   "title": "The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair",
-   "authors": "Marek Pycia, Peter Troyan",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23230",
-   "url": "https://doi.org/10.3982/ecta23230",
-   "abstract": "Random Priority is a popular mechanism used to allocate a set of objects to a set of agents without the use of monetary transfers. Random Priority is appealing because it satisfies desirable efficiency, fairness, and incentive properties. Is it the only mechanism with these properties? We answer this long‐standing question in the positive: Random Priority is the unique mechanism that is Pareto efficient, symmetric, and obviously strategy‐proof.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta945bm",
-   "title": "Backmatter of Econometrica Vol. 94 Iss. 5",
-   "authors": "",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta945bm",
-   "url": "https://doi.org/10.3982/ecta945bm",
    "abstract": "",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
@@ -703,14 +729,27 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta24284",
-   "title": "Genetic Prediction and Adverse Selection",
-   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
+   "id": "10.3982/ecta20884",
+   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
+   "authors": "Molly Schnell",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta24284",
-   "url": "https://doi.org/10.3982/ecta24284",
-   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+   "doi": "10.3982/ecta20884",
+   "url": "https://doi.org/10.3982/ecta20884",
+   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta22363",
+   "title": "Screening Property Rights for Innovation",
+   "authors": "William Matcham, Mark Schankerman",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta22363",
+   "url": "https://doi.org/10.3982/ecta22363",
+   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -794,19 +833,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744015",
-   "title": "Behavioral Attenuation",
-   "authors": "Benjamin Enke, Thomas Graeber, Ryan Oprea, Jeffrey Yang",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744015",
-   "url": "https://doi.org/10.1086/744015",
-   "abstract": "",
-   "published": "2026-09-11T17:31:03Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/744049",
    "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
    "authors": "Barbara Biasi, Chao Fu, John Stromme",
@@ -814,19 +840,6 @@
    "tier": "Top-5",
    "doi": "10.1086/744049",
    "url": "https://doi.org/10.1086/744049",
-   "abstract": "",
-   "published": "2026-09-11T17:31:03Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/744012",
-   "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
-   "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744012",
-   "url": "https://doi.org/10.1086/744012",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
    "relevance": "low",
@@ -848,6 +861,32 @@
    ]
   },
   {
+   "id": "10.1086/744015",
+   "title": "Behavioral Attenuation",
+   "authors": "Benjamin Enke, Thomas Graeber, Ryan Oprea, Jeffrey Yang",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744015",
+   "url": "https://doi.org/10.1086/744015",
+   "abstract": "",
+   "published": "2026-09-11T17:31:03Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744012",
+   "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
+   "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744012",
+   "url": "https://doi.org/10.1086/744012",
+   "abstract": "",
+   "published": "2026-09-11T17:31:03Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1016/j.jdeveco.2026.103932",
    "title": "The (Hidden) Samaritan Contest*",
    "authors": "Rabah Arezki, Youssouf Camara, Frederick Van Der Ploeg, Grégoire Rota-Graziosi",
@@ -861,19 +900,6 @@
    "topics": []
   },
   {
-   "id": "10.1093/restud/rdag101",
-   "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
-   "authors": "Brett Green, Cyrus Mevorach, Curtis R Taylor",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag101",
-   "url": "https://doi.org/10.1093/restud/rdag101",
-   "abstract": "Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Pre-emption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.",
-   "published": "2026-09-10T11:52:31Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1093/restud/rdag102",
    "title": "Company Wage Policy in a Low-Wage Labor Market",
    "authors": "Giulia Giupponi, Stephen Machin",
@@ -882,6 +908,19 @@
    "doi": "10.1093/restud/rdag102",
    "url": "https://doi.org/10.1093/restud/rdag102",
    "abstract": "Abstract We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labor market.",
+   "published": "2026-09-10T11:52:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag101",
+   "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
+   "authors": "Brett Green, Cyrus Mevorach, Curtis R Taylor",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag101",
+   "url": "https://doi.org/10.1093/restud/rdag101",
+   "abstract": "Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Pre-emption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.",
    "published": "2026-09-10T11:52:31Z",
    "relevance": "low",
    "topics": []
@@ -1046,6 +1085,19 @@
    ]
   },
   {
+   "id": "10.1016/j.jpubeco.2026.105773",
+   "title": "Do marriage tax penalties cause delayed marriage reporting?",
+   "authors": "William Gorman, David Splinter",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105773",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105773",
+   "abstract": "",
+   "published": "2026-09-04T19:38:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1016/j.jpubeco.2026.105767",
    "title": "Immigration enforcement and safety net participation in mixed-status households",
    "authors": "Jaeyeon Shin",
@@ -1066,19 +1118,6 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105764",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105764",
-   "abstract": "",
-   "published": "2026-09-04T19:38:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105773",
-   "title": "Do marriage tax penalties cause delayed marriage reporting?",
-   "authors": "William Gorman, David Splinter",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105773",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105773",
    "abstract": "",
    "published": "2026-09-04T19:38:46Z",
    "relevance": "low",
@@ -1154,7 +1193,7 @@
   },
   {
    "id": "10.1016/j.jdeveco.2026.103922",
-   "title": "From LinkedIn to Labor Statistics: Using Revelio Microdata for Labor Market Research in Developing Economies",
+   "title": "From LinkedIn to labor statistics: Using Revelio microdata for labor market research in developing economies",
    "authors": "Samuel Chang, Hans B. Christensen, Ziang Zhang",
    "journal": "Journal of Development Economics",
    "tier": "Development",
@@ -1298,6 +1337,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/742158",
+   "title": "Grading Government: A Deficit Management Scorecard",
+   "authors": "Alan J. Auerbach, Danny Yagan",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742158",
+   "url": "https://doi.org/10.1086/742158",
+   "abstract": "",
+   "published": "2026-08-31T19:52:30Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743888",
    "title": "Front Matter",
    "authors": "",
@@ -1324,19 +1376,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/742158",
-   "title": "Grading Government: A Deficit Management Scorecard",
-   "authors": "Alan J. Auerbach, Danny Yagan",
-   "journal": "National Tax Journal",
-   "tier": "Public",
-   "doi": "10.1086/742158",
-   "url": "https://doi.org/10.1086/742158",
-   "abstract": "",
-   "published": "2026-08-31T19:52:30Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743900",
    "title": "Collusion through Common Leadership",
    "authors": "Alejandro Herrera-Caicedo, Jessica Jeffers, Elena Prager",
@@ -1344,6 +1383,19 @@
    "tier": "Top-5",
    "doi": "10.1086/743900",
    "url": "https://doi.org/10.1086/743900",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743915",
+   "title": "The Macroeconomic Dynamics of Labor Market Polices",
+   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743915",
+   "url": "https://doi.org/10.1086/743915",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1363,19 +1415,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/743916",
-   "title": "Strategic Wishful Thinking: Implications for Forecasts",
-   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743916",
-   "url": "https://doi.org/10.1086/743916",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743914",
    "title": "Not Learning from Others",
    "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
@@ -1383,19 +1422,6 @@
    "tier": "Top-5",
    "doi": "10.1086/743914",
    "url": "https://doi.org/10.1086/743914",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743896",
-   "title": "Connecting Common Ratio and Common Consequence Preferences",
-   "authors": "Christina McGranaghan, Kirby Nielsen, Ted O'Donoghue, Jason Somerville, Charles Sprenger",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743896",
-   "url": "https://doi.org/10.1086/743896",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1415,13 +1441,26 @@
    "topics": []
   },
   {
-   "id": "10.1086/743915",
-   "title": "The Macroeconomic Dynamics of Labor Market Polices",
-   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
+   "id": "10.1086/743896",
+   "title": "Connecting Common Ratio and Common Consequence Preferences",
+   "authors": "Christina McGranaghan, Kirby Nielsen, Ted O'Donoghue, Jason Somerville, Charles Sprenger",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/743915",
-   "url": "https://doi.org/10.1086/743915",
+   "doi": "10.1086/743896",
+   "url": "https://doi.org/10.1086/743896",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743916",
+   "title": "Strategic Wishful Thinking: Implications for Forecasts",
+   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743916",
+   "url": "https://doi.org/10.1086/743916",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1605,19 +1644,6 @@
    ]
   },
   {
-   "id": "10.1257/aer.116.9.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.i",
-   "url": "https://doi.org/10.1257/aer.116.9.i",
-   "abstract": "",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20230768",
    "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
    "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
@@ -1633,19 +1659,17 @@
    ]
   },
   {
-   "id": "10.1257/aer.116.9.3197",
-   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
-   "authors": "Lawrence F. Katz",
+   "id": "10.1257/aer.20240664",
+   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+   "authors": "Ethan Ligon",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.3197",
-   "url": "https://doi.org/10.1257/aer.116.9.3197",
-   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
+   "doi": "10.1257/aer.20240664",
+   "url": "https://doi.org/10.1257/aer.20240664",
+   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
    "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1257/aer.20241765",
@@ -1663,34 +1687,6 @@
    ]
   },
   {
-   "id": "10.1257/aer.20240404",
-   "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
-   "authors": "Patrick J. Kennedy, Christine L. Dobridge, Paul Landefeld, Jacob Mortenson",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240404",
-   "url": "https://doi.org/10.1257/aer.20240404",
-   "abstract": "We study the effects of the largest corporate income tax cut in US history on firms and workers. To identify causal effects, we use employer-employee matched tax records and event studies comparing similarly sized firms in the same industry that faced divergent tax changes due to their preexisting legal status. Tax cuts cause increases in firms' investment, sales, profits, employment, and payrolls, with earnings gains concentrated among highly paid workers. In the short run, 87 percent of private income gains flow to the top 10 percent of the income distribution. (JEL D22, D31, G31, H25, H32, J23, L25)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20241087",
-   "title": "Manipulation-Robust Prediction",
-   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241087",
-   "url": "https://doi.org/10.1257/aer.20241087",
-   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20240756",
    "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
    "authors": "Amanda Dahlstrand",
@@ -1704,40 +1700,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240701",
-   "title": "Rationing by Race",
-   "authors": "Manasvini Singh, Atheendar Venkataramani",
+   "id": "10.1257/aer.116.9.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240701",
-   "url": "https://doi.org/10.1257/aer.20240701",
-   "abstract": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241001",
-   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
-   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241001",
-   "url": "https://doi.org/10.1257/aer.20241001",
-   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240579",
-   "title": "Contextually Private Mechanisms",
-   "authors": "Andreas Haupt, Zoë Hitzig",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240579",
-   "url": "https://doi.org/10.1257/aer.20240579",
-   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
+   "doi": "10.1257/aer.116.9.i",
+   "url": "https://doi.org/10.1257/aer.116.9.i",
+   "abstract": "",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -1756,14 +1726,83 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240664",
-   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
-   "authors": "Ethan Ligon",
+   "id": "10.1257/aer.20240404",
+   "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
+   "authors": "Patrick J. Kennedy, Christine L. Dobridge, Paul Landefeld, Jacob Mortenson",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240664",
-   "url": "https://doi.org/10.1257/aer.20240664",
-   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+   "doi": "10.1257/aer.20240404",
+   "url": "https://doi.org/10.1257/aer.20240404",
+   "abstract": "We study the effects of the largest corporate income tax cut in US history on firms and workers. To identify causal effects, we use employer-employee matched tax records and event studies comparing similarly sized firms in the same industry that faced divergent tax changes due to their preexisting legal status. Tax cuts cause increases in firms' investment, sales, profits, employment, and payrolls, with earnings gains concentrated among highly paid workers. In the short run, 87 percent of private income gains flow to the top 10 percent of the income distribution. (JEL D22, D31, G31, H25, H32, J23, L25)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20241001",
+   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241001",
+   "url": "https://doi.org/10.1257/aer.20241001",
+   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240701",
+   "title": "Rationing by Race",
+   "authors": "Manasvini Singh, Atheendar Venkataramani",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240701",
+   "url": "https://doi.org/10.1257/aer.20240701",
+   "abstract": "We document how deepening resource scarcity results in rationing on the basis of race in a high-stakes setting: health care. Using detailed, time stamped data on 107,000 inpatient admissions to a large health system, we find that in-hospital mortality increases for Black but not White patients as hospitals reach capacity. These findings are not explained by differential patient selection. We identify rationing by wait times as a mechanism, documenting that sicker Black patients wait longer for care than healthier White patients at almost all capacity levels. Text analysis of unstructured clinical notes reveals rationing of provider effort as another mechanism. (JEL I11, I12, I14, J15)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.116.9.3197",
+   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+   "authors": "Lawrence F. Katz",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.9.3197",
+   "url": "https://doi.org/10.1257/aer.116.9.3197",
+   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20240579",
+   "title": "Contextually Private Mechanisms",
+   "authors": "Andreas Haupt, Zoë Hitzig",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240579",
+   "url": "https://doi.org/10.1257/aer.20240579",
+   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241087",
+   "title": "Manipulation-Robust Prediction",
+   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241087",
+   "url": "https://doi.org/10.1257/aer.20241087",
+   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -3476,19 +3515,6 @@
    "url": "https://doi.org/10.1093/qje/qjag041",
    "abstract": "Abstract This article constructs the first global data set on intersectoral capital service expenditures. I use these data to disaggregate capital services and intermediate inputs in a dynamic multisector trade model. Steady-state allocations and responses to shocks are determined by a capital-augmented global input-output matrix. Two properties of the measured network deliver larger long-run consumption gains from globalization than existing estimates, as well as larger gains in more capital-intensive countries. First, more trade-exposed sectors supply capital to more consumption-influential producers. Second, heterogeneity in the network reallocates sectoral expenditures toward producers with larger declines in capital rental prices. These reallocations raise capital incomes and lower consumption price indices.",
    "published": "2026-07-28T11:12:12Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1093/restud/rdag081",
-   "title": "Macro Shocks and Firm Dynamics with Oligopolistic Financial Intermediaries",
-   "authors": "Alessandro T Villa",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag081",
-   "url": "https://doi.org/10.1093/restud/rdag081",
-   "abstract": "Abstract Motivated by a secular increase in the concentration of the U.S. banking industry, I develop a new macroeconomic model with oligopolistic financial intermediaries and heterogeneous firms. Market power allows banks to price discriminate and charge firm-specific markups, exerting greater market power over productive and more financially constrained firms. This dampens capital accumulation and amplifies the effects of macroeconomic shocks. During a crisis, banks exploit the higher share of financially constrained firms to extract higher markups, inducing a larger decline in real activity. When a large bank fails, the remaining banks use their increased market power to restrict credit supply, worsening and prolonging the downturn.",
-   "published": "2026-07-27T13:42:43Z",
    "relevance": "low",
    "topics": []
   }
@@ -7772,6 +7798,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592",
+   "title": "Friday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592",
+   "summary": "1. “We find a significant and highly robust empirical relationship between gender conservatism and protectionism. That relationship has been evident since 2008 and it decidedly is not a product of Trump-era politics.“ 2. More than half the world’s top AI talent comes from China. 3. Argentina now at 1.0, Mexico at 1.2. 4. China is […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-25T15:40:23+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body",
+   "title": "*My Dreadful Body*",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body",
+   "summary": "By Egana Djabbarova of Azerbaijan. A wonderful short novel, and as described by Olga Grjasnowa “An extraordinary novel that translates corporality and estrangement into language.” Here is the Amazon link. This has been a fantastic year for fiction, and in November I will be writing up a report. The post *My Dreadful Body* appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-25T10:08:21+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes",
+   "title": "Armenia notes",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes",
+   "summary": "I strongly recommend a trip to Armenia, now is a great time to go. Here are a few things I noticed: 1. The country remains intellectual. The book fair is well attended. The classical music season is excellent, with good concerts multiple times a week, and the theatre scene, in both Armenian and Russian, is […] The post Armenia notes appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-25T04:52:17+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
+   "title": "Peter Thiel on AI and tech stagnation and democracy",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
+   "summary": "Lots of fresh material, one of the very best Peter Thiel outputs. The post Peter Thiel on AI and tech stagnation and democracy appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-24T23:31:20+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
+   "title": "Earth fact of the day",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
+   "summary": "An average of 72 percent of respondents said they felt curious, happy or excited about A.I., compared with 41 percent who felt worried, sad or angry.’@nytimes‘s Damien Cave uses @Gallup data to remind us the rest of the world digs AI. It is 93 percent positive from China. That is from Nick Gillespie. Snap out of it […] The post Earth fact of the day appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-24T18:58:55+00:00",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571",
+   "title": "Thursday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571",
+   "summary": "1. Shruti on Coltrane. 2. On the drop in Pisa scores. Quite exaggerated, it turns out. 3. Hope you all reoptimize your views accordingly, on AI agreements with China. 4. Dutch economy is picking up. 5. One professor’s AI-assisted output. Hey people, solve for the equilibrium… 6. Brisket is now too expensive for this Texas […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-24T16:07:24+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation",
    "title": "CA 91326: A Public Choice Mystery Investigation",
    "source": "Marginal Revolution",
@@ -8301,79 +8395,53 @@
    "published": "2026-09-15T16:13:21+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/09/15/is-tobacco-adolescents-associated-poor-dental/",
-   "title": "ASHES, Vol. 22(10) – Is tobacco use among adolescents associated with poor dental health over time?",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/09/15/is-tobacco-adolescents-associated-poor-dental/",
-   "summary": "This week, ASHES reviews a study by Noor Abdulhay and colleagues that examined the association between tobacco use and oral health outcomes among adolescents over time.",
-   "published": "2026-09-15T13:34:48+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
-   "title": "The striking thing is how late the market moved",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
-   "summary": "Here’s the S&P 500 (daily close) with the key COVID and policy events marked; the numbered key is below the chart. Event key: Dec 31 – China reports the Wuhan pneumonia cluster to the WHO Jan 21 – First confirmed US case (Washington state) Jan 23 – Wuhan locked down Jan 30 – WHO declares […] The post The striking thing is how late the market moved appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-15T11:18:36+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFZMU1yZ3R2SkpKN3NHbnNCc2kxdndvVXBXa254X3lfSnJjVmo1TkYxVnJudzdIR0k0dEUyRmhxZjJEYnFRaHFZbzRtZnBHMlN3RXdrN1B1bXZIb1MyNkNUR1lFWXpPOEpnaTZsbmY5S3IyR3Z0RWNOZkMtM1dHalBPdEpZc3Z1ekRIaHBR?oc=5",
-   "title": "Study: Puerto Rico Chapter 7 filings surge 77% since 2023 - News is My Business",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFZMU1yZ3R2SkpKN3NHbnNCc2kxdndvVXBXa254X3lfSnJjVmo1TkYxVnJudzdIR0k0dEUyRmhxZjJEYnFRaHFZbzRtZnBHMlN3RXdrN1B1bXZIb1MyNkNUR1lFWXpPOEpnaTZsbmY5S3IyR3Z0RWNOZkMtM1dHalBPdEpZc3Z1ekRIaHBR?oc=5",
-   "summary": "Study: Puerto Rico Chapter 7 filings surge 77% since 2023 News is My Business",
-   "published": "2026-09-15T09:52:44+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
-   "title": "Those new service sector jobs",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
-   "summary": "Horwitz is in the business of playing a version of mom for local college students. Concierge companies offering student support have existed for decades. But in recent years, a new crop of upstarts — such as Horwitz’s company, MindyKnows; the Bama Mama in Alabama; the GA Mom in Georgia; and Campus Mom in Texas — have […] The post Those new service sector jobs appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-15T07:33:49+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality",
-   "title": "Did the ACA reduce mortality?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality",
-   "summary": "Many of us brought up related points at the time, but basically we were booed off the reservation: While recent research has provided evidence that the Medicaid expansions of the Affordable Care Act (ACA) reduced mortality, there is no evidence on the effect of the Affordable Care Act (ACA) net of the Medicaid expansions on […] The post Did the ACA reduce mortality? appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-15T04:30:10+00:00",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577",
-   "title": "Monday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577",
-   "summary": "1. Will driverless cars increase or reduce urban density? 2. One decomposition approach to why interest rates have been going up. 3. New Guinness record holders. 4. Is there any chance of finding Rembrandt DNA? 5. “Abundance Corps is hosting Making Progress, a private gathering for students interested in how science, technology, and institutions can […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-14T16:53:00+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/oig-26-3",
+   "title": "Acquisition Management: Opportunities Exist for GAO to Strengthen Its Policies and Procedures",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/oig-26-3",
+   "summary": "What the OIG Found Proper contract administration is critical to ensure GAO complies with contract terms and conditions. In FY 2019, GAO entered into a blanket purchase agreement for commercial facility maintenance (the BPA), which it awarded under the General Services Administration (GSA) Schedule program. After subsequent modification, the BPA’s maximum value was about $119 million. Although the contractor submitted adjusted labor rates from a collective bargaining agreement, GAO did not modify the BPA and associated time-and-materials orders to reflect these higher rates before payment. As ",
+   "published": "2026-09-25T15:00:25+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107830",
+   "title": "Naval Shipyards: Complete Information Needed for Decision-Making on Multibillion-Dollar, 50-Year Infrastructure Program",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107830",
+   "summary": "What GAO Found The Navy’s Shipyard Infrastructure Optimization Program (SIOP) will surpass $200 billion and take over 50 more years to execute, based on GAO’s analysis of Navy plans. Developing the plans and cost estimates to rebuild the Navy’s four public shipyards has taken the Navy years longer—and will cost much more—than originally anticipated due to multiple challenges and changes involved in the program. For example, environmental issues led to additional projects and more extensive work affecting project plans and costs at the shipyards, including Puget Sound Naval Shipyard (see figure",
+   "published": "2026-09-25T11:39:05+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-109152",
+   "title": "Compacts of Free Association: VA Is Pursuing Partial Implementation of Health Care Authorities in the Freely Associated States",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109152",
+   "summary": "What GAO Found GAO found that veterans face multiple challenges in accessing health care in the Freely Associated States (FAS), according to VA assessments and interviews with VA and FAS officials. These challenges include limited availability of specialty services, such as mental health and cardiology, and the inability to utilize telehealth services with VA health providers. FAS veterans must travel to VA health facilities in U.S. states or territories to utilize their health benefits, but do not receive beneficiary travel reimbursement for travel to the U.S. Map of Health Care Facilities Pr",
+   "published": "2026-09-25T11:22:49+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107810",
+   "title": "Tax Fraud: The Federal Government Loses an Estimated $116 Billion to $304 Billion Annually",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107810",
+   "summary": "What GAO Found GAO estimated that annual federal tax fraud loss is between $116 billion and $304 billion based on data and information from 2018 through 2024. GAO’s estimate is informed by data on Internal Revenue Service (IRS) cases of fraud and potential fraud, potential fraud in the tax gap, and tax evasion from economic activities purposefully hidden from the government (i.e., shadow economy). The estimated range reflects approximately 2 percent to 6 percent of estimated tax owed to the federal government (tax liability) if applied to tax year 2022, the most recent year for which an estima",
+   "published": "2026-09-25T11:17:24+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108663",
    "title": "Immigration Detention: Urgent Planning Needed to Avoid Further Waste of Taxpayer Dollars",
@@ -8384,6 +8452,19 @@
    "published": "2026-09-24T12:54:28+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
+   "title": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
+   "summary": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors Urban Institute",
+   "published": "2026-09-24T12:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "https://www.gao.gov/products/gao-26-107774",
@@ -8452,6 +8533,17 @@
    "url": "https://www.gao.gov/products/gao-26-108690",
    "summary": "What GAO Found The U.S. faces a maternal mortality crisis, with mortality rates that exceed every other high-income country. More than 600 women die during pregnancy or from causes aggravated by pregnancy each year in the U.S.; over 80 percent of these deaths are preventable, according to the Centers for Disease Control and Prevention (CDC). To help prevent these kinds of deaths, CDC provides funding for Maternal Mortality Review Committees (MMRCs). These committees, typically supported and maintained by state and local health agencies, identify factors contributing to pregnancy-related deaths",
    "published": "2026-09-24T11:00:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmdCQWNCM1R2Z1A2cFd3VjZIMmx4cUN3cEEzNFNpSzhJQU1CZnNoRkowd21GVVRfQjVDVm14NEI1NndjUTNWUXNRMFBkb2NvSTZpVzhrTFJuVTB2Yzd6dzE5Rlh1Z0FOM0lxbElfMFlKaWtZS1dLQ045WUdIQmVJT0J6MGxuQjIwM2Q4N21VNUtUMk9va2R6dmF0enF0YTdGQWo4MlZpYU9fZw?oc=5",
+   "title": "Is the AI existential threat real—and can regulatory action prevent it? - Brookings",
+   "source": "Google News: Brookings",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmdCQWNCM1R2Z1A2cFd3VjZIMmx4cUN3cEEzNFNpSzhJQU1CZnNoRkowd21GVVRfQjVDVm14NEI1NndjUTNWUXNRMFBkb2NvSTZpVzhrTFJuVTB2Yzd6dzE5Rlh1Z0FOM0lxbElfMFlKaWtZS1dLQ045WUdIQmVJT0J6MGxuQjIwM2Q4N21VNUtUMk9va2R6dmF0enF0YTdGQWo4MlZpYU9fZw?oc=5",
+   "summary": "Is the AI existential threat real—and can regulatory action prevent it? Brookings",
+   "published": "2026-09-23T20:16:02+00:00",
    "relevance": "low",
    "topics": []
   },
@@ -9013,6 +9105,17 @@
    "topics": []
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzAyX05KeXdId2h1VnZWZjlCYjlmempNa2EzbzhTVEtGVE5vX1hPamNnazljOTh4V2JnYXFUckVSNmpSdUpvRFFNTGlJUTg2WEJUTG9VdVpFQmJZSHAtYnlOU2tBaFEzMVZZNTVUUFlYQ1NpYzBYRUZIS0pvdWplRWZn?oc=5",
+   "title": "Financing the AI Buildout - Brookings",
+   "source": "Google News: Brookings",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzAyX05KeXdId2h1VnZWZjlCYjlmempNa2EzbzhTVEtGVE5vX1hPamNnazljOTh4V2JnYXFUckVSNmpSdUpvRFFNTGlJUTg2WEJUTG9VdVpFQmJZSHAtYnlOU2tBaFEzMVZZNTVUUFlYQ1NpYzBYRUZIS0pvdWplRWZn?oc=5",
+   "summary": "Financing the AI Buildout Brookings",
+   "published": "2026-09-04T07:00:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://www.gao.gov/products/gao-26-108455",
    "title": "Secret Service: Protection Policies Should be Consistently Updated to Better Ensure Protectee Safety",
    "source": "GAO Reports",
@@ -9343,42 +9446,6 @@
    "published": "2026-08-13T11:27:58+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108991",
-   "title": "Priority Open Recommendations: Office of Management and Budget",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108991",
-   "summary": "Why GAO Did This Study In August 2024, GAO identified 37 priority recommendations for the Office of Management and Budget (OMB). Since then, OMB has implemented 11 of those recommendations. In August 2026, GAO identified an additional seven priority recommendations, removed the priority designation from five, and closed eight others as no longer valid, bringing the total number to 20. GAO is highlighting the following three areas that warrant timely and focused attention: Combatting federal fraud, Reducing improper payments, and Fully developing a federal program inventory. Addressing GAO's re",
-   "published": "2026-08-11T11:28:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108578",
-   "title": "Airports: Online Information Is Widely Available for General Aviation Fuel Prices but Not for Required Fees",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108578",
-   "summary": "What GAO Found Fixed base operators (FBO) offer services at airports—such as fueling, parking, and maintenance—for general aviation pilots and other users. These users often seek information about fuel prices and fees for FBO services before taking a trip. Stakeholders that GAO interviewed said pilots obtain information from multiple sources, including websites and calls to FBOs, depending on the purpose of their trip. GAO compared information about fuel prices and fees that it obtained through covert phone calls to 45 FBOs with information that it obtained through online sources. GAO found th",
-   "published": "2026-08-11T11:10:04+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkllTFd6cEFZeXdSdEhYdFBYcFV2aEgyYTNOUzNtQVE0MHNVa1FXbW41RWd6WGUyU1Yta0ZFMllCMDRjR2FxQUZZcTVrdTVtX3pGamxjV3k4SlFjcDRkcnlvVWV1M09faW5fdkRBUDdmTjdLbXVCa2ZzdmhTMTRVTkVTcXNsSGJES3c?oc=5",
-   "title": "Breno Braga on rising credit card delinquency rates - Urban Institute",
-   "source": "Google News: Urban Institute",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkllTFd6cEFZeXdSdEhYdFBYcFV2aEgyYTNOUzNtQVE0MHNVa1FXbW41RWd6WGUyU1Yta0ZFMllCMDRjR2FxQUZZcTVrdTVtX3pGamxjV3k4SlFjcDRkcnlvVWV1M09faW5fdkRBUDdmTjdLbXVCa2ZzdmhTMTRVTkVTcXNsSGJES3c?oc=5",
-   "summary": "Breno Braga on rising credit card delinquency rates Urban Institute",
-   "published": "2026-08-11T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务",
-    "城市/区域"
-   ]
   }
  ],
  "conferences": [
