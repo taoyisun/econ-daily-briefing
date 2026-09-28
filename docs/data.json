@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-09-27T15:32:33.933067+00:00",
+ "generated_at": "2026-09-28T18:30:54.465355+00:00",
  "papers": [
+  {
+   "id": "10.1086/743929",
+   "title": "JPE Turnaround Times",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743929",
+   "url": "https://doi.org/10.1086/743929",
+   "abstract": "",
+   "published": "2026-09-28T17:05:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744158",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744158",
+   "url": "https://doi.org/10.1086/744158",
+   "abstract": "",
+   "published": "2026-09-28T17:05:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744159",
+   "title": "Recent Referees",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744159",
+   "url": "https://doi.org/10.1086/744159",
+   "abstract": "",
+   "published": "2026-09-28T17:05:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103944",
+   "title": "Incomplete markets, crop portfolios, and agricultural productivity",
+   "authors": "Albert Rodríguez-Sala",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103944",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103944",
+   "abstract": "",
+   "published": "2026-09-28T15:55:33Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103948",
+   "title": "Together or apart? Migration, education access, and intergenerational mobility in China",
+   "authors": "Jingxuan Du",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103948",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103948",
+   "abstract": "",
+   "published": "2026-09-28T15:55:20Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jdeveco.2026.103949",
+   "title": "Skill certifications and migrant labor market integration: Experimental evidence from Colombia",
+   "authors": "Matias Busso, Carolina Gonzalez-Velosa, Juan Muñoz-Morales, Juanita Ruiz, Juan D. Valencia, Cynthia van der Werf",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103949",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103949",
+   "abstract": "",
+   "published": "2026-09-28T15:19:26Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1093/qje/qjag043",
    "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
@@ -149,19 +227,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105779",
-   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
-   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105779",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
-   "abstract": "",
-   "published": "2026-09-23T13:20:43Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105781",
    "title": "Settlers and seekers: Immigrant proximity and voter polarisation",
    "authors": "C. Berti Ceroni, L. Piemontese, G. Prarolo, A. Schiavone",
@@ -169,6 +234,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105781",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105781",
+   "abstract": "",
+   "published": "2026-09-23T13:20:43Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105779",
+   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
+   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105779",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
    "abstract": "",
    "published": "2026-09-23T13:20:43Z",
    "relevance": "low",
@@ -541,7 +619,7 @@
    "tier": "Top-5",
    "doi": "10.1093/restud/rdag103",
    "url": "https://doi.org/10.1093/restud/rdag103",
-   "abstract": "Abstract We use a sufficient statistic approach to quantify the general equilibrium effects of population aging on the returns to wealth, wealth accumulation, and global imbalances. Combining population forecasts with household survey data from 25 countries, we measure the compositional effect of aging: how a changing age distribution affects wealth-to-GDP, holding the age profiles of wealth and labor income fixed. In a baseline overlapping generations model this statistic, in conjunction with cross-sectional information and two standard macro parameters, pins down general equilibrium outcomes. Since the compositional effect is positive, large, and heterogeneous across countries, our model predicts that population aging will lower returns to wealth, increase wealth-to-GDP ratios, and widen global imbalances through the twenty-first century. These conclusions extend to a richer model in which bequests, individual savings, and the tax-and-transfer system all respond to demographic change.",
+   "abstract": "Abstract We use a sufficient statistic approach to quantify the general equilibrium effects of population ageing on the returns to wealth, wealth accumulation, and global imbalances. Combining population forecasts with household survey data from twenty-five countries, we measure the compositional effect of ageing: how a changing age distribution affects wealth-to-GDP, holding the age profiles of wealth and labour income fixed. In a baseline overlapping generations model this statistic, in conjunction with cross-sectional information and two standard macro parameters, pins down general equilibrium outcomes. Since the compositional effect is positive, large, and heterogeneous across countries, our model predicts that population ageing will lower returns to wealth, increase wealth-to-GDP ratios, and widen global imbalances through the twenty-first century. These conclusions extend to a richer model in which bequests, individual savings, and the tax-and-transfer system all respond to demographic change.",
    "published": "2026-09-15T12:04:32Z",
    "relevance": "low",
    "topics": []
@@ -612,6 +690,19 @@
    "topics": []
   },
   {
+   "id": "10.3982/ecta23874",
+   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
+   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23874",
+   "url": "https://doi.org/10.3982/ecta23874",
+   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta20428",
    "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
    "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
@@ -638,58 +729,6 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta23874",
-   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
-   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23874",
-   "url": "https://doi.org/10.3982/ecta23874",
-   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta24284",
-   "title": "Genetic Prediction and Adverse Selection",
-   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta24284",
-   "url": "https://doi.org/10.3982/ecta24284",
-   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta23242",
-   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
-   "authors": "Ulrich Müller, Andriy Norets",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23242",
-   "url": "https://doi.org/10.3982/ecta23242",
-   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta21366",
-   "title": "Security Design Under Common‐Value Competition",
-   "authors": "Yue Yuan",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21366",
-   "url": "https://doi.org/10.3982/ecta21366",
-   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.3982/ecta23897",
    "title": "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy",
    "authors": "Anish Agarwal, Rahul Singh",
@@ -703,19 +742,6 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta18759",
-   "title": "Promoting Women to Managerial Roles in the Bangladeshi Garment Sector",
-   "authors": "Rocco Macchiavello, Andreas Menzel, Atonu Rabbani, Christopher Woodruff",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta18759",
-   "url": "https://doi.org/10.3982/ecta18759",
-   "abstract": "Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.3982/ecta22524",
    "title": "Curtailing False News, Amplifying Truth",
    "authors": "Sergei Guriev, Emeric Henry, Théo Marquis, Ekaterina Zhuravskaya",
@@ -724,6 +750,19 @@
    "doi": "10.3982/ecta22524",
    "url": "https://doi.org/10.3982/ecta22524",
    "abstract": "We develop a comprehensive framework to evaluate policy interventions aimed at curbing false news dissemination on social media. Using a randomized experiment on Twitter and X during the 2022 and 2024 U.S. elections, we assess priming for misinformation awareness, fact‐checking, confirmation clicks, and content consideration prompts. Priming proves most effective in reducing false‐news sharing while preserving true news dissemination. We build and structurally estimate a model of sharing, motivated by partisan persuasion, partisan signaling, and reputational concerns. We identify three channels through which policies influence sharing: (i) updating perceived veracity and partisanship of content, (ii) raising salience of reputation, and (iii) increasing engagement costs. Differences in the effects of policies are explained by the salience and cost channels. Content‐neutral priming is best at enhancing salience of reputation at minimal cost and almost as effective as fact‐checking in updating veracity. Salience channel is stronger when users encounter uncontroversially true content.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta18759",
+   "title": "Promoting Women to Managerial Roles in the Bangladeshi Garment Sector",
+   "authors": "Rocco Macchiavello, Andreas Menzel, Atonu Rabbani, Christopher Woodruff",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta18759",
+   "url": "https://doi.org/10.3982/ecta18759",
+   "abstract": "Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -755,6 +794,47 @@
    "topics": []
   },
   {
+   "id": "10.3982/ecta24284",
+   "title": "Genetic Prediction and Adverse Selection",
+   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta24284",
+   "url": "https://doi.org/10.3982/ecta24284",
+   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta21571",
+   "title": "Causal Inference for Spatial Treatments",
+   "authors": "Michael Pollmann",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21571",
+   "url": "https://doi.org/10.3982/ecta21571",
+   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.3982/ecta23242",
+   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
+   "authors": "Ulrich Müller, Andriy Norets",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23242",
+   "url": "https://doi.org/10.3982/ecta23242",
+   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta23230",
    "title": "The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair",
    "authors": "Marek Pycia, Peter Troyan",
@@ -781,19 +861,17 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta21571",
-   "title": "Causal Inference for Spatial Treatments",
-   "authors": "Michael Pollmann",
+   "id": "10.3982/ecta21366",
+   "title": "Security Design Under Common‐Value Competition",
+   "authors": "Yue Yuan",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta21571",
-   "url": "https://doi.org/10.3982/ecta21571",
-   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
+   "doi": "10.3982/ecta21366",
+   "url": "https://doi.org/10.3982/ecta21366",
+   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
    "published": "2026-09-14T11:53:17Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jdeveco.2026.103943",
@@ -874,17 +952,19 @@
    "topics": []
   },
   {
-   "id": "10.1086/744049",
-   "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
-   "authors": "Barbara Biasi, Chao Fu, John Stromme",
+   "id": "10.1086/744016",
+   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
+   "authors": "Shmuel San",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744049",
-   "url": "https://doi.org/10.1086/744049",
+   "doi": "10.1086/744016",
+   "url": "https://doi.org/10.1086/744016",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
-   "relevance": "low",
-   "topics": []
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ]
   },
   {
    "id": "10.1086/744012",
@@ -913,19 +993,17 @@
    "topics": []
   },
   {
-   "id": "10.1086/744016",
-   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
-   "authors": "Shmuel San",
+   "id": "10.1086/744049",
+   "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+   "authors": "Barbara Biasi, Chao Fu, John Stromme",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744016",
-   "url": "https://doi.org/10.1086/744016",
+   "doi": "10.1086/744049",
+   "url": "https://doi.org/10.1086/744049",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
-   "relevance": "high",
-   "topics": [
-    "企业进入/空间竞争"
-   ]
+   "relevance": "low",
+   "topics": []
   },
   {
    "id": "10.1016/j.jdeveco.2026.103932",
@@ -1126,19 +1204,6 @@
    ]
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105764",
-   "title": "The accuracy of jobseekers’ wage expectations",
-   "authors": "Marco Caliendo, Robert Mahlstedt, Aiko Schmeißer, Sophie Wagner",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105764",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105764",
-   "abstract": "",
-   "published": "2026-09-04T19:38:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105767",
    "title": "Immigration enforcement and safety net participation in mixed-status households",
    "authors": "Jaeyeon Shin",
@@ -1146,6 +1211,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105767",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105767",
+   "abstract": "",
+   "published": "2026-09-04T19:38:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105764",
+   "title": "The accuracy of jobseekers’ wage expectations",
+   "authors": "Marco Caliendo, Robert Mahlstedt, Aiko Schmeißer, Sophie Wagner",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105764",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105764",
    "abstract": "",
    "published": "2026-09-04T19:38:46Z",
    "relevance": "low",
@@ -1185,7 +1263,7 @@
    "tier": "Top-5",
    "doi": "10.1093/qje/qjag038",
    "url": "https://doi.org/10.1093/qje/qjag038",
-   "abstract": "Abstract We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax–a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various Census reports, including those on “Wealth, Debt, and Taxation”), in which the Census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade, and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.",
+   "abstract": "Abstract We study the history and geography of wealth accumulation in the United States using newly collected historical property tax records from the early 1800s onward. These records come from the administration of the General Property Tax—a tax that aspired to cover all types of property. We construct wealth series at the state, county, and national levels. At the state level, we use annual assessed values of wealth from state-level reports drawn from multiple sources. Because assessed values may differ from market values, we also require assessment ratios, defined as the ratio of assessed to market wealth. We obtain state-level assessment ratios from decadal U.S. Census wealth data (drawn from various census reports, including those on “Wealth, Debt, and Taxation”), in which the census carried out detailed valuation work, complemented with information on changes in assessment practices from the state reports, to build higher-frequency series of assessment ratios. The result is long-run annual wealth series for states from 1850 (or earlier, depending on the state) to 1935. We obtain national wealth series by aggregating these state series. At the county level, we use assessed values (or market values where available) from the U.S. Census wealth data for each decade and apply either state-level or county-level assessment ratios, where available, to obtain market values of wealth for each decade from 1850 to 1930. We use these data to show, first, that the United States experienced extraordinary wealth accumulation after the Civil War and until the Great Depression. Second, spatial inequality in the United States has been large and highly persistent since the mid-1800s. We also examine the determinants of long-term wealth growth and find, among other results, that counties with a higher share of enslaved property before the Civil War or with higher wealth inequality experienced lower subsequent long-run wealth growth.",
    "published": "2026-09-04T11:31:40Z",
    "relevance": "medium",
    "topics": [
@@ -1391,19 +1469,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/742158",
-   "title": "Grading Government: A Deficit Management Scorecard",
-   "authors": "Alan J. Auerbach, Danny Yagan",
-   "journal": "National Tax Journal",
-   "tier": "Public",
-   "doi": "10.1086/742158",
-   "url": "https://doi.org/10.1086/742158",
-   "abstract": "",
-   "published": "2026-08-31T19:52:30Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743888",
    "title": "Front Matter",
    "authors": "",
@@ -1411,6 +1476,19 @@
    "tier": "Public",
    "doi": "10.1086/743888",
    "url": "https://doi.org/10.1086/743888",
+   "abstract": "",
+   "published": "2026-08-31T19:52:30Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/742158",
+   "title": "Grading Government: A Deficit Management Scorecard",
+   "authors": "Alan J. Auerbach, Danny Yagan",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742158",
+   "url": "https://doi.org/10.1086/742158",
    "abstract": "",
    "published": "2026-08-31T19:52:30Z",
    "relevance": "low",
@@ -1430,6 +1508,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/743916",
+   "title": "Strategic Wishful Thinking: Implications for Forecasts",
+   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743916",
+   "url": "https://doi.org/10.1086/743916",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743896",
    "title": "Connecting Common Ratio and Common Consequence Preferences",
    "authors": "Christina McGranaghan, Kirby Nielsen, Ted O'Donoghue, Jason Somerville, Charles Sprenger",
@@ -1443,6 +1534,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/743915",
+   "title": "The Macroeconomic Dynamics of Labor Market Polices",
+   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743915",
+   "url": "https://doi.org/10.1086/743915",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743914",
    "title": "Not Learning from Others",
    "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
@@ -1450,19 +1554,6 @@
    "tier": "Top-5",
    "doi": "10.1086/743914",
    "url": "https://doi.org/10.1086/743914",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743916",
-   "title": "Strategic Wishful Thinking: Implications for Forecasts",
-   "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743916",
-   "url": "https://doi.org/10.1086/743916",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1489,19 +1580,6 @@
    "tier": "Top-5",
    "doi": "10.1086/743901",
    "url": "https://doi.org/10.1086/743901",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743915",
-   "title": "The Macroeconomic Dynamics of Labor Market Polices",
-   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743915",
-   "url": "https://doi.org/10.1086/743915",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1685,14 +1763,72 @@
    ]
   },
   {
-   "id": "10.1257/aer.116.9.i",
-   "title": "Front Matter",
-   "authors": "",
+   "id": "10.1257/aer.20241765",
+   "title": "The Environmental Bias of Corporate Income Taxation",
+   "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.i",
-   "url": "https://doi.org/10.1257/aer.116.9.i",
-   "abstract": "",
+   "doi": "10.1257/aer.20241765",
+   "url": "https://doi.org/10.1257/aer.20241765",
+   "abstract": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/aer.116.9.3197",
+   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+   "authors": "Lawrence F. Katz",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.9.3197",
+   "url": "https://doi.org/10.1257/aer.116.9.3197",
+   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20240404",
+   "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
+   "authors": "Patrick J. Kennedy, Christine L. Dobridge, Paul Landefeld, Jacob Mortenson",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240404",
+   "url": "https://doi.org/10.1257/aer.20240404",
+   "abstract": "We study the effects of the largest corporate income tax cut in US history on firms and workers. To identify causal effects, we use employer-employee matched tax records and event studies comparing similarly sized firms in the same industry that faced divergent tax changes due to their preexisting legal status. Tax cuts cause increases in firms' investment, sales, profits, employment, and payrolls, with earnings gains concentrated among highly paid workers. In the short run, 87 percent of private income gains flow to the top 10 percent of the income distribution. (JEL D22, D31, G31, H25, H32, J23, L25)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20241404",
+   "title": "Marriage, Fertility, and Cultural Integration in Italy",
+   "authors": "Alberto Bisin, Giulia Tura",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241404",
+   "url": "https://doi.org/10.1257/aer.20241404",
+   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241087",
+   "title": "Manipulation-Robust Prediction",
+   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241087",
+   "url": "https://doi.org/10.1257/aer.20241087",
+   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -1711,113 +1847,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20241765",
-   "title": "The Environmental Bias of Corporate Income Taxation",
-   "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
+   "id": "10.1257/aer.116.9.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20241765",
-   "url": "https://doi.org/10.1257/aer.20241765",
-   "abstract": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20240756",
-   "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
-   "authors": "Amanda Dahlstrand",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240756",
-   "url": "https://doi.org/10.1257/aer.20240756",
-   "abstract": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.116.9.3197",
-   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
-   "authors": "Lawrence F. Katz",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.3197",
-   "url": "https://doi.org/10.1257/aer.116.9.3197",
-   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20230768",
-   "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
-   "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230768",
-   "url": "https://doi.org/10.1257/aer.20230768",
-   "abstract": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20240579",
-   "title": "Contextually Private Mechanisms",
-   "authors": "Andreas Haupt, Zoë Hitzig",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240579",
-   "url": "https://doi.org/10.1257/aer.20240579",
-   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241404",
-   "title": "Marriage, Fertility, and Cultural Integration in Italy",
-   "authors": "Alberto Bisin, Giulia Tura",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241404",
-   "url": "https://doi.org/10.1257/aer.20241404",
-   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240404",
-   "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
-   "authors": "Patrick J. Kennedy, Christine L. Dobridge, Paul Landefeld, Jacob Mortenson",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240404",
-   "url": "https://doi.org/10.1257/aer.20240404",
-   "abstract": "We study the effects of the largest corporate income tax cut in US history on firms and workers. To identify causal effects, we use employer-employee matched tax records and event studies comparing similarly sized firms in the same industry that faced divergent tax changes due to their preexisting legal status. Tax cuts cause increases in firms' investment, sales, profits, employment, and payrolls, with earnings gains concentrated among highly paid workers. In the short run, 87 percent of private income gains flow to the top 10 percent of the income distribution. (JEL D22, D31, G31, H25, H32, J23, L25)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20240664",
-   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
-   "authors": "Ethan Ligon",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240664",
-   "url": "https://doi.org/10.1257/aer.20240664",
-   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+   "doi": "10.1257/aer.116.9.i",
+   "url": "https://doi.org/10.1257/aer.116.9.i",
+   "abstract": "",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -1836,17 +1873,58 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20241087",
-   "title": "Manipulation-Robust Prediction",
-   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "id": "10.1257/aer.20240756",
+   "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
+   "authors": "Amanda Dahlstrand",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20241087",
-   "url": "https://doi.org/10.1257/aer.20241087",
-   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+   "doi": "10.1257/aer.20240756",
+   "url": "https://doi.org/10.1257/aer.20240756",
+   "abstract": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240579",
+   "title": "Contextually Private Mechanisms",
+   "authors": "Andreas Haupt, Zoë Hitzig",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240579",
+   "url": "https://doi.org/10.1257/aer.20240579",
+   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240664",
+   "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+   "authors": "Ethan Ligon",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240664",
+   "url": "https://doi.org/10.1257/aer.20240664",
+   "abstract": "Efficient risk sharing implies a simple factor structure for marginal utilities of expenditure (MUEs): Pareto weights divided by a common price. The standard approach infers MUEs from total expenditures, implicitly assuming homothetic preferences, unitary income elasticities, and identical price elasticities. Risk-sharing tests using total expenditures work for idiosyncratic shocks (budgets change, but not prices), but not “covariate” shocks (prices change). I describe all preferences that permit one to infer MUEs from expenditures and estimate nonhomothetic MUEs to test whether covariate shocks are shared efficiently in Uganda. This delivers sensible results; the standard approach suggests that droughts, floods, and pests are beneficial. (JEL D12, D81, O12, O13, Q12)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20230768",
+   "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+   "authors": "Gabriel Kreindler, Arya Gaduh, Tilman Graff, Rema Hanna, Benjamin A. Olken",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230768",
+   "url": "https://doi.org/10.1257/aer.20230768",
+   "abstract": "Designing public transport networks involves trade-offs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these trade-offs. We analyze how new direct connections, changes in bus travel time, and wait-time reductions affect bus ridership and aggregate flows and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2–3 times more sensitive to wait time than bus time and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare. (JEL L92, L98, O18, R41, R42, R48)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "10.1016/j.jpubeco.2026.105763",
@@ -1906,6 +1984,19 @@
    ]
   },
   {
+   "id": "10.1086/743444",
+   "title": "JPE Turnaround Times",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743444",
+   "url": "https://doi.org/10.1086/743444",
+   "abstract": "",
+   "published": "2026-08-26T20:54:58Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743795",
    "title": "Front Matter",
    "authors": "",
@@ -1926,19 +2017,6 @@
    "tier": "Top-5",
    "doi": "10.1086/743796",
    "url": "https://doi.org/10.1086/743796",
-   "abstract": "",
-   "published": "2026-08-26T20:54:58Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743444",
-   "title": "JPE Turnaround Times",
-   "authors": "",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743444",
-   "url": "https://doi.org/10.1086/743444",
    "abstract": "",
    "published": "2026-08-26T20:54:58Z",
    "relevance": "low",
@@ -3202,313 +3280,502 @@
    "published": "2026-07-30T19:22:08Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240361",
-   "title": "Alcohol, Labor, and Agriculture",
-   "authors": "David M. A. Murphy",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240361",
-   "url": "https://doi.org/10.1257/pol.20240361",
-   "abstract": "I evaluate a randomized control trial in rural Kenya in which selected households received cognitive behavioral therapy and medication to reduce alcohol abuse. At 16 months post-intervention, the program decreased the likelihood of positive spot breathalyzer tests among men by 14 percentage points (pp), the likelihood of heavy drinking by 19 points, and increased household real annual harvest values by 32 percent. The intervention's success is likely due to a confluence of mechanisms, including expenditure reallocation, improved self-control, and greater information sharing among peers. This study contributes to growing evidence illustrating the efficacy of psychological interventions in improving economic well-being. (JEL D91, I12, I18, I31, O12, O13, Q12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20230384",
-   "title": "Collective Bargaining Rights, Policing, and Civilian Deaths",
-   "authors": "Jamein P. Cunningham, Rob Gillezeau",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230384",
-   "url": "https://doi.org/10.1257/pol.20230384",
-   "abstract": "Using an event-study design, we examine whether states' introduction of duty-to-bargain requirements for police unions led to meaningful changes in civilians killed by law enforcement. We find that the introduction of collective bargaining rights significantly increases the number of civilians killed by police, particularly among non-White civilians, while having limited effects on officer safety. Our results indicate that the adoption of bargaining rights for law enforcement can explain 14 percent of all non-White civilian deaths by legal intervention between 1959 and 1988. Given our findings, the idea that police unions exacerbate violence is empirically grounded. (JEL J15, J51, J52, K42)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240197",
-   "title": "The Option Value of Municipal Liquidity",
-   "authors": "Andrew Haughwout, Benjamin Hyman, Or Shachar",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240197",
-   "url": "https://doi.org/10.1257/pol.20240197",
-   "abstract": "States and localities are relied upon to implement macroeconomic stabilization policies and ensure service delivery in times of crisis. In April 2020, the introduction of the Municipal Liquidity Facility (MLF) added an emergency lending instrument to the policy arsenal, guaranteeing liquidity, but at a price. Using a regression discontinuity design that exploits MLF lending eligibility population cutoffs, we find that the MLF contributed to the easing of liquidity pressures and reduced perceived credit risk for municipal borrowers. Low-rated issuers experienced yield reductions of at least 26 bps. We also provide suggestive evidence that these liquidity effects translated into employment gains. (JEL E58, H71, H72, H75, H77)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240212",
-   "title": "Perils of the Paperwork: The Impact of Information and Application Assistance on Social Benefit Take-Up in India",
-   "authors": "Sarika Gupta",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240212",
-   "url": "https://doi.org/10.1257/pol.20240212",
-   "abstract": "Governments worldwide administer social programs for vulnerable groups, yet many eligible citizens fail to benefit. This paper studies barriers to take-up of an unconditional cash transfer program for poor women in Delhi, India, where only one-third of eligible individuals were enrolled. In a randomized experiment with eligible women, providing program information alone increased applications only among the literate. Adding basic or intensive application assistance, however, raised average application rates by 41 percent and 70 percent, respectively, and expanded access among more vulnerable women. These results suggest that application ordeals can limit take-up by those with high need. (JEL D83, I32, I38, J16, O15)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
-  },
-  {
-   "id": "10.1257/pol.18.3.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.18.3.i",
-   "url": "https://doi.org/10.1257/pol.18.3.i",
-   "abstract": "",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20210174",
-   "title": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
-   "authors": "Andrea Guariso, Thorsten Rogall",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20210174",
-   "url": "https://doi.org/10.1257/pol.20210174",
-   "abstract": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240302",
-   "title": "Tax and Occupancy of Business Properties: Evidence from UK Business Rate Reliefs",
-   "authors": "Ben Lockwood, Martin Simmler, Eddy H. F. Tam",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240302",
-   "url": "https://doi.org/10.1257/pol.20240302",
-   "abstract": "We study how UK property tax rates impact commercial vacancies and rents, using new data and exploiting exogenous variations in two major property tax reliefs: small business relief and retail relief. We estimate that both reliefs are effective at achieving their objectives. A given monetary relief per property will lead to a bigger reduction in vacancies for eligible properties if given via retail relief because small business relief is targeted only at small businesses. Small business relief has a bigger effect in clusters of urban properties, while both reliefs are more effective in reducing retail vacancies in less deprived areas. (JEL D22, H25, H32, L81, R33)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240356",
-   "title": "Attracting and Retaining Highly Effective Educators in Hard-to-Staff Schools",
-   "authors": "Andrew Morgan, Minh Nguyen, Eric Hanushek, Ben Ost, Steven Rivkin",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240356",
-   "url": "https://doi.org/10.1257/pol.20240356",
-   "abstract": "Attracting and retaining effective teachers in high-poverty schools remains a persistent challenge. We evaluate the impact of an initiative that offered substantial performance-based compensation to highly effective teachers in the lowest-achieving schools. We find that the program led to dramatic improvements in achievement, nearly closing the gap between the targeted schools and the district average. When the program was later reversed for some campuses, effective teachers departed at high rates, resulting in an immediate decline in student achievement. The results underscore the potential for effectiveness-based compensating differentials to attract and retain effective teachers in disadvantaged schools. (JEL H75, I21, I28, J31, J45)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20230542",
-   "title": "Estimating the Economic Value of Zoning Reform",
-   "authors": "Santosh Anagol, Fernando Ferreira, Jonah Rexer",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230542",
-   "url": "https://doi.org/10.1257/pol.20230542",
-   "abstract": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate 1.6 percent increase in housing stock and a 0.4 percent reduction in prices, resulting in large housing wealth transfers from current to future homeowners. The reform produced welfare gains of 0.65 percent of city GDP, mostly due to developer profits and consumer gains from the newly built environment. (JEL G51, O18, R11, R23, R31, R41, R52)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240369",
-   "title": "Female Leaders and Intrahousehold Dynamics: Evidence from State Elections in India",
-   "authors": "S. Anukriti, Bilge Erten, Priya Mukherjee",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240369",
-   "url": "https://doi.org/10.1257/pol.20240369",
-   "abstract": "We study the impact of women's political representation on the well-being of their female constituents, specifically in the domain of health. Increasing women's political representation leads to greater public provision of reproductive health care services in rural areas. Consequently, rural women can exercise greater control over their reproductive choices through the adoption of modern contraception and increased birth spacing. However, these positive impacts are accompanied by an increase in intimate partner violence against women. The increase in spousal abuse is particularly pronounced among women whose husbands prefer to have additional sons, suggesting that the wife's greater contraceptive use triggers marital conflict. (JEL D13, D72, I18, J13, J16, O17, O18)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20230136",
-   "title": "The Value of School Social Climate Information: Evidence from Chicago Housing Transactions",
-   "authors": "Rene A. Crespin",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230136",
-   "url": "https://doi.org/10.1257/pol.20230136",
-   "abstract": "Educational institutions increasingly measure and publish indicators of social climate. I exploit a plausibly exogenous shock of Chicago school information to examine how social climate information is capitalized into housing markets and affects homebuyer sorting. Using border discontinuities, event studies, and difference-in-differences designs, I find public disclosure raises prices for homes assigned to schools with better climate ratings, with suggestive evidence that higher-income families sort into these homes. A second, less publicized disclosure produced weaker price capitalization but significant responses among higher-income households, suggesting differences in access to information. The findings provide revealed-preference evidence that families value school climate quality. (JEL D83, H75, I21, I28, J13, J45, J81)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域",
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20230070",
-   "title": "Hurricanes, Climate Change Policies, and Electoral Accountability",
-   "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230070",
-   "url": "https://doi.org/10.1257/pol.20230070",
-   "abstract": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240478",
-   "title": "Racial and Ethnic Inequality and the China Shock",
-   "authors": "Lisa B. Kahn, Lindsay Oldenski, Geunyong Park",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240478",
-   "url": "https://doi.org/10.1257/pol.20240478",
-   "abstract": "Minority workers tend to be disproportionately harmed by negative economic shocks. Indeed, we show that Hispanic populations experienced worse employment losses, relative to Whites, due to import competition from China largely due to lower education levels. In contrast, Black–White employment and wage gaps actually narrowed due to relative growth in nonmanufacturing sectors. We show that Black workers, compared to Whites, were less attached to manufacturing by 2000 and were therefore more poised to take advantage of China shock–induced reallocation to services. The lasting negative impacts of the China shock on exposed communities were primarily driven by White workers. (JEL F13, F14, F16, J15, J22, J31, R23)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20220738",
-   "title": "The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP",
-   "authors": "Jenna Anders, Charlie Rafkin",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20220738",
-   "url": "https://doi.org/10.1257/pol.20220738",
-   "abstract": "We study how eligibility expansions in the US Supplemental Nutrition Assistance Program (SNAP) affect take-up among previously eligible households and social welfare. Using an event study with administrative take-up data, we document a “woodwork effect”: Expanding eligibility raises take-up among previously eligible households. An online experiment and administrative survey provide evidence that information frictions, rather than stigma, drive SNAP's woodwork effect. To interpret our findings, we develop a model of welfare programs with incomplete take-up and woodwork effects. Given our empirical results and certain modeling assumptions, expanding SNAP eligibility would raise social welfare. (JEL D12, D83, H53, I12, I38)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济",
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20240544",
-   "title": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
-   "authors": "David Wolf, Kenji Takeuchi",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240544",
-   "url": "https://doi.org/10.1257/pol.20240544",
-   "abstract": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20230552",
-   "title": "Flood Risk Mapping and the Distributional Impacts of Climate Information",
-   "authors": "Joakim A. Weill, Lucas Davis",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20230552",
-   "url": "https://doi.org/10.1257/pol.20230552",
-   "abstract": "This paper examines the provision of official flood risk information in the United States and its distributional impacts on residential flood insurance take-up. Assembling all flood maps produced after Hurricane Katrina, I document that updated maps decreased the number of properties zoned in high-risk floodplains and incorrectly omitted five million properties, primarily in neighborhoods with more Black and Hispanic residents. Leveraging the staggered timing of map updates, I estimate that updated maps decreased flood insurance take-up and exacerbated racial disparities in insurance coverage. While past map updates distorted risk and price signals, correcting flood maps would yield substantial welfare gains. (JEL D83, G22, G52, J15, Q54)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/pol.20220777",
-   "title": "When the Effects of Informational Interventions Are Driven by Salience—Evidence from School Parents in Brazil",
-   "authors": "Guilherme Lichand, Nina Cunha, Ricardo A. Madeira, Eric Bettinger",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20220777",
-   "url": "https://doi.org/10.1257/pol.20220777",
-   "abstract": "Do informational interventions work because they lead subjects to merely update beliefs in the right direction or, to a large extent, because they increase the salience of the decision they target? We randomly assign parents to either an information group that receives text messages with weekly data on their child's attendance and school effort or a salience group that receives messages that try to redirect their attention without child-specific information. While information has large impacts on attendance, test scores, and grade promotion relative to the control group, outcomes in the salience group improve by at least as much. (JEL C93, D83, D91, I21, J13, O12)",
-   "published": "2026-07-30T13:55:23Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105740",
-   "title": "Information manipulation and repression: Theory and evidence from the COVID-19 response in Russia",
-   "authors": "Natalia Lamberova, Konstantin Sonin",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105740",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105740",
-   "abstract": "",
-   "published": "2026-07-30T12:36:27Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/s0022-1996(26)00111-x",
-   "title": "Editorial Board",
-   "authors": "",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/s0022-1996(26)00111-x",
-   "url": "https://doi.org/10.1016/s0022-1996(26)00111-x",
-   "abstract": "",
-   "published": "2026-07-30T08:20:21Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104316",
-   "title": "Different no more: Country spreads in advanced and emerging economies",
-   "authors": "Benjamin Born, Gernot J. Müller, Johannes Pfeifer, Susanne Wellmann",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104316",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104316",
-   "abstract": "",
-   "published": "2026-07-29T23:35:27Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jpubeco.2026.105743",
-   "title": "The costs of environmental land use regulation",
-   "authors": "Maxwell Tabarrok",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105743",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105743",
-   "abstract": "",
-   "published": "2026-07-29T16:36:14Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104315",
-   "title": "Global production networks and imperfect competition",
-   "authors": "Hanwei Huang, Kalina Manova, Oscar Perelló, Frank Pisch",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104315",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104315",
-   "abstract": "",
-   "published": "2026-07-29T15:58:18Z",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "working_papers": [
+  {
+   "id": "https://www.nber.org/papers/w35782#fromrss",
+   "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research -- by Matthew Schwartz, Isaiah Andrews, Jesse M. Shapiro",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35782#fromrss",
+   "abstract": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article’s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs automated sensitivity analysis. Across 4,452 published replication packages for five economics journals, the workflow flags discrepancies in 3,460 articles or their appendices. Second, the workflow improves the original calculations by using a different implementation or algorithm. In 496 articles, the workflow is able to reduce a calculation’s computation time, at similar or greater accuracy, by more than a factor of 10. Third, the workflow extends the original analysis. In 923 articles, the workflow develops an extension that does not appear in the original article and that is aligned with the original article’s goals and assumptions.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35789#fromrss",
+   "title": "(How) Do We Teach Emotions? -- by Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, Jake Nicoll, Teodora Szasz",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35789#fromrss",
+   "abstract": "Emotional intelligence constitutes a key component of human capital, shaped partially by educational materials. Using machine learning and generative AI tools, we examine emotional content in public-school textbooks and children’s literature. A stark mismatch emerges: text exposes children to a broad emotional range, but images overwhelmingly depict happiness and calm, regardless of emotions described in text on the same page. Nearly half of pages show zero overlap between the emotions described in text and those shown in images. This pattern persists across time, contexts, and identities. Household purchases and library inventories suggest content may be endogenously shaped by consumer demand favoring “positive” cover imagery, implying market forces narrow the emotional landscape children encounter.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35790#fromrss",
+   "title": "Price Setting During a Currency Changeover -- by Fernando E. Alvarez, David Argente, Alberto Cavallo, Francesco Lippi",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35790#fromrss",
+   "abstract": "We use the euro cash changeover, a large-scale and purely nominal reform that requires all firms to redenominate posted prices, to distinguish among theories of price rigidity. We develop a nonstationary menu-cost model in which firms anticipate the changeover date and may combine currency adoption with real price adjustment. The announcement makes the firm’s inaction region time-varying, a singular control problem with a moving boundary for which closed-form characterizations are rarely available. We solve this problem analytically by perturbation, recovering the whole path of the boundary, the date at which firms begin adopting the new currency, and the implied pricing moments. The model predicts that, as the changeover approaches, firms adjust more frequently but by smaller amounts, compressing the distribution of price changes. We test these predictions using historical CPI micro data from Austria, Finland, Greece, and Slovakia, a UK benchmark, and daily price data from the recent changeovers in Croatia and Bulgaria. Across changeovers, adjustment frequency rises while the size and dispersion of price changes fall. The model adds a single parameter to the standard menu-cost setup, the cost of pricing in the wrong currency. Calibrating it to the observed rise in adjustment frequency, the model reproduces the decline in the size of price changes and its subsequent recovery, neither of which is targeted. The evidence supports state-dependent price-setting models over models in which nominal redenomination leaves real pricing behavior unchanged.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35791#fromrss",
+   "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK -- by Ian Burn, Melissa D. Gentry, Joanna Lahey",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35791#fromrss",
+   "abstract": "Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35792#fromrss",
+   "title": "Impact of Adults’ College Completion on their Parents’ Mortality: Evidence from the 1993 Korean Higher Education Reform -- by Ah-Reum Lee, William H. Dow, Jacqueline M. Torres",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35792#fromrss",
+   "abstract": "A large literature examines the economic and health returns to college education. We extend this literature by studying the upward intergenerational effects of children’s education on parental mortality. We exploit Korea’s 1993 Higher Education Reform, which we estimate raised college completion by 13 percentage points among eldest children in the 1974–1983 birth cohorts relative to the prior 10-year cohort. Using data from the Korean Longitudinal Study of Aging, reduced-form estimates indicate a 27% (s.e.=10%) reduction in mortality among parents whose oldest child was in the reform-affected cohort. Because the reform affected college completion but not other education levels or quality, we use it as an instrumental variable (IV) for child college completion. IV estimates indicate a 20% (s.e.=7%) reduction in parental mortality for children induced to complete college by the reform. These parents received greater financial support and contact from their children and had lower smoking and higher physical activity, although these mechanisms explain only a small share of the mortality benefit. Effects were larger for parents of daughters in reduced-form analyses, although IV estimates did not differ significantly by child gender. Future research should further investigate the mechanisms through which children’s college education affects parental mortality.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35793#fromrss",
+   "title": "The Macroeconomic Effect of AI: Sizing the Software Engineering Channel -- by Alex Blumenfeld, Jonathon Hazell, Chen Lian, Andreas Schaab",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35793#fromrss",
+   "abstract": "We measure how artificial intelligence (AI) affects the economy through its impact on software engineering productivity. We use information from financial markets to develop a forward-looking measure that is available in real time. We estimate the sensitivity of each firm’s stock return to an AI stock market index, and how this sensitivity depends on the share of firm payroll in software engineering. We use a model to map this cross-sectional relationship into software engineering productivity gains. From November 2022 to December 2025, AI increased the market’s expected present value of software engineering productivity by the equivalent of a permanent 32.6% productivity increase. The corresponding effect on the level of GDP is 3.6% in the baseline and 6.5% when higher software engineering productivity also raises R&D productivity. By mid-2026, amid rapid progress in coding agents, the effect of AI on productivity and GDP had more than doubled relative to the end of 2025.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35794#fromrss",
+   "title": "Permits as Real Options: Anticipation and Regulatory Leakage -- by Anna French, Nicholas Vreugdenhil",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35794#fromrss",
+   "abstract": "We identify a new channel for regulatory leakage: the “permitting channel”. In many settings, permits lock in the regulatory regime at approval, allowing firms to acquire the option to invest under current rules. Unlike the conventional Green Paradox response, this channel operates without accelerating physical investment and pollution. We develop a framework in which firms can use real options to avoid anticipated regulation. We estimate the framework using Colorado’s oil and gas reforms, where permits surged before regulation but drilling did not. Policy-relevant designs that remove the permitting channel substantially reduce the health risks from pollution despite amplifying anticipatory investment.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35795#fromrss",
+   "title": "Innovation, Business Cycles, and the Climate Transition -- by Diego R. Känzig, Maximilian Konradt, Lixing Wang, Donghai Zhang",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35795#fromrss",
+   "abstract": "We study how business cycle fluctuations shape the pace and direction of innovation. Non-green innovation is procyclical, while green innovation is countercyclical, both over the cycle and in response to economic shocks. We explain this divergence in a dynamic general equilibrium model with endogenous green and non-green innovation. Green patents derive more value from distant profits, making green innovation less sensitive to short-run fluctuations. Endogenous innovation costs reinforce this mechanism, making green and non-green innovation effective substitutes. Evidence from market-implied patent valuations and scientist earnings supports the mechanism. The model implies larger and greener effects of innovation subsidies during downturns.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35796#fromrss",
+   "title": "The Early Impacts of AI on Employment among Recent College Graduates -- by Robert W. Fairlie, Jane Wu",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35796#fromrss",
+   "abstract": "The impact of AI on the employment prospects of recent college graduates is hotly debated with no consensus on the magnitude of impacts nor even the timing of those potential impacts. Using CPS microdata, we provide the first estimates of the effects of AI on the unemployment of recent college graduates in June, July and August 2026. We provide evidence suggesting that unemployment rates are especially high for summer months and that 2026 might be the first year of widespread enough AI use in the workplace to detect impacts of AI on recent college graduates, the group argued to be most vulnerable to AI replacement. Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report “wanting a job” which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 even after adding these “sidelined unemployed.” We estimate difference-in-differences and event-study interaction models using both older college graduates and young non-college graduates as comparison groups and do not find evidence of an increase in relative unemployment rates. Finally, we estimate models in which we interact 2026 unemployment with AI exposure and remote work availability by occupation and find some evidence of a positive relationship with remote work availability.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35797#fromrss",
+   "title": "Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market -- by Hanming Fang, Jing Wu, Vincent Yao",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35797#fromrss",
+   "abstract": "We examine the causal effect of uncertainty in property rights on housing prices and speculative behavior. We take advantage of a distinctive setting in Shenzhen, China, where neighboring residential units that are otherwise similar differ in the strength of their property rights protections. Some units have full property rights (FPR) with a 70-year leasehold, whereas others have only limited property rights (LPR) protections. Using detailed listing data, we find that the sales market prices these protections, while the rental market does not. Our estimates imply that the perceived probability that FPR rights could be questioned at the end of the 70-year term is between 7% and 21%, and that the probability the LPR receives no legal protection in any future year exceeds 50%. We further show that LPR units are more susceptible to speculation, as reflected in higher turnover and greater price volatility. Lastly, we show that the public release of new urban planning codes raises listing prices and lowers turnover and price volatility for LPR properties relative to matched FPR units.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35798#fromrss",
+   "title": "Are Guidelines Worth Following? Decision-Making Under Incomplete Evidence -- by Jason Abaluck, Leila Agha, David C. Chan Jr",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35798#fromrss",
+   "abstract": "Medical guidelines translate clinical evidence into treatment rules, but the evidence may identify treatment benefits more clearly than harms. We study anticoagulation for atrial fibrillation, combining randomized trials with Veterans Health Administration data. Trial evidence reveals substantial heterogeneity in stroke-prevention benefits but does not reliably identify how treatment-induced bleeding harms vary across patients. In the target population, patients with larger predicted stroke benefits also have higher untreated bleeding risk, making this ambiguity consequential. We evaluate existing guidelines and develop maximin and minimax-regret treatment rules robust to alternative harm structures. At a benchmark preventing 50% of preventable strokes, robust rules induce 33-41% fewer bleeds than random treatment and outperform existing guidelines. Finite-sample uncertainty generates noticeable instability in fine patient rankings but little instability in treatment assignments or welfare. Physician performance and the relationship between guideline adherence and skill also depend substantially on assumptions about how treatment-induced bleeding harms vary across patients.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35799#fromrss",
+   "title": "The Wealth of Nations: Origins of Prosperity and Seeds of Inequality -- by Oded Galor",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35799#fromrss",
+   "abstract": "What ignited humanity’s momentous ascent from millennia of stagnation to an era of sustained economic growth? And what are the roots of the vast disparities in the wealth of nations? These enduring mysteries, which have preoccupied scholars across generations, lie at the core of Unified Growth Theory. This encompassing framework captures the evolution of societies over the entire course of human history and identifies the universal wheels of change that governed humanity’s long journey, propelled the growth process, and shaped inequality across the globe. The theory uncovers the forces underlying the dramatic transformation in living standards over the past two centuries, emerging from an economic ice age of near stagnation, while highlighting the enduring historical roots of the immense divergence in the prosperity of nations. It suggests that forces set in motion in the distant past played a pivotal role in shaping development across the globe and remain essential for the design of effective policies that foster economic progress and mitigate inequality in the wealth of nations.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35802#fromrss",
+   "title": "The Political Foundations of Industrial Policy: Emergence, Endurance, and Exhaustion -- by Lottie Field, Réka Juhász, Michele Zampa",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35802#fromrss",
+   "abstract": "We study how politics shapes industrial policy through two paradigmatic twentieth-century cases: the Cassa per il Mezzogiorno in Italy (1950–1984) and Kennedy's Moonshot in the United States (1961–1972). Drawing on historical and primary political sources, we show that each policy originated in a broader political project rather than in an economic diagnosis: the Christian Democrats' pursuit of national integration and democratic consolidation, and Kennedy's New Frontier. We introduce the concept of industrial policy vision - a publicly articulated, transformational objective that political leaders attach to a set of ideals and pursue through state-led intervention in the economy - and develop a five-component definition that makes it empirically tractable. We then trace each vision through decades of newspaper coverage, combining topic modeling and sentiment analysis with systematic close reading. In both cases, public debate proceeded largely within the frame the vision set, granting the policies tolerance for setbacks and expense. The cases diverge in their fates: the Moonshot's bounded vision was redeemed on schedule, while the Cassa's open-ended vision was exhausted by accumulated failure and the policy outlived it only briefly. This divergence points to our central conclusion: while a vision holds, it sets the terms on which an industrial policy's performance is judged, including what counts as failure and how much time the policy is given to deliver.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35803#fromrss",
+   "title": "Injury, Workload, and the Strategic Response of Coaches in the NBA -- by Kala Krishna, Sergey Lychagin, Lewis S. McLean",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35803#fromrss",
+   "abstract": "Worker effort increases contemporaneous output but may result in injury or burnout. Directing effort away from the workers most exposed to injury would reduce this risk, but information on the exposure is often hidden. We ask whether managers act on such private information, studying the NBA as a data-rich workplace. Instrumenting workload with teammate absence, we find that work causally raises injury risk, which contrasts with the spurious negative correlation commonly found in sports medicine studies. We also show that coaches rest players in response to injury risk shocks. By acting on this private information, coaches can raise player productivity.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35804#fromrss",
+   "title": "Beveridgean Phillips Curve -- by Pascal Michaillat, Emmanuel Saez",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35804#fromrss",
+   "abstract": "This paper develops a Beveridgean model of the Phillips curve. While the New Keynesian Phillips curve is based on monopolistic pricing under price-adjustment costs, the Beveridgean Phillips curve is based on directed-search pricing under price-adjustment costs. Under directed search, prices respond to slack instead of marginal costs. The resulting Phillips curve has three properties that match recent US evidence. First, it delivers the divine coincidence: inflation is on target whenever unemployment is at its efficient level—the full-employment rate of unemployment (FERU), the geometric mean of the unemployment and vacancy rates. Second, it is decreasing and convex in the unemployment-inflation plane: inflation responds more strongly to unemployment when the labor market is inefficiently tight than when it is inefficiently slack. The convexity is inherited from the Beveridge curve, which makes unemployment a decreasing and convex function of tightness. Third, shifts of the Beveridge curve move the FERU and therefore shift the unemployment-inflation Phillips curve. The model also implies that the Fed's dual mandate is internally consistent, that a soft landing from an inefficiently tight labor market is possible, and that the zero lower bound is not topsy-turvy.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35805#fromrss",
+   "title": "Foreign Tax Advantages after the U.S. Tax Reform of 2017 -- by Anmol Bhandari, Ellen McGrattan",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35805#fromrss",
+   "abstract": "We construct a firm-year panel of income-tax rate reconciliations from annual 10-K filings of public companies to study the effects of the Tax Cuts and Jobs Act (TCJA) on U.S. multinational profit shifting. These reconciliations decompose the gap between company-level effective tax rates and the federal statutory corporate tax rate, allowing us to isolate the contribution of foreign tax advantages before and after the reform. We find that TCJA significantly reduced the tax rate gap and increased effective tax rates for companies most exposed to pre-TCJA international tax benefits. This resulted in an onshoring of profits with foreign profit shares falling 1.3 percentage points per percentage point of tax increase. Among more exposed companies, we find no differential change in investment, employment, or the geographic distribution of sales and installed capital. A neoclassical model of a multinational that chooses where to book its income rationalizes this pattern: the reform raised the average tax on income booked abroad relative to income booked at home, which governs where profits are reported, while the marginal tax on capital, which governs investment, changed by an amount common to all firms. Controlling for deferred-tax windfall gains leaves our main results unchanged.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35806#fromrss",
+   "title": "Deep Learning as a Projection Method for Solving Economic Models -- by Kenneth L. Judd, Karl Schmedders",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35806#fromrss",
+   "abstract": "Deep learning is increasingly presented in economics as a new paradigm for solving dynamic models, superseding the classical projection methods of numerical economics. We argue that this dichotomy rests on a misclassification. The neural-network solvers emphasized in this literature are least-squares projection methods with an adaptive nonlinear parameterization. Placing deep learning inside the projection family reorients the agenda. The issue is not a contest between paradigms, but suggests a single toolkit using a variety of approximation methods, residual criteria, and evaluation designs to be chosen on the merits for the model at hand. In low and moderate dimensions, linear-basis and sparsegrid methods are often more accurate, faster, and easier to verify than a trained neural network. In high dimensions, an appropriate choice for the space of permissible functions will often avoid the curse of dimensionality.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35807#fromrss",
+   "title": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects -- by Bernard Herskovic, Gill Segal",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35807#fromrss",
+   "abstract": "Time fixed effects are not a general-equilibrium control. In network economies, aggregate shocks do not enter firm outcomes uniformly: they propagate through equilibrium prices, costs, and demand, leaving a residual network gradient after time demeaning. When an instrument, treatment, or exposure design even partially aligns with this gradient, standard panel estimators recover the direct effect plus an endogenous network-leakage component. We develop a tractable framework that signs and quantifies this Network-SUTVA bias in closed form, showing how network topology governs its magnitude. Weak instruments magnify the leakage. Difference-in-differences designs are similarly contaminated because controls can be untreated by assignment but treated in equilibrium. Calibrated to the U.S. production network, the distortion can exceed 130% of the true direct effect. We propose observed- and hidden-network diagnostics and remedies, and test them on canonical difference-in-differences designs, showing that standard estimators can confound direct policy responses with systemic network leakage.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35808#fromrss",
+   "title": "Shipping to America -- by Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Ricardo Marto, Francesco Zanetti",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35808#fromrss",
+   "abstract": "We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential and effective capacity for all U.S.-bound container ships from 2016 to 2025. Utilization losses in recent disruptions ran 20 to 40 percentage points, and began months before port congestion became visible. We embed these measures in a general equilibrium model in which firms reallocate a common fleet without internalizing the congestion they create and price above marginal cost, while importers' sourcing responds to route profitability. The reallocation triggered by a disruption then has first-order welfare effects, and the route's Domar weight is not a sufficient statistic for its welfare cost. The 2021 West Coast crisis and the 2023-2024 Red Sea attacks cost 0.69% and 0.35% of output. Naval protection of Red Sea shipping generated benefits of 0.04-0.08% of output at a fiscal cost of 0.02%. Tariffs decongest the routes they tax, offsetting or even reversing their conventional welfare cost.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35809#fromrss",
+   "title": "Terra Incognita: The Economics of a Shrinking World -- by Jesús Fernández-Villaverde, Patrick Norrick",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35809#fromrss",
+   "abstract": "As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236 countries since 1950: the common component peaked in 1978, and what drives fertility down today are country-specific trends, 219 of them negative and not one leveling off. None of the commonly cited mechanisms can account for this pattern, so we offer a conjecture: modernity itself, which makes a third child expensive and childlessness cheap. Children come in integers, so it takes very little to move a cohort’s fertility rate from 1.8 to 1.3. And nothing in an economy pushes fertility back to 2.1. We close with the main economic consequences, in particular slow growth.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35810#fromrss",
+   "title": "Like a Good Neighbor: Childhood Neighbors Influence Occupation Choice -- by Michael J. Andrews, Ryan R. Hill, Joseph Price, Riley Wilson",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35810#fromrss",
+   "abstract": "Occupation choice is a key determinant of economic mobility. This paper studies how childhood neighbors influence occupational choices and later-life earnings. Using linked historical U.S. census records for over six million boys and four million girls, we reconstruct neighborhood microgeography to identify childhood neighbors and their occupations. We find that living next door to someone in a given occupation increases the probability of working in that same occupation 30 years later by about 10 percent relative to other children on the same street. The transmission effect is higher with more intense exposure, in more connected neighborhoods, and when neighboring families are more similar. Exposure to high-income or highly educated neighbors has lasting economic effects, leading to significant gains in adult income and education even compared to other children from the same street. These findings suggest that neighborhood networks play an important role in shaping intergenerational economic mobility.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35811#fromrss",
+   "title": "Evaluating the Spatial Consequences of a Climate Tipping Point -- by José-Luis Cruz, Klaus Desmet, Esteban Rossi-Hansberg",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35811#fromrss",
+   "abstract": "The Atlantic Meridional Overturning Circulation (AMOC) is a system of ocean currents that plays a key role in regulating global climate, including moderating temperatures in Europe and the North Atlantic. Its potential collapse due to global warming is widely considered one of the more likely climate tipping points. This paper examines the economic implications of such a collapse using a dynamic spatially integrated assessment model (S-IAM) of the world economy. Scandinavia and parts of Russia are predicted to experience significant losses in GDP and welfare, while southern Europe, northern Africa, and Brazil benefit from slightly colder temperatures. S-IAMs generally predict that global warming is especially harmful to low-income regions, but an AMOC collapse could mitigate some of these negative impacts in parts of the developing world while instead harming some of the more advanced economies. This lowers spatial inequality, but global welfare drops by 1.9% by 2200 under an intermediate-emissions scenario.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35812#fromrss",
+   "title": "Transportation Bottlenecks and Aggregate Shocks -- by Giulia Brancaccio, Myrto Kalouptsidi, Theodore Papageorgiou, Yixin Zhou",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35812#fromrss",
+   "abstract": "Do transportation disruptions affect aggregate outcomes? We develop a tractable model of the transportation sector to study its impact on prices and international trade. By casting maritime transportation as a queueing network, the model identifies where the transportation bottlenecks lie and delivers a simple and easy-to compute measure of transportation capacity over time. We calibrate the model using shipping and trade data and use it to evaluate the resilience of the shipping sector during the last 20 years. During the Great Supply Chain Disruption, port bottlenecks raised commodity prices and caused shortages, but a contemporaneous contraction in commodity supply reduced shipping demand and thereby dampened these effects. By contrast, insufficient shipping capacity was a key driver of price increases during the 2000s Commodity Supercycle.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35813#fromrss",
+   "title": "The Dynamics of Development in a Zero-Sum World -- by Augustin Bergeron, Jean-Paul Carvalho, Joseph Henrich, Nathan Nunn, Jonathan L. Weigel",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35813#fromrss",
+   "abstract": "This chapter examines the consequences of zero-sum environments for cultural change, innovation, and long-term economic growth. We introduce innovation into the framework developed by Bergeron et al. (forthcoming), in which zero-sum environments give rise to demotivating beliefs. Although demotivating beliefs improve static efficiency by limiting excessive competition in zero-sum environments, we show that they can also impede long-term growth. Because demotivating beliefs suppress effort, they can also reduce learning-by-doing and other production spillovers. Hence, they can inhibit innovation and act as a cultural evolutionary kludge. We apply the model to explain the cultural changes associated with Western Europe's economic rise after 1500.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35814#fromrss",
+   "title": "Foreign Opportunity and Regional Revival: Evidence from the French Rust Belt -- by Antoine B. Levy, Mathilde Muñoz",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35814#fromrss",
+   "abstract": "This paper studies whether and how distressed regions can recover from industrial decline. We exploit differences in access to an increasingly thriving Luxembourg labor market for neighboring residents of the French “Rust Belt.” We document a three-phase expansion of treated local labor markets, driven by an initial workplace substitution of incumbent residents towards cross-border job opportunities, a medium-term rise in local labor force utilization, and a long-run sustained increase in population via net domestic in-migration. A broader process of local revitalization follows, with higher incomes, reduced reliance on transfers, and resilience to social dislocation, although it is partially offset by rising housing costs and unequal congestion. This leads to a net decrease in far-right and anti- EU vote shares, muting the rise of populism visible elsewhere in former industrial regions of France. Our findings suggest that former industrial regions are not inherently rigid nor doomed to fall to anti-globalization backlash, but can and do adjust – given sufficiently large-scale reversals in local labor demand.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35815#fromrss",
+   "title": "The Commoditization of Labor -- by Masao Fukui, Emi Nakamura, Jón Steinsson",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35815#fromrss",
+   "abstract": "Technical change often simplifies jobs. This increases productivity, but it also makes workers more substitutable–or more \"commoditized.\" Commoditization of labor drives down worker bargaining power: anyone can do the job, implying workers are disposable, which improves the outside option of firms and can lower worker wages. We develop a model that captures both the productivity enhancing and wage depressing effects of commoditizing technical change. Commoditizing technical change involves firms standardizing tasks. This reduces the sensitivity of output to worker quality. Firms benefit because they can more easily fill vacancies for their durable jobs. We show that our model can help explain the divergence between productivity and wages in the service sector, increasing wage markdowns despite falling local concentration, and the decline of the large-firm wage premium.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35816#fromrss",
+   "title": "The Great Accretion and the Great Depression -- by Harold L. Cole, Stefano Cravero, Jeremy Greenwood",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35816#fromrss",
+   "abstract": "The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this over investment worsened by continuous process innovation? Could these factors have played a role in triggering the Great Depression? To explore these questions, a macroeconomic model that incorporates both process and product innovation is proposed. Proof-of-concept simulations are performed to assess whether these factors can help explain the Great Depression. The answer is yes.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35817#fromrss",
+   "title": "Early Results from the RESET Demonstration Project: Inflation in Food at Home -- by Steve Coffey, Gabriel Ehrlich, John C. Haltiwanger, Ron S. Jarmin, David Johnson, Tod Johnson, Matthew D. Shapiro",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35817#fromrss",
+   "abstract": "This paper presents early results from the RESET Demonstration Project, an initiative that constructs price and sales indices using item-level transactions data. The project’s overarching goal is to demonstrate the feasibility and advantages of leveraging modern transactions data for economic measurement by pointing toward a future in which official economic statistics are rebuilt on 21st-century data and technology. The paper introduces new inflation measures for Food at Home and evaluates them on two fronts: how they compare to current official statistics and what they offer as novel measures that capture more accurately the dynamics of consumer choice. The paper also addresses the challenges of producing reliable and credible official statistics from item-level transactions data and reports findings on recent Food at Home inflation trends.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35818#fromrss",
+   "title": "Windows of Opportunity in Early Childhood: A Dynamic Model of Multidimensional Development -- by Orazio Attanasio, Raquel Bernal, Michele Giannola, Milagros Nores",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35818#fromrss",
+   "abstract": "Using child development data collected during the evaluation of an early childhood education program, this paper estimates a dynamic model of human development from ages 1 to 6. We model three latent factors—health, cognitive skills, and socio-emotional skills—and allow them to interact with each other and with multiple inputs to shape subsequent development. The richness and high-frequency nature of the data permit a flexible specification that (i) allows for complex dynamics, (ii) lets each factor con- tribute to the production of the others, (iii) permits age-varying production technologies, and (iv) treats parental investment as endogenous. We use the estimated model to identify “windows of opportunity” in which parental interventions, or programs that increase investment, are especially effective. Results indicate that developmental dynamics are richer than typically assumed, with important implications for persistence: the impact of inputs can decay or endure in ways that vary across domains and over age. Accounting for endogenous investment is consequential for inference.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35819#fromrss",
+   "title": "Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection -- by Yifei Zhang, Andrew Keller, Shawn Arita, Sandro Steinbach",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35819#fromrss",
+   "abstract": "Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option. Using LRP endorsement records and matched CME options data for 2020–2025, we document that endorsement activity clusters around CME option expiration dates, especially for feeder cattle and lean hogs. Because producer-level derivatives positions are unobserved, however, timing patterns alone cannot identify subsidy capture. We therefore simulate returns to combined LRP-CME strategies using observed contract terms, option prices, and trading frictions, including bid-ask spreads, margin requirements, and financing costs. We find that the subsidy-created premium wedge is observable at purchase, but realized gains are small, commodity-specific, and concentrated in low-volatility environments where realized volatility falls below implied volatility. Even in those favorable cases, combined strategies substantially worsen downside outcomes relative to holding LRP alone. Additional evidence shows that clustering persists across volatility regimes and after the 2025 revisions to the LRP Handbook, suggesting that observed timing patterns may reflect contract alignment and routine hedging practices, instead of widespread economically meaningful subsidy capture.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35820#fromrss",
+   "title": "Social Sorting and Political Cleavages: Evidence from 2.5 Million Electoral Candidates -- by Jesús Fernández-Villaverde, Carlos Sanz",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35820#fromrss",
+   "abstract": "How socially distinct are competing political parties' candidate pools? Since names encode cultural milieu, lineage, linguistic origin, and ancestry that standard socioeconomic variables miss, we measure social sorting across parties with names, predicting affiliation out of sample within municipality-years. Across more than 2.5 million local-election candidates, names pick the right-wing candidate in a random within-municipality pair 55.8\\% of the time in Spain and 56.5\\% in France. Given names alone do most of the work: around 55.0%. Under a stylized model of intergenerational transmission of political orientation, this translates to an implied gap of about 25 p.p. in parental naming propensities. The signal is stable in Spain but doubles in France by 2026. Within ideological families, names separate parties as sharply as across the right--left divide, even more so in France. The Spanish cleavage is linguistic and growing. The French one runs through names of immigrant origin and is strongest in large cities.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35821#fromrss",
+   "title": "Endogenous Rigidities and Capital Misallocation: Evidence from Containerships -- by Maria Garcia-Osipenko, Nicholas Vreugdenhil, Nahim B. Zahur",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35821#fromrss",
+   "abstract": "We investigate how endogenous rigidities inhibit physical capital reallocation. We focus on the role of contract duration - a classic example of an adjustment rigidity. We argue that when agents sign longer contracts in booms when markets are thin, they generate a contracting externality which further amplifies thinness and impedes the adjustment of markets to shocks. We develop a dynamic spatial framework with booms and busts where agents search and choose match duration. Applying the framework to the containership leasing market, we find substantial misallocation from endogenous rigidities, particularly in the transition after a crash.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35822#fromrss",
+   "title": "Financial Innovation and the International Monetary System -- by Gordon Y. Liao, Eswar S. Prasad, Tony Zhang",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35822#fromrss",
+   "abstract": "We show that the dollar remains dominant in most aspects of global finance. The euro and renminbi are competing in an increasingly fragmented second tier of currencies, leaving no clear rivals to the dollar. We study how financial innovation could reshape the international monetary system. In principle, innovation levels the playing field between countries, for instance by reducing the need for vehicle currencies to intermediate transactions between other currency pairs and by making it easier to acquire and trade foreign assets. We show that an alternative outcome is more likely. Innovations that reduce frictions in cross-border transactions, especially dollar-backed payment stablecoins and other forms of tokenization of money, could interact with relative market thickness to reinforce the dollar’s dominance. This outcome is not preordained but depends on other countries’ willingness to embrace innovations and strengthen their financial markets and regulatory frameworks. While unipolarity has many disadvantages, we show that in some circumstances multipolarity might result in greater global fragility at times of financial market stress.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35823#fromrss",
+   "title": "Optimal Population Growth in the Diamond OLG Model -- by Laurence M. Ball",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35823#fromrss",
+   "abstract": "This paper studies the effects of population growth on welfare in an OLG model, in which lower population growth raises output per worker but also reduces the ratio of workers to retirees. Under fairly mild restrictions on the model’s parameters, there exists an optimal population-growth rate—one that maximizes steady-state welfare. This growth rate may well be negative: it may be optimal for the population to shrink over time. The introduction of a pay-as-you-go social security system reduces the optimal population-growth rate.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35824#fromrss",
+   "title": "Does Fertility Stabilize At Low Levels? Evidence from Period, Cohort, and Subnational Data -- by Diane Coffey, Michael Geruso, Dean Spears, Sangita Vyas",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35824#fromrss",
+   "abstract": "Many population projections used by international and government agencies assume that, in today's low-fertility societies, future fertility rates will stop declining and roughly stabilize. This paper assesses the evidence for an equilibrium point or rebound from low levels. We show that there is no robust evidence for a systematic fertility rebound, or for a stable equilibrium point at any fertility level conventionally assumed. Instead, where and when fertility has fallen low, it has tended to keep falling. This is true across a range of data sources, time periods, and fertility measures: United Nations data on period total fertility rates for all country-years from 1950 to 2023; Human Fertility Database data on completed fertility for cohorts born between 1935 and 1975 in 31 countries; and fertility rates in subnational geographies in Japan, India, and the United States. We reconcile these results with a prior literature that documented fertility reversals among some low-fertility countries in the early 2000s. Our findings provide an empirical basis for re-examining the equilibrium and rebound assumptions embedded in widely used population projections.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35825#fromrss",
+   "title": "The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties -- by Edward W. Chen, Reagan L. Lengefeld, Omar Isaac Asensio",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35825#fromrss",
+   "abstract": "This study examines a housing program that created affordable infill developments on formerly vacant, abandoned, or disinvested properties in Savannah, Georgia. Savannah is a major economic hub anchored by the Port of Savannah, where many urban neighborhoods remain impacted by disinvestment and climate risk. Using two decades of record-linked property and tax data, this study quantifies local economic spillovers from this public intervention, revealing previously hidden social and economic benefits of infill housing policies. These benefits include an 11% increase in the market value of properties immediately neighboring an infill development site and an increase of up to 35% in areas with a high density of infill activity, pointing to block-level revitalization in climate-disadvantaged and distressed areas.",
+   "published": "",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "https://www.nber.org/papers/w35826#fromrss",
+   "title": "Accounting for Cross-Country Income Differences Revisited -- by David Lagakos, Todd Schoellman",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35826#fromrss",
+   "abstract": "Development accounting is the search for proximate sources of cross-country income differences. This article describes how knowledge in this field has evolved over the two decades since the influential work of Caselli (2005). There have been large advances in the measurement of production inputs (labor, physical capital, and human capital). These advances have raised the estimated contribution of inputs, mostly human capital, in development accounting. Our preferred estimate is that inputs account for 50--65 percent of gross domestic product (GDP) per worker differences, versus 30 percent using the classic specification. The literature has also made progress in moving away from Cobb-Douglas production functions and measuring factors such as management quality that were previously bundled into total factor productivity (TFP). Our review highlights the new implications of these advances, areas where future research would be beneficial, and the limitations of development accounting.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35827#fromrss",
+   "title": "Crime in Covid Times -- by Jens Ludwig",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35827#fromrss",
+   "abstract": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This model does a generally poor job of explaining recent trends in homicide. Behavioral economics helps explain what the Becker model cannot. This view starts with the fact that most shootings don’t further some larger goal like robbery or gang wars over drug turf (“instrumental violence”); they’re arguments settled with guns (“expressive violence”). Why do arguments start or escalate? The behavioral model points to automatic cognition that is fast, effortless but sometimes prone to error. The pandemic increased automaticity by increasing distress – a cognitive “bandwidth tax.” Recent homicide trends, driven by changes in expressive violence, are mirrored by similar trends for deaths from drug overdose, car crashes, and suicide (especially for Black Americans, the group most affected by violence) – “deaths of decision-making.” Also relevant is a large rise and fall in gun carrying, which might partially stem from Becker-like mechanisms: Large changes in handgun sales and police stops, both of which may also have been affected by the killing of George Floyd. Since American gun violence is mostly arguments with guns, no wonder homicide trends are due mostly to changes in the number of arguments and the odds a given argument had a gun present.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35828#fromrss",
+   "title": "Liability and Pricing of Dual-Use AI -- by Joshua S. Gans",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35828#fromrss",
+   "abstract": "How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the target's security payoff. Compensation weakens defence and raises attacker profits. Optimal liability balances these effects against productive exclusion. Greater competition can lower optimal liability; every such decline must end at an outcome retaining defence. With cybersecurity access fixed, monopoly can warrant partial liability but never full liability when provision is worthwhile. When guardrails preserving productive uses are available, strong competition favours universal guarding socially but encourages unilateral removal at insufficient liability. At a fixed provider count, sufficiently many productive users ensure a pure equilibrium with universal guarding under high liability. A universal-guarding requirement makes liability redundant. Under monopoly, adoption follows a unique liability threshold, while zero liability remains uniquely optimal for a range of parameters with sufficiently many productive users.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35829#fromrss",
+   "title": "Importers, Market Power and Optimal Tariffs -- by Jonathan Becker, Corina Boar, Virgiliu Midrigan",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35829#fromrss",
+   "abstract": "Importers are few and large, have higher labor productivity and pass through cost changes to prices incompletely. We study optimal tariffs in a model consistent with these facts. Firms pay a fixed cost to import and charge markups that increase with size. Market power implies that importers are too few and too small relative to the efficient allocations. Tariffs amplify this distortion. We derive a formula that relates the optimal tariff not only to the foreign export supply elasticity but also to how much distortions amplify the effect of trade costs on welfare. In our calibrated economy the optimal tariff is negative and decreases with country size.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35830#fromrss",
+   "title": "Economics of Demand-Side and Supply-Side Climate Policies -- by Ryan Kellogg",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35830#fromrss",
+   "abstract": "Should a jurisdiction seeking to cut greenhouse gas emissions use demand-side climate policies that target fossil fuel consumption? Or should it introduce supply-side policies that target extraction? My analysis points to a policy portfolio rather than an either/or choice. ``Leakage'' of emissions to unregulated jurisdictions can be mitigated by combining standard demand-side carbon emissions pricing with supply-side pricing of carbon extraction. Emissions pricing drives leakage by lowering fossil fuel prices abroad; extraction pricing counteracts this effect. Supply-side climate policies in practice, however, do not broadly price extraction but instead narrowly foreclose investments in fossil fuel infrastructure and are thus inefficient. To reduce carbon demand, an alternative to emissions pricing is support for clean energy. I emphasize reforms to transmission planning and utility governance as crucial for unlocking clean energy resources' potential, and I highlight the case for publicly supporting clean energy R&D, including green industrial policy, to reduce carbon emissions not just at home but also abroad. I close by discussing distributional consequences. Domestically, carbon pricing and clean energy subsidies have sharply different distributional profiles. Globally, carbon extraction pricing would harm low-income countries that are also fossil fuel importers, though there also exist low-income fossil fuel exporters that would benefit.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35831#fromrss",
+   "title": "Subjective Models of the Macroeconomy and the Transmission of Monetary Policy -- by Francesco D’Acunto, Dimitris Georgarakos, Geoff Kenny, Michael Weber",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35831#fromrss",
+   "abstract": "Standard macroeconomic theories assume that representative or heterogeneous agents share a common model of how the economy operates. Yet evidence shows that households hold heterogeneous subjective models---distinct beliefs about how macroeconomic variables interact. As a result, identical shocks or policies may elicit different responses from otherwise similar households. We test this hypothesis by measuring subjective models and investigating their role in the transmission of monetary policy to consumption embedding randomized controlled experiment in a large-scale, multi-country survey. Consumers who believe that monetary tightening primarily operates through its effects on borrowing or savings rates plan to reduce consumption more in response to randomly assigned rate increase scenarios. By contrast, those who think about inflation or general equilibrium effects adjust consumption less. These differences are not explained by demographics, financial characteristics, including mortgage holdings and mortgage type, or country-level factors. Households' actual consumption responses to endogenous policy-rate changes exhibit broadly similar patterns. Our findings stress that heterogeneity in subjective models is an overlooked determinant of monetary policy transmission.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.nber.org/papers/w35832#fromrss",
+   "title": "Global Temperature and Global Mortality -- by Adrien Bilal, Diego R. Känzig, Krzysztof Lisiecki",
+   "authors": "",
+   "source": "NBER",
+   "url": "https://www.nber.org/papers/w35832#fromrss",
+   "abstract": "This paper documents large indirect mortality impacts of climate change. Exploiting natural global temperature variability, we find that 1°C of warming increases annual mortality by 2.5 deaths per 1,000 individuals, compared to 0.1 deaths per 1,000 due to the associated local heat exposure. Using external estimates of the impact of global income on mortality, we show that the macroeconomic effects of global temperature changes explain two thirds of the gap between these estimates. We use this evidence to estimate damage functions in a neoclassical growth model that links mortality and economic activity and accounts for adaptation to mortality impacts. Mortality contributes $400 per ton of CO₂ to the Social Cost of Carbon, or one quarter of total climate damages. These results suggest that economic adaptation has a double dividend by also reducing climate-related mortality.",
+   "published": "",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.nber.org/papers/w35758#fromrss",
    "title": "Fiscal Populism and Monetary Policy Rules -- by Luis I. Jácome, Nicolás E. Magud, Samuel Pienknagura, Martín Uribe",
@@ -7787,6 +8054,83 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend",
+   "title": "Man’s best friend?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend",
+   "summary": "When it comes to bear encounters in or near the wild, dogs are the aggressors in 54 percent of incidents, according to a recent study conducted by bear experts at Brigham Young University and other institutions, and published in the Journal of Wildlife Management. In approximately 36 percent of the encounters, dogs did not come to […] The post Man’s best friend? appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-28T17:53:27+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579",
+   "title": "Monday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579",
+   "summary": "1. Should more men move to Alaska? 2. The world’s oldest known peace treaty found. 3. In praise of Joyce, Whitman, and Crane. 4. Background explainer on the Chinese AI ecosystem. 5. YIMBY working in Portland (WSJ). 6. Profile of Helen DeWitt. 7. Human frailty. The post Monday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-28T16:36:21+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip",
+   "title": "Mighty Sparrow, RIP",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip",
+   "summary": "Here is the NYT obituary. The post Mighty Sparrow, RIP appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-28T13:56:32+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate",
+   "title": "Defining the Unemployment Rate",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate",
+   "summary": "An updated version of our Marginal Revolution University (MRU) video on defining the unemployment rate. Free to use for anyone but goes best, of course, with Modern Principles of Economics, the best principles of economics textbook. The post Defining the Unemployment Rate appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-28T11:18:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland",
+   "title": "Bundesrepublik Deutschland",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland",
+   "summary": "At times we forget what an amazing wonder the Bundesrepublik Deutschland was. At the end of the World War II, Germany was one of the sickest and cruelest human societies in history, ever. Not too many years later, it was one of the best and most successful societies ever. By the 1980s, living standards had […] The post Bundesrepublik Deutschland appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-28T04:34:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
+   "title": "AI in science",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
+   "summary": "Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models […] The post AI in science appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-27T19:03:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
+   "title": "Sunday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
+   "summary": "1. AI-related efforts in higher education in Morocco (ChatGPT). 2. Intelligence explosions are social. 3. The speech-processing skills of dogs. 4. Kalshi market in economics Nobel. 5. Why are Indian weddings with dancing gorillas going viral? Pakistan too. 6. Eminem, and some German guy. 7. On the UAP council. 8. On higher interest rates. The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-09-27T15:52:50+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2",
    "title": "Earth fact of the day, #2",
    "source": "Marginal Revolution",
@@ -8266,66 +8610,75 @@
    "published": "2026-09-19T04:22:09+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming",
-   "title": "Scott Beaulier interviews me, in part about Wyoming",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming",
-   "summary": "The post Scott Beaulier interviews me, in part about Wyoming appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-18T18:10:55+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591",
-   "title": "Friday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591",
-   "summary": "1. Gender differences in financial information processing. 2. Urban harassment of women in India. 3. The making of Roger Scruton? 4. Astra vs. Enigma. 5. Coetzee on genocide. 6. Dan Ariely update. And running for office in Israel. 7. A more sober look at the HuggingFace incident (WSJ). 8. Cass Sunstein on AI regulation and […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-18T15:39:23+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
-   "title": "Reimagining research papers as interactive and reliable AI agents",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
-   "summary": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research […] The post Reimagining research papers as interactive and reliable AI agents appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-18T07:07:11+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting",
-   "title": "Why Papua New Guinea is so interesting",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting",
-   "summary": "And this leads to the most interesting part of this story: how the highlanders were so isolated for so long. I want to acknowledge that the highlanders were not completely, hermetically sealed off from the outside world – it’s just that knowledge of outside world never actually made it to them or vice versa. Over […] The post Why Papua New Guinea is so interesting appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-18T04:50:51+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
-   "title": "Thursday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
-   "summary": "1. An American at Brazil’s largest rodeo. 2. Ingeborg Bachmann centenary. 3. “Huawei Technologies Co. predicted on Wednesday that global computing demand will surge 100,000-fold by 2035, with AI agents generating over 90% of network traffic.” And a report from someone who has done AI diplomacy with China (NYT). 4. “US Gov Federal Register use […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-17T15:54:05+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-26-109197",
+   "title": "Cybersecurity Regulations: Industry Panelists Identify Duplication and Conflicts and Ways to Address Them",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-109197",
+   "summary": "What GAO Found GAO convened a panel discussion to gather industry perspectives on potential duplication or conflict among federal cybersecurity regulations affecting selected critical infrastructure sectors. The industry participants identified multiple federal cybersecurity regulations within their sectors as duplicative or conflicting with other regulations (see figure below). In such cases, participants said it could be difficult to fully satisfy all reporting requirements while remediating cyber threats. Number of Duplicative or Conflicting Federal Cybersecurity Regulations Identified by S",
+   "published": "2026-09-28T11:20:48+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107448",
+   "title": "Criminal Justice: Data on Noncitizen Incarcerations, Convictions, Removals, and Costs",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107448",
+   "summary": "What GAO Found The average number of noncitizens incarcerated by the Federal Bureau of Prisons (BOP) each year decreased 44 percent from fiscal year 2017 (approximately 36,300) through fiscal year 2024 (approximately 20,300). This includes noncitizens with lawful immigration status. During this time, noncitizens, as a proportion of all BOP-incarcerated individuals, also decreased. Immigration-related offenses accounted for more than half of the offenses for which BOP-incarcerated noncitizens were convicted; another 30 percent were drug-related. U.S. Immigration and Customs Enforcement removed ",
+   "published": "2026-09-28T11:17:17+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108061",
+   "title": "Firearms Trafficking to Mexico: Better Data and Performance Monitoring Would Help Agencies Direct Resources to Counter Cartels",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108061",
+   "summary": "What GAO Found Transnational criminal organizations (TCO) in Mexico seek to acquire semi-automatic firearms—AR-15s, AK-47s, and .50-caliber rifles—which they often convert to fully automatic firearms, according to agency officials. Armed with these weapons, TCOs pose a serious threat to Mexican law enforcement and military. TCOs acquire firearms from the U.S. primarily through straw purchasers—third parties who buy them on the TCOs’ behalf—and middlemen who smuggle the firearms through ports of entry on the border. U.S. agencies collect data on trafficked firearms, but some data have limitatio",
+   "published": "2026-09-28T11:12:16+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108737",
+   "title": "Nuclear Power: Actions Needed to Improve NRC’s Assessment of Its Workforce Needs",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108737",
+   "summary": "What GAO Found The U.S. Nuclear Regulatory Commission (NRC) has faced longstanding challenges in hiring and retaining adequate staff. NRC officials and most of the stakeholders GAO interviewed stated that increased attrition and industry competition have affected NRC’s workforce more in recent years. GAO found that from July 2024 through June 2026, NRC lost, on net, about 500 staff in various positions, most of which were due to voluntary retirements. This loss of staff has increased concerns about the stability of NRC’s workforce. Total Number of NRC Employees from July 2024 Through June 2026",
+   "published": "2026-09-28T11:10:47+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107902",
+   "title": "Nonimmigrant Visas: State Should Consistently Conduct Global Staffing Needs Assessments to Help Balance Workloads and Address Long Wait Times",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107902",
+   "summary": "What GAO Found Visitor visa adjudications, which account for most nonimmigrant visas (NIV), have surpassed pre-COVID numbers. The Department of State adjudicated 9.2 million visitor visas pre-COVID in fiscal year (FY) 2019. That number dropped to 1.5 million in FY 2021. By FY 2025, the number of adjudications surpassed pre-pandemic levels, reaching 11.7 million. The average wait time to obtain an interview for a visitor visa was almost 8 times higher than before the pandemic, increasing from 26 days in FY 2019 to 201 days in FY 2025. In addition, the number of consular officers working on NIVs",
+   "published": "2026-09-28T11:07:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-108596",
+   "title": "IT Systems Annual Assessment: DOD Should Improve IT Fraud Risk Management Practices",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-108596",
+   "summary": "What GAO Found To meet its mission to protect the security of our nation and provide warfighters the assets they need, the Department of Defense (DOD) relies heavily on the use of information technology (IT). According to DOD’s Office of the Chief Information Officer (OCIO), the department planned to spend $10.3 billion on the 18 major IT business programs from fiscal years (FY) 2024 through 2026. The four largest programs account for 50 percent of the planned spending (see figure). The Department of Defense’s (DOD) Planned Costs for the Four Largest Information Technology (IT) Business Progra",
+   "published": "2026-09-28T11:01:02+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/oig-26-3",
    "title": "Acquisition Management: Opportunities Exist for GAO to Strengthen Its Policies and Procedures",
@@ -9350,17 +9703,6 @@
    "url": "https://www.gao.gov/products/oig-26-1",
    "summary": "What the OIG Found GAO aims to provide Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information that can be used to improve government and save taxpayers billions of dollars. To execute its mission, GAO relies on a highly-qualified workforce that includes employees in mission-critical occupations (MCO) such as contracting, human resources management, and information technology management. In FY 2024, GAO’s hiring of MCO employees took about 103 days on average, which is longer than its internal target of 98 or 101 days (depending on the applic",
    "published": "2026-08-17T16:01:46+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
-   "title": "The CFPB to Cease Discretionary Publication of Complaint Narratives and Visualizations",
-   "source": "CFPB",
-   "category": "",
-   "url": "https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-to-cease-discretionary-publication-of-complaint-narratives-and-visualizations/",
-   "summary": "",
-   "published": "2026-08-14T04:00:00+00:00",
    "relevance": "low",
    "topics": []
   }
