@@ -1,6 +1,86 @@
 {
- "generated_at": "2026-10-06T17:03:36.476043+00:00",
+ "generated_at": "2026-10-07T17:41:25.941212+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104289",
+   "title": "Next job: Matera. How tourism and spotlight shape the local labour market",
+   "authors": "Luca Favero, Ilaria Malisan",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104289",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104289",
+   "abstract": "",
+   "published": "2026-10-07T07:00:38Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105799",
+   "title": "Identity politics, partisan sentiment and household spending",
+   "authors": "Arkadev Ghosh, Aruni Mitra, Ronit Mukherji",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105799",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105799",
+   "abstract": "",
+   "published": "2026-10-06T20:57:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jue.2026.103925",
+   "title": "The impact of comprehensive student support on crime: Evidence from the pathways to education program",
+   "authors": "Adam Lavecchia, Philip Oreopoulos, Noah Spencer",
+   "journal": "Journal of Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.jue.2026.103925",
+   "url": "https://doi.org/10.1016/j.jue.2026.103925",
+   "abstract": "",
+   "published": "2026-10-06T20:32:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104340",
+   "title": "Emerging markets, household heterogeneity, and exchange rate policy",
+   "authors": "Gabriela Cugat",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104340",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104340",
+   "abstract": "",
+   "published": "2026-10-06T20:28:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104341",
+   "title": "Human capital accumulation across space",
+   "authors": "Klaus Desmet, Dávid Krisztián Nagy, Esteban Rossi-Hansberg",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104341",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104341",
+   "abstract": "",
+   "published": "2026-10-06T20:28:32Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag110",
+   "title": "Are Markups Too High? Competition, Strategic Innovation, and Industry Dynamics",
+   "authors": "Laurent Cavenaile, Murat Alp Celik, Xu Tian",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag110",
+   "url": "https://doi.org/10.1093/restud/rdag110",
+   "abstract": "Abstract To study competition, innovation, and industry dynamics that arise as a result of their interaction, we develop a new oligopolistic general-equilibrium Schumpeterian growth model. This model ties together the endogenous growth, oligopolistic competition, and dynamic industrial organization literatures in a single unified framework. Within each industry, there are an endogenously determined number of large firms (“superstars”) that compete á la Cournot and a continuum of small firms which collectively constitute a competitive fringe. Firms dynamically choose their innovation strategies, cognizant of other firms' choices, and their entry and exit are endogenous. The model is consistent with the macroeconomic trends observed in the United States since the 1970s, such as the domination of industries by a small number of superstar firms, the rise of markups, market concentration, profits, and R&D spending, and the decline in business dynamism, productivity growth, and the labor share. It replicates the empirical relationship between innovation and competition within and across industries. As an application, we estimate the model to disentangle the effects of separate mechanisms on the structural transition observed in the United States, which yields striking results: (1) While the increase in the average markup causes a significant static welfare loss, this loss is overshadowed by the dynamic welfare gains from increased innovation in response to higher profit opportunities. (2) The increasing costs of innovation are found to be the primary determinant of lackluster productivity growth, i.e., ideas are getting harder to find.",
+   "published": "2026-10-06T11:36:15Z",
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ]
+  },
   {
    "id": "10.1016/j.jpubeco.2026.105760",
    "title": "Propensity to consume food out of SNAP and its welfare implications",
@@ -121,14 +201,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20231417",
-   "title": "Social Push and the Direction of Innovation",
-   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
+   "id": "10.1257/aer.20231368",
+   "title": "Racial Promotion Gaps",
+   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20231417",
-   "url": "https://doi.org/10.1257/aer.20231417",
-   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
+   "doi": "10.1257/aer.20231368",
+   "url": "https://doi.org/10.1257/aer.20231368",
+   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -147,17 +227,45 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20231368",
-   "title": "Racial Promotion Gaps",
-   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "id": "10.1257/aer.20241596",
+   "title": "Taxing Top Wealth: Migration Responses and Their Aggregate Economic Implications",
+   "authors": "Katrine Jakobsen, Henrik Kleven, Jonas Kolsrud, Camille Landais, Mathilde Munoz",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20231368",
-   "url": "https://doi.org/10.1257/aer.20231368",
-   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+   "doi": "10.1257/aer.20241596",
+   "url": "https://doi.org/10.1257/aer.20241596",
+   "abstract": "Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A large fraction of the wealthy are business owners, and their businesses are negatively affected by owner out-migration. The aggregate effects are nevertheless modest: The migration responses to a 1 percentage point increase in the top wealth tax rate reduce employment by 0.02 percent, investments by 0.07 percent, and value added by 0.10 percent. (JEL D31, E22, E24, F22, H24, L26, K34)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231417",
+   "title": "Social Push and the Direction of Innovation",
+   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231417",
+   "url": "https://doi.org/10.1257/aer.20231417",
+   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250115",
+   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250115",
+   "url": "https://doi.org/10.1257/aer.20250115",
+   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "10.1257/aer.20230714",
@@ -199,19 +307,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20241596",
-   "title": "Taxing Top Wealth: Migration Responses and Their Aggregate Economic Implications",
-   "authors": "Katrine Jakobsen, Henrik Kleven, Jonas Kolsrud, Camille Landais, Mathilde Munoz",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241596",
-   "url": "https://doi.org/10.1257/aer.20241596",
-   "abstract": "Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A large fraction of the wealthy are business owners, and their businesses are negatively affected by owner out-migration. The aggregate effects are nevertheless modest: The migration responses to a 1 percentage point increase in the top wealth tax rate reduce employment by 0.02 percent, investments by 0.07 percent, and value added by 0.10 percent. (JEL D31, E22, E24, F22, H24, L26, K34)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.116.10.i",
    "title": "Front Matter",
    "authors": "",
@@ -223,21 +318,6 @@
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250115",
-   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
-   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250115",
-   "url": "https://doi.org/10.1257/aer.20250115",
-   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
   },
   {
    "id": "10.1093/qje/qjag035",
@@ -320,6 +400,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/744158",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744158",
+   "url": "https://doi.org/10.1086/744158",
+   "abstract": "",
+   "published": "2026-09-28T17:05:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743929",
    "title": "JPE Turnaround Times",
    "authors": "",
@@ -340,19 +433,6 @@
    "tier": "Top-5",
    "doi": "10.1086/744159",
    "url": "https://doi.org/10.1086/744159",
-   "abstract": "",
-   "published": "2026-09-28T17:05:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/744158",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744158",
-   "url": "https://doi.org/10.1086/744158",
    "abstract": "",
    "published": "2026-09-28T17:05:46Z",
    "relevance": "low",
@@ -1034,40 +1114,40 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta945fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 5",
-   "authors": "",
+   "id": "10.3982/ecta22363",
+   "title": "Screening Property Rights for Innovation",
+   "authors": "William Matcham, Mark Schankerman",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta945fm",
-   "url": "https://doi.org/10.3982/ecta945fm",
-   "abstract": "",
+   "doi": "10.3982/ecta22363",
+   "url": "https://doi.org/10.3982/ecta22363",
+   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "10.3982/ecta23242",
-   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
-   "authors": "Ulrich Müller, Andriy Norets",
+   "id": "10.3982/ecta20884",
+   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
+   "authors": "Molly Schnell",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23242",
-   "url": "https://doi.org/10.3982/ecta23242",
-   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
+   "doi": "10.3982/ecta20884",
+   "url": "https://doi.org/10.3982/ecta20884",
+   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "10.3982/ecta20428",
-   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
-   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
+   "id": "10.3982/ecta24284",
+   "title": "Genetic Prediction and Adverse Selection",
+   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta20428",
-   "url": "https://doi.org/10.3982/ecta20428",
-   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
+   "doi": "10.3982/ecta24284",
+   "url": "https://doi.org/10.3982/ecta24284",
+   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1099,47 +1179,6 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta21571",
-   "title": "Causal Inference for Spatial Treatments",
-   "authors": "Michael Pollmann",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21571",
-   "url": "https://doi.org/10.3982/ecta21571",
-   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.3982/ecta22363",
-   "title": "Screening Property Rights for Innovation",
-   "authors": "William Matcham, Mark Schankerman",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta22363",
-   "url": "https://doi.org/10.3982/ecta22363",
-   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta20884",
-   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
-   "authors": "Molly Schnell",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta20884",
-   "url": "https://doi.org/10.3982/ecta20884",
-   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.3982/ecta23230",
    "title": "The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair",
    "authors": "Marek Pycia, Peter Troyan",
@@ -1166,6 +1205,19 @@
    "topics": []
   },
   {
+   "id": "10.3982/ecta20428",
+   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
+   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta20428",
+   "url": "https://doi.org/10.3982/ecta20428",
+   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta21366",
    "title": "Security Design Under Common‐Value Competition",
    "authors": "Yue Yuan",
@@ -1179,14 +1231,42 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta24284",
-   "title": "Genetic Prediction and Adverse Selection",
-   "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
+   "id": "10.3982/ecta23242",
+   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
+   "authors": "Ulrich Müller, Andriy Norets",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta24284",
-   "url": "https://doi.org/10.3982/ecta24284",
-   "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+   "doi": "10.3982/ecta23242",
+   "url": "https://doi.org/10.3982/ecta23242",
+   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta21571",
+   "title": "Causal Inference for Spatial Treatments",
+   "authors": "Michael Pollmann",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21571",
+   "url": "https://doi.org/10.3982/ecta21571",
+   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.3982/ecta945fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 5",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta945fm",
+   "url": "https://doi.org/10.3982/ecta945fm",
+   "abstract": "",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1283,13 +1363,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/744049",
-   "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
-   "authors": "Barbara Biasi, Chao Fu, John Stromme",
+   "id": "10.1086/744015",
+   "title": "Behavioral Attenuation",
+   "authors": "Benjamin Enke, Thomas Graeber, Ryan Oprea, Jeffrey Yang",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744049",
-   "url": "https://doi.org/10.1086/744049",
+   "doi": "10.1086/744015",
+   "url": "https://doi.org/10.1086/744015",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
    "relevance": "low",
@@ -1309,13 +1389,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/744015",
-   "title": "Behavioral Attenuation",
-   "authors": "Benjamin Enke, Thomas Graeber, Ryan Oprea, Jeffrey Yang",
+   "id": "10.1086/744049",
+   "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+   "authors": "Barbara Biasi, Chao Fu, John Stromme",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744015",
-   "url": "https://doi.org/10.1086/744015",
+   "doi": "10.1086/744049",
+   "url": "https://doi.org/10.1086/744049",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
    "relevance": "low",
@@ -1350,19 +1430,6 @@
    "topics": []
   },
   {
-   "id": "10.1093/restud/rdag102",
-   "title": "Company Wage Policy in a Low-Wage Labour Market",
-   "authors": "Giulia Giupponi, Stephen Machin",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag102",
-   "url": "https://doi.org/10.1093/restud/rdag102",
-   "abstract": "Abstract We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labour market.",
-   "published": "2026-09-10T11:52:31Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1093/restud/rdag101",
    "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
    "authors": "Brett Green, Cyrus Mevorach, Curtis R Taylor",
@@ -1371,6 +1438,19 @@
    "doi": "10.1093/restud/rdag101",
    "url": "https://doi.org/10.1093/restud/rdag101",
    "abstract": "Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Pre-emption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.",
+   "published": "2026-09-10T11:52:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag102",
+   "title": "Company Wage Policy in a Low-Wage Labour Market",
+   "authors": "Giulia Giupponi, Stephen Machin",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag102",
+   "url": "https://doi.org/10.1093/restud/rdag102",
+   "abstract": "Abstract We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labour market.",
    "published": "2026-09-10T11:52:31Z",
    "relevance": "low",
    "topics": []
@@ -1787,6 +1867,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/742158",
+   "title": "Grading Government: A Deficit Management Scorecard",
+   "authors": "Alan J. Auerbach, Danny Yagan",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/742158",
+   "url": "https://doi.org/10.1086/742158",
+   "abstract": "",
+   "published": "2026-08-31T19:52:30Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743394",
    "title": "Summaries of Articles",
    "authors": "",
@@ -1813,78 +1906,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/742158",
-   "title": "Grading Government: A Deficit Management Scorecard",
-   "authors": "Alan J. Auerbach, Danny Yagan",
-   "journal": "National Tax Journal",
-   "tier": "Public",
-   "doi": "10.1086/742158",
-   "url": "https://doi.org/10.1086/742158",
-   "abstract": "",
-   "published": "2026-08-31T19:52:30Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743900",
-   "title": "Collusion through Common Leadership",
-   "authors": "Alejandro Herrera-Caicedo, Jessica Jeffers, Elena Prager",
+   "id": "10.1086/743898",
+   "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+   "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/743900",
-   "url": "https://doi.org/10.1086/743900",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743901",
-   "title": "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates",
-   "authors": "Christian Hellwig, Nicolas Werquin",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743901",
-   "url": "https://doi.org/10.1086/743901",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743899",
-   "title": "Who Values Democracy?",
-   "authors": "Max Miller",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743899",
-   "url": "https://doi.org/10.1086/743899",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743915",
-   "title": "The Macroeconomic Dynamics of Labor Market Polices",
-   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743915",
-   "url": "https://doi.org/10.1086/743915",
-   "abstract": "",
-   "published": "2026-08-31T19:39:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1086/743914",
-   "title": "Not Learning from Others",
-   "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743914",
-   "url": "https://doi.org/10.1086/743914",
+   "doi": "10.1086/743898",
+   "url": "https://doi.org/10.1086/743898",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -1904,6 +1932,19 @@
    "topics": []
   },
   {
+   "id": "10.1086/743901",
+   "title": "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates",
+   "authors": "Christian Hellwig, Nicolas Werquin",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743901",
+   "url": "https://doi.org/10.1086/743901",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1086/743916",
    "title": "Strategic Wishful Thinking: Implications for Forecasts",
    "authors": "Snehal Banerjee, Jesse Davis, Naveen Gondhi",
@@ -1917,13 +1958,52 @@
    "topics": []
   },
   {
-   "id": "10.1086/743898",
-   "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
-   "authors": "Sonia Bhalotra, Damian Clarke, Atheendar Venkataramani",
+   "id": "10.1086/743915",
+   "title": "The Macroeconomic Dynamics of Labor Market Polices",
+   "authors": "Erik G. Hurst, Patrick Kehoe, Elena Pastorino, Thomas Winberry",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/743898",
-   "url": "https://doi.org/10.1086/743898",
+   "doi": "10.1086/743915",
+   "url": "https://doi.org/10.1086/743915",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743899",
+   "title": "Who Values Democracy?",
+   "authors": "Max Miller",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743899",
+   "url": "https://doi.org/10.1086/743899",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743914",
+   "title": "Not Learning from Others",
+   "authors": "John Conlon, Malavika Mani, Gautam Rao, Matthew Ridley, Frank Schilbach",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743914",
+   "url": "https://doi.org/10.1086/743914",
+   "abstract": "",
+   "published": "2026-08-31T19:39:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743900",
+   "title": "Collusion through Common Leadership",
+   "authors": "Alejandro Herrera-Caicedo, Jessica Jeffers, Elena Prager",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743900",
+   "url": "https://doi.org/10.1086/743900",
    "abstract": "",
    "published": "2026-08-31T19:39:17Z",
    "relevance": "low",
@@ -2094,19 +2174,6 @@
    ]
   },
   {
-   "id": "10.1257/aer.116.9.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.i",
-   "url": "https://doi.org/10.1257/aer.116.9.i",
-   "abstract": "",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20241765",
    "title": "The Environmental Bias of Corporate Income Taxation",
    "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
@@ -2122,53 +2189,14 @@
    ]
   },
   {
-   "id": "10.1257/aer.20240579",
-   "title": "Contextually Private Mechanisms",
-   "authors": "Andreas Haupt, Zoë Hitzig",
+   "id": "10.1257/aer.20241404",
+   "title": "Marriage, Fertility, and Cultural Integration in Italy",
+   "authors": "Alberto Bisin, Giulia Tura",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240579",
-   "url": "https://doi.org/10.1257/aer.20240579",
-   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241001",
-   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
-   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241001",
-   "url": "https://doi.org/10.1257/aer.20241001",
-   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20241087",
-   "title": "Manipulation-Robust Prediction",
-   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241087",
-   "url": "https://doi.org/10.1257/aer.20241087",
-   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
-   "published": "2026-08-28T13:22:45Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240756",
-   "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
-   "authors": "Amanda Dahlstrand",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240756",
-   "url": "https://doi.org/10.1257/aer.20240756",
-   "abstract": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
+   "doi": "10.1257/aer.20241404",
+   "url": "https://doi.org/10.1257/aer.20241404",
+   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -2185,6 +2213,34 @@
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240579",
+   "title": "Contextually Private Mechanisms",
+   "authors": "Andreas Haupt, Zoë Hitzig",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240579",
+   "url": "https://doi.org/10.1257/aer.20240579",
+   "abstract": "A designer employs a dynamic protocol to elicit private information. Protocols produce a set of contextual privacy violations—information learned that may be superfluous given the context. A protocol is maximally contextually private if there is no protocol that produces a proper subset of the violations it produces, while implementing the choice rule. Contextual privacy violations arise when a choice rule makes some agents collectively, but not individually, pivotal. In auctions, designing for contextual privacy requires choosing an initial question posed to each agent and the order for querying agents. Ascending-join protocols are maximally contextually private for k-item Vickrey auctions. (JEL D44, D82)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.116.9.3197",
+   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+   "authors": "Lawrence F. Katz",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.9.3197",
+   "url": "https://doi.org/10.1257/aer.116.9.3197",
+   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "10.1257/aer.20240664",
@@ -2215,29 +2271,53 @@
    ]
   },
   {
-   "id": "10.1257/aer.116.9.3197",
-   "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
-   "authors": "Lawrence F. Katz",
+   "id": "10.1257/aer.116.9.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.116.9.3197",
-   "url": "https://doi.org/10.1257/aer.116.9.3197",
-   "abstract": "Experimental and quasi-experimental studies show that childhood neighborhoods have substantial causal impacts on children's adult earnings and other long-term socioeconomic outcomes. Several market failures are likely to lead to excessive residential segregation by parental income and to an undersupply of mixed-income neighborhoods. Missing markets for opportunity originate in capital market imperfections for borrowing on children's future earnings, neighbor spillovers, behavioral biases, and housing search frictions. Customized housing mobility services combined with subsidized housing vouchers can help low-income families move to higher-opportunity areas. Place-based policies that create mixed-income neighborhoods appear to increase long-term outcomes for less-advantaged children. (JEL I12, I32, I38, J13, J15, R23, R38)",
+   "doi": "10.1257/aer.116.9.i",
+   "url": "https://doi.org/10.1257/aer.116.9.i",
+   "abstract": "",
    "published": "2026-08-28T13:22:45Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
+   "relevance": "low",
+   "topics": []
   },
   {
-   "id": "10.1257/aer.20241404",
-   "title": "Marriage, Fertility, and Cultural Integration in Italy",
-   "authors": "Alberto Bisin, Giulia Tura",
+   "id": "10.1257/aer.20240756",
+   "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
+   "authors": "Amanda Dahlstrand",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20241404",
-   "url": "https://doi.org/10.1257/aer.20241404",
-   "abstract": "We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)",
+   "doi": "10.1257/aer.20240756",
+   "url": "https://doi.org/10.1257/aer.20240756",
+   "abstract": "Digital platforms reduce geographic frictions, enabling better matching between service providers and users. I quantify reallocation gains in Swedish online health care, using nationwide time-conditional random assignment between patients and physicians. Matching high-risk patients with doctors effective at reducing Emergency Room visits lowers such visits by 4.4 percent (SE 1.3); reallocations also reduce Counter-Guideline antibiotics by 3.1 percent (1.4). I find limited trade-offs in matching; horizontal differentiation among doctors and varied patient needs allow improvement in multiple outcomes simultaneously. Efficiency-enhancing reallocations also affect equity. The findings highlight the potential for care reorganization aligning provider heterogeneity with patient needs when geographic constraints are lifted. (JEL C78, H51, I11, I13, I14, I18)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241087",
+   "title": "Manipulation-Robust Prediction",
+   "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241087",
+   "url": "https://doi.org/10.1257/aer.20241087",
+   "abstract": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+   "published": "2026-08-28T13:22:45Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241001",
+   "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+   "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241001",
+   "url": "https://doi.org/10.1257/aer.20241001",
+   "abstract": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
    "published": "2026-08-28T13:22:45Z",
    "relevance": "low",
    "topics": []
@@ -2315,19 +2395,6 @@
    ]
   },
   {
-   "id": "10.1086/743795",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/743795",
-   "url": "https://doi.org/10.1086/743795",
-   "abstract": "",
-   "published": "2026-08-26T20:54:58Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/743444",
    "title": "JPE Turnaround Times",
    "authors": "",
@@ -2335,6 +2402,19 @@
    "tier": "Top-5",
    "doi": "10.1086/743444",
    "url": "https://doi.org/10.1086/743444",
+   "abstract": "",
+   "published": "2026-08-26T20:54:58Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743795",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/743795",
+   "url": "https://doi.org/10.1086/743795",
    "abstract": "",
    "published": "2026-08-26T20:54:58Z",
    "relevance": "low",
@@ -2981,71 +3061,6 @@
    "url": "https://doi.org/10.1093/restud/rdag083",
    "abstract": "Abstract We study monopolistic certification in markets where sellers possess partial private information about product quality. A certifier can provide information through two channels: screening sellers’ private information (soft information) and acquiring new quality data (hard information). We prove that any certification menu achieving less than maximal screening is Pareto dominated by one with full screening. Among Pareto-efficient menus, the certifier’s profit-maximizing menu provides maximal soft information while restricting hard information provision. The two channels diverge because screening creates value the certifier can fully capture, whereas hard information amplifies costly information rents. Using power value functions, we derive comparative statics showing that information restrictions target low-quality sellers when information value is moderate, but high-quality sellers receive perfect quality revelation when information value is high.",
    "published": "2026-08-10T11:26:35Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103894",
-   "title": "Household consumption and savings over the life cycle: The roles of demographics and durables",
-   "authors": "Neha Bairoliya, Areendam Chanda, Jingyi Fang, Fang Yang",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103894",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103894",
-   "abstract": "",
-   "published": "2026-08-08T15:08:13Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103903",
-   "title": "Migration incentives and elderly health: Evidence from the Hukou reforms in China",
-   "authors": "Wei Huang, Hai Huang, Haotian Zhang, Wei Zheng",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103903",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103903",
-   "abstract": "",
-   "published": "2026-08-08T15:08:13Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103899",
-   "title": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
-   "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103899",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
-   "abstract": "",
-   "published": "2026-08-08T15:08:09Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104326",
-   "title": "The extensive margin of restructuring: Adoption of new work in a global economy",
-   "authors": "Gueyon Kim",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104326",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104326",
-   "abstract": "",
-   "published": "2026-08-08T15:03:27Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103898",
-   "title": "Career guidance and investments in education: Experimental evidence from Cambodia",
-   "authors": "Esther Gehrke, Friederike Lenel, Claudia Schupp",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103898",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103898",
-   "abstract": "",
-   "published": "2026-08-07T23:32:29Z",
    "relevance": "low",
    "topics": []
   }
@@ -8347,6 +8362,85 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574",
+   "title": "Wednesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574",
+   "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown. The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-07T17:40:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
+   "title": "Against Laissez-Faire Democracy",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
+   "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric information, principal-agent problems, behavioral […] The post Against Laissez-Faire Democracy appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-07T11:18:34+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day",
+   "title": "Texas-Canada Fact of the Day",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day",
+   "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […] The post Texas-Canada Fact of the Day appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-07T11:16:54+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM24xNngxQUhBS3phVjJyOUwwOVgtTS1GRGRtZEtwX1paZkRjdVVpMzAtMVJPOERfSjhLVC1xbkttQ1BfOUtKV2c4WjFqMk84MVg2NmU3QU9OMmt4eW1QX2swUDdWVXZkTmh1WjllZ0R2dVY4blBrUWdsNjlvenpWUlVWaHd0dEd5Smo1U3F4cUpNOThlZmhZaFpTT0N1dC1HZ0xuOHBtMTNySTZ4R01VZHF0VkNEZ2JrWHIxMQ?oc=5",
+   "title": "LIV Golf’s latest bankruptcy filings call for two significant changes - Irish Golfer Magazine",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM24xNngxQUhBS3phVjJyOUwwOVgtTS1GRGRtZEtwX1paZkRjdVVpMzAtMVJPOERfSjhLVC1xbkttQ1BfOUtKV2c4WjFqMk84MVg2NmU3QU9OMmt4eW1QX2swUDdWVXZkTmh1WjllZ0R2dVY4blBrUWdsNjlvenpWUlVWaHd0dEd5Smo1U3F4cUpNOThlZmhZaFpTT0N1dC1HZ0xuOHBtMTNySTZ4R01VZHF0VkNEZ2JrWHIxMQ?oc=5",
+   "summary": "LIV Golf’s latest bankruptcy filings call for two significant changes Irish Golfer Magazine",
+   "published": "2026-10-07T07:10:08+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative",
+   "title": "Why most stereotypes are negative",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative",
+   "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attributes that distinguish them […] The post Why most stereotypes are negative appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-07T07:03:57+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin",
+   "title": "Effective altruism is useful at the margin",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin",
+   "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […] The post Effective altruism is useful at the margin appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-07T04:49:13+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
+   "title": "Brazil election notes (from my email)",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
+   "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […] The post Brazil election notes (from my email) appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-06T22:38:14+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589",
    "title": "Tuesday assorted links",
    "source": "Marginal Revolution",
@@ -8643,19 +8737,6 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3o4Y0NhaUZkVXNtank1UDdONGNlS2Riangxc3dwRW84MmEyczZFVEdrYXhqRWNTQ2JTRS1oVng0SUFPM1FUWTI2RDRsLURrcERzb2ZDTEdkcWdtcGJzbzVUUlBjZ010T0xFcmFtWm1QLTVha1BGTncydXAtT2V5bnBKZDA4QkJRcE9JNjNzWHZ0SXVUSk5OUjF5WTFrcDdadFdzMnJnOG4?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WSAZ",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3o4Y0NhaUZkVXNtank1UDdONGNlS2Riangxc3dwRW84MmEyczZFVEdrYXhqRWNTQ2JTRS1oVng0SUFPM1FUWTI2RDRsLURrcERzb2ZDTEdkcWdtcGJzbzVUUlBjZ010T0xFcmFtWm1QLTVha1BGTncydXAtT2V5bnBKZDA4QkJRcE9JNjNzWHZ0SXVUSk5OUjF5WTFrcDdadFdzMnJnOG4?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WSAZ",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWVobzRoRlZKLUVVTzhGaGNEVHJ0WkZrSDZBX0RmU3BpTWQzY1VlazR4Zm44NWtpaEZsams0UXNCaXRvd1pkZU5YazVUQU9OenRFZWJ4MzJfenVZdHNsZWw4WFhfRVdlSnd4UF9fZkVqekJfZHVaUXpFOXEwWXhPWUZMeUM2c0NfZVdIU3dCZjJxSlJDY21ZSTQ0NTJlOTdiOTRaVWNzSVdaUXQ3?oc=5",
    "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - fox10tv.com",
    "source": "Google News: 破产政策",
@@ -8695,19 +8776,6 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0cwNFNscEFXNjRsTlZRZU1TbGF2UGctcFFBT0dHWXYzcHRiZGZ2MDFra1RUNS15T2NKVGFHOGx5N0FBV2J3LXFQa0ZvempRcnNYS3pOblpWR2h1MzlQUjYwcWRUNUNDdzRGZWVYOUdiNTR2RXJQUGdwX3c5eWUwaFNyVFZrZUpOZkFBaW5SWi1NYXEydWdUSjZjbjJKZEJ4c01pWm1WWm1CTnM?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KFVS12",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0cwNFNscEFXNjRsTlZRZU1TbGF2UGctcFFBT0dHWXYzcHRiZGZ2MDFra1RUNS15T2NKVGFHOGx5N0FBV2J3LXFQa0ZvempRcnNYS3pOblpWR2h1MzlQUjYwcWRUNUNDdzRGZWVYOUdiNTR2RXJQUGdwX3c5eWUwaFNyVFZrZUpOZkFBaW5SWi1NYXEydWdUSjZjbjJKZEJ4c01pWm1WWm1CTnM?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KFVS12",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkZ6VWluTEZoSXRkT05tbU1HTVBRMmdpTGRJQjFvMnJEb3NoQ05CTGIxT3NGQWJPQXVOdWp3WUcxWm5wbDkyVDVNT2Fkb0pOY2JjLXRkNDQ3aFVwQTZmSDBPSEo1d0NCYXQtMUFyUmNjazNydjc3V3J1TkhlRjU0YXh4SHlMaThJRWlrMWJEa1UwLWlRbG0xc0lQTHBxdjhGOFlTZnBFZXpzd3BRbDBr?oc=5",
    "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - FOX5 Vegas",
    "source": "Google News: 破产政策",
@@ -8721,12 +8789,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0lyZ2ZvMnJPbEIyclFCUVB6T2dMSktRa1ZhNU81SkxJSlg1Q3F1V3J3RVJwc0tnTjJ6bkt6RFNEVE1xc2ZvVU1YbE1Jeml2SEhRUmtieFJGVElMcmc4NWVWVk5Bbnlza2xqaUZ5aHVSV2RKNXpObE9uNU5mSjd0aUNBZVE4VG52bm5CWGsxQjR1TC00WUE4VHdOZUc4VFFBUFBZbDl0T01YQQ?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KCTV",
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0cwNFNscEFXNjRsTlZRZU1TbGF2UGctcFFBT0dHWXYzcHRiZGZ2MDFra1RUNS15T2NKVGFHOGx5N0FBV2J3LXFQa0ZvempRcnNYS3pOblpWR2h1MzlQUjYwcWRUNUNDdzRGZWVYOUdiNTR2RXJQUGdwX3c5eWUwaFNyVFZrZUpOZkFBaW5SWi1NYXEydWdUSjZjbjJKZEJ4c01pWm1WWm1CTnM?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KFVS12",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0lyZ2ZvMnJPbEIyclFCUVB6T2dMSktRa1ZhNU81SkxJSlg1Q3F1V3J3RVJwc0tnTjJ6bkt6RFNEVE1xc2ZvVU1YbE1Jeml2SEhRUmtieFJGVElMcmc4NWVWVk5Bbnlza2xqaUZ5aHVSV2RKNXpObE9uNU5mSjd0aUNBZVE4VG52bm5CWGsxQjR1TC00WUE4VHdOZUc4VFFBUFBZbDl0T01YQQ?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KCTV",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0cwNFNscEFXNjRsTlZRZU1TbGF2UGctcFFBT0dHWXYzcHRiZGZ2MDFra1RUNS15T2NKVGFHOGx5N0FBV2J3LXFQa0ZvempRcnNYS3pOblpWR2h1MzlQUjYwcWRUNUNDdzRGZWVYOUdiNTR2RXJQUGdwX3c5eWUwaFNyVFZrZUpOZkFBaW5SWi1NYXEydWdUSjZjbjJKZEJ4c01pWm1WWm1CTnM?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KFVS12",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8740,6 +8808,58 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUlrSW5BdXpNVHJjZVBFQllGbDlmcktrbFdPV2ZaY3RLY0dLVjVJdTQxSTNfRFhadzhWZHNybUFvZ3NEOGExMWE2UGF1dE9sYW9LM1VINjhMWnBCMW9VNWEyMFlVdmRhamxsTEg0Y2VjaVhpWlI2dE00eXpVbE5OQTJZc0R6aHB0bmJaekc2N2xrOW44UVdkV040aFVaeURNRDZVeV9jWDVnczhhS3B4eWV5TUo?oc=5",
    "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds investigatetv.com",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZlTHAwSHdiUjZEY0phREV6MmpwZ040V0RQWEw4dTRkeUxUakprMWxlV05uUEEyQmVzNmRpRk1GYzlNUkVNelpYZjdUX21sMUJValQ3SkhUYnRHcmFIY3hXYlYzSlZlZ2FvVGdIMVpsMzJhWDg3VzZDVGVYcjRxQ01EV2p0Z19YdHdadkhBeXpQdFV5QW16dy1SeXd5bkNLcjBTd1E4VmZFUlk?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WWNY",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZlTHAwSHdiUjZEY0phREV6MmpwZ040V0RQWEw4dTRkeUxUakprMWxlV05uUEEyQmVzNmRpRk1GYzlNUkVNelpYZjdUX21sMUJValQ3SkhUYnRHcmFIY3hXYlYzSlZlZ2FvVGdIMVpsMzJhWDg3VzZDVGVYcjRxQ01EV2p0Z19YdHdadkhBeXpQdFV5QW16dy1SeXd5bkNLcjBTd1E4VmZFUlk?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WWNY",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRCZXEzbHhCZjdVdThhRW4xZzJjcHBJTl9mcUdYWGpENWZ0QXl3ZUFGdVBnLVdCNUJNUmw5bDZBV0d1NDNtWU1LVkstZDFIUElqcVAtOVR6Zm95R19Fd2tlSUp5dnBER0xUT1BGRWpkWmRzTUl2SUFGRlc3SmVvUk0xaEFsb2V2c0FSZ012MlMtV28zS3VRT2JLWXUyc3B2eDhmU2JRQzQ?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WAFB",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRCZXEzbHhCZjdVdThhRW4xZzJjcHBJTl9mcUdYWGpENWZ0QXl3ZUFGdVBnLVdCNUJNUmw5bDZBV0d1NDNtWU1LVkstZDFIUElqcVAtOVR6Zm95R19Fd2tlSUp5dnBER0xUT1BGRWpkWmRzTUl2SUFGRlc3SmVvUk0xaEFsb2V2c0FSZ012MlMtV28zS3VRT2JLWXUyc3B2eDhmU2JRQzQ?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WAFB",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Iya0pHeDJtLU5wblc3dGFwZWxnZHlpSGs4ZmhnQ0NkSmNKbzFLcVczRkRRUVowam5Ba1JSVVhMQWpGNzRUcXNhcE8wSWVnMW5WQ2oyVFlmZVRyVF8xWmxrdVBCeWR5Y3RCTEZkVkpXVVUzLUx3MEJkSEFJSk5ZMEhfYk16SzZLd3haaG5CcV80QTNjdXhCZ1N3dGZfV01MVTNCdkVrM3g?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WSMV",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Iya0pHeDJtLU5wblc3dGFwZWxnZHlpSGs4ZmhnQ0NkSmNKbzFLcVczRkRRUVowam5Ba1JSVVhMQWpGNzRUcXNhcE8wSWVnMW5WQ2oyVFlmZVRyVF8xWmxrdVBCeWR5Y3RCTEZkVkpXVVUzLUx3MEJkSEFJSk5ZMEhfYk16SzZLd3haaG5CcV80QTNjdXhCZ1N3dGZfV01MVTNCdkVrM3g?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WSMV",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS1MdFdTb2NpMVJMWE1VbzFuOXAwRWwzY2thT0R5aWhZY1UxcFI2UUJ3UFNGUEcwTE5GZC0tbktRcjdPbGhhdUZsQjVIWC1XOV90cmlDZzIzNWt4WjhGVkppNlF5ZkhsWXNTTEJYVVVMdVM1ZzVDbmI0LTJqVVZjU1VkeGptM2ZEd3RjN0VmaERicFlSOEpKNDBybFpUeFBLZFVha09aM1I?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WLBT",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS1MdFdTb2NpMVJMWE1VbzFuOXAwRWwzY2thT0R5aWhZY1UxcFI2UUJ3UFNGUEcwTE5GZC0tbktRcjdPbGhhdUZsQjVIWC1XOV90cmlDZzIzNWt4WjhGVkppNlF5ZkhsWXNTTEJYVVVMdVM1ZzVDbmI0LTJqVVZjU1VkeGptM2ZEd3RjN0VmaERicFlSOEpKNDBybFpUeFBLZFVha09aM1I?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WLBT",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8773,32 +8893,6 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRCZXEzbHhCZjdVdThhRW4xZzJjcHBJTl9mcUdYWGpENWZ0QXl3ZUFGdVBnLVdCNUJNUmw5bDZBV0d1NDNtWU1LVkstZDFIUElqcVAtOVR6Zm95R19Fd2tlSUp5dnBER0xUT1BGRWpkWmRzTUl2SUFGRlc3SmVvUk0xaEFsb2V2c0FSZ012MlMtV28zS3VRT2JLWXUyc3B2eDhmU2JRQzQ?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WAFB",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRCZXEzbHhCZjdVdThhRW4xZzJjcHBJTl9mcUdYWGpENWZ0QXl3ZUFGdVBnLVdCNUJNUmw5bDZBV0d1NDNtWU1LVkstZDFIUElqcVAtOVR6Zm95R19Fd2tlSUp5dnBER0xUT1BGRWpkWmRzTUl2SUFGRlc3SmVvUk0xaEFsb2V2c0FSZ012MlMtV28zS3VRT2JLWXUyc3B2eDhmU2JRQzQ?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WAFB",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGdwTnRleG80bUprVDVSUHp4Ylh1R2J5b3BxRm5hUXJqTkV1dXhoVEFtUkdrbWtsTFczQ0pwUUtnRHhXUTRpdVZPd0pSVU9wQl84UUgzUzZmTEFBVEh0eVF4RUNMZ05iWnY1YlZydnN3My1UNzhkakN5VXhPY2Q1VmpuWUZVMG9MbGFVY3RBVXBPQV8wVE5nR0diZFk0OXpCNjhpbENuM2F4MDQ0RFc3QlB3?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - Cleveland 19 News",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGdwTnRleG80bUprVDVSUHp4Ylh1R2J5b3BxRm5hUXJqTkV1dXhoVEFtUkdrbWtsTFczQ0pwUUtnRHhXUTRpdVZPd0pSVU9wQl84UUgzUzZmTEFBVEh0eVF4RUNMZ05iWnY1YlZydnN3My1UNzhkakN5VXhPY2Q1VmpuWUZVMG9MbGFVY3RBVXBPQV8wVE5nR0diZFk0OXpCNjhpbENuM2F4MDQ0RFc3QlB3?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds Cleveland 19 News",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXpHRGhacVNjdjNPLXRheTNzVktWTFVadV9NejZNWHg5eWFFWU5pNUN5Vlc0bkt2YTE4UTZQb3NwcEhLN2gzUU1jb3UwLWRsVGhqbTlnb0VqY3dTTVJLOUo1ZXl5RXNvZkFFdm55ZEtNMmxCdENoLWdTUUoyQWVQOUlzY3BIdEJ4M2FpZWNLekRleEJYclB3MkxBYXFjUnV1dU9zVkdneFQ?oc=5",
    "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WGEM",
    "source": "Google News: 破产政策",
@@ -8825,25 +8919,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmo0NHpweWx0ajNoY2RuckFBSlVhUGlnQVNyaVl2bXM1SWpjQ0M3VjFJb3BSRWZFOEVoNjJhMzRPaWFhVS1GcnducE9nQjNjNFR1ZkhSUlZ6cnFSVXpjcGh3OE5ZOVBoYzY4M1JFLW5JOUJsQU5MMkdWZDJFdV80aDZhc29WX18yTF9BWDRnR1F1LUI5OWVZU1dzTHhpVGVPclAyLWFqS3Q?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WIBW",
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFqaTFBMzRmNS1NVWNOYlczTlJUdDFyRVMtUnRQTnp4RjJHZVJhazlZUVBFNjg1eGx5S3ZVYWpGalJ5WlVVOWRfQ3AxNGlHTTRvZnNNUEFQWUhtb3hPUGFrcm5idGMxRXg3dFhNRFlERzVmU0V2ZzYxZDVzUWExdEJ1S2FSQXZRX1FCcmVZbFpUVHlLN0JEY2EzQ0tTY3pyQ0Q5UHY1aHM?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WBKO",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmo0NHpweWx0ajNoY2RuckFBSlVhUGlnQVNyaVl2bXM1SWpjQ0M3VjFJb3BSRWZFOEVoNjJhMzRPaWFhVS1GcnducE9nQjNjNFR1ZkhSUlZ6cnFSVXpjcGh3OE5ZOVBoYzY4M1JFLW5JOUJsQU5MMkdWZDJFdV80aDZhc29WX18yTF9BWDRnR1F1LUI5OWVZU1dzTHhpVGVPclAyLWFqS3Q?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WIBW",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS1MdFdTb2NpMVJMWE1VbzFuOXAwRWwzY2thT0R5aWhZY1UxcFI2UUJ3UFNGUEcwTE5GZC0tbktRcjdPbGhhdUZsQjVIWC1XOV90cmlDZzIzNWt4WjhGVkppNlF5ZkhsWXNTTEJYVVVMdVM1ZzVDbmI0LTJqVVZjU1VkeGptM2ZEd3RjN0VmaERicFlSOEpKNDBybFpUeFBLZFVha09aM1I?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WLBT",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbS1MdFdTb2NpMVJMWE1VbzFuOXAwRWwzY2thT0R5aWhZY1UxcFI2UUJ3UFNGUEcwTE5GZC0tbktRcjdPbGhhdUZsQjVIWC1XOV90cmlDZzIzNWt4WjhGVkppNlF5ZkhsWXNTTEJYVVVMdVM1ZzVDbmI0LTJqVVZjU1VkeGptM2ZEd3RjN0VmaERicFlSOEpKNDBybFpUeFBLZFVha09aM1I?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WLBT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFqaTFBMzRmNS1NVWNOYlczTlJUdDFyRVMtUnRQTnp4RjJHZVJhazlZUVBFNjg1eGx5S3ZVYWpGalJ5WlVVOWRfQ3AxNGlHTTRvZnNNUEFQWUhtb3hPUGFrcm5idGMxRXg3dFhNRFlERzVmU0V2ZzYxZDVzUWExdEJ1S2FSQXZRX1FCcmVZbFpUVHlLN0JEY2EzQ0tTY3pyQ0Q5UHY1aHM?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WBKO",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8877,12 +8958,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Iya0pHeDJtLU5wblc3dGFwZWxnZHlpSGs4ZmhnQ0NkSmNKbzFLcVczRkRRUVowam5Ba1JSVVhMQWpGNzRUcXNhcE8wSWVnMW5WQ2oyVFlmZVRyVF8xWmxrdVBCeWR5Y3RCTEZkVkpXVVUzLUx3MEJkSEFJSk5ZMEhfYk16SzZLd3haaG5CcV80QTNjdXhCZ1N3dGZfV01MVTNCdkVrM3g?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WSMV",
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVIyM1RUODBmWXlYSGFkLXVyX0p1Mk0tTk5STWktbk42bXFBNm5BWnRfaU5FUFgzNEpFYkZpUnRUUGJ4d2ZIVHI1aHVoWnFQN2tJZmczSFpwSmc4MFY4d1NFREh0Sk4wZXNkZC16QkFvQktobmlFdXc1VWx4REhrM1BXWUpfZzRYTHhhdGV0RmhKTl9PVlpPakIyYmJnTmgyUEV6a2RIMUI?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WJHG",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Iya0pHeDJtLU5wblc3dGFwZWxnZHlpSGs4ZmhnQ0NkSmNKbzFLcVczRkRRUVowam5Ba1JSVVhMQWpGNzRUcXNhcE8wSWVnMW5WQ2oyVFlmZVRyVF8xWmxrdVBCeWR5Y3RCTEZkVkpXVVUzLUx3MEJkSEFJSk5ZMEhfYk16SzZLd3haaG5CcV80QTNjdXhCZ1N3dGZfV01MVTNCdkVrM3g?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WSMV",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVIyM1RUODBmWXlYSGFkLXVyX0p1Mk0tTk5STWktbk42bXFBNm5BWnRfaU5FUFgzNEpFYkZpUnRUUGJ4d2ZIVHI1aHVoWnFQN2tJZmczSFpwSmc4MFY4d1NFREh0Sk4wZXNkZC16QkFvQktobmlFdXc1VWx4REhrM1BXWUpfZzRYTHhhdGV0RmhKTl9PVlpPakIyYmJnTmgyUEV6a2RIMUI?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WJHG",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8916,12 +8997,25 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUVyd0puMHBMUDJTMS1wZVgwWTNtdktWOHJ0RWp6TDFUS0t2ald1TGoxUnVmOWRlc2h3MUphMEdKUmV3UUp0ZTlfeHBSSlRSWV8wWjBsNWpGWGRkcFBtQVplZnV3aWxZUHA0dXNNNUoyRnlrNmZ0TTNRZHA3a1VJN3cwal9RYlp4MG16QlFUX3JyRzdNczJVZmJ5YnQyajdGbktqNkZJb2o?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KALB | News Channel 5",
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkRWUDBJTjFSaWgyeU12a3hVZGQtSnBWeFV1TFpQUUxJc1hINmQxQ1pZM1ZENkVvZEVDeFVMVVJUSWxoWXZ2dHNnMUtvS0pGZTNvbWV1YkpxUTR4b2xNaVdleHdlTmpXVUx4ZVdMUU1ibWo0enlOVUhiRHF1R3cwa1dHSmpRQlFobGIxT0pBZ1ZTRXFRSnZmZVhoeEFsMmlVeFhwbTE5SFhEbkhxNnc?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - AZ Family",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUVyd0puMHBMUDJTMS1wZVgwWTNtdktWOHJ0RWp6TDFUS0t2ald1TGoxUnVmOWRlc2h3MUphMEdKUmV3UUp0ZTlfeHBSSlRSWV8wWjBsNWpGWGRkcFBtQVplZnV3aWxZUHA0dXNNNUoyRnlrNmZ0TTNRZHA3a1VJN3cwal9RYlp4MG16QlFUX3JyRzdNczJVZmJ5YnQyajdGbktqNkZJb2o?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KALB | News Channel 5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkRWUDBJTjFSaWgyeU12a3hVZGQtSnBWeFV1TFpQUUxJc1hINmQxQ1pZM1ZENkVvZEVDeFVMVVJUSWxoWXZ2dHNnMUtvS0pGZTNvbWV1YkpxUTR4b2xNaVdleHdlTmpXVUx4ZVdMUU1ibWo0enlOVUhiRHF1R3cwa1dHSmpRQlFobGIxT0pBZ1ZTRXFRSnZmZVhoeEFsMmlVeFhwbTE5SFhEbkhxNnc?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds AZ Family",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGtSdktVZk9jSUZmcTJDcjNrSklTZWN4NjI5LS1RNFVXR2xMVXlWelNnSmZwNU1qdzJwd2s5aGpEaEdkTHUzYnJfdV9qeWc2WFRDY2dFOFNvdEc2YXZwdlM5VEJzMFZpRTY1SThTOHBpbnJ5d2hRTFlZOWh0NjRocHVLNk9oOTBMWkVFaEdZN2tpNmtVTE84UHBKeV9TVzRMZ0RGb2NZano?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KBTX News 3",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGtSdktVZk9jSUZmcTJDcjNrSklTZWN4NjI5LS1RNFVXR2xMVXlWelNnSmZwNU1qdzJwd2s5aGpEaEdkTHUzYnJfdV9qeWc2WFRDY2dFOFNvdEc2YXZwdlM5VEJzMFZpRTY1SThTOHBpbnJ5d2hRTFlZOWh0NjRocHVLNk9oOTBMWkVFaEdZN2tpNmtVTE84UHBKeV9TVzRMZ0RGb2NZano?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KBTX News 3",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8955,12 +9049,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZaZ3c2ODhUd1ZRY2ZYV05PSUtMWEliNVA5bmdhYVRuUlhVOG9udjRDei1SUFl5UE1XVnh0VmRkM2drY0NFLUZNX2RqYjlVS0Nyc0otUk1PWlN4YWE2SjMxTkUtTFh4ZnFsbDNZc2pUMWY1cHA4WE1HenFobWx6Q1U3UzF2X0FkcFdvVU9YeTNkU3pkMFJ3bFRGcGFBcFhhUDFMS19la3c?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KMVT",
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGdwTnRleG80bUprVDVSUHp4Ylh1R2J5b3BxRm5hUXJqTkV1dXhoVEFtUkdrbWtsTFczQ0pwUUtnRHhXUTRpdVZPd0pSVU9wQl84UUgzUzZmTEFBVEh0eVF4RUNMZ05iWnY1YlZydnN3My1UNzhkakN5VXhPY2Q1VmpuWUZVMG9MbGFVY3RBVXBPQV8wVE5nR0diZFk0OXpCNjhpbENuM2F4MDQ0RFc3QlB3?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - Cleveland 19 News",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZaZ3c2ODhUd1ZRY2ZYV05PSUtMWEliNVA5bmdhYVRuUlhVOG9udjRDei1SUFl5UE1XVnh0VmRkM2drY0NFLUZNX2RqYjlVS0Nyc0otUk1PWlN4YWE2SjMxTkUtTFh4ZnFsbDNZc2pUMWY1cHA4WE1HenFobWx6Q1U3UzF2X0FkcFdvVU9YeTNkU3pkMFJ3bFRGcGFBcFhhUDFMS19la3c?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KMVT",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGdwTnRleG80bUprVDVSUHp4Ylh1R2J5b3BxRm5hUXJqTkV1dXhoVEFtUkdrbWtsTFczQ0pwUUtnRHhXUTRpdVZPd0pSVU9wQl84UUgzUzZmTEFBVEh0eVF4RUNMZ05iWnY1YlZydnN3My1UNzhkakN5VXhPY2Q1VmpuWUZVMG9MbGFVY3RBVXBPQV8wVE5nR0diZFk0OXpCNjhpbENuM2F4MDQ0RFc3QlB3?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds Cleveland 19 News",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -8968,25 +9062,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZlTHAwSHdiUjZEY0phREV6MmpwZ040V0RQWEw4dTRkeUxUakprMWxlV05uUEEyQmVzNmRpRk1GYzlNUkVNelpYZjdUX21sMUJValQ3SkhUYnRHcmFIY3hXYlYzSlZlZ2FvVGdIMVpsMzJhWDg3VzZDVGVYcjRxQ01EV2p0Z19YdHdadkhBeXpQdFV5QW16dy1SeXd5bkNLcjBTd1E4VmZFUlk?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WWNY",
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUVyd0puMHBMUDJTMS1wZVgwWTNtdktWOHJ0RWp6TDFUS0t2ald1TGoxUnVmOWRlc2h3MUphMEdKUmV3UUp0ZTlfeHBSSlRSWV8wWjBsNWpGWGRkcFBtQVplZnV3aWxZUHA0dXNNNUoyRnlrNmZ0TTNRZHA3a1VJN3cwal9RYlp4MG16QlFUX3JyRzdNczJVZmJ5YnQyajdGbktqNkZJb2o?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KALB | News Channel 5",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmZlTHAwSHdiUjZEY0phREV6MmpwZ040V0RQWEw4dTRkeUxUakprMWxlV05uUEEyQmVzNmRpRk1GYzlNUkVNelpYZjdUX21sMUJValQ3SkhUYnRHcmFIY3hXYlYzSlZlZ2FvVGdIMVpsMzJhWDg3VzZDVGVYcjRxQ01EV2p0Z19YdHdadkhBeXpQdFV5QW16dy1SeXd5bkNLcjBTd1E4VmZFUlk?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WWNY",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0pXbExUQzFnZ0Y1QVIwSGUtSHhiNGdaaUJfanEyZHVjVUhZcnBfakJsaHNDT21RSjlKdThOeS1JUHhETXZpVDl4MFByTVVTWlRVdWtMSzZJZkFZTEhjQXBIQ2hTY25WSzh4YnZyREZpcEtmSjdaRlRyNG1mOWYzR0NZUHg3ZDVXVjk4ZzVLVmUyUGl6dTMtUHdrWjEzS0dMZWp4UXRSZmM?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WTVM.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0pXbExUQzFnZ0Y1QVIwSGUtSHhiNGdaaUJfanEyZHVjVUhZcnBfakJsaHNDT21RSjlKdThOeS1JUHhETXZpVDl4MFByTVVTWlRVdWtMSzZJZkFZTEhjQXBIQ2hTY25WSzh4YnZyREZpcEtmSjdaRlRyNG1mOWYzR0NZUHg3ZDVXVjk4ZzVLVmUyUGl6dTMtUHdrWjEzS0dMZWp4UXRSZmM?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WTVM.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUVyd0puMHBMUDJTMS1wZVgwWTNtdktWOHJ0RWp6TDFUS0t2ald1TGoxUnVmOWRlc2h3MUphMEdKUmV3UUp0ZTlfeHBSSlRSWV8wWjBsNWpGWGRkcFBtQVplZnV3aWxZUHA0dXNNNUoyRnlrNmZ0TTNRZHA3a1VJN3cwal9RYlp4MG16QlFUX3JyRzdNczJVZmJ5YnQyajdGbktqNkZJb2o?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KALB | News Channel 5",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -9007,6 +9088,84 @@
    ]
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BQODc2ODlGU3EzOEJGVkpidjR0ZkFvTURjRlNiRnNPN0szWl9wOEhuTDQ1WTBsdkdSLWlyeWlzVV92RjIxcmlVb2NhU0FSMnhyUVF3emVMNkVoM3AyMEdZVlYwZWlONlJUQ2ZiYjVsMkVDWEdMU1Z3TEZGV0VBS2FMaHNVVE93OWhoOG1hNUFTRjBKdUlfWWp2LXdOUEJUSHJjQ3c2VUE?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WBTV",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BQODc2ODlGU3EzOEJGVkpidjR0ZkFvTURjRlNiRnNPN0szWl9wOEhuTDQ1WTBsdkdSLWlyeWlzVV92RjIxcmlVb2NhU0FSMnhyUVF3emVMNkVoM3AyMEdZVlYwZWlONlJUQ2ZiYjVsMkVDWEdMU1Z3TEZGV0VBS2FMaHNVVE93OWhoOG1hNUFTRjBKdUlfWWp2LXdOUEJUSHJjQ3c2VUE?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WBTV",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3o4Y0NhaUZkVXNtank1UDdONGNlS2Riangxc3dwRW84MmEyczZFVEdrYXhqRWNTQ2JTRS1oVng0SUFPM1FUWTI2RDRsLURrcERzb2ZDTEdkcWdtcGJzbzVUUlBjZ010T0xFcmFtWm1QLTVha1BGTncydXAtT2V5bnBKZDA4QkJRcE9JNjNzWHZ0SXVUSk5OUjF5WTFrcDdadFdzMnJnOG4?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WSAZ",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3o4Y0NhaUZkVXNtank1UDdONGNlS2Riangxc3dwRW84MmEyczZFVEdrYXhqRWNTQ2JTRS1oVng0SUFPM1FUWTI2RDRsLURrcERzb2ZDTEdkcWdtcGJzbzVUUlBjZ010T0xFcmFtWm1QLTVha1BGTncydXAtT2V5bnBKZDA4QkJRcE9JNjNzWHZ0SXVUSk5OUjF5WTFrcDdadFdzMnJnOG4?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WSAZ",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0lyZ2ZvMnJPbEIyclFCUVB6T2dMSktRa1ZhNU81SkxJSlg1Q3F1V3J3RVJwc0tnTjJ6bkt6RFNEVE1xc2ZvVU1YbE1Jeml2SEhRUmtieFJGVElMcmc4NWVWVk5Bbnlza2xqaUZ5aHVSV2RKNXpObE9uNU5mSjd0aUNBZVE4VG52bm5CWGsxQjR1TC00WUE4VHdOZUc4VFFBUFBZbDl0T01YQQ?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KCTV",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0lyZ2ZvMnJPbEIyclFCUVB6T2dMSktRa1ZhNU81SkxJSlg1Q3F1V3J3RVJwc0tnTjJ6bkt6RFNEVE1xc2ZvVU1YbE1Jeml2SEhRUmtieFJGVElMcmc4NWVWVk5Bbnlza2xqaUZ5aHVSV2RKNXpObE9uNU5mSjd0aUNBZVE4VG52bm5CWGsxQjR1TC00WUE4VHdOZUc4VFFBUFBZbDl0T01YQQ?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KCTV",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmo0NHpweWx0ajNoY2RuckFBSlVhUGlnQVNyaVl2bXM1SWpjQ0M3VjFJb3BSRWZFOEVoNjJhMzRPaWFhVS1GcnducE9nQjNjNFR1ZkhSUlZ6cnFSVXpjcGh3OE5ZOVBoYzY4M1JFLW5JOUJsQU5MMkdWZDJFdV80aDZhc29WX18yTF9BWDRnR1F1LUI5OWVZU1dzTHhpVGVPclAyLWFqS3Q?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WIBW",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmo0NHpweWx0ajNoY2RuckFBSlVhUGlnQVNyaVl2bXM1SWpjQ0M3VjFJb3BSRWZFOEVoNjJhMzRPaWFhVS1GcnducE9nQjNjNFR1ZkhSUlZ6cnFSVXpjcGh3OE5ZOVBoYzY4M1JFLW5JOUJsQU5MMkdWZDJFdV80aDZhc29WX18yTF9BWDRnR1F1LUI5OWVZU1dzTHhpVGVPclAyLWFqS3Q?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WIBW",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZaZ3c2ODhUd1ZRY2ZYV05PSUtMWEliNVA5bmdhYVRuUlhVOG9udjRDei1SUFl5UE1XVnh0VmRkM2drY0NFLUZNX2RqYjlVS0Nyc0otUk1PWlN4YWE2SjMxTkUtTFh4ZnFsbDNZc2pUMWY1cHA4WE1HenFobWx6Q1U3UzF2X0FkcFdvVU9YeTNkU3pkMFJ3bFRGcGFBcFhhUDFMS19la3c?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KMVT",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZaZ3c2ODhUd1ZRY2ZYV05PSUtMWEliNVA5bmdhYVRuUlhVOG9udjRDei1SUFl5UE1XVnh0VmRkM2drY0NFLUZNX2RqYjlVS0Nyc0otUk1PWlN4YWE2SjMxTkUtTFh4ZnFsbDNZc2pUMWY1cHA4WE1HenFobWx6Q1U3UzF2X0FkcFdvVU9YeTNkU3pkMFJ3bFRGcGFBcFhhUDFMS19la3c?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KMVT",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0pXbExUQzFnZ0Y1QVIwSGUtSHhiNGdaaUJfanEyZHVjVUhZcnBfakJsaHNDT21RSjlKdThOeS1JUHhETXZpVDl4MFByTVVTWlRVdWtMSzZJZkFZTEhjQXBIQ2hTY25WSzh4YnZyREZpcEtmSjdaRlRyNG1mOWYzR0NZUHg3ZDVXVjk4ZzVLVmUyUGl6dTMtUHdrWjEzS0dMZWp4UXRSZmM?oc=5",
+   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WTVM.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0pXbExUQzFnZ0Y1QVIwSGUtSHhiNGdaaUJfanEyZHVjVUhZcnBfakJsaHNDT21RSjlKdThOeS1JUHhETXZpVDl4MFByTVVTWlRVdWtMSzZJZkFZTEhjQXBIQ2hTY25WSzh4YnZyREZpcEtmSjdaRlRyNG1mOWYzR0NZUHg3ZDVXVjk4ZzVLVmUyUGl6dTMtUHdrWjEzS0dMZWp4UXRSZmM?oc=5",
+   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WTVM.com",
+   "published": "2026-10-01T18:43:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1pkSnpqYmpDWHgwaWZKZm01RTM5ZHcwaFVNZ3JSdmU0bHFCVWJGT2FINGs4VWYyeDc0UllZSmVfa3l1MGVRWHRTcVZicjlOcy1DcjBuNkhYUzV4aUNHdFZZa2M0ejBQNWl0akdjT0c5WTUtcEZ1RTlucFRXakdxWE9IVjVPUWRmZlF5VkJtM19XdjduR2hldkdPVGJCRXhVV1o1TGFVWkU?oc=5",
    "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KNOE",
    "source": "Google News: 破产政策",
@@ -9020,51 +9179,12 @@
    ]
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGtSdktVZk9jSUZmcTJDcjNrSklTZWN4NjI5LS1RNFVXR2xMVXlWelNnSmZwNU1qdzJwd2s5aGpEaEdkTHUzYnJfdV9qeWc2WFRDY2dFOFNvdEc2YXZwdlM5VEJzMFZpRTY1SThTOHBpbnJ5d2hRTFlZOWh0NjRocHVLNk9oOTBMWkVFaEdZN2tpNmtVTE84UHBKeV9TVzRMZ0RGb2NZano?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KBTX News 3",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGtSdktVZk9jSUZmcTJDcjNrSklTZWN4NjI5LS1RNFVXR2xMVXlWelNnSmZwNU1qdzJwd2s5aGpEaEdkTHUzYnJfdV9qeWc2WFRDY2dFOFNvdEc2YXZwdlM5VEJzMFZpRTY1SThTOHBpbnJ5d2hRTFlZOWh0NjRocHVLNk9oOTBMWkVFaEdZN2tpNmtVTE84UHBKeV9TVzRMZ0RGb2NZano?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KBTX News 3",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDVxTWxfenNIMzQxV1hXTDhmak9DTTRxU1RCQW1WMEhHcjdfZ0xTd3lsUGVMenhrTmJacWNSa3lsRkpkaWdoRlpFLU9uQzJmYndielp3NXlDc09JX3hCeGtodXZJcDlDS3dIUFBOVWswbnhheGFOM0lWbEFUVDk1UjhTc1JXUUxXWWR3dFhEMjJOZVdFQWw0UmlBcTU0YUFTaTBqMllmSHc?oc=5",
    "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - KPTV",
    "source": "Google News: 破产政策",
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDVxTWxfenNIMzQxV1hXTDhmak9DTTRxU1RCQW1WMEhHcjdfZ0xTd3lsUGVMenhrTmJacWNSa3lsRkpkaWdoRlpFLU9uQzJmYndielp3NXlDc09JX3hCeGtodXZJcDlDS3dIUFBOVWswbnhheGFOM0lWbEFUVDk1UjhTc1JXUUxXWWR3dFhEMjJOZVdFQWw0UmlBcTU0YUFTaTBqMllmSHc?oc=5",
    "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds KPTV",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkRWUDBJTjFSaWgyeU12a3hVZGQtSnBWeFV1TFpQUUxJc1hINmQxQ1pZM1ZENkVvZEVDeFVMVVJUSWxoWXZ2dHNnMUtvS0pGZTNvbWV1YkpxUTR4b2xNaVdleHdlTmpXVUx4ZVdMUU1ibWo0enlOVUhiRHF1R3cwa1dHSmpRQlFobGIxT0pBZ1ZTRXFRSnZmZVhoeEFsMmlVeFhwbTE5SFhEbkhxNnc?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - AZ Family",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkRWUDBJTjFSaWgyeU12a3hVZGQtSnBWeFV1TFpQUUxJc1hINmQxQ1pZM1ZENkVvZEVDeFVMVVJUSWxoWXZ2dHNnMUtvS0pGZTNvbWV1YkpxUTR4b2xNaVdleHdlTmpXVUx4ZVdMUU1ibWo0enlOVUhiRHF1R3cwa1dHSmpRQlFobGIxT0pBZ1ZTRXFRSnZmZVhoeEFsMmlVeFhwbTE5SFhEbkhxNnc?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds AZ Family",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BQODc2ODlGU3EzOEJGVkpidjR0ZkFvTURjRlNiRnNPN0szWl9wOEhuTDQ1WTBsdkdSLWlyeWlzVV92RjIxcmlVb2NhU0FSMnhyUVF3emVMNkVoM3AyMEdZVlYwZWlONlJUQ2ZiYjVsMkVDWEdMU1Z3TEZGV0VBS2FMaHNVVE93OWhoOG1hNUFTRjBKdUlfWWp2LXdOUEJUSHJjQ3c2VUE?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WBTV",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BQODc2ODlGU3EzOEJGVkpidjR0ZkFvTURjRlNiRnNPN0szWl9wOEhuTDQ1WTBsdkdSLWlyeWlzVV92RjIxcmlVb2NhU0FSMnhyUVF3emVMNkVoM3AyMEdZVlYwZWlONlJUQ2ZiYjVsMkVDWEdMU1Z3TEZGV0VBS2FMaHNVVE93OWhoOG1hNUFTRjBKdUlfWWp2LXdOUEJUSHJjQ3c2VUE?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WBTV",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -9156,19 +9276,6 @@
    "category": "bankruptcy",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXZISVFKYXVPeEZMOC1GaWJWMzIwcENrd1NzZzQ0cWpESEdIQWNnYzRrVHUwLVI4aDA4TFBmT3l3NXREM0pOVG9LWktJbnFkZGliamlhU0prMlVZV0VzQmM4dVJRbVNsUndJeUNrNm1HZFF4RHIzUVhvSXJETDNuaHdtT1h1MTI4Vk1PTGt0V0Nsei1mbkNaVzVJRHBuRmU1dXpiU3FzcFI?oc=5",
    "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WAFF",
-   "published": "2026-10-01T18:43:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVIyM1RUODBmWXlYSGFkLXVyX0p1Mk0tTk5STWktbk42bXFBNm5BWnRfaU5FUFgzNEpFYkZpUnRUUGJ4d2ZIVHI1aHVoWnFQN2tJZmczSFpwSmc4MFY4d1NFREh0Sk4wZXNkZC16QkFvQktobmlFdXc1VWx4REhrM1BXWUpfZzRYTHhhdGV0RmhKTl9PVlpPakIyYmJnTmgyUEV6a2RIMUI?oc=5",
-   "title": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds - WJHG",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVIyM1RUODBmWXlYSGFkLXVyX0p1Mk0tTk5STWktbk42bXFBNm5BWnRfaU5FUFgzNEpFYkZpUnRUUGJ4d2ZIVHI1aHVoWnFQN2tJZmczSFpwSmc4MFY4d1NFREh0Sk4wZXNkZC16QkFvQktobmlFdXc1VWx4REhrM1BXWUpfZzRYTHhhdGV0RmhKTl9PVlpPakIyYmJnTmgyUEV6a2RIMUI?oc=5",
-   "summary": "Personal bankruptcy filings up nearly 50% since 2022, analysis finds WJHG",
    "published": "2026-10-01T18:43:00+00:00",
    "relevance": "high",
    "topics": [
@@ -9502,79 +9609,66 @@
    "published": "2026-09-27T19:03:12+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
-   "title": "Sunday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
-   "summary": "1. AI-related efforts in higher education in Morocco (ChatGPT). 2. Intelligence explosions are social. 3. The speech-processing skills of dogs. 4. Kalshi market in economics Nobel. 5. Why are Indian weddings with dancing gorillas going viral? Pakistan too. 6. Eminem, and some German guy. 7. On the UAP council. 8. On higher interest rates. The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-27T15:52:50+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZFFheGdoS1dMUGFuYlhhb3RibC1zRXVKdWNSRWVjOGVvRGIwZ2RtVk1vbmJoRUdPU3NLdkpCU21aMmF1SHNjZk0tb2F5RGtnWHdiZWhaT2thM2ZoRTBmbFAzWGtpMVZqeV85Z1BrNXZsSmNCazBoM0U2TmhwSDjSAYQBQVVfeXFMTTE0bnJQR1pMWmk1aDc4YVNWY25IcGRuMjNZN3FLSmZqV294YVUwYlVJRWdaNGRUQTY3dGFDeE15WHV1Vjhaem9tdnJha1FNbC01RmFaUzZmOWJXeVZQTXQ5SkNtb2tBNUM1MnF6c3VrQlhJNDVpX1FvN3JIbVhldlFCcld4?oc=5",
-   "title": "Weekly Bankruptcy Alert: September 27, 2026 - The National Law Review",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZFFheGdoS1dMUGFuYlhhb3RibC1zRXVKdWNSRWVjOGVvRGIwZ2RtVk1vbmJoRUdPU3NLdkpCU21aMmF1SHNjZk0tb2F5RGtnWHdiZWhaT2thM2ZoRTBmbFAzWGtpMVZqeV85Z1BrNXZsSmNCazBoM0U2TmhwSDjSAYQBQVVfeXFMTTE0bnJQR1pMWmk1aDc4YVNWY25IcGRuMjNZN3FLSmZqV294YVUwYlVJRWdaNGRUQTY3dGFDeE15WHV1Vjhaem9tdnJha1FNbC01RmFaUzZmOWJXeVZQTXQ5SkNtb2tBNUM1MnF6c3VrQlhJNDVpX1FvN3JIbVhldlFCcld4?oc=5",
-   "summary": "Weekly Bankruptcy Alert: September 27, 2026 The National Law Review",
-   "published": "2026-09-27T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRuclBHWkxaaTVoNzhhU1ZjbkhwZG4yM1k3cUtKZmpXb3hhVTBiVUlFZ1o0ZFRBNjd0YUN4TXlYdXVWOFp6b212cmFrUU1sLTVGYVpTNmY5Yld5VlBNdDlKQ21va0E1QzUycXpzdWtCWEk0NWlfUW83ckhtWGV2UUJyV3jSAYQBQVVfeXFMTTE0bnJQR1pMWmk1aDc4YVNWY25IcGRuMjNZN3FLSmZqV294YVUwYlVJRWdaNGRUQTY3dGFDeE15WHV1Vjhaem9tdnJha1FNbC01RmFaUzZmOWJXeVZQTXQ5SkNtb2tBNUM1MnF6c3VrQlhJNDVpX1FvN3JIbVhldlFCcld4?oc=5",
-   "title": "Weekly Bankruptcy Alert: September 27, 2026 - natlawreview.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRuclBHWkxaaTVoNzhhU1ZjbkhwZG4yM1k3cUtKZmpXb3hhVTBiVUlFZ1o0ZFRBNjd0YUN4TXlYdXVWOFp6b212cmFrUU1sLTVGYVpTNmY5Yld5VlBNdDlKQ21va0E1QzUycXpzdWtCWEk0NWlfUW83ckhtWGV2UUJyV3jSAYQBQVVfeXFMTTE0bnJQR1pMWmk1aDc4YVNWY25IcGRuMjNZN3FLSmZqV294YVUwYlVJRWdaNGRUQTY3dGFDeE15WHV1Vjhaem9tdnJha1FNbC01RmFaUzZmOWJXeVZQTXQ5SkNtb2tBNUM1MnF6c3VrQlhJNDVpX1FvN3JIbVhldlFCcld4?oc=5",
-   "summary": "Weekly Bankruptcy Alert: September 27, 2026 natlawreview.com",
-   "published": "2026-09-27T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2",
-   "title": "Earth fact of the day, #2",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2",
-   "summary": "The shortages have gone on for so long that they are aggressively driving down how much carbon is being released into the atmosphere, a Washington Post analysis of data from the International Energy Agency shows. People worldwide are using significantly less oil and gas, which means less climate pollution… Such an annual decline has not happened since […] The post Earth fact of the day, #2 appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-27T06:56:56+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective",
-   "title": "The Federal Lands: An Economic Property Rights Perspective",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective",
-   "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […] The post The Federal Lands: An Economic Property Rights Perspective appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-27T04:27:05+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao",
-   "title": "What should I ask Terence Tao?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao",
-   "summary": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him? The post What should I ask Terence Tao? appeared first on Marginal REVOLUTION .",
-   "published": "2026-09-26T17:38:34+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-27-107676",
+   "title": "Precision Navigation Systems: Challenges Remain with Fielding New Capabilities",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-107676",
+   "summary": "What GAO Found The Department of Defense’s (DOD) efforts to modernize GPS continue to face delays. In response, DOD is developing new complementary sources of positioning, navigation, and timing (PNT) data to mitigate GPS threats. In 2026, after years of delays, DOD canceled the Next Generation Operational Control System ground control system and began modernizing the existing GPS Operational Control Segment. Among other effects, this creates risks for the launch, checkout, and operation of new GPS satellites. Given ongoing threats to GPS, DOD is operating and continuing development of (1) sat",
+   "published": "2026-10-07T11:29:33+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108416",
+   "title": "IT Dashboard: Selected Agencies’ Investment Ratings Fail to Fully Consider Risks",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108416",
+   "summary": "What GAO Found The Federal Information Technology (IT) Dashboard is intended to show the level of risk for an investment. The Dashboard reflects Chief Information Officers’ (CIO) ratings of risk. Selected agencies that GAO reviewed used different processes to develop their ratings. Most of these processes included some, if not all, of six factors that the Office of Management and Budget (OMB) suggested. GAO’s assessments generally identified the presence of more risk compared to the associated CIO ratings. GAO determined its assessments based on investment risk documentation. Of the 53 investm",
+   "published": "2026-10-07T11:21:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108496",
+   "title": "Economic Development Administration: Better Coordination with Regional Commissions and Performance Management Needed",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108496",
+   "summary": "What GAO Found The Economic Development Administration (EDA) and five regional commissions—the Appalachian Regional Commission, Delta Regional Authority, Denali Commission, Northern Border Regional Commission, and Southeast Crescent Regional Commission—awarded more than $12 billion in grants during fiscal years 2016 through 2024 (Southwest Border Regional Commission awarded its first grants in fiscal year 2025). GAO found that economic conditions, such as poverty and unemployment rates, generally improved in regional commission areas, although these changes were difficult to attribute to EDA o",
+   "published": "2026-10-07T11:14:42+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-26-107393",
+   "title": "Medicare Part D: Payments and Contracts Between Pharmacies and Plan Sponsors That Are Vertically Integrated [Reissued with revisions on Oct. 6, 2026]",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-26-107393",
+   "summary": "What GAO Found The insurance plan sponsors that provide Medicare Part D drug coverage have increasingly become vertically integrated—that is, under common ownership—with pharmacy benefit managers and pharmacies. GAO found that, for four large Part D plan sponsors, the pharmacies they owned accounted for about 28 percent of the Part D drugs they provided to their enrollees (drug utilization) and about 24 percent of the total payments to pharmacies in 2023 (see figure). Payments included both reimbursement from plan sponsors and cost sharing paid by or on behalf of beneficiaries. When these vert",
+   "published": "2026-10-06T18:40:52+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
+   "title": "More than One-Quarter of US Adults Had Medical Debt in 2025 - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
+   "summary": "More than One-Quarter of US Adults Had Medical Debt in 2025 Urban Institute",
+   "published": "2026-10-06T12:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
   {
    "id": "https://www.gao.gov/products/gao-27-108853",
    "title": "Rural Health Transformation Program: Early Implementation Actions and Monitoring Plans",
@@ -9618,17 +9712,6 @@
    "url": "https://www.gao.gov/products/gao-26-107937",
    "summary": "What GAO Found Section 503 of the Rehabilitation Act of 1973 (Section 503) requires certain federal contractors to take proactive steps to employ people with disabilities. The Office of Federal Contract Compliance Programs (OFCCP) within the Department of Labor (DOL) oversees contractors’ compliance with Section 503. Since January 2025, DOL has reduced its oversight activities. For example, DOL has suspended audits of selected contractors, which were a key tool for monitoring compliance. From fiscal years 2017 through 2025, 532 audits found Section 503 violations. Without resuming audits, DOL ",
    "published": "2026-10-06T11:13:51+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-107393",
-   "title": "Medicare Part D: Payments and Contracts Between Pharmacies and Plan Sponsors That Are Vertically Integrated",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-107393",
-   "summary": "What GAO Found The insurance plan sponsors that provide Medicare Part D drug coverage have increasingly become vertically integrated—that is, under common ownership—with pharmacy benefit managers and pharmacies. GAO found that, for four large Part D plan sponsors, the pharmacies they owned accounted for about 24 percent of the Part D drugs they provided to their enrollees (drug utilization) and about 28 percent of the total payments to pharmacies in 2023 (see figure). Payments included both reimbursement from plan sponsors and cost sharing paid by or on behalf of beneficiaries. When these vert",
-   "published": "2026-10-05T11:26:32+00:00",
    "relevance": "low",
    "topics": []
   },
