@@ -1,6 +1,84 @@
 {
- "generated_at": "2026-10-15T15:30:38.826609+00:00",
+ "generated_at": "2026-10-16T15:16:39.436292+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jpubeco.2026.105802",
+   "title": "Does the United States spend enough on public schools? Evidence from a market-based efficiency test",
+   "authors": "Patrick J. Bayer, Peter Q. Blair, Kenneth Whaley",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105802",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105802",
+   "abstract": "",
+   "published": "2026-10-16T14:24:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105803",
+   "title": "How do firms respond to parental leave absences?",
+   "authors": "Anne Ardila Brenøe, Urša Krenk, Andreas Steinhauer, Josef Zweimüller",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105803",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105803",
+   "abstract": "",
+   "published": "2026-10-16T14:24:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105804",
+   "title": "The welfare effects of explicit and implicit subsidies on fossil fuels",
+   "authors": "Tim Kalmey, Sebastian Rausch, Jan Schneider",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105804",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105804",
+   "abstract": "",
+   "published": "2026-10-16T10:14:01Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744505",
+   "title": "A Theory of Economic Coercion and Fragmentation",
+   "authors": "Christopher Clayton, Matteo Maggiori, Jesse Schreger",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744505",
+   "url": "https://doi.org/10.1086/744505",
+   "abstract": "",
+   "published": "2026-10-15T18:25:25Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744504",
+   "title": "Closing Ranks: Organized Labor and Immigration",
+   "authors": "Carlo Medici",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744504",
+   "url": "https://doi.org/10.1086/744504",
+   "abstract": "",
+   "published": "2026-10-15T18:25:25Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jinteco.2026.104345",
+   "title": "Love-for-variety: with an application to an Armington model of competitive trade",
+   "authors": "Kiminori Matsuyama, Philip Ushchev",
+   "journal": "Journal of International Economics",
+   "tier": "International",
+   "doi": "10.1016/j.jinteco.2026.104345",
+   "url": "https://doi.org/10.1016/j.jinteco.2026.104345",
+   "abstract": "",
+   "published": "2026-10-15T15:47:42Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103947",
    "title": "Gas Flaring, Agricultural Productivity and Labor Reallocation: Evidence from Nigeria",
@@ -82,19 +160,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744482",
-   "title": "Buying Data from Consumers: The Impact of Monitoring in U.S. Auto Insurance",
-   "authors": "Yizhou Jin, Shoshana Vasserman",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744482",
-   "url": "https://doi.org/10.1086/744482",
-   "abstract": "",
-   "published": "2026-10-13T14:27:31Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/744485",
    "title": "Firm Heterogeneity and the Impact of Immigration: Evidence from German Establishments",
    "authors": "Agostina Brinatti, Nicolas Morales",
@@ -102,6 +167,19 @@
    "tier": "Top-5",
    "doi": "10.1086/744485",
    "url": "https://doi.org/10.1086/744485",
+   "abstract": "",
+   "published": "2026-10-13T14:27:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744482",
+   "title": "Buying Data from Consumers: The Impact of Monitoring in U.S. Auto Insurance",
+   "authors": "Yizhou Jin, Shoshana Vasserman",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744482",
+   "url": "https://doi.org/10.1086/744482",
    "abstract": "",
    "published": "2026-10-13T14:27:31Z",
    "relevance": "low",
@@ -202,7 +280,7 @@
   },
   {
    "id": "10.1016/j.jdeveco.2026.103951",
-   "title": "Terrorism and Altruistic Giving: Evidence from Child Sponsorship",
+   "title": "Terrorism and altruistic giving: Evidence from child sponsorship",
    "authors": "Alberto Posso, Simon Feeny",
    "journal": "Journal of Development Economics",
    "tier": "Development",
@@ -400,14 +478,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240393",
-   "title": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
-   "authors": "Hans-Joachim Voth, Bruno Caprettini, Alex Trew",
+   "id": "10.1257/aer.116.10.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240393",
-   "url": "https://doi.org/10.1257/aer.20240393",
-   "abstract": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
+   "doi": "10.1257/aer.116.10.i",
+   "url": "https://doi.org/10.1257/aer.116.10.i",
+   "abstract": "",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -426,34 +504,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.116.10.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.10.i",
-   "url": "https://doi.org/10.1257/aer.116.10.i",
-   "abstract": "",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250115",
-   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
-   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250115",
-   "url": "https://doi.org/10.1257/aer.20250115",
-   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
    "id": "10.1257/aer.20250206",
    "title": "Screening and Segmenting: A Consumer Surplus Perspective",
    "authors": "Dirk Bergemann, Tibor Heumann, Michael C. Wang",
@@ -467,14 +517,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20240651",
-   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
-   "authors": "Daniel Chen",
+   "id": "10.1257/aer.20231368",
+   "title": "Racial Promotion Gaps",
+   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20240651",
-   "url": "https://doi.org/10.1257/aer.20240651",
-   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
+   "doi": "10.1257/aer.20231368",
+   "url": "https://doi.org/10.1257/aer.20231368",
+   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -493,14 +543,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20231368",
-   "title": "Racial Promotion Gaps",
-   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "id": "10.1257/aer.20240651",
+   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
+   "authors": "Daniel Chen",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20231368",
-   "url": "https://doi.org/10.1257/aer.20231368",
-   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+   "doi": "10.1257/aer.20240651",
+   "url": "https://doi.org/10.1257/aer.20240651",
+   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -527,6 +577,34 @@
    "doi": "10.1257/aer.20251879",
    "url": "https://doi.org/10.1257/aer.20251879",
    "abstract": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250115",
+   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250115",
+   "url": "https://doi.org/10.1257/aer.20250115",
+   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20240393",
+   "title": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
+   "authors": "Hans-Joachim Voth, Bruno Caprettini, Alex Trew",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240393",
+   "url": "https://doi.org/10.1257/aer.20240393",
+   "abstract": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -850,19 +928,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105779",
-   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
-   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105779",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
-   "abstract": "",
-   "published": "2026-09-23T13:20:43Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105781",
    "title": "Settlers and seekers: Immigrant proximity and voter polarisation",
    "authors": "C. Berti Ceroni, L. Piemontese, G. Prarolo, A. Schiavone",
@@ -870,6 +935,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105781",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105781",
+   "abstract": "",
+   "published": "2026-09-23T13:20:43Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105779",
+   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
+   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105779",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
    "abstract": "",
    "published": "2026-09-23T13:20:43Z",
    "relevance": "low",
@@ -1313,14 +1391,40 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta945fm",
-   "title": "Frontmatter of Econometrica 94 Iss. 5",
-   "authors": "",
+   "id": "10.3982/ecta23242",
+   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
+   "authors": "Ulrich Müller, Andriy Norets",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta945fm",
-   "url": "https://doi.org/10.3982/ecta945fm",
-   "abstract": "",
+   "doi": "10.3982/ecta23242",
+   "url": "https://doi.org/10.3982/ecta23242",
+   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta23874",
+   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
+   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23874",
+   "url": "https://doi.org/10.3982/ecta23874",
+   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta23897",
+   "title": "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy",
+   "authors": "Anish Agarwal, Rahul Singh",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23897",
+   "url": "https://doi.org/10.3982/ecta23897",
+   "abstract": "We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1352,19 +1456,6 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta23242",
-   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
-   "authors": "Ulrich Müller, Andriy Norets",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23242",
-   "url": "https://doi.org/10.3982/ecta23242",
-   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.3982/ecta21571",
    "title": "Causal Inference for Spatial Treatments",
    "authors": "Michael Pollmann",
@@ -1378,45 +1469,6 @@
    "topics": [
     "城市/区域"
    ]
-  },
-  {
-   "id": "10.3982/ecta23874",
-   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
-   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23874",
-   "url": "https://doi.org/10.3982/ecta23874",
-   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta20428",
-   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
-   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta20428",
-   "url": "https://doi.org/10.3982/ecta20428",
-   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta21366",
-   "title": "Security Design Under Common‐Value Competition",
-   "authors": "Yue Yuan",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21366",
-   "url": "https://doi.org/10.3982/ecta21366",
-   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
   },
   {
    "id": "10.3982/ecta22363",
@@ -1471,6 +1523,19 @@
    "topics": []
   },
   {
+   "id": "10.3982/ecta21366",
+   "title": "Security Design Under Common‐Value Competition",
+   "authors": "Yue Yuan",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21366",
+   "url": "https://doi.org/10.3982/ecta21366",
+   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta24284",
    "title": "Genetic Prediction and Adverse Selection",
    "authors": "Eduardo Azevedo, Jonathan P. Beauchamp, Richard Karlsson Linnér",
@@ -1484,14 +1549,27 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta23897",
-   "title": "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy",
-   "authors": "Anish Agarwal, Rahul Singh",
+   "id": "10.3982/ecta20428",
+   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
+   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23897",
-   "url": "https://doi.org/10.3982/ecta23897",
-   "abstract": "We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects.",
+   "doi": "10.3982/ecta20428",
+   "url": "https://doi.org/10.3982/ecta20428",
+   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta945fm",
+   "title": "Frontmatter of Econometrica 94 Iss. 5",
+   "authors": "",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta945fm",
+   "url": "https://doi.org/10.3982/ecta945fm",
+   "abstract": "",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1588,21 +1666,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744016",
-   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
-   "authors": "Shmuel San",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744016",
-   "url": "https://doi.org/10.1086/744016",
-   "abstract": "",
-   "published": "2026-09-11T17:31:03Z",
-   "relevance": "high",
-   "topics": [
-    "企业进入/空间竞争"
-   ]
-  },
-  {
    "id": "10.1086/744012",
    "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
    "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
@@ -1627,6 +1690,21 @@
    "published": "2026-09-11T17:31:03Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1086/744016",
+   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
+   "authors": "Shmuel San",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744016",
+   "url": "https://doi.org/10.1086/744016",
+   "abstract": "",
+   "published": "2026-09-11T17:31:03Z",
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ]
   },
   {
    "id": "10.1016/j.jdeveco.2026.103932",
@@ -1827,19 +1905,6 @@
    ]
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105767",
-   "title": "Immigration enforcement and safety net participation in mixed-status households",
-   "authors": "Jaeyeon Shin",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105767",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105767",
-   "abstract": "",
-   "published": "2026-09-04T19:38:46Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105764",
    "title": "The accuracy of jobseekers’ wage expectations",
    "authors": "Marco Caliendo, Robert Mahlstedt, Aiko Schmeißer, Sophie Wagner",
@@ -1847,6 +1912,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105764",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105764",
+   "abstract": "",
+   "published": "2026-09-04T19:38:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105767",
+   "title": "Immigration enforcement and safety net participation in mixed-status households",
+   "authors": "Jaeyeon Shin",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105767",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105767",
    "abstract": "",
    "published": "2026-09-04T19:38:46Z",
    "relevance": "low",
@@ -3037,19 +3115,6 @@
    "url": "https://doi.org/10.1016/j.jinteco.2026.104327",
    "abstract": "",
    "published": "2026-08-18T14:55:33Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103908",
-   "title": "The power of words: Adult literacy campaign and intergenerational transmission of human capital",
-   "authors": "Shuo Chen, Zhuoer Lin, Xian Xu, Yanfei Yin",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103908",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103908",
-   "abstract": "",
-   "published": "2026-08-17T06:06:11Z",
    "relevance": "low",
    "topics": []
   }
@@ -8597,6 +8662,50 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany",
+   "title": "India has more Restrictive Labor Law than Germany",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany",
+   "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […] The post India has more Restrictive Labor Law than Germany appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-16T11:20:31+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona",
+   "title": "On Bergman’s *Persona*",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona",
+   "summary": "I first saw Ingmar Bergman’s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film’s story is, however, a simple one (even if […] The post On Bergman’s *Persona* appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-16T06:53:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh",
+   "title": "I guest host the NYT podcast and interview Dwarkesh",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh",
+   "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models — why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them. Patel: […] The post I guest host the NYT podcast and interview Dwarkesh appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-16T04:44:22+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574",
+   "title": "Thursday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574",
+   "summary": "1. Claims about military satellites. 2. book talk. 3. AI misalignment in Sweden? 4. Will El Salvador grow? 5. AI, automation, and the Indian workforce. 6. How language models revise the documents that govern them. 7. Arpit Gupta, economist, visits Anthropic. 8. Ten-year yield is down, even though inflation came in higher than expected. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-15T16:43:28+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UNFFucWw5enowQUFjcXJ1Tkc1OE8zcXBIMDJzZGR2YlNNZ3dVRzFMaUZ5WmltVzNBbWJZcFFNam5VZ205Sl9WNmVYZGdwTzBMcmQ1SkVoaEE1akZ6cGtfY0dR?oc=5",
    "title": "AI in gambling: Leaders differ on need for specific rules - Focus Gaming News",
    "source": "Google News: 赌博监管",
@@ -9235,75 +9344,101 @@
    "published": "2026-10-06T16:50:43+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/10/06/how-treatment-relate-protective-behavioral-strategies-drinking/",
-   "title": "The DRAM, Vol. 22(10) – How does treatment relate to the use of protective behavioral strategies for drinking?",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/10/06/how-treatment-relate-protective-behavioral-strategies-drinking/",
-   "summary": "This week, The DRAM reviews a study by Kevin Montes and colleagues that explored the use of protective behavioral strategies and how these approaches relate to drinking-related outcomes",
-   "published": "2026-10-06T13:27:34+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham",
-   "title": "Paul Graham Versus the Pope",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham",
-   "summary": "Pope Leo XIV recently tweeted that there is “an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others.” As a description of how today’s models work, that’s fair enough. AI learned to paint by looking at our paintings. […] The post Paul Graham Versus the Pope appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-06T11:15:54+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
-   "title": "The Great Accretion and the Great Depression",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
-   "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accretion and the Great Depression appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-06T07:06:24+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards",
-   "title": "Rising concentration for economics awards",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards",
-   "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […] The post Rising concentration for economics awards appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-06T04:24:14+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580",
-   "title": "Monday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580",
-   "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview. The post Monday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-05T17:23:07+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness",
-   "title": "“Authenticity is exactly the same as phoniness.”",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness",
-   "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […] The post “Authenticity is exactly the same as phoniness.” appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-05T15:45:12+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-27-900655",
+   "title": "2027-2032 Strategic Plan: Serving Congress and the Nation",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-900655",
+   "summary": "GAO’s Strategic Plan Goals and Objectives form the foundation of the agency’s strategic plan and lay out our long-term strategies to accomplish our goals. For more information, contact Stephen Sanford at SanfordS@gao.gov.",
+   "published": "2026-10-16T12:38:20+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108196",
+   "title": "Critical Minerals: BLM Should Ensure Individuals and Businesses Meet Citizenship Requirements for Hardrock Mining Claims",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108196",
+   "summary": "What GAO Found The Department of the Interior’s Bureau of Land Management (BLM) administers mining claims that grant the exclusive right to extract critical and other hardrock minerals from most federal lands. U.S. mining laws include citizenship requirements for individuals and business entities holding such claims, known as mining claimants. Under these laws, mining claimants generally must be U.S. citizens, which can include individuals as well as business entities incorporated in a U.S. state or territory. Foreign entities are not qualified to be claimants, but their subsidiaries can hold ",
+   "published": "2026-10-16T11:40:59+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108094",
+   "title": "Critical Minerals: Limited Available Information on the Full Extent of Foreign Investment in Mining on Federal Lands",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108094",
+   "summary": "What GAO Found The U.S critical mineral supply chain faces numerous constraints, including the need for substantial capital investment and limited domestic processing capacity. The U.S. exports large quantities of domestically extracted ore to Canada, Mexico, and China, among other countries. Copper Mine on Federal Lands The Bureau of Land Management (BLM) and the Forest Service oversee hardrock mines on federal land. As of February 2026, there were 632 approved hardrock mining plans of operation on federal land. The 1872 Mining Law generally requires mining claimants to be U.S. citizens or bu",
+   "published": "2026-10-16T11:40:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108176",
+   "title": "Tax Filing: IRS Should Enhance Ghost Preparer Identification and Compliance Efforts in a Comprehensive Preparer Strategy",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108176",
+   "summary": "What GAO Found Ghost preparers are paid tax preparers who do not comply with requirements to identify themselves on tax returns they prepare for others. Ghost preparers may intentionally leave identifying information off to get away with filing fraudulent income tax returns, stealing taxpayers’ refunds, and stealing taxpayers’ identities. Courts have ordered individual ghost preparers to pay millions in restitution to the government, but according to Internal Revenue Service (IRS) officials, the total effect of ghost preparers is likely greater, in part, because ghost preparers are difficult t",
+   "published": "2026-10-16T11:28:51+00:00",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-109057",
+   "title": "National Security: FBI Should Strengthen Partnerships to Combat Non-Traditional Intelligence Collectors",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-109057",
+   "summary": "What GAO Found According to the Federal Bureau of Investigation (FBI), non-traditional intelligence collectors (NTCs) are individuals whose primary profession is not intelligence collection, but who actively or passively collect sensitive U.S. information on behalf of foreign entities. For example, researchers and students at universities may act as NTCs if they collect non-public research on behalf of a foreign entity. According to the FBI, unlike intelligence officers, NTCs function independently of established intelligence organizations. FBI officials and representatives from academic assoc",
+   "published": "2026-10-16T11:28:08+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-109127",
+   "title": "National Nuclear Security Administration: Reductions to Federal Workforce",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-109127",
+   "summary": "What GAO Found The National Nuclear Security Administration (NNSA) oversees a $25 billion annual budget and approximately 70,000 management and operating contractor personnel to maintain the U.S. nuclear weapons stockpile and nuclear nonproliferation efforts. NNSA took steps to build its federal workforce to meet mission needs in 2024, with its workforce peaking at 1,991 early in fiscal year 2025. However, since then through the second quarter of fiscal year 2026, NNSA has reduced its federal workforce by 236 employees—or 11.9 percent. These reductions have impacted NNSA’s mission critical wor",
+   "published": "2026-10-16T11:24:19+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-108503",
+   "title": "Federal Real Property: New Occupancy Data Help Agencies Shed Unneeded Office Space But Gaps Limit the Full Picture",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108503",
+   "summary": "What GAO Found Under the Utilizing Space Efficiently and Improving Technologies (USE IT) Act, enacted in January 2025, federal agencies are now required to collect and report occupancy data. This data is used to calculate utilization rates for agencies’ office space in federally owned buildings and leased locations. While 20 of the 23 agencies that responded to GAO’s survey reported using existing badging systems for this purpose, 16 of these 20 agencies reported supplementing that information with data from other sources such as daily check-in surveys. Nearly all agencies surveyed noted the i",
+   "published": "2026-10-16T11:18:45+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/10/15/cybersecurity-incident-disrupting-bankruptcy-court-operations",
+   "title": "Cybersecurity Incident Disrupting Bankruptcy Court Operations",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/10/15/cybersecurity-incident-disrupting-bankruptcy-court-operations",
+   "summary": "BAE Systems IT and websites that support the operations of the Bankruptcy Noticing Center (BNC) have been impacted by a cybersecurity incident. The BNC produces and transmits bankruptcy notices for all federal bankruptcy courts around the country, and BAE Systems operates BNC systems and websites on behalf of the Federal Judiciary.",
+   "published": "2026-10-15T12:00:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
   {
    "id": "https://www.gao.gov/products/gao-26-108442",
    "title": "Department of Housing and Urban Development: 2025 Workforce and Spending Changes",
@@ -9379,7 +9514,7 @@
    "category": "",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkY2SDBDTDViNXVfbFZtVGdYQ1RGcUFydkpfTHFYb3dHVC1PUUVWOWdfbjhEY1BNZGoydGswZmQ5eXdJV1FoNTNCYS1nWEpwc2VlNzVVTl9GVnJGai1Dc3lhaGZLVnFGRG9JUFFtU2tLNmFZZTlRT19Vek1VZEZObHk3LXBhQ2RlRFoyZ0E5aw?oc=5",
    "summary": "The $10 trillion question: Financing the AI buildout Brookings",
-   "published": "2026-10-08T04:03:57+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
    "relevance": "low",
    "topics": []
   },
@@ -9428,19 +9563,6 @@
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
-   "title": "More than One-Quarter of US Adults Had Medical Debt in 2025 - Urban Institute",
-   "source": "Google News: Urban Institute",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
-   "summary": "More than One-Quarter of US Adults Had Medical Debt in 2025 Urban Institute",
-   "published": "2026-10-06T12:00:00+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
    "id": "https://www.gao.gov/products/gao-27-108853",
    "title": "Rural Health Transformation Program: Early Implementation Actions and Monitoring Plans",
    "source": "GAO Reports",
@@ -9485,6 +9607,19 @@
    "published": "2026-10-06T11:13:51+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
+   "title": "More than One-Quarter of US Adults Had Medical Debt in 2025 - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGo3UDZXQjR6Wm8zV2REaEJrUUI4TFIzRnJhSEVIS2xoSW9nejhsMmZPc0V5U1RPb3I2X29UbGI4UFk0UlNJODRtTE5EbzBCeHFMSURHdVROOHMzb0RTaVRyUHlsbW92VktNdzA5cGdINUlJZERQRTAzeVVrZlVhYWtBcGxJRkZfRW5SQlUzSTdaeVY1Q3c?oc=5",
+   "summary": "More than One-Quarter of US Adults Had Medical Debt in 2025 Urban Institute",
+   "published": "2026-10-06T07:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "https://www.gao.gov/products/gao-27-108692",
@@ -9865,19 +10000,6 @@
    "topics": []
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
-   "title": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors - Urban Institute",
-   "source": "Google News: Urban Institute",
-   "category": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
-   "summary": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors Urban Institute",
-   "published": "2026-09-24T12:00:00+00:00",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
    "id": "https://www.gao.gov/products/gao-26-107774",
    "title": "FEMA: Billions in Building Resilient Infrastructure and Communities Subgrants Remain Unawarded",
    "source": "GAO Reports",
@@ -9946,6 +10068,19 @@
    "published": "2026-09-24T11:00:28+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
+   "title": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors - Urban Institute",
+   "source": "Google News: Urban Institute",
+   "category": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWFIdXl2M3RBd001QzV6TjdaME16aDBUSlBoU0RTUEFXMnVmZnJnNzB2akpST2lZTnRNVTBTZjVVNnZSWmw1RG5rcDB0bE5Mb2sxazVNaVpvaWQ0Y0ZzR0Z1TWdnNEV2VzFMS2NsRTNqVlZSWmtkQlF2NkswLU9JeDZuT3hGUW5fT1FHMWVPM3oxRVh3Smd3WEJVVU9UTXVZWGREM0FWcmVSSWVabGQ3YlhB?oc=5",
+   "summary": "What It Takes to Financially Survive a Disaster, According to Hurricane Helene Survivors Urban Institute",
+   "published": "2026-09-24T07:00:00+00:00",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "https://www.gao.gov/products/gao-26-107920",
@@ -10613,17 +10748,6 @@
    "url": "https://www.gao.gov/products/gao-26-109393",
    "summary": "What GAO Found After three unsuccessful attempts over two decades, the Department of Veterans Affairs (VA) undertook a fourth effort in 2017—the Electronic Health Record Modernization (EHRM) program—to modernize its legacy health information system. GAO has previously reported on the challenges VA has experienced with this effort. In these reports, GAO made 18 recommendations to improve cost estimating, schedule, program management, user adoption and satisfaction, and operational testing. GAO deemed 12 of these as priority recommendations because of their criticality to successful future deplo",
    "published": "2026-09-01T18:12:28+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108303",
-   "title": "High School Aviation Maintenance Programs: FAA Should Assess Expanding Access to the Mechanic Knowledge Test",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108303",
-   "summary": "What GAO Found The Federal Aviation Administration (FAA) issues certificates to aircraft mechanics and to the more than 200 aviation maintenance schools that train them. Eleven of these certificated schools are high schools, and 43 are colleges, universities, or career and technical centers that serve high school students. In addition, at least 43 high schools offer programs in aviation maintenance but are not certificated by FAA. The school representatives that GAO interviewed had little data on career outcomes but cited a range of pathways that graduates have pursued, including further train",
-   "published": "2026-09-01T11:14:58+00:00",
    "relevance": "low",
    "topics": []
   }
