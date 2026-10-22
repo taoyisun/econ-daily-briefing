@@ -1,6 +1,99 @@
 {
- "generated_at": "2026-10-21T15:51:00.439354+00:00",
+ "generated_at": "2026-10-22T15:48:05.184262+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jdeveco.2026.103954",
+   "title": "Relative affluence and mental health: Evidence from quasi-random class assignments",
+   "authors": "Huajun Wu, Ning Neil Yu",
+   "journal": "Journal of Development Economics",
+   "tier": "Development",
+   "doi": "10.1016/j.jdeveco.2026.103954",
+   "url": "https://doi.org/10.1016/j.jdeveco.2026.103954",
+   "abstract": "",
+   "published": "2026-10-22T15:23:29Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/743432",
+   "title": "Tax Credits and Shared Parenthood: Improving Child Tax Benefits for Children when Parents Live Apart",
+   "authors": "Maria Cancian, Molly Costanzo",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/743432",
+   "url": "https://doi.org/10.1086/743432",
+   "abstract": "",
+   "published": "2026-10-21T20:04:26Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/741922",
+   "title": "The Same but Different: How the Income Tax Affects Black, Hispanic, and White Households",
+   "authors": "William Gale, Oliver Hall, John Sabelhaus",
+   "journal": "National Tax Journal",
+   "tier": "Public",
+   "doi": "10.1086/741922",
+   "url": "https://doi.org/10.1086/741922",
+   "abstract": "",
+   "published": "2026-10-21T19:55:47Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
+  },
+  {
+   "id": "10.1086/744594",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744594",
+   "url": "https://doi.org/10.1086/744594",
+   "abstract": "",
+   "published": "2026-10-21T17:57:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744299",
+   "title": "JPE Turnaround Times",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744299",
+   "url": "https://doi.org/10.1086/744299",
+   "abstract": "",
+   "published": "2026-10-21T17:57:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744595",
+   "title": "Recent Referees",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744595",
+   "url": "https://doi.org/10.1086/744595",
+   "abstract": "",
+   "published": "2026-10-21T17:57:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105737",
+   "title": "Will markets provide humane jobs?",
+   "authors": "Arash Nekoei",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105737",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105737",
+   "abstract": "",
+   "published": "2026-10-21T15:46:49Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1086/744577",
    "title": "Welfare and the Act of Choosing",
@@ -373,7 +466,7 @@
   },
   {
    "id": "10.1016/j.regsciurbeco.2026.104290",
-   "title": "Flowing Innovation: Bureaucratic Transfers and Collaborative Innovation",
+   "title": "Flowing innovation: Bureaucratic transfers and collaborative innovation",
    "authors": "Lei Li, Bocong Liu, Gang Xu",
    "journal": "Regional Science and Urban Economics",
    "tier": "Urban",
@@ -638,58 +731,17 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20231368",
-   "title": "Racial Promotion Gaps",
-   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "id": "10.1257/aer.116.10.i",
+   "title": "Front Matter",
+   "authors": "",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20231368",
-   "url": "https://doi.org/10.1257/aer.20231368",
-   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+   "doi": "10.1257/aer.116.10.i",
+   "url": "https://doi.org/10.1257/aer.116.10.i",
+   "abstract": "",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231417",
-   "title": "Social Push and the Direction of Innovation",
-   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231417",
-   "url": "https://doi.org/10.1257/aer.20231417",
-   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240651",
-   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
-   "authors": "Daniel Chen",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240651",
-   "url": "https://doi.org/10.1257/aer.20240651",
-   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250115",
-   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
-   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250115",
-   "url": "https://doi.org/10.1257/aer.20250115",
-   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
   },
   {
    "id": "10.1257/aer.20241596",
@@ -705,40 +757,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20250206",
-   "title": "Screening and Segmenting: A Consumer Surplus Perspective",
-   "authors": "Dirk Bergemann, Tibor Heumann, Michael C. Wang",
+   "id": "10.1257/aer.20231417",
+   "title": "Social Push and the Direction of Innovation",
+   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20250206",
-   "url": "https://doi.org/10.1257/aer.20250206",
-   "abstract": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240393",
-   "title": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
-   "authors": "Hans-Joachim Voth, Bruno Caprettini, Alex Trew",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240393",
-   "url": "https://doi.org/10.1257/aer.20240393",
-   "abstract": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.116.10.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.10.i",
-   "url": "https://doi.org/10.1257/aer.116.10.i",
-   "abstract": "",
+   "doi": "10.1257/aer.20231417",
+   "url": "https://doi.org/10.1257/aer.20231417",
+   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -765,6 +791,73 @@
    "doi": "10.1257/aer.20251879",
    "url": "https://doi.org/10.1257/aer.20251879",
    "abstract": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231368",
+   "title": "Racial Promotion Gaps",
+   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231368",
+   "url": "https://doi.org/10.1257/aer.20231368",
+   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250115",
+   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250115",
+   "url": "https://doi.org/10.1257/aer.20250115",
+   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20250206",
+   "title": "Screening and Segmenting: A Consumer Surplus Perspective",
+   "authors": "Dirk Bergemann, Tibor Heumann, Michael C. Wang",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250206",
+   "url": "https://doi.org/10.1257/aer.20250206",
+   "abstract": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240651",
+   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
+   "authors": "Daniel Chen",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240651",
+   "url": "https://doi.org/10.1257/aer.20240651",
+   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240393",
+   "title": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
+   "authors": "Hans-Joachim Voth, Bruno Caprettini, Alex Trew",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240393",
+   "url": "https://doi.org/10.1257/aer.20240393",
+   "abstract": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -850,13 +943,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/744158",
-   "title": "Front Matter",
+   "id": "10.1086/744159",
+   "title": "Recent Referees",
    "authors": "",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744158",
-   "url": "https://doi.org/10.1086/744158",
+   "doi": "10.1086/744159",
+   "url": "https://doi.org/10.1086/744159",
    "abstract": "",
    "published": "2026-09-28T17:05:46Z",
    "relevance": "low",
@@ -876,13 +969,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/744159",
-   "title": "Recent Referees",
+   "id": "10.1086/744158",
+   "title": "Front Matter",
    "authors": "",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744159",
-   "url": "https://doi.org/10.1086/744159",
+   "doi": "10.1086/744158",
+   "url": "https://doi.org/10.1086/744158",
    "abstract": "",
    "published": "2026-09-28T17:05:46Z",
    "relevance": "low",
@@ -1021,19 +1114,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105780",
-   "title": "Transporting behavioral insights to low-income households: A field experiment on energy efficiency investments",
-   "authors": "Bettina Chlond, Timo Goeschl, Martin Kesternich, Madeline Werthschulte",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105780",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105780",
-   "abstract": "",
-   "published": "2026-09-24T10:21:44Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105771",
    "title": "Long-term impacts of youth mentoring and therapy: Experimental evidence from Chicago",
    "authors": "Nour Abdul-Razzak, Brandon Domash, Kelly Hallberg, Cristobal Pinto Poehls",
@@ -1041,6 +1121,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105771",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105771",
+   "abstract": "",
+   "published": "2026-09-24T10:21:44Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105780",
+   "title": "Transporting behavioral insights to low-income households: A field experiment on energy efficiency investments",
+   "authors": "Bettina Chlond, Timo Goeschl, Martin Kesternich, Madeline Werthschulte",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105780",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105780",
    "abstract": "",
    "published": "2026-09-24T10:21:44Z",
    "relevance": "low",
@@ -1088,19 +1181,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105779",
-   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
-   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105779",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
-   "abstract": "",
-   "published": "2026-09-23T13:20:43Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105781",
    "title": "Settlers and seekers: Immigrant proximity and voter polarisation",
    "authors": "C. Berti Ceroni, L. Piemontese, G. Prarolo, A. Schiavone",
@@ -1108,6 +1188,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105781",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105781",
+   "abstract": "",
+   "published": "2026-09-23T13:20:43Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105779",
+   "title": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
+   "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105779",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
    "abstract": "",
    "published": "2026-09-23T13:20:43Z",
    "relevance": "low",
@@ -1298,19 +1391,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744118",
-   "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
-   "authors": "Mert Demirer, Diego Jiménez-Hernández, Dean Li, Sida Peng",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744118",
-   "url": "https://doi.org/10.1086/744118",
-   "abstract": "",
-   "published": "2026-09-18T14:10:13Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/744119",
    "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
    "authors": "Eric Richert",
@@ -1318,6 +1398,19 @@
    "tier": "Top-5",
    "doi": "10.1086/744119",
    "url": "https://doi.org/10.1086/744119",
+   "abstract": "",
+   "published": "2026-09-18T14:10:13Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744118",
+   "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+   "authors": "Mert Demirer, Diego Jiménez-Hernández, Dean Li, Sida Peng",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744118",
+   "url": "https://doi.org/10.1086/744118",
    "abstract": "",
    "published": "2026-09-18T14:10:13Z",
    "relevance": "low",
@@ -1551,53 +1644,14 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta22363",
-   "title": "Screening Property Rights for Innovation",
-   "authors": "William Matcham, Mark Schankerman",
+   "id": "10.3982/ecta21366",
+   "title": "Security Design Under Common‐Value Competition",
+   "authors": "Yue Yuan",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta22363",
-   "url": "https://doi.org/10.3982/ecta22363",
-   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta20884",
-   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
-   "authors": "Molly Schnell",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta20884",
-   "url": "https://doi.org/10.3982/ecta20884",
-   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta23242",
-   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
-   "authors": "Ulrich Müller, Andriy Norets",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta23242",
-   "url": "https://doi.org/10.3982/ecta23242",
-   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.3982/ecta20428",
-   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
-   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta20428",
-   "url": "https://doi.org/10.3982/ecta20428",
-   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
+   "doi": "10.3982/ecta21366",
+   "url": "https://doi.org/10.3982/ecta21366",
+   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1629,27 +1683,40 @@
    "topics": []
   },
   {
-   "id": "10.3982/ecta21366",
-   "title": "Security Design Under Common‐Value Competition",
-   "authors": "Yue Yuan",
+   "id": "10.3982/ecta23242",
+   "title": "Locally Robust Semiparametrically Efficient Bayesian Inference",
+   "authors": "Ulrich Müller, Andriy Norets",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta21366",
-   "url": "https://doi.org/10.3982/ecta21366",
-   "abstract": "This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.",
+   "doi": "10.3982/ecta23242",
+   "url": "https://doi.org/10.3982/ecta23242",
+   "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "10.3982/ecta23874",
-   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
-   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
+   "id": "10.3982/ecta22363",
+   "title": "Screening Property Rights for Innovation",
+   "authors": "William Matcham, Mark Schankerman",
    "journal": "Econometrica",
    "tier": "Top-5",
-   "doi": "10.3982/ecta23874",
-   "url": "https://doi.org/10.3982/ecta23874",
-   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+   "doi": "10.3982/ecta22363",
+   "url": "https://doi.org/10.3982/ecta22363",
+   "abstract": "We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta20884",
+   "title": "Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids",
+   "authors": "Molly Schnell",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta20884",
+   "url": "https://doi.org/10.3982/ecta20884",
+   "abstract": "This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.",
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
@@ -1681,6 +1748,32 @@
    "topics": []
   },
   {
+   "id": "10.3982/ecta23874",
+   "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
+   "authors": "Joao Guerreiro, Jonathon Hazell, Chen Lian, Christina Patterson",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta23874",
+   "url": "https://doi.org/10.3982/ecta23874",
+   "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.3982/ecta20428",
+   "title": "The Role of Trade in Premature Deindustrialization and Industry Polarization",
+   "authors": "Michael Sposi, Kei-Mu Yi, Jing Zhang",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta20428",
+   "url": "https://doi.org/10.3982/ecta20428",
+   "abstract": "We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.3982/ecta945fm",
    "title": "Frontmatter of Econometrica 94 Iss. 5",
    "authors": "",
@@ -1692,21 +1785,6 @@
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.3982/ecta21571",
-   "title": "Causal Inference for Spatial Treatments",
-   "authors": "Michael Pollmann",
-   "journal": "Econometrica",
-   "tier": "Top-5",
-   "doi": "10.3982/ecta21571",
-   "url": "https://doi.org/10.3982/ecta21571",
-   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
-   "published": "2026-09-14T11:53:17Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
   },
   {
    "id": "10.3982/ecta945bm",
@@ -1733,6 +1811,21 @@
    "published": "2026-09-14T11:53:17Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.3982/ecta21571",
+   "title": "Causal Inference for Spatial Treatments",
+   "authors": "Michael Pollmann",
+   "journal": "Econometrica",
+   "tier": "Top-5",
+   "doi": "10.3982/ecta21571",
+   "url": "https://doi.org/10.3982/ecta21571",
+   "abstract": "Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.",
+   "published": "2026-09-14T11:53:17Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
   },
   {
    "id": "10.1016/j.jdeveco.2026.103943",
@@ -1813,17 +1906,19 @@
    "topics": []
   },
   {
-   "id": "10.1086/744012",
-   "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
-   "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
+   "id": "10.1086/744016",
+   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
+   "authors": "Shmuel San",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744012",
-   "url": "https://doi.org/10.1086/744012",
+   "doi": "10.1086/744016",
+   "url": "https://doi.org/10.1086/744016",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
-   "relevance": "low",
-   "topics": []
+   "relevance": "high",
+   "topics": [
+    "企业进入/空间竞争"
+   ]
   },
   {
    "id": "10.1086/744015",
@@ -1833,6 +1928,19 @@
    "tier": "Top-5",
    "doi": "10.1086/744015",
    "url": "https://doi.org/10.1086/744015",
+   "abstract": "",
+   "published": "2026-09-11T17:31:03Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744012",
+   "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
+   "authors": "Nick Buchholz, Matthew Shum, Haiqing Xu",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744012",
+   "url": "https://doi.org/10.1086/744012",
    "abstract": "",
    "published": "2026-09-11T17:31:03Z",
    "relevance": "low",
@@ -1852,21 +1960,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744016",
-   "title": "Timing is Everything: Parental Professional Connections and Labor Market Entry",
-   "authors": "Shmuel San",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744016",
-   "url": "https://doi.org/10.1086/744016",
-   "abstract": "",
-   "published": "2026-09-11T17:31:03Z",
-   "relevance": "high",
-   "topics": [
-    "企业进入/空间竞争"
-   ]
-  },
-  {
    "id": "10.1016/j.jdeveco.2026.103932",
    "title": "The (hidden) Samaritan contest",
    "authors": "Rabah Arezki, Youssouf Camara, Frederick Van Der Ploeg, Grégoire Rota-Graziosi",
@@ -1880,19 +1973,6 @@
    "topics": []
   },
   {
-   "id": "10.1093/restud/rdag101",
-   "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
-   "authors": "Brett Green, Cyrus Mevorach, Curtis R Taylor",
-   "journal": "Review of Economic Studies",
-   "tier": "Top-5",
-   "doi": "10.1093/restud/rdag101",
-   "url": "https://doi.org/10.1093/restud/rdag101",
-   "abstract": "Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Pre-emption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.",
-   "published": "2026-09-10T11:52:31Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1093/restud/rdag102",
    "title": "Company Wage Policy in a Low-Wage Labour Market",
    "authors": "Giulia Giupponi, Stephen Machin",
@@ -1901,6 +1981,19 @@
    "doi": "10.1093/restud/rdag102",
    "url": "https://doi.org/10.1093/restud/rdag102",
    "abstract": "Abstract We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labour market.",
+   "published": "2026-09-10T11:52:31Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/restud/rdag101",
+   "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
+   "authors": "Brett Green, Cyrus Mevorach, Curtis R Taylor",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag101",
+   "url": "https://doi.org/10.1093/restud/rdag101",
+   "abstract": "Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Pre-emption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.",
    "published": "2026-09-10T11:52:31Z",
    "relevance": "low",
    "topics": []
@@ -8826,6 +8919,111 @@
  ],
  "news": [
   {
+   "id": "https://basisonline.org/2026/10/22/the-joy-hack/",
+   "title": "The Joy Hack",
+   "source": "The BASIS (哈佛赌博研究中心)",
+   "category": "gambling",
+   "url": "https://basisonline.org/2026/10/22/the-joy-hack/",
+   "summary": "Today on The BASIS, Ms. Keertana Uppala shares the importance of finding and cherishing true joy in our lives, and the dangers of substance misuse as “joy-hacks” that try to hijack those emotions. Ms. Uppala is a junior at West Forsyth High School in Cumming, GA and a youth advocate who is dedicated to substance-use prevention.",
+   "published": "2026-10-22T13:12:11+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3",
+   "title": "Modern Principles of Economics!",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3",
+   "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4 The post Modern Principles of Economics! appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-22T11:18:12+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai",
+   "title": "A simple point about the intertemporal regulation of AI",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai",
+   "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should be underregulated today. […] The post A simple point about the intertemporal regulation of AI appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-22T07:12:46+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects",
+   "title": "Do mass shootings in universities lead to permanent effects?",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects",
+   "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […] The post Do mass shootings in universities lead to permanent effects? appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-22T04:42:11+00:00",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU1TWXBtR2xrUnRGSUpZa2xQSlZZZmZYQU5saFFQVDMtQU9DV0s0XzlYeDB0d2VDbVA0MFMxYlc1dmx4cE56QWIyT21LUG94YjJNMHB4MDdLb1hWU2w2T0VTclJQV0RnLXFjWFZaRW04VWpORHczOXV4ZGprT3BBODBFckxJUmdibWc?oc=5",
+   "title": "Bryson DeChambeau Stays Loyal to LIV Golf 2.0 as Jon Rahm & More Exit Before Crucial Deadline - Yahoo Sports",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU1TWXBtR2xrUnRGSUpZa2xQSlZZZmZYQU5saFFQVDMtQU9DV0s0XzlYeDB0d2VDbVA0MFMxYlc1dmx4cE56QWIyT21LUG94YjJNMHB4MDdLb1hWU2w2T0VTclJQV0RnLXFjWFZaRW04VWpORHczOXV4ZGprT3BBODBFckxJUmdibWc?oc=5",
+   "summary": "Bryson DeChambeau Stays Loyal to LIV Golf 2.0 as Jon Rahm & More Exit Before Crucial Deadline Yahoo Sports",
+   "published": "2026-10-21T21:17:13+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison",
+   "title": "More on Elizabeth Holmes and prison",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison",
+   "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough women […] The post More on Elizabeth Holmes and prison appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-21T19:12:57+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOVNFS0FSZGhnbm5FSTFJcmJSTUZXNk5jMm5WOXBQdktjSUw0c3EtZHJIbzc0UGJJbHpscnlQRVpkeWNLT3hWXzB6MWQ0N0dWNl9DamYzMEFxel9KQ2E1TmxULTdaMFptR21aUzJwOGVqb0FGdjhaLWkwOFFRalFGa3M4OWlpNWNBNE8xQ0lGLUFjRHg3WFRsN0NwT0NyMXYtbzEzWnZxMkM1ZGdCdUNDMGdBNmZSdnVMU2JySnd3YXZabDZ4SWZ0WDhoaHZuNk44d1QtYWlnSVRRd0w0bG94MEZsX0VsVVJ0TVV0eGVZSUZGTnA0RkRtX01DQmgzdw?oc=5",
+   "title": "No bank account since 2024: Maverix bankruptcy filings draw U.S. Trustee scrutiny after Colorado canceled its broadband grants - Wireless Estimator",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOVNFS0FSZGhnbm5FSTFJcmJSTUZXNk5jMm5WOXBQdktjSUw0c3EtZHJIbzc0UGJJbHpscnlQRVpkeWNLT3hWXzB6MWQ0N0dWNl9DamYzMEFxel9KQ2E1TmxULTdaMFptR21aUzJwOGVqb0FGdjhaLWkwOFFRalFGa3M4OWlpNWNBNE8xQ0lGLUFjRHg3WFRsN0NwT0NyMXYtbzEzWnZxMkM1ZGdCdUNDMGdBNmZSdnVMU2JySnd3YXZabDZ4SWZ0WDhoaHZuNk44d1QtYWlnSVRRd0w0bG94MEZsX0VsVVJ0TVV0eGVZSUZGTnA0RkRtX01DQmgzdw?oc=5",
+   "summary": "No bank account since 2024: Maverix bankruptcy filings draw U.S. Trustee scrutiny after Colorado canceled its broadband grants Wireless Estimator",
+   "published": "2026-10-21T18:53:01+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUFoNkVnMk1NTTNhTHFOTlRtMlBQYnlkRVBEZ2VYREp3b3ZOX3RKUnNkOHpJXzBvdF9xWllWN1FVbWFpU3FueDdpMndPMFp4eEhGbXJyT1d6UzZJMVVTdDFZVG0zNm54eEh0dkJQMUhKUHYwWnhJQXREUUtFVkZaUlZnSmRRLUJpR3k4?oc=5",
+   "title": "NJ Describes Its Online Gambling Industry As ‘Unscrupulous’ - GamblingHarm.org",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUFoNkVnMk1NTTNhTHFOTlRtMlBQYnlkRVBEZ2VYREp3b3ZOX3RKUnNkOHpJXzBvdF9xWllWN1FVbWFpU3FueDdpMndPMFp4eEhGbXJyT1d6UzZJMVVTdDFZVG0zNm54eEh0dkJQMUhKUHYwWnhJQXREUUtFVkZaUlZnSmRRLUJpR3k4?oc=5",
+   "summary": "NJ Describes Its Online Gambling Industry As ‘Unscrupulous’ GamblingHarm.org",
+   "published": "2026-10-21T18:01:10+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576",
+   "title": "Wednesday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576",
+   "summary": "1. The Romans and sex. 2. Apartments that expand at the touch of a button. 3. Has this guy composed more songs than anybody else? 4. Psychoanalyzing Elizabeth Holmes. 5. AI wrote some of the Dallas Michelin reviews. And the reviewer responds. 6. New Yorker profile of James Daunt. The last event I was at […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-10-21T16:09:38+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
    "title": "One reason I do not love AI writing, or even AI-assisted writing",
    "source": "Marginal Revolution",
@@ -8846,6 +9044,20 @@
    "published": "2026-10-21T05:00:58+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDRfT3ZvMWt6cl82YjBCdldtdGQ1dU9vdUowcE0xcW56aEZIbkFlSFFSU0pLNnhvUnU0LURBc01mOUdxRHNDS3FFXzkwbVNKcDl4enhTUU9JZVVuVXpwVEE5ajVsX0syb2RiN1RGbEp5ekJwcUh3b0owUzRwY094MEJfckFMdkhpcmEyRDJ1R2U0RkE4a0pWaUJPXzdfd0hUM1lJWjBqdFdqRVhFX0lJNWdHckYtUGp5ZEJHTUpOZjlIREZqd3VJYklqNmVKOVl3a0kySFBMNA?oc=5",
+   "title": "Urbandale man sentenced to federal prison for Small Business Administration loan, bankruptcy fraud - weareiowa.com",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDRfT3ZvMWt6cl82YjBCdldtdGQ1dU9vdUowcE0xcW56aEZIbkFlSFFSU0pLNnhvUnU0LURBc01mOUdxRHNDS3FFXzkwbVNKcDl4enhTUU9JZVVuVXpwVEE5ajVsX0syb2RiN1RGbEp5ekJwcUh3b0owUzRwY094MEJfckFMdkhpcmEyRDJ1R2U0RkE4a0pWaUJPXzdfd0hUM1lJWjBqdFdqRVhFX0lJNWdHckYtUGp5ZEJHTUpOZjlIREZqd3VJYklqNmVKOVl3a0kySFBMNA?oc=5",
+   "summary": "Urbandale man sentenced to federal prison for Small Business Administration loan, bankruptcy fraud weareiowa.com",
+   "published": "2026-10-20T21:09:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务",
+    "城市/区域"
+   ]
   },
   {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines",
@@ -8881,6 +9093,17 @@
    "topics": []
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bURsV2kwclV1VjhBVE5YZWExTmtmZ2hHQ0FXN1dhaHh2dWlPQ1pfUmpKaEJpMktOZFp1a01RQXFBc3FyZjdVM0k3V0pLRV91dU5tOVBfNFpwY2JMMzVLcXN6NA?oc=5",
+   "title": "Brazil betting ban raises alarm across LatAm - Focus Gaming News",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bURsV2kwclV1VjhBVE5YZWExTmtmZ2hHQ0FXN1dhaHh2dWlPQ1pfUmpKaEJpMktOZFp1a01RQXFBc3FyZjdVM0k3V0pLRV91dU5tOVBfNFpwY2JMMzVLcXN6NA?oc=5",
+   "summary": "Brazil betting ban raises alarm across LatAm Focus Gaming News",
+   "published": "2026-10-20T11:23:03+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
    "title": "The net fiscal impact of immigration should include gains from trade",
    "source": "Marginal Revolution",
@@ -8903,6 +9126,19 @@
    "published": "2026-10-20T04:08:38+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzhIN0dhS0FZTXZOY0oxMFRtQ1BkWVcwQTJEWVItRFpMUFUtQzR6bV9QeGJIODlidzFwWEsxME14bnhhRFQtLVlHeVVrVVBldzBPOXQzNWhhdEZKaXNPOW5LMVl3Nzhlczd3YWJIdFYwUDNDM2VyNmhDR1BMLUd2ekgxUi1ZS2pkOWMwUjBXVVN6OTlzbTRRVFRxcTBaYWc?oc=5",
+   "title": "Trump’s Student Loan Overhaul Could Drive More Bankruptcies, Former Judge Says: ‘The Rate of Bankruptcy Filings Will Most Likely Increase’ - Yahoo Finance",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzhIN0dhS0FZTXZOY0oxMFRtQ1BkWVcwQTJEWVItRFpMUFUtQzR6bV9QeGJIODlidzFwWEsxME14bnhhRFQtLVlHeVVrVVBldzBPOXQzNWhhdEZKaXNPOW5LMVl3Nzhlczd3YWJIdFYwUDNDM2VyNmhDR1BMLUd2ekgxUi1ZS2pkOWMwUjBXVVN6OTlzbTRRVFRxcTBaYWc?oc=5",
+   "summary": "Trump’s Student Loan Overhaul Could Drive More Bankruptcies, Former Judge Says: ‘The Rate of Bankruptcy Filings Will Most Likely Increase’ Yahoo Finance",
+   "published": "2026-10-19T21:30:18+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1hubl9RYm5zVHVMc0JqbjdoemZicTU1VEtBRGhCcVFqNXdXQTJsY212X3FrVDBUNVRORmFTV1JOcWYycGxlQXR2N3B5QTB2UHRuX1Bpdzg3WFdKWXV1Si1XcTFNOGxVdUtTb0NNS1N0X0ZJNGItazJPUGtQaUZoM25MYndFTnlTYldEQm9hcWpZTkxoSDRlaGM4emk2SURhU1HSAacBQVVfeXFMTWZObkJiZmUyZC1hUGpRaHFMVmZ4aXRuNzVjU2xWN0pjS1lkUEZxM25zTm8wZlE1YTlBZ09rX0xHQ0xILWc1bnJYcnF6VWI4X0RWeUdlWHVnMkdKajEyUmxPV1NzbXNOU0phdG5OV1FkNE4yeU82ZVZOQUJYcElxa2RKVDhjZEtmNW9EWTJJTnFuazZFX0FDRnRJT1NQWHpDcGV6OXR3T0U?oc=5",
@@ -8962,6 +9198,19 @@
    "published": "2026-10-19T11:16:23+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzlkWmhlTDRnVl95dWJIRnBoaHVqLUxndF9Walc1LW5HSU1SNUxtSmZvWk53bnNQNWhvNkhoVDlGeExWTExLRGhYN2puNWxpVGdjWm9PR0FaeU5hcThNU09HNHlBSEJnWkQ5RFIyQTVXbVBhRlhzX21kVnBPd2Nrd1NJUTlCem4zM09ScDVIVmJrNG8xYjN2OEJiSUN4VHZHd3lWY2pEdzBnYjBRbnc?oc=5",
+   "title": "The Gambling Wire: NBA Tightens Betting Rules as Prediction Markets Challenge Missouri - Gambling Insider",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzlkWmhlTDRnVl95dWJIRnBoaHVqLUxndF9Walc1LW5HSU1SNUxtSmZvWk53bnNQNWhvNkhoVDlGeExWTExLRGhYN2puNWxpVGdjWm9PR0FaeU5hcThNU09HNHlBSEJnWkQ5RFIyQTVXbVBhRlhzX21kVnBPd2Nrd1NJUTlCem4zM09ScDVIVmJrNG8xYjN2OEJiSUN4VHZHd3lWY2pEdzBnYjBRbnc?oc=5",
+   "summary": "The Gambling Wire: NBA Tightens Betting Rules as Prediction Markets Challenge Missouri Gambling Insider",
+   "published": "2026-10-19T10:17:35+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
   },
   {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297",
@@ -9223,6 +9472,17 @@
    "topics": []
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWk2M05BclFGTGxodmFBQ3pQOG1VWGFfWW5ocnM3NEtqTG92QkxJeFdGTUE2LXZlNGJRcmN1RTlwZUxsVU81X0t5TkxkM003d19lQjhwM0cxdnpwSUJoXzc1cTFac0dfN0dEcVBKYjhERzk0azRzdS12d09mZ2lMUTVIOWRqWUVSelVyVkVraGhhc2VUejhhc0RONGxKRVBmVm5J?oc=5",
+   "title": "Character.AI owes Google and Big Law firms nearly $7M, court filings show - Business Insider",
+   "source": "Google News: 破产政策",
+   "category": "bankruptcy",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWk2M05BclFGTGxodmFBQ3pQOG1VWGFfWW5ocnM3NEtqTG92QkxJeFdGTUE2LXZlNGJRcmN1RTlwZUxsVU81X0t5TkxkM003d19lQjhwM0cxdnpwSUJoXzc1cTFac0dfN0dEcVBKYjhERzk0azRzdS12d09mZ2lMUTVIOWRqWUVSelVyVkVraGhhc2VUejhhc0RONGxKRVBmVm5J?oc=5",
+   "summary": "Character.AI owes Google and Big Law firms nearly $7M, court filings show Business Insider",
+   "published": "2026-10-13T21:49:00+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=perry-mehrling-rip",
    "title": "Perry Mehrling, RIP",
    "source": "Marginal Revolution",
@@ -9311,114 +9571,22 @@
    "published": "2026-10-12T18:22:31+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR291RmtNMEpDdHd6ZG1ZamZGVTd6T25oYjdIWEtYbHNjRHZLbktpZWJMeWl3WnRTcEJYNXQ0MTJGc1hKQmdQazFQTWRpY1Faakk4TlcxaTJDZTVfVHZJSlFXYlBFTnFlc2UyeDdzaUc1V05wQ0pNYW5PcDhQeFhFZDU1cjA0c2E4cWYtdERkN2FOYVgybHVn?oc=5",
-   "title": "The Gambling Wire: CFTC Clarifies Sports Betting Rules, NBA Seeks Prediction Market Data - Gambling Insider",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR291RmtNMEpDdHd6ZG1ZamZGVTd6T25oYjdIWEtYbHNjRHZLbktpZWJMeWl3WnRTcEJYNXQ0MTJGc1hKQmdQazFQTWRpY1Faakk4TlcxaTJDZTVfVHZJSlFXYlBFTnFlc2UyeDdzaUc1V05wQ0pNYW5PcDhQeFhFZDU1cjA0c2E4cWYtdERkN2FOYVgybHVn?oc=5",
-   "summary": "The Gambling Wire: CFTC Clarifies Sports Betting Rules, NBA Seeks Prediction Market Data Gambling Insider",
-   "published": "2026-10-12T12:39:46+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaWVNkajBlREdQS3ZmZ3lqUDlPU21LZVVFTDNfbXRwQ05sbnl2TklucjNxNUdsZjJlMk1iVzRHanZfN0dvdjZ2amFXZ3BSZGc3a25hdU9pdXI?oc=5",
-   "title": "U.S. Bankruptcy Filings Rise 11% Through First Nine Months of 2026 - www.tokenpost.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaWVNkajBlREdQS3ZmZ3lqUDlPU21LZVVFTDNfbXRwQ05sbnl2TklucjNxNUdsZjJlMk1iVzRHanZfN0dvdjZ2amFXZ3BSZGc3a25hdU9pdXI?oc=5",
-   "summary": "U.S. Bankruptcy Filings Rise 11% Through First Nine Months of 2026 www.tokenpost.com",
-   "published": "2026-10-12T12:22:18+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
-   "title": "Michael Woodford, Nobel Laureate",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
-   "summary": "I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying “monetary policy.” I think of him as the economist who put monetary policy and “monetarism” — […] The post Michael Woodford, Nobel Laureate appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-12T12:20:40+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
-   "title": "Robert E. Hall, Nobel Laureate",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
-   "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […] The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-12T11:59:30+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
-   "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
-   "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […] The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-12T10:06:32+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel",
-   "title": "Michael Woodford Wins Nobel",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel",
-   "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […] The post Michael Woodford Wins Nobel appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-12T10:05:58+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFBZbGFlZjlidXMtTjMxZk50dXZkMnZ6bWZSM3IyYnNXOGpxMThJWWRhakJHSC1KZGM1YU1TYTRpbW5pLWpvLXFaYnNJRXFNYmhLY1pDcWlPY1lWSnB5ZnM1VGpUY3RDSUNpcjRaZ083NF9GSFNOcHZrcXRYdmJIdDVocjdlZ01VVVp2cnVuODhSVU9nNHJVYUsxZm1zQ0VkUGRsVC04c2RhSmNIV3dkRGdhVUFFZHhuZVZoa0szM2VLQlhFUUNqZElENGZxRHRwYzRwWjlPUTJoYlNvdEdxVWRxdnB2algxUFBMeWhBbnFRRWt0U3RybjZR0gH_AUFVX3lxTE5fSUtVMjZuSkxqajBIb1FsQ0JKaGNGdEFZN3NVZDYxZzM3ODFzeS1FSmJhNFpTVnJXWUJLeWp5dUVvdFh1TFlzWjI4cmh4ZGs3NVY2RmUyUE9ORXRMMUV2VDRPX3RlSXRCbmlLdHJJRk43T3FSV3pEak5hUkk0Z01uUmlsb19fckRLOFNzRlk1ekpDd3dvRFRIY01YSzA1VXBNZy0tTEVxSXBiVnhEMS04TmRzemFyNUZBd25EdWVYVklObjVKdWc1VWxDMGcyaUxEWTBIUm8tV2NmVF80UjN6UWtMWXdhdzNuRnh6akhCempFMWxYT0VsV2R5WHEtVQ?oc=5",
-   "title": "US bankruptcy filings rise 11 per cent as inflation and debt costs deepen financial strains for families and businesses - Organiser Weekly",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVFBZbGFlZjlidXMtTjMxZk50dXZkMnZ6bWZSM3IyYnNXOGpxMThJWWRhakJHSC1KZGM1YU1TYTRpbW5pLWpvLXFaYnNJRXFNYmhLY1pDcWlPY1lWSnB5ZnM1VGpUY3RDSUNpcjRaZ083NF9GSFNOcHZrcXRYdmJIdDVocjdlZ01VVVp2cnVuODhSVU9nNHJVYUsxZm1zQ0VkUGRsVC04c2RhSmNIV3dkRGdhVUFFZHhuZVZoa0szM2VLQlhFUUNqZElENGZxRHRwYzRwWjlPUTJoYlNvdEdxVWRxdnB2algxUFBMeWhBbnFRRWt0U3RybjZR0gH_AUFVX3lxTE5fSUtVMjZuSkxqajBIb1FsQ0JKaGNGdEFZN3NVZDYxZzM3ODFzeS1FSmJhNFpTVnJXWUJLeWp5dUVvdFh1TFlzWjI4cmh4ZGs3NVY2RmUyUE9ORXRMMUV2VDRPX3RlSXRCbmlLdHJJRk43T3FSV3pEak5hUkk0Z01uUmlsb19fckRLOFNzRlk1ekpDd3dvRFRIY01YSzA1VXBNZy0tTEVxSXBiVnhEMS04TmRzemFyNUZBd25EdWVYVklObjVKdWc1VWxDMGcyaUxEWTBIUm8tV2NmVF80UjN6UWtMWXdhdzNuRnh6akhCempFMWxYT0VsV2R5WHEtVQ?oc=5",
-   "summary": "US bankruptcy filings rise 11 per cent as inflation and debt costs deepen financial strains for families and businesses Organiser Weekly",
-   "published": "2026-10-12T07:00:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
-   "title": "Okie-dokie, Casey Handmer edition",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
-   "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […] The post Okie-dokie, Casey Handmer edition appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-12T04:20:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586",
-   "title": "Sunday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586",
-   "summary": "1. Was Leonardo da Vinci Jewish? 2. Twenty things to listen to in classical music. 3. Ezra Klein and Arvind Narayanan on AI as a normal technology (NYT). 4. Gans and Acemoglu on AI. 5. The return of Audrey Niffenegger. 6. Podcasts as the new form of comedy? (New Yorker) 7. PC on Dostoyevsky. The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-10-11T16:17:20+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "http://www.uscourts.gov/data-news/judiciary-news/2026/10/22/bankruptcy-filings-increase-114-percent",
+   "title": "Bankruptcy Filings Increase 11.4 Percent",
+   "source": "US Courts",
+   "category": "",
+   "url": "http://www.uscourts.gov/data-news/judiciary-news/2026/10/22/bankruptcy-filings-increase-114-percent",
+   "summary": "Bankruptcy filings increased 11.4 percent in the 12-month period ending Sept. 30, 2026, compared with the previous year.",
+   "published": "2026-10-22T12:00:00+00:00",
+   "relevance": "high",
+   "topics": [
+    "破产/家庭财务"
+   ]
+  },
   {
    "id": "https://www.gao.gov/products/gao-27-107784",
    "title": "Service Member Records: DOD Needs to Address Improper and Delayed Releasing of Personnel and Health Information",
