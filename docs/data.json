@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-11T18:24:56.989603+00:00",
+ "generated_at": "2026-11-12T18:43:11.005064+00:00",
  "papers": [
+  {
+   "id": "10.1016/j.jue.2026.103927",
+   "title": "JUE insight: Pandemic-induced changes in service industry agglomeration economies",
+   "authors": "Naqun Huang, Jindong Pang, Yanmin Yang",
+   "journal": "Journal of Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.jue.2026.103927",
+   "url": "https://doi.org/10.1016/j.jue.2026.103927",
+   "abstract": "",
+   "published": "2026-11-12T11:46:48Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.regsciurbeco.2026.104300",
+   "title": "Low-end entry and high-end efficiency: Evidence from China’s real estate brokerage industry",
+   "authors": "Zhengyi ZHOU",
+   "journal": "Regional Science and Urban Economics",
+   "tier": "Urban",
+   "doi": "10.1016/j.regsciurbeco.2026.104300",
+   "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104300",
+   "abstract": "",
+   "published": "2026-11-12T00:03:59Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744916",
+   "title": "Beliefs and the Incentive Effects of Preferential College Admissions: Evidence from an Experiment and a Structural Model",
+   "authors": "Michela Maria Tincani, Fabian Kosse, Enrico Miglino",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744916",
+   "url": "https://doi.org/10.1086/744916",
+   "abstract": "",
+   "published": "2026-11-11T19:25:55Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744914",
+   "title": "Two-Sided Search in International Markets",
+   "authors": "Jonathan Eaton, David Jinkins, James Tybout, Daniel Yi Xu",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744914",
+   "url": "https://doi.org/10.1086/744914",
+   "abstract": "",
+   "published": "2026-11-11T19:25:55Z",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "10.1016/j.jdeveco.2026.103961",
    "title": "Banking on jobs: Impact of a workfare program on formal credit",
@@ -24,6 +76,19 @@
    "url": "https://doi.org/10.1016/j.jdeveco.2026.103965",
    "abstract": "",
    "published": "2026-11-11T00:11:14Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1093/qje/qjag057",
+   "title": "Labor Market Tightness and the Reversal of Inequality Trends in Germany",
+   "authors": "Christian Dustmann, Martin Friedrich, Carl Gergs, Uta Schönberg",
+   "journal": "Quarterly Journal of Economics",
+   "tier": "Top-5",
+   "doi": "10.1093/qje/qjag057",
+   "url": "https://doi.org/10.1093/qje/qjag057",
+   "abstract": "Abstract Germany experienced a sharp rise in wage inequality over the two decades leading up to the Great Recession. However, a remarkable trend reversal occurred in 2010—well before the introduction of the minimum wage in 2015—when wages at the bottom of the distribution began to grow more rapidly than those higher up. This paper attributes the reversal to an increasingly tight labor market after the Great Recession, supported by strong domestic demand, and operating through several interrelated and mutually reinforcing channels. Consistent with this hypothesis, job-to-job transition rates and between-job wage growth rose markedly after the recession, especially for workers at the lower rungs of the job ladder. Concurrently, workers increasingly moved from low-paying to higher-paying firms, compressing the worker-weighted distribution of firm wage premia. Tighter labor markets also reduced assortative matching between workers and firms, lowered the skill premium, and weakened firms’ monopsony power.",
+   "published": "2026-11-10T12:33:27Z",
    "relevance": "low",
    "topics": []
   },
@@ -147,6 +212,19 @@
    "topics": []
   },
   {
+   "id": "10.1093/restud/rdag123",
+   "title": "Competition in Markups: A Theory of the Lerner Index in Networks and General Equilibrium",
+   "authors": "Lingxuan Wu",
+   "journal": "Review of Economic Studies",
+   "tier": "Top-5",
+   "doi": "10.1093/restud/rdag123",
+   "url": "https://doi.org/10.1093/restud/rdag123",
+   "abstract": "Abstract What determines demand elasticities and markups in production networks, where firms' demand and pricing are interdependent? I propose competition in markups, an equilibrium concept in which firms choose markups, taking other firms' markups as given. In partial equilibrium with vertical structures, it links upstream demand elasticities to downstream characteristics without backward induction and ties pass-through to the curvature of final demand. In general equilibrium with arbitrary industry networks, it microfounds firms' demand elasticities and markups through their within-industry market shares and four industry-level network statistics---cycle, substitution in production, substitution in consumption, and consumer-price impact. Empirical analysis of Compustat firms from 1997 to 2019 confirms the predicted variation of industry demand elasticities and firm markups. Relative to an exogenous-markup benchmark, endogenous markups dampen the aggregate TFP impact of a productivity shock to an industry's largest firm by 6% for the median industry, and by up to 48% across industries.",
+   "published": "2026-11-05T12:46:46Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1016/j.jdeveco.2026.103960",
    "title": "The long-run returns to rural electrification: Evidence from a randomized experiment",
    "authors": "Matthieu Chemin, Thomas Kokossou",
@@ -257,14 +335,96 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20250051",
-   "title": "The Inflation Attention Threshold and Inflation Surges",
-   "authors": "Oliver Pfäuti",
+   "id": "10.1257/aer.20231684",
+   "title": "The Returns to Government R&D: Evidence from US Appropriations Shocks",
+   "authors": "Andrew J. Fieldhouse, Karel Mertens",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20250051",
-   "url": "https://doi.org/10.1257/aer.20250051",
-   "abstract": "The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)",
+   "doi": "10.1257/aer.20231684",
+   "url": "https://doi.org/10.1257/aer.20231684",
+   "abstract": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240766",
+   "title": "Union Bargaining Power and the Amenity-Wage Trade-Off",
+   "authors": "Lorenzo Lagos",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240766",
+   "url": "https://doi.org/10.1257/aer.20240766",
+   "abstract": "This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "medium",
+   "topics": [
+    "因果推断方法"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20231651",
+   "title": "Reproducible Aggregation of Sample-Split Statistics",
+   "authors": "David M. Ritzwoller, Joseph P. Romano",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231651",
+   "url": "https://doi.org/10.1257/aer.20231651",
+   "abstract": "Statistical inference is often simplified by sample splitting. This simplification comes at the cost of the introduction of randomness not native to the data. We propose a simple procedure for sequentially aggregating statistics constructed with multiple splits of the same sample. The user specifies a bound and a nominal error rate. If the procedure is implemented twice on the same data, the nominal error rate approximates the chance that the results differ by more than the bound. We illustrate the application of the procedure to several widely applied econometric methods. (JEL C20, C30, C52)",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.116.11.i",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.11.i",
+   "url": "https://doi.org/10.1257/aer.116.11.i",
+   "abstract": "",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241027",
+   "title": "Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan",
+   "authors": "Clare Balboni, Johannes Boehm, Mazhar Waseem",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241027",
+   "url": "https://doi.org/10.1257/aer.20241027",
+   "abstract": "This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20230448",
+   "title": "The Unequal Economic Consequences of Carbon Pricing",
+   "authors": "Diego R. Känzig",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20230448",
+   "url": "https://doi.org/10.1257/aer.20230448",
+   "abstract": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
+   "published": "2026-10-30T13:40:36Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20241561",
+   "title": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
+   "authors": "Eric Chyn, Kareem Haggag, Bryan A. Stuart",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20241561",
+   "url": "https://doi.org/10.1257/aer.20241561",
+   "abstract": "How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)",
    "published": "2026-10-30T13:40:36Z",
    "relevance": "low",
    "topics": []
@@ -283,32 +443,6 @@
    "topics": [
     "城市/区域"
    ]
-  },
-  {
-   "id": "10.1257/aer.116.11.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.11.i",
-   "url": "https://doi.org/10.1257/aer.116.11.i",
-   "abstract": "",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231684",
-   "title": "The Returns to Government R&D: Evidence from US Appropriations Shocks",
-   "authors": "Andrew J. Fieldhouse, Karel Mertens",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231684",
-   "url": "https://doi.org/10.1257/aer.20231684",
-   "abstract": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "low",
-   "topics": []
   },
   {
    "id": "10.1257/aer.20240179",
@@ -339,70 +473,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20241027",
-   "title": "Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan",
-   "authors": "Clare Balboni, Johannes Boehm, Mazhar Waseem",
+   "id": "10.1257/aer.20250051",
+   "title": "The Inflation Attention Threshold and Inflation Surges",
+   "authors": "Oliver Pfäuti",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20241027",
-   "url": "https://doi.org/10.1257/aer.20241027",
-   "abstract": "This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20241561",
-   "title": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
-   "authors": "Eric Chyn, Kareem Haggag, Bryan A. Stuart",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20241561",
-   "url": "https://doi.org/10.1257/aer.20241561",
-   "abstract": "How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231651",
-   "title": "Reproducible Aggregation of Sample-Split Statistics",
-   "authors": "David M. Ritzwoller, Joseph P. Romano",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231651",
-   "url": "https://doi.org/10.1257/aer.20231651",
-   "abstract": "Statistical inference is often simplified by sample splitting. This simplification comes at the cost of the introduction of randomness not native to the data. We propose a simple procedure for sequentially aggregating statistics constructed with multiple splits of the same sample. The user specifies a bound and a nominal error rate. If the procedure is implemented twice on the same data, the nominal error rate approximates the chance that the results differ by more than the bound. We illustrate the application of the procedure to several widely applied econometric methods. (JEL C20, C30, C52)",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240766",
-   "title": "Union Bargaining Power and the Amenity-Wage Trade-Off",
-   "authors": "Lorenzo Lagos",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240766",
-   "url": "https://doi.org/10.1257/aer.20240766",
-   "abstract": "This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)",
-   "published": "2026-10-30T13:40:36Z",
-   "relevance": "medium",
-   "topics": [
-    "因果推断方法"
-   ]
-  },
-  {
-   "id": "10.1257/aer.20230448",
-   "title": "The Unequal Economic Consequences of Carbon Pricing",
-   "authors": "Diego R. Känzig",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20230448",
-   "url": "https://doi.org/10.1257/aer.20230448",
-   "abstract": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
+   "doi": "10.1257/aer.20250051",
+   "url": "https://doi.org/10.1257/aer.20250051",
+   "abstract": "The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)",
    "published": "2026-10-30T13:40:36Z",
    "relevance": "low",
    "topics": []
@@ -423,6 +501,71 @@
    ]
   },
   {
+   "id": "10.1257/pol.20240830",
+   "title": "Can You Erase the Mark of a Criminal Record? Labor Market Impacts of Criminal Record Remediation",
+   "authors": "Amanda Agan, Andrew Garin, Dmitri Koustas, Alexandre Mas, Crystal S. Yang",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240830",
+   "url": "https://doi.org/10.1257/pol.20240830",
+   "abstract": "We investigate whether removing a previously obtained criminal record improves employment outcomes. We estimate the causal impact of criminal record remediation laws that have been widely enacted with the goal of improving employment opportunities for millions of individuals with records. We find consistent evidence that removing an existing record does not improve labor market outcomes, on average. A notable exception is participation in gig work through online platforms, which often screen workers based on their records but not their employment histories. The evidence is consistent with records initially scarring labor market trajectories in a way that is difficult to undo later. (JEL H76, J22, J23, K14, K42, M51)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240652",
+   "title": "China’s Nationwide CO 2 Emissions Trading System: A General Equilibrium Assessment",
+   "authors": "Lawrence H. Goulder, Xianling Long, Chenfei Qu, Da Zhang",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240652",
+   "url": "https://doi.org/10.1257/pol.20240652",
+   "abstract": "China’s CO 2 emissions trading system, the world’s largest, aims to significantly reduce CO 2 emissions. The system is a tradable performance standard (TPS), differing from cap and trade (C&T). We provide a dynamic general equilibrium assessment that uniquely considers institutional and fiscal features of China that affect policy costs and distributional impacts. Key findings: The TPS’s environmental benefits exceed its costs by a factor of five or more. Interactions with the fiscal system reduce or eliminate the TPS’s cost disadvantage relative to C&T. Introducing auctioning as a complementary source of allowance supply can reduce costs by 30 percent. (JEL D58, O13, P28, Q54, Q58)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240813",
+   "title": "Impacts of Corporate Tax Cuts on Firms and Workers: Evidence from Small Businesses",
+   "authors": "Yige Duan, Terry S. Moon",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240813",
+   "url": "https://doi.org/10.1257/pol.20240813",
+   "abstract": "This paper assesses the effects of corporate tax cuts on small firms and their workers. Following a reform in Quebec, Canada, firms receiving tax cuts expand and their workers’ earnings increase compared to workers and firms without tax cuts. We estimate that overall workers bear 35 percent of the tax burden, with larger incidence falling on those with ownership in the companies they work at, through increased profits. Additionally, workers across each tercile of the within-firm earnings distribution benefit from tax cuts, possibly because fair-wage concerns matter when after-tax profits rise due to close interactions among workers in small corporate environments. (JEL D22, H22, H25, J31, L25)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240586",
+   "title": "Childhood Health Shocks and the Intergenerational Transmission of Inequality",
+   "authors": "Tine M. Eriksen, Amanda P. Gaulke, Niels Skipper, Jannet Svensson, Peter R. Thingholm",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240586",
+   "url": "https://doi.org/10.1257/pol.20240586",
+   "abstract": "This paper documents a socioeconomic gradient in adult labor market penalties stemming from a single chronic and treatable childhood health shock in a country with universal access to health care. Using childhood onset type 1 diabetes, Danish administrative registry data, and causal forests, we estimate substantial variation in the employment and earnings penalties at age 30. These penalties vary systematically with parental income and maternal educational attainment. Our findings help explain the income-health gradient and have important implications for policy discussions related to the design of health care systems. (JEL H51, I12, I13, I18, J16, J23, J31)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240582",
+   "title": "The Unintended Consequences of Academic Leniency",
+   "authors": "A. Brooks Bowden, Viviana Rodriguez, Zach Weingarten",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240582",
+   "url": "https://doi.org/10.1257/pol.20240582",
+   "abstract": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant reductions in effort among lower ability students based on lower attendance and lower numerical grades. These heterogeneous effects compound and exacerbate gaps in engagement and achievement throughout high school, ultimately worsening deficits in human capital accumulation as measured by ACT scores. (JEL H75, I21, I24, I28, J15)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "10.1257/pol.20240685",
    "title": "The Role of Race in the Legal Representation of Low-Income Defendants",
    "authors": "Maya Mikdash, Suhyeon Oh",
@@ -436,30 +579,45 @@
    "topics": []
   },
   {
-   "id": "10.1257/pol.20240837",
-   "title": "A Matter of Time? Measuring Effects of Public Schooling Expansions on Families",
-   "authors": "Chloe R. Gibbs, Jocelyn Wikle, Riley Wilson",
+   "id": "10.1257/pol.20240883",
+   "title": "How Effective Are R&D Tax Incentives? Reconciling the Micro and Macro Evidence",
+   "authors": "Silvia Appelt, Matěj Bajgar, Chiara Criscuolo, Fernando Galindo-Rueda",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240837",
-   "url": "https://doi.org/10.1257/pol.20240837",
-   "abstract": "We leverage pronounced changes in the availability of public schooling for young children—through duration expansions to the kindergarten day—to better understand how an implicit childcare subsidy affects mothers and families. Exploiting full-day kindergarten variation across place and time from 1992 through 2022 and novel data on state-level policy changes, combined with a comparison of children of typical kindergarten-age to older children, we measure effects on parental labor supply and family childcare expenses. Full-day kindergarten expansions were responsible for as much as 24 percent of the growth in employment of mothers with kindergarten-age children in this time frame. (JEL H75, I21, J12, J13, J16, J22)",
+   "doi": "10.1257/pol.20240883",
+   "url": "https://doi.org/10.1257/pol.20240883",
+   "abstract": "Recent firm-level studies find R&D tax incentives to be much more effective at stimulating firms’ R&D investment than aggregate analyses suggest. Based on a distributed analysis of official R&D survey and administrative tax relief microdata for 19 OECD countries, we show that two factors can reconcile these contrasting results. First, the limited uptake of R&D tax incentives in most countries makes aggregate studies underestimate the effectiveness of R&D tax incentives. Secondly, R&D tax incentives are (much) less effective for large and R&D-intensive firms, which account for a small share of R&D-performing firms but most aggregate R&D tax relief. (JEL D22, H25, H32, L25, O31)",
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
   },
   {
-   "id": "10.1257/pol.20240806",
-   "title": "The Effect of Deactivating Facebook and Instagram on Users’ Emotional State",
-   "authors": "Hunt Allcott, Matthew Gentzkow, Benjamin Wittenbrink, Winter Mason, Arjun Wilkins, Natalie Jomini Stroud, Joshua A. Tucker, ",
+   "id": "10.1257/pol.20250089",
+   "title": "Inclusive Teaching: Spotting Social Isolation in the Classroom",
+   "authors": "Sule Alan, Michela Carlana, Marinella Leone",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240806",
-   "url": "https://doi.org/10.1257/pol.20240806",
-   "abstract": "We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 US election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests that the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25. (JEL D12, D91, I31, J16, L82)",
+   "doi": "10.1257/pol.20250089",
+   "url": "https://doi.org/10.1257/pol.20250089",
+   "abstract": "We evaluate an intervention aimed at addressing social isolation in classrooms. The treatment provides teachers with their students’ social networks and information on developmental risks associated with social exclusion. Using friendship data and incentive-compatible measures, we find that the intervention reduces social isolation and antisocial behavior but does not increase prosocial behavior. Lower antisocial behavior enhances economic efficiency, reflected in higher average student payoffs and reduced inequality. Our findings highlight the personal and communal benefits of addressing social exclusion and antisocial peer dynamics in schools. (JEL D91, I21, I24, I28, J13, Z13)",
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240814",
+   "title": "Prioritizing Benefit? How Low-Income Patients Respond to Prescription Cost Sharing",
+   "authors": "Christopher Hollrah",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240814",
+   "url": "https://doi.org/10.1257/pol.20240814",
+   "abstract": "This paper measures how cost sharing impacts older low-income patients, exploiting a discontinuity in eligibility for a prescription drug subsidy for those who lose access to the Medicaid-linked program. Higher drug prices resulting from subsidy loss lead to a 40 percent reduction in prescription expenditures, driven by a 16 percent quantity reduction of prescriptions filled. Patients economize on purchases of higher-priced drugs, irrespective of their health benefits. For example, patients reduce insulin purchases by 35 percent. There is no evidence that cost sharing prompts switching from branded drugs to generics. This behavior suggests that cost sharing reduces prescription accessibility without enhancing cost-effectiveness. (JEL D24, I11, I18, I32, I38, L65)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "medium",
+   "topics": [
+    "公共经济"
+   ]
   },
   {
    "id": "10.1257/pol.20250324",
@@ -490,14 +648,27 @@
    ]
   },
   {
-   "id": "10.1257/pol.20240889",
-   "title": "The Pass-Through of Retail Crime",
-   "authors": "Carl Hase, Johannes Kasinger",
+   "id": "10.1257/pol.20240837",
+   "title": "A Matter of Time? Measuring Effects of Public Schooling Expansions on Families",
+   "authors": "Chloe R. Gibbs, Jocelyn Wikle, Riley Wilson",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240889",
-   "url": "https://doi.org/10.1257/pol.20240889",
-   "abstract": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not driven by short-to-medium-term demand changes but is consistent with crime-related cost shocks. Effects are larger for independent stores and less concentrated markets. We estimate crime imposes a 1 percent “hidden” unit tax on affected stores, implying $30.7 million in additional social costs, primarily borne by consumers. (JEL D22, H22, H76, K42, L81)",
+   "doi": "10.1257/pol.20240837",
+   "url": "https://doi.org/10.1257/pol.20240837",
+   "abstract": "We leverage pronounced changes in the availability of public schooling for young children—through duration expansions to the kindergarten day—to better understand how an implicit childcare subsidy affects mothers and families. Exploiting full-day kindergarten variation across place and time from 1992 through 2022 and novel data on state-level policy changes, combined with a comparison of children of typical kindergarten-age to older children, we measure effects on parental labor supply and family childcare expenses. Full-day kindergarten expansions were responsible for as much as 24 percent of the growth in employment of mothers with kindergarten-age children in this time frame. (JEL H75, I21, J12, J13, J16, J22)",
+   "published": "2026-10-29T13:24:18Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/pol.20240806",
+   "title": "The Effect of Deactivating Facebook and Instagram on Users’ Emotional State",
+   "authors": "Hunt Allcott, Matthew Gentzkow, Benjamin Wittenbrink, Winter Mason, Arjun Wilkins, Natalie Jomini Stroud, Joshua A. Tucker, ",
+   "journal": "AEJ: Economic Policy",
+   "tier": "Public",
+   "doi": "10.1257/pol.20240806",
+   "url": "https://doi.org/10.1257/pol.20240806",
+   "abstract": "We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 US election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests that the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25. (JEL D12, D91, I31, J16, L82)",
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
@@ -511,58 +682,6 @@
    "doi": "10.1257/pol.18.4.i",
    "url": "https://doi.org/10.1257/pol.18.4.i",
    "abstract": "",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240586",
-   "title": "Childhood Health Shocks and the Intergenerational Transmission of Inequality",
-   "authors": "Tine M. Eriksen, Amanda P. Gaulke, Niels Skipper, Jannet Svensson, Peter R. Thingholm",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240586",
-   "url": "https://doi.org/10.1257/pol.20240586",
-   "abstract": "This paper documents a socioeconomic gradient in adult labor market penalties stemming from a single chronic and treatable childhood health shock in a country with universal access to health care. Using childhood onset type 1 diabetes, Danish administrative registry data, and causal forests, we estimate substantial variation in the employment and earnings penalties at age 30. These penalties vary systematically with parental income and maternal educational attainment. Our findings help explain the income-health gradient and have important implications for policy discussions related to the design of health care systems. (JEL H51, I12, I13, I18, J16, J23, J31)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20250089",
-   "title": "Inclusive Teaching: Spotting Social Isolation in the Classroom",
-   "authors": "Sule Alan, Michela Carlana, Marinella Leone",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20250089",
-   "url": "https://doi.org/10.1257/pol.20250089",
-   "abstract": "We evaluate an intervention aimed at addressing social isolation in classrooms. The treatment provides teachers with their students’ social networks and information on developmental risks associated with social exclusion. Using friendship data and incentive-compatible measures, we find that the intervention reduces social isolation and antisocial behavior but does not increase prosocial behavior. Lower antisocial behavior enhances economic efficiency, reflected in higher average student payoffs and reduced inequality. Our findings highlight the personal and communal benefits of addressing social exclusion and antisocial peer dynamics in schools. (JEL D91, I21, I24, I28, J13, Z13)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240582",
-   "title": "The Unintended Consequences of Academic Leniency",
-   "authors": "A. Brooks Bowden, Viviana Rodriguez, Zach Weingarten",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240582",
-   "url": "https://doi.org/10.1257/pol.20240582",
-   "abstract": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant reductions in effort among lower ability students based on lower attendance and lower numerical grades. These heterogeneous effects compound and exacerbate gaps in engagement and achievement throughout high school, ultimately worsening deficits in human capital accumulation as measured by ACT scores. (JEL H75, I21, I24, I28, J15)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240813",
-   "title": "Impacts of Corporate Tax Cuts on Firms and Workers: Evidence from Small Businesses",
-   "authors": "Yige Duan, Terry S. Moon",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240813",
-   "url": "https://doi.org/10.1257/pol.20240813",
-   "abstract": "This paper assesses the effects of corporate tax cuts on small firms and their workers. Following a reform in Quebec, Canada, firms receiving tax cuts expand and their workers’ earnings increase compared to workers and firms without tax cuts. We estimate that overall workers bear 35 percent of the tax burden, with larger incidence falling on those with ownership in the companies they work at, through increased profits. Additionally, workers across each tercile of the within-firm earnings distribution benefit from tax cuts, possibly because fair-wage concerns matter when after-tax profits rise due to close interactions among workers in small corporate environments. (JEL D22, H22, H25, J31, L25)",
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
@@ -583,14 +702,14 @@
    ]
   },
   {
-   "id": "10.1257/pol.20240830",
-   "title": "Can You Erase the Mark of a Criminal Record? Labor Market Impacts of Criminal Record Remediation",
-   "authors": "Amanda Agan, Andrew Garin, Dmitri Koustas, Alexandre Mas, Crystal S. Yang",
+   "id": "10.1257/pol.20240889",
+   "title": "The Pass-Through of Retail Crime",
+   "authors": "Carl Hase, Johannes Kasinger",
    "journal": "AEJ: Economic Policy",
    "tier": "Public",
-   "doi": "10.1257/pol.20240830",
-   "url": "https://doi.org/10.1257/pol.20240830",
-   "abstract": "We investigate whether removing a previously obtained criminal record improves employment outcomes. We estimate the causal impact of criminal record remediation laws that have been widely enacted with the goal of improving employment opportunities for millions of individuals with records. We find consistent evidence that removing an existing record does not improve labor market outcomes, on average. A notable exception is participation in gig work through online platforms, which often screen workers based on their records but not their employment histories. The evidence is consistent with records initially scarring labor market trajectories in a way that is difficult to undo later. (JEL H76, J22, J23, K14, K42, M51)",
+   "doi": "10.1257/pol.20240889",
+   "url": "https://doi.org/10.1257/pol.20240889",
+   "abstract": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not driven by short-to-medium-term demand changes but is consistent with crime-related cost shocks. Effects are larger for independent stores and less concentrated markets. We estimate crime imposes a 1 percent “hidden” unit tax on affected stores, implying $30.7 million in additional social costs, primarily borne by consumers. (JEL D22, H22, H76, K42, L81)",
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
@@ -607,47 +726,6 @@
    "published": "2026-10-29T13:24:18Z",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240652",
-   "title": "China’s Nationwide CO 2 Emissions Trading System: A General Equilibrium Assessment",
-   "authors": "Lawrence H. Goulder, Xianling Long, Chenfei Qu, Da Zhang",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240652",
-   "url": "https://doi.org/10.1257/pol.20240652",
-   "abstract": "China’s CO 2 emissions trading system, the world’s largest, aims to significantly reduce CO 2 emissions. The system is a tradable performance standard (TPS), differing from cap and trade (C&T). We provide a dynamic general equilibrium assessment that uniquely considers institutional and fiscal features of China that affect policy costs and distributional impacts. Key findings: The TPS’s environmental benefits exceed its costs by a factor of five or more. Interactions with the fiscal system reduce or eliminate the TPS’s cost disadvantage relative to C&T. Introducing auctioning as a complementary source of allowance supply can reduce costs by 30 percent. (JEL D58, O13, P28, Q54, Q58)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240883",
-   "title": "How Effective Are R&D Tax Incentives? Reconciling the Micro and Macro Evidence",
-   "authors": "Silvia Appelt, Matěj Bajgar, Chiara Criscuolo, Fernando Galindo-Rueda",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240883",
-   "url": "https://doi.org/10.1257/pol.20240883",
-   "abstract": "Recent firm-level studies find R&D tax incentives to be much more effective at stimulating firms’ R&D investment than aggregate analyses suggest. Based on a distributed analysis of official R&D survey and administrative tax relief microdata for 19 OECD countries, we show that two factors can reconcile these contrasting results. First, the limited uptake of R&D tax incentives in most countries makes aggregate studies underestimate the effectiveness of R&D tax incentives. Secondly, R&D tax incentives are (much) less effective for large and R&D-intensive firms, which account for a small share of R&D-performing firms but most aggregate R&D tax relief. (JEL D22, H25, H32, L25, O31)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/pol.20240814",
-   "title": "Prioritizing Benefit? How Low-Income Patients Respond to Prescription Cost Sharing",
-   "authors": "Christopher Hollrah",
-   "journal": "AEJ: Economic Policy",
-   "tier": "Public",
-   "doi": "10.1257/pol.20240814",
-   "url": "https://doi.org/10.1257/pol.20240814",
-   "abstract": "This paper measures how cost sharing impacts older low-income patients, exploiting a discontinuity in eligibility for a prescription drug subsidy for those who lose access to the Medicaid-linked program. Higher drug prices resulting from subsidy loss lead to a 40 percent reduction in prescription expenditures, driven by a 16 percent quantity reduction of prescriptions filled. Patients economize on purchases of higher-priced drugs, irrespective of their health benefits. For example, patients reduce insulin purchases by 35 percent. There is no evidence that cost sharing prompts switching from branded drugs to generics. This behavior suggests that cost sharing reduces prescription accessibility without enhancing cost-effectiveness. (JEL D24, I11, I18, I32, I38, L65)",
-   "published": "2026-10-29T13:24:18Z",
-   "relevance": "medium",
-   "topics": [
-    "公共经济"
-   ]
   },
   {
    "id": "10.1016/j.jpubeco.2026.105814",
@@ -717,19 +795,6 @@
    ]
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105810",
-   "title": "Pricing climate risks: Evidence from wildfires and municipal bonds",
-   "authors": "Woongchan Jeon, Lint Barrage, Kieran James Walsh",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105810",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105810",
-   "abstract": "",
-   "published": "2026-10-27T11:52:35Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105805",
    "title": "The impact of preference programs in public procurement: Evidence from veteran set-asides",
    "authors": "Rodrigo Carril, Audrey Guo",
@@ -737,6 +802,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105805",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105805",
+   "abstract": "",
+   "published": "2026-10-27T11:52:35Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105810",
+   "title": "Pricing climate risks: Evidence from wildfires and municipal bonds",
+   "authors": "Woongchan Jeon, Lint Barrage, Kieran James Walsh",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105810",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105810",
    "abstract": "",
    "published": "2026-10-27T11:52:35Z",
    "relevance": "low",
@@ -849,19 +927,6 @@
    ]
   },
   {
-   "id": "10.1086/744595",
-   "title": "Recent Referees",
-   "authors": "",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744595",
-   "url": "https://doi.org/10.1086/744595",
-   "abstract": "",
-   "published": "2026-10-21T17:57:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/744299",
    "title": "JPE Turnaround Times",
    "authors": "",
@@ -869,6 +934,19 @@
    "tier": "Top-5",
    "doi": "10.1086/744299",
    "url": "https://doi.org/10.1086/744299",
+   "abstract": "",
+   "published": "2026-10-21T17:57:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744595",
+   "title": "Recent Referees",
+   "authors": "",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744595",
+   "url": "https://doi.org/10.1086/744595",
    "abstract": "",
    "published": "2026-10-21T17:57:51Z",
    "relevance": "low",
@@ -1113,19 +1191,6 @@
    "topics": []
   },
   {
-   "id": "10.1016/j.jpubeco.2026.105802",
-   "title": "Does the United States spend enough on public schools? Evidence from a market-based efficiency test",
-   "authors": "Patrick J. Bayer, Peter Q. Blair, Kenneth Whaley",
-   "journal": "Journal of Public Economics",
-   "tier": "Public",
-   "doi": "10.1016/j.jpubeco.2026.105802",
-   "url": "https://doi.org/10.1016/j.jpubeco.2026.105802",
-   "abstract": "",
-   "published": "2026-10-16T14:24:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1016/j.jpubeco.2026.105803",
    "title": "How do firms respond to parental leave absences?",
    "authors": "Anne Ardila Brenøe, Urša Krenk, Andreas Steinhauer, Josef Zweimüller",
@@ -1133,6 +1198,19 @@
    "tier": "Public",
    "doi": "10.1016/j.jpubeco.2026.105803",
    "url": "https://doi.org/10.1016/j.jpubeco.2026.105803",
+   "abstract": "",
+   "published": "2026-10-16T14:24:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1016/j.jpubeco.2026.105802",
+   "title": "Does the United States spend enough on public schools? Evidence from a market-based efficiency test",
+   "authors": "Patrick J. Bayer, Peter Q. Blair, Kenneth Whaley",
+   "journal": "Journal of Public Economics",
+   "tier": "Public",
+   "doi": "10.1016/j.jpubeco.2026.105802",
+   "url": "https://doi.org/10.1016/j.jpubeco.2026.105802",
    "abstract": "",
    "published": "2026-10-16T14:24:51Z",
    "relevance": "low",
@@ -1152,19 +1230,6 @@
    "topics": []
   },
   {
-   "id": "10.1086/744504",
-   "title": "Closing Ranks: Organized Labor and Immigration",
-   "authors": "Carlo Medici",
-   "journal": "Journal of Political Economy",
-   "tier": "Top-5",
-   "doi": "10.1086/744504",
-   "url": "https://doi.org/10.1086/744504",
-   "abstract": "",
-   "published": "2026-10-15T18:25:25Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1086/744505",
    "title": "A Theory of Economic Coercion and Fragmentation",
    "authors": "Christopher Clayton, Matteo Maggiori, Jesse Schreger",
@@ -1172,6 +1237,19 @@
    "tier": "Top-5",
    "doi": "10.1086/744505",
    "url": "https://doi.org/10.1086/744505",
+   "abstract": "",
+   "published": "2026-10-15T18:25:25Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1086/744504",
+   "title": "Closing Ranks: Organized Labor and Immigration",
+   "authors": "Carlo Medici",
+   "journal": "Journal of Political Economy",
+   "tier": "Top-5",
+   "doi": "10.1086/744504",
+   "url": "https://doi.org/10.1086/744504",
    "abstract": "",
    "published": "2026-10-15T18:25:25Z",
    "relevance": "low",
@@ -1589,40 +1667,14 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20231368",
-   "title": "Racial Promotion Gaps",
-   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "id": "10.1257/aer.20231417",
+   "title": "Social Push and the Direction of Innovation",
+   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
    "journal": "American Economic Review",
    "tier": "Top-5",
-   "doi": "10.1257/aer.20231368",
-   "url": "https://doi.org/10.1257/aer.20231368",
-   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20240651",
-   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
-   "authors": "Daniel Chen",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20240651",
-   "url": "https://doi.org/10.1257/aer.20240651",
-   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20250206",
-   "title": "Screening and Segmenting: A Consumer Surplus Perspective",
-   "authors": "Dirk Bergemann, Tibor Heumann, Michael C. Wang",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250206",
-   "url": "https://doi.org/10.1257/aer.20250206",
-   "abstract": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
+   "doi": "10.1257/aer.20231417",
+   "url": "https://doi.org/10.1257/aer.20231417",
+   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -1641,34 +1693,6 @@
    "topics": []
   },
   {
-   "id": "10.1257/aer.20250115",
-   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
-   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20250115",
-   "url": "https://doi.org/10.1257/aer.20250115",
-   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "medium",
-   "topics": [
-    "城市/区域"
-   ]
-  },
-  {
-   "id": "10.1257/aer.116.10.i",
-   "title": "Front Matter",
-   "authors": "",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.116.10.i",
-   "url": "https://doi.org/10.1257/aer.116.10.i",
-   "abstract": "",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
    "id": "10.1257/aer.20240393",
    "title": "Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution",
    "authors": "Hans-Joachim Voth, Bruno Caprettini, Alex Trew",
@@ -1677,19 +1701,6 @@
    "doi": "10.1257/aer.20240393",
    "url": "https://doi.org/10.1257/aer.20240393",
    "abstract": "We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)",
-   "published": "2026-10-01T12:41:51Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1257/aer.20231417",
-   "title": "Social Push and the Direction of Innovation",
-   "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
-   "journal": "American Economic Review",
-   "tier": "Top-5",
-   "doi": "10.1257/aer.20231417",
-   "url": "https://doi.org/10.1257/aer.20231417",
-   "abstract": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -1716,6 +1727,73 @@
    "doi": "10.1257/aer.20251879",
    "url": "https://doi.org/10.1257/aer.20251879",
    "abstract": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20250115",
+   "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+   "authors": "Benjamin Goldman, Jamie Gracie, Sonya R. Porter",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250115",
+   "url": "https://doi.org/10.1257/aer.20250115",
+   "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "medium",
+   "topics": [
+    "城市/区域"
+   ]
+  },
+  {
+   "id": "10.1257/aer.20250206",
+   "title": "Screening and Segmenting: A Consumer Surplus Perspective",
+   "authors": "Dirk Bergemann, Tibor Heumann, Michael C. Wang",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20250206",
+   "url": "https://doi.org/10.1257/aer.20250206",
+   "abstract": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20240651",
+   "title": "A Model of the Attention Economy: Data, Platforms, and Discovery",
+   "authors": "Daniel Chen",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20240651",
+   "url": "https://doi.org/10.1257/aer.20240651",
+   "abstract": "This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.116.10.i",
+   "title": "Front Matter",
+   "authors": "",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.116.10.i",
+   "url": "https://doi.org/10.1257/aer.116.10.i",
+   "abstract": "",
+   "published": "2026-10-01T12:41:51Z",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "10.1257/aer.20231368",
+   "title": "Racial Promotion Gaps",
+   "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+   "journal": "American Economic Review",
+   "tier": "Top-5",
+   "doi": "10.1257/aer.20231368",
+   "url": "https://doi.org/10.1257/aer.20231368",
+   "abstract": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
    "published": "2026-10-01T12:41:51Z",
    "relevance": "low",
    "topics": []
@@ -1801,13 +1879,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/743929",
-   "title": "JPE Turnaround Times",
+   "id": "10.1086/744158",
+   "title": "Front Matter",
    "authors": "",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/743929",
-   "url": "https://doi.org/10.1086/743929",
+   "doi": "10.1086/744158",
+   "url": "https://doi.org/10.1086/744158",
    "abstract": "",
    "published": "2026-09-28T17:05:46Z",
    "relevance": "low",
@@ -1827,13 +1905,13 @@
    "topics": []
   },
   {
-   "id": "10.1086/744158",
-   "title": "Front Matter",
+   "id": "10.1086/743929",
+   "title": "JPE Turnaround Times",
    "authors": "",
    "journal": "Journal of Political Economy",
    "tier": "Top-5",
-   "doi": "10.1086/744158",
-   "url": "https://doi.org/10.1086/744158",
+   "doi": "10.1086/743929",
+   "url": "https://doi.org/10.1086/743929",
    "abstract": "",
    "published": "2026-09-28T17:05:46Z",
    "relevance": "low",
@@ -2682,45 +2760,6 @@
    "url": "https://doi.org/10.3982/ecta23242",
    "abstract": "We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.",
    "published": "2026-09-14T11:53:17Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jdeveco.2026.103943",
-   "title": "Perceived need and measured well-being: How well do subjective rankings capture relative poverty?",
-   "authors": "Immacolata Ranucci, Kibrom A. Abay, Luca Tiberti",
-   "journal": "Journal of Development Economics",
-   "tier": "Development",
-   "doi": "10.1016/j.jdeveco.2026.103943",
-   "url": "https://doi.org/10.1016/j.jdeveco.2026.103943",
-   "abstract": "",
-   "published": "2026-09-13T06:01:57Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jinteco.2026.104335",
-   "title": "Global financial spillovers of Chinese macroeconomic surprises",
-   "authors": "Camila Gutierrez, Javier Turen, Alejandro Vicondoa",
-   "journal": "Journal of International Economics",
-   "tier": "International",
-   "doi": "10.1016/j.jinteco.2026.104335",
-   "url": "https://doi.org/10.1016/j.jinteco.2026.104335",
-   "abstract": "",
-   "published": "2026-09-13T06:01:05Z",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "10.1016/j.jue.2026.103913",
-   "title": "Estimating drivers’ time cost function for California’s freeway system",
-   "authors": "Jinwon Kim, Jucheol Moon, Dongyun Yang",
-   "journal": "Journal of Urban Economics",
-   "tier": "Urban",
-   "doi": "10.1016/j.jue.2026.103913",
-   "url": "https://doi.org/10.1016/j.jue.2026.103913",
-   "abstract": "",
-   "published": "2026-09-12T19:36:47Z",
    "relevance": "low",
    "topics": []
   }
@@ -9520,6 +9559,74 @@
  ],
  "news": [
   {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
+   "title": "Thursday assorted links",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
+   "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French person believes there are 6.4 workers for every retiree. The real number is about 1.8.” 4. Sulfuric acid as a basic […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-12T17:21:52+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers",
+   "title": "The Everywhere Rent Seekers",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers",
+   "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the Everywhere Millionaires, the dentists, the car dealers, the […] The post The Everywhere Rent Seekers appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-12T12:18:57+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
+   "title": "USG assets are worth less than Arnold Kling had thought",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
+   "summary": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth less than Arnold Kling had thought appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-12T08:01:35+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao",
+   "title": "My excellent Conversation with Terence Tao",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao",
+   "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into why mathematical history gets stripped out of classrooms, whether abstract math is a lottery ticket or […] The post My excellent Conversation with Terence Tao appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-12T05:44:38+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip",
+   "title": "Richard Posner, RIP…",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip",
+   "summary": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-11T22:57:43+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins",
+   "title": "Experimentally validated digital twins",
+   "source": "Marginal Revolution",
+   "category": "econ",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins",
+   "summary": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on […] The post Experimentally validated digital twins appeared first on Marginal REVOLUTION .",
+   "published": "2026-11-11T19:12:56+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
    "id": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579",
    "title": "Wednesday assorted links",
    "source": "Marginal Revolution",
@@ -9724,6 +9831,19 @@
    "published": "2026-11-09T11:35:02+00:00",
    "relevance": "low",
    "topics": []
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJoMGtkQkc1WGpFYndxTHhqLUNhQ2oxdzc2amJUc2JhZXdLN2QyU3pnRjl6RVg0V3VJZGNQR1JYTFh2dUt0elVHMXVkb3oxeldYOGhrNk9XbF85OTY1MldBbnUzcGtacm9RWkd0eTlZcmN3QlJ4cWhINC1GeXF5YUo1MUxfdW1ZSXpwUlpOUWNSaGM?oc=5",
+   "title": "New commission opens review into whether UK needs a new Gambling Act - iGaming Business",
+   "source": "Google News: 赌博监管",
+   "category": "gambling",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJoMGtkQkc1WGpFYndxTHhqLUNhQ2oxdzc2amJUc2JhZXdLN2QyU3pnRjl6RVg0V3VJZGNQR1JYTFh2dUt0elVHMXVkb3oxeldYOGhrNk9XbF85OTY1MldBbnUzcGtacm9RWkd0eTlZcmN3QlJ4cWhINC1GeXF5YUo1MUxfdW1ZSXpwUlpOUWNSaGM?oc=5",
+   "summary": "New commission opens review into whether UK needs a new Gambling Act iGaming Business",
+   "published": "2026-11-09T10:50:55+00:00",
+   "relevance": "high",
+   "topics": [
+    "赌博/博彩"
+   ]
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmFWNU5xV1VjMXNDX0h2SHo2VjNGM2Jab1dmYXZXajBIdWRPeFc3R0tWRm1oSDR2U193S0xkQzNKckl2MEFCZFZSaloyZzlxRTU4MGVxWlk4ZnYzYUhzYTA0OFZiVjlrMUVZdTBJRFV6UU5JZE1rUV8zMVcyN3M2Q3FLNmlQNGRQelFVNHBR?oc=5",
@@ -10169,90 +10289,31 @@
    "published": "2026-11-02T19:44:38+00:00",
    "relevance": "low",
    "topics": []
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWJFdklCN01Qb0NZaW9PZW5mSUpYaXY5VkpoWGM2SzkyM2RrWndqN3J2R2VfdVJ5UW9zSEdzZnpTT3U5RGdQcnlFMFp5Tmg2MDFkSm10Q0xRc05kVFo4eHVYczl6Q0htV09VLUV4Unl6bHk4U0Y1QWI4VlJRZlAweWhOOThVSnkwbFlSOElNVFhOTVNkN3Z0Q1lIVm5UaUxjTWUzM0owWVVvbENTZ0Y1TFJLeWtpN3gwVlNfb25R?oc=5",
-   "title": "Melbourne Cup betting rules show UK the way to prevent illegal gambling boom | Greg Wood - The Guardian",
-   "source": "Google News: 赌博监管",
-   "category": "gambling",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWJFdklCN01Qb0NZaW9PZW5mSUpYaXY5VkpoWGM2SzkyM2RrWndqN3J2R2VfdVJ5UW9zSEdzZnpTT3U5RGdQcnlFMFp5Tmg2MDFkSm10Q0xRc05kVFo4eHVYczl6Q0htV09VLUV4Unl6bHk4U0Y1QWI4VlJRZlAweWhOOThVSnkwbFlSOElNVFhOTVNkN3Z0Q1lIVm5UaUxjTWUzM0owWVVvbENTZ0Y1TFJLeWtpN3gwVlNfb25R?oc=5",
-   "summary": "Melbourne Cup betting rules show UK the way to prevent illegal gambling boom | Greg Wood The Guardian",
-   "published": "2026-11-02T18:28:00+00:00",
-   "relevance": "high",
-   "topics": [
-    "赌博/博彩"
-   ]
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYnRQS3c0SlRqQTRWYzdCVjBXOGhCMll6MjE2N3RPZGNGNGZnZFBRMWpQOEgtcXlHQnZyNlFRSVktLVpPV3ppdG9sbFBrWkQzY3otMERtT1dHY3dFbzMzZzNnZzNWcnJjam9jaGpydkdna216OVJIS1lBemloSXM?oc=5",
-   "title": "Bankruptcy Filings Continue to Rise - iowafarmbureau.com",
-   "source": "Google News: 破产政策",
-   "category": "bankruptcy",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYnRQS3c0SlRqQTRWYzdCVjBXOGhCMll6MjE2N3RPZGNGNGZnZFBRMWpQOEgtcXlHQnZyNlFRSVktLVpPV3ppdG9sbFBrWkQzY3otMERtT1dHY3dFbzMzZzNnZzNWcnJjam9jaGpydkdna216OVJIS1lBemloSXM?oc=5",
-   "summary": "Bankruptcy Filings Continue to Rise iowafarmbureau.com",
-   "published": "2026-11-02T17:31:37+00:00",
-   "relevance": "high",
-   "topics": [
-    "破产/家庭财务"
-   ]
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
-   "title": "Monday assorted links",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
-   "summary": "1. Why is it now so common to be asked about your food allergies? (GPT Pro answer) 2. Training for alignment, applies principal-agent theory. 3. Do people offload empathy when they think AI can give it instead? 4. The Wallace line. 5. AI can draw blueprints now. 6. Ed Glaeser review of the new book […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
-   "published": "2026-11-02T17:13:35+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://basisonline.org/2026/11/02/welcome-special-series-addiction-affected-others/",
-   "title": "Welcome to the Special Series on Addiction and Affected Others",
-   "source": "The BASIS (哈佛赌博研究中心)",
-   "category": "gambling",
-   "url": "https://basisonline.org/2026/11/02/welcome-special-series-addiction-affected-others/",
-   "summary": "Like a stone dropped into a pond, one person’s addiction can send ripples through the lives of those around them. These affected are most often family members such as children, parents, or partners, but can also be close friends or anyone with a meaningful relationship with the person experiencing addiction. The Stress-Strain-Coping-Support model offers a […]",
-   "published": "2026-11-02T16:40:16+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
-   "title": "Expensive Pharmaceuticals for Targeted Diseases",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
-   "summary": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special issues that arise with targeted drugs that cure. We are going to get many more of these drugs in […] The post Expensive Pharmaceuticals for Targeted Diseases appeared first on Marginal REVOLUTION .",
-   "published": "2026-11-02T12:16:34+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
-   "title": "Should you feel grief for the dead who go to heaven?",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
-   "summary": "I am not myself religious, but let us consider the possible gulf between behavior and doctrine amongst those who are. It has long struck me as a kind of mini-puzzle why people feel so much grief for the departed, at least for the departed who are supposed to be headed for heaven (and yes there […] The post Should you feel grief for the dead who go to heaven? appeared first on Marginal REVOLUTION .",
-   "published": "2026-11-02T05:24:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable",
-   "title": "As predicted, the ACA exchanges seem not to be stable",
-   "source": "Marginal Revolution",
-   "category": "econ",
-   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable",
-   "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government. Using that data and state figures, […] The post As predicted, the ACA exchanges seem not to be stable appeared first on Marginal REVOLUTION .",
-   "published": "2026-11-01T19:53:38+00:00",
-   "relevance": "low",
-   "topics": []
   }
  ],
  "reports": [
+  {
+   "id": "https://www.gao.gov/products/gao-27-108796",
+   "title": "K-12 Education: Data Show That Less than Half of Students Were Ready for Kindergarten in Selected States",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-108796",
+   "summary": "What GAO Found In general, GAO’s review of 11 studies found that publicly funded preschool programs contribute to children’s readiness for kindergarten in literacy, math, or both. Specifically, 10 studies found positive associations between preschool programs and kindergarten literacy scores, and seven of the studies that assessed math scores also found positive associations with these scores. One study did not find evidence of an effect in either area. These studies also suggest that public preschool programs affect student demographic groups differently. For example, one study found that Eng",
+   "published": "2026-11-12T12:18:17+00:00",
+   "relevance": "low",
+   "topics": []
+  },
+  {
+   "id": "https://www.gao.gov/products/gao-27-109434",
+   "title": "Preparedness Grants: Improved Transparency and Communication Needed",
+   "source": "GAO Reports",
+   "category": "",
+   "url": "https://www.gao.gov/products/gao-27-109434",
+   "summary": "The Federal Emergency Management Agency (FEMA) preparedness grants help the nation potentially prevent acts of terrorism and other threats and prepare for events like the upcoming Summer Olympic Games in 2028. However, FEMA has not always been transparent in how it administers its grants. The Big Picture In the wake of the terrorist attacks on September 11, 2001, FEMA, within the Department of Homeland Security (DHS), implemented a suite of preparedness grants to address terrorist threats. FEMA has 13 preparedness grants totaling $2.9 billion for fiscal year 2026. The grants are designed to he",
+   "published": "2026-11-12T12:11:04+00:00",
+   "relevance": "low",
+   "topics": []
+  },
   {
    "id": "https://www.gao.gov/products/gao-27-106779",
    "title": "401(k) Plan Investments: DOL Can Take Steps to Prepare for Expected Private Equity Growth",
@@ -11167,72 +11228,6 @@
    "url": "https://www.gao.gov/products/gao-26-108533",
    "summary": "What GAO Found Fires on vessels are among the most dangerous and challenging incidents to which firefighters can respond. Vessels may also carry hazardous cargo, like lithium-ion batteries, further complicating marine firefighting responses. According to U.S. Coast Guard data, there were 886 nearshore marine fires that occurred between 2015 and 2025. About one quarter (206) of these resulted in either death, injury, over $200,000 in damage, or a total loss of the vessel. The U.S. Coast Guard is the principal federal agency responsible for overseeing marine safety. For marine firefighting, the ",
    "published": "2026-09-29T11:16:31+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-109197",
-   "title": "Cybersecurity Regulations: Industry Panelists Identify Duplication and Conflicts and Ways to Address Them",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-109197",
-   "summary": "What GAO Found GAO convened a panel discussion to gather industry perspectives on potential duplication or conflict among federal cybersecurity regulations affecting selected critical infrastructure sectors. The industry participants identified multiple federal cybersecurity regulations within their sectors as duplicative or conflicting with other regulations (see figure below). In such cases, participants said it could be difficult to fully satisfy all reporting requirements while remediating cyber threats. Number of Duplicative or Conflicting Federal Cybersecurity Regulations Identified by S",
-   "published": "2026-09-28T11:20:48+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-107448",
-   "title": "Criminal Justice: Data on Noncitizen Incarcerations, Convictions, Removals, and Costs",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-107448",
-   "summary": "What GAO Found The average number of noncitizens incarcerated by the Federal Bureau of Prisons (BOP) each year decreased 44 percent from fiscal year 2017 (approximately 36,300) through fiscal year 2024 (approximately 20,300). This includes noncitizens with lawful immigration status. During this time, noncitizens, as a proportion of all BOP-incarcerated individuals, also decreased. Immigration-related offenses accounted for more than half of the offenses for which BOP-incarcerated noncitizens were convicted; another 30 percent were drug-related. U.S. Immigration and Customs Enforcement removed ",
-   "published": "2026-09-28T11:17:17+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108061",
-   "title": "Firearms Trafficking to Mexico: Better Data and Performance Monitoring Would Help Agencies Direct Resources to Counter Cartels",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108061",
-   "summary": "What GAO Found Transnational criminal organizations (TCO) in Mexico seek to acquire semi-automatic firearms—AR-15s, AK-47s, and .50-caliber rifles—which they often convert to fully automatic firearms, according to agency officials. Armed with these weapons, TCOs pose a serious threat to Mexican law enforcement and military. TCOs acquire firearms from the U.S. primarily through straw purchasers—third parties who buy them on the TCOs’ behalf—and middlemen who smuggle the firearms through ports of entry on the border. U.S. agencies collect data on trafficked firearms, but some data have limitatio",
-   "published": "2026-09-28T11:12:16+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108737",
-   "title": "Nuclear Power: Actions Needed to Improve NRC’s Assessment of Its Workforce Needs",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108737",
-   "summary": "What GAO Found The U.S. Nuclear Regulatory Commission (NRC) has faced longstanding challenges in hiring and retaining adequate staff. NRC officials and most of the stakeholders GAO interviewed stated that increased attrition and industry competition have affected NRC’s workforce more in recent years. GAO found that from July 2024 through June 2026, NRC lost, on net, about 500 staff in various positions, most of which were due to voluntary retirements. This loss of staff has increased concerns about the stability of NRC’s workforce. Total Number of NRC Employees from July 2024 Through June 2026",
-   "published": "2026-09-28T11:10:47+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-107902",
-   "title": "Nonimmigrant Visas: State Should Consistently Conduct Global Staffing Needs Assessments to Help Balance Workloads and Address Long Wait Times",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-107902",
-   "summary": "What GAO Found Visitor visa adjudications, which account for most nonimmigrant visas (NIV), have surpassed pre-COVID numbers. The Department of State adjudicated 9.2 million visitor visas pre-COVID in fiscal year (FY) 2019. That number dropped to 1.5 million in FY 2021. By FY 2025, the number of adjudications surpassed pre-pandemic levels, reaching 11.7 million. The average wait time to obtain an interview for a visitor visa was almost 8 times higher than before the pandemic, increasing from 26 days in FY 2019 to 201 days in FY 2025. In addition, the number of consular officers working on NIVs",
-   "published": "2026-09-28T11:07:28+00:00",
-   "relevance": "low",
-   "topics": []
-  },
-  {
-   "id": "https://www.gao.gov/products/gao-26-108596",
-   "title": "IT Systems Annual Assessment: DOD Should Improve IT Fraud Risk Management Practices",
-   "source": "GAO Reports",
-   "category": "",
-   "url": "https://www.gao.gov/products/gao-26-108596",
-   "summary": "What GAO Found To meet its mission to protect the security of our nation and provide warfighters the assets they need, the Department of Defense (DOD) relies heavily on the use of information technology (IT). According to DOD’s Office of the Chief Information Officer (OCIO), the department planned to spend $10.3 billion on the 18 major IT business programs from fiscal years (FY) 2024 through 2026. The four largest programs account for 50 percent of the planned spending (see figure). The Department of Defense’s (DOD) Planned Costs for the Four Largest Information Technology (IT) Business Progra",
-   "published": "2026-09-28T11:01:02+00:00",
    "relevance": "low",
    "topics": []
   }
